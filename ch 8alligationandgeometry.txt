@@ -1,0 +1,57 @@
+====================================================================
+CHAPTER 8 NOTES: MIXTURE & ALLIGATION, LCM & HCF, MENSURATION 2D & 3D
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 28-31)
+Status: COMPLETED CORE SHORTCUTS (Ready to move to Chapter 9)
+====================================================================
+
+1. CORE SHORTCUTS & FORMULAS
+----------------------------
+A) Mixture & Alligation Cross-Subtraction (Real PDF Q8.1):
+   - Place Cheaper Price on Left, Dearer on Right, Mean Mixture in Center.
+   - Cross-subtract: (Dearer - Mean) : (Mean - Cheaper).
+   - Real PDF Q8.1: Rice ₹48 and ₹60 to get ₹52 -> (60-52) : (52-48) = 8:4 = 2:1.
+   - Practice: ₹10 and ₹20 to get ₹14 -> (20-14) : (14-10) = 6:4 = 3:2.
+
+B) Fundamental LCM & HCF Law (Real PDF Q8.3):
+   - Number1 x Number2 = HCF x LCM.
+   - Real PDF Q8.3: HCF=12, LCM=240, N1=48 -> N2 = (12 x 240)/48 = 60.
+   - Practice: HCF=5, LCM=60, N1=15 -> N2 = (5 x 60)/15 = 20.
+   - Fractional LCM/HCF: LCM of Fractions = LCM(Numerators) / HCF(Denominators).
+
+C) Mensuration 2D — The 7-44-154 Circle Benchmark (Real PDF Q8.6):
+   - Radius r = 7 cm -> Circumference = 44 cm -> Area = 154 cm^2.
+   - If radius doubles (r = 14 cm):
+     Circumference doubles (44 x 2 = 88 cm).
+     Area quadruples (154 x 4 = 616 cm^2).
+
+D) Repeated Dilution Formula (Real PDF Q8.2):
+   - Remaining Pure Liquid = Initial x (1 - x / Capacity)^n.
+   - 60 L milk, 12 L replaced with water twice:
+     Fraction left each time = (1 - 12/60) = 4/5.
+     Remaining milk = 60 x (4/5)^2 = 60 x 16/25 = 38.4 L.
+
+E) Mensuration 3D Recasting (Real PDF Q8.9):
+   - When melting & recasting spheres:
+     Count n = (R_large / r_small)^3.
+     R=6 cm into r=2 cm -> (6/2)^3 = 3^3 = 27 small spheres.
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Core Alligation, LCM/HCF & Mensuration):
+  - Alligation ₹10 & ₹20 for ₹14 -> 3:2 ratio                 [SOLVED RIGHT]
+  - HCF 5, LCM 60, N1 15 -> N2 = 20                           [SOLVED RIGHT - REAL EXAM Q]
+  - Radius 7 circle area -> 154 cm^2                          [Learned 7-44-154 benchmark]
+
+
+3. REMAINING / EXTRA PRACTICE IN CHAPTER 8 (FOR REVISION LATER)
+---------------------------------------------------------------
+[ ] PDF Q8.2: 60 L milk, 12 L replaced twice -> 38.4 L remaining
+[ ] PDF Q8.4: Three bells ring at 9, 12, 15 min -> LCM(9,12,15) = 180 min = 3 hours
+[ ] PDF Q8.5: Rectangle Perimeter 64, L = B + 6 -> L=19, B=13 -> Area = 247 cm^2
+[ ] PDF Q8.6: Circle circumference 88 cm -> Area = 616 cm^2 (7-44-154 scale)
+[ ] PDF Q8.7: Cylinder r=7, h=10 -> Vol = πr^2h = 154 x 10 = 1,540 cm^3
+[ ] PDF Q8.8: Cone r=6, h=8 -> Slant height l=10 (3-4-5 triplet) -> CSA = πrl = 60π
+[ ] PDF Q8.9: Sphere R=6 recast into r=2 -> (6/2)^3 = 27 spheres
+[ ] PDF Q8.10: 100 kg sugar, 10% & 20% profit for 14% mean -> Alligation 6:4 = 3:2 -> at 20% = 40 kg
+====================================================================

@@ -6,9 +6,9 @@
 
 **Candidate:** Hitendrasinh Solanki\
 
-**Last Synchronized:** 2026-11-14 22:51:11\
+**Last Synchronized:** 2026-11-14 22:51:46\
 
-**Total Turns/Steps Recorded:** 88
+**Total Turns/Steps Recorded:** 90
 
 ---
 
@@ -1875,5 +1875,31 @@ Reply with your 3 answers! Then we’ll save Chapter 8 notes and dive straight i
 3:2
 20
 dont know
+
+---
+
+### 🤖 AI Mentor — Step 88 (2026-11-14T17:21:10Z)
+
+**#1 (`3:2`)** ✅ and **#2 (`20`)** ✅ are **100% right!** Excellent work!
+
+---
+
+### Look at #3: Why Radius $7$ gives Area $154$
+
+Remember the formula for area of a circle:
+$$\text{Area} = \pi \times r^2 = \frac{22}{7} \times 7 \times 7$$
+- The $7$ on the bottom cancels out one $7$ on top:
+  $$22 \times 7 = \mathbf{154\text{ cm}^2}$$
+
+That’s why bank examiners use $r = 7$ all the time:
+> **The 3 Magic Numbers for a Circle:**
+> - Radius = **$7$**
+> - Circumference = **$44$**
+> - Area = **$154$**
+*(Just remember $154$—it saves you from doing $22 \times 7$ every single exam!)*
+
+---
+
+Let's save your Chapter 8 notes!
 
 ---
