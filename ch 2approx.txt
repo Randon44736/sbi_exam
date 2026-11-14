@@ -1,0 +1,64 @@
+====================================================================
+CHAPTER 2 NOTES: SIMPLIFICATION & RAPID APPROXIMATION TECHNIQUES
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 5-8)
+Status: COMPLETED CORE SHORTCUTS (Ready to move to Chapter 3)
+====================================================================
+
+1. CORE SHORTCUTS COVERED
+-------------------------
+A) Rounding Rules:
+   - .01 to .49 -> Round DOWN (18.02 -> 18, 14.05 -> 14)
+   - .50 to .99 -> Round UP (19.98 -> 20, 3.99 -> 4, 124.95 -> 125)
+
+B) Essential Benchmark Percentage Swaps:
+   - 50% = 1/2 (Divide by 2)
+   - 25% = 1/4 (Divide by 4)
+   - 20% = 1/5 (Divide by 5)
+   - 10% = 1/10 (Divide by 10)
+   - 37.5% (or 37.49%) = 3/8 (Divide by 8, then multiply by 3)
+   - 66.66% = 2/3 (Divide by 3, then multiply by 2)
+   - 83.33% = 5/6 (Divide by 6, then multiply by 5)
+   - 14.28% = 1/7, 28.57% = 2/7
+
+C) 5-Second Square Root Method (Benchmarks + Unit Digit):
+   - Benchmark Tens: 20^2=400, 30^2=900, 40^2=1600, 50^2=2500, 60^2=3600, 70^2=4900
+   - Last digit matching:
+     * Ends in 4 -> 2 or 8
+     * Ends in 1 -> 1 or 9
+     * Ends in 6 -> 4 or 6
+     * Ends in 9 -> 3 or 7
+     * Ends in 5 -> 5
+   - Example: √1024 -> between 30^2 (900) & 40^2 (1600), ends in 4 -> 32 or 38.
+     Since 1024 is close to 900 -> √1024 = 32.
+   - Example: √1521 -> between 900 & 1600, ends in 1 -> 31 or 39.
+     Since 1521 is very close to 1600 -> √1521 = 39.
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Basic Rounding & Benchmark %):
+  - Round 19.98 & 14.05 -> 20 and 14           [SOLVED RIGHT]
+  - 49.98% of 100.04 + 19.95% of 50.02 = 60    [SOLVED RIGHT]
+  - 15.98 ÷ 3.99 + 9.95 x 2.01 -> 16÷4 + 10x2 = 24 [Learned rewrite method]
+
+Round 2 (Mixed Rounding + Real Prelims Question):
+  - 19.99 ÷ 4.02 + 5.98 x 3.01 = 23            [SOLVED RIGHT]
+  - PDF Q2.9: 124.95 ÷ 4.98 x 11.95 - 199.98 = 100 [SOLVED RIGHT - REAL EXAM Q]
+  - 37.5% of 80 = 30                           [SOLVED RIGHT]
+
+Round 3 (Combining % & Square Roots):
+  - PDF Q2.1: 49.98% of 640.02 + 37.49% of 480.08 = 500 (320 + 180)
+  - PDF Q2.2: √1024.12 ÷ 3.99 + 15.98 x 4.02 = 72 (32 ÷ 4 + 16 x 4)
+
+
+3. REMAINING / EXTRA PRACTICE IN CHAPTER 2 (FOR REVISION LATER)
+---------------------------------------------------------------
+[ ] PDF Q2.3: 83.33% of 719.95 - 66.66% of 450.05 ≈ ? (5/6 x 720 - 2/3 x 450 = 300)
+[ ] PDF Q2.4: 14.28% of 559.8 + 28.57% of 419.9 ≈ ? (1/7 x 560 + 2/7 x 420 = 200)
+[ ] PDF Q2.5: 23.98% of 450.12 + 15.99% of 625.05 ≈ ? (Double-halve: 12% of 900 + 4% of 2500 = 208)
+[ ] PDF Q2.6: (18.02)^2 - (13.98)^2 + √255.95 ≈ ? (324 - 196 + 16 = 144)
+[ ] PDF Q2.7: ∛1331.05 x 4.02 - 18.99 ≈ ? (11 x 4 - 19 = 25)
+[ ] PDF Q2.8: 64.02% of 875.05 ≈ ? (Swap: 87.5% of 640 = 7/8 x 640 = 560)
+[ ] PDF Q2.10: √4489.12 - √1520.95 ≈ ? (67 - 39 = 28)
+====================================================================
+

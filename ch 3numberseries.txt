@@ -1,0 +1,56 @@
+====================================================================
+CHAPTER 3 NOTES: NUMBER SERIES (MISSING & WRONG NUMBER SERIES)
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 9-11)
+Status: COMPLETED CORE PATTERNS (Ready to move to Chapter 4)
+====================================================================
+
+1. CORE PATTERNS & IDENTIFICATION CLUES
+---------------------------------------
+A) Slow Growth -> Addition / Difference Series (+):
+   - Immediately calculate consecutive differences.
+   - Example 1: 10, 18, 26, 34, 42 (+8 constant step)
+   - Example 2 (Doubling difference): 10, 14, 22, 38, 70 (+4, +8, +16, +32)
+
+B) Rapid Growth -> Multiplication Series (x):
+   - Ratio between adjacent numbers is clean integers:
+     4, 8, 24, 96, 480 (x2, x3, x4, x5)
+
+C) Mixed Series -> "Multiply & Add" (x n + k):
+   - Growth is faster than simple addition, but not pure multiplication.
+   - Example: 3, 7, 16, 35, 74 (x2+1, x2+2, x2+3, x2+4)
+
+D) Cubes & Squares Series (n^3 ± k or n^2 ± k):
+   - Key Cubes to spot: 1^3=1, 2^3=8, 3^3=27, 4^3=64, 5^3=125, 6^3=216
+   - Real PDF Q3.10: 2, 9, 28, 65, 126, 217 (Each is n^3 + 1)
+
+E) Wrong Number Series:
+   - Identify the uniform rule across the majority of terms.
+   - The term that produces invalid differences on both its left and right is the wrong number.
+   - Example: 10, 20, 30, 42, 50 -> 42 is wrong (should be 40).
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Basic Difference & Multiplication):
+  - 10, 18, 26, 34, ? -> 42 (+8)                [SOLVED RIGHT]
+  - 4, 8, 24, 96, ? -> 480 (x2, x3, x4, x5)     [SOLVED RIGHT]
+  - 10, 14, 22, 38, ? -> 70 (+4, +8, +16, +32)  [SOLVED RIGHT]
+
+Round 2 (Advanced Exam Patterns):
+  - 3, 7, 16, 35, ? -> 74 (x2 + 4)              [SOLVED RIGHT]
+  - PDF Q3.10: 2, 9, 28, 65, 126, ? -> 217 (6^3+1) [SOLVED RIGHT - REAL EXAM Q]
+  - Wrong Number: 10, 20, 30, 42, 50 -> 42 is wrong [SOLVED RIGHT]
+
+
+3. REMAINING / EXTRA PRACTICE IN CHAPTER 3 (FOR REVISION LATER)
+---------------------------------------------------------------
+[ ] PDF Q3.1: 12, 13, 28, 87, 352, ? (Rule: x n + n -> 352 x 5 + 5 = 1765)
+[ ] PDF Q3.2: 8, 4.5, 5.5, 13, 56, ? (Doubling multiplier: x0.5+0.5, x1+1, x2+2, x4+4, x8+8 = 456)
+[ ] PDF Q3.3: 14, 22, 38, 70, 134, ? (Diff: +8, +16, +32, +64, +128 -> 262)
+[ ] PDF Q3.4: 6, 13, 28, 59, 122, ? (Rule: x2+1, x2+2, x2+3, x2+4, x2+5 = 249)
+[ ] PDF Q3.5: 120, 128, 144, 168, 200, ? (Diff: +8, +16, +24, +32, +40 -> 240)
+[ ] PDF Q3.6: 4, 11, 25, 46, 74, 110 (Diff: 7, 14, 21, 28, 35 -> 110 is wrong, should be 109)
+[ ] PDF Q3.7: 5, 6, 14, 45, 184, 920 (x n + n -> 184 x 5 + 5 = 925, so 920 is wrong)
+[ ] PDF Q3.8: 17, 19, 23, 29, 31, ? (Consecutive prime numbers -> 37)
+[ ] PDF Q3.9: 500, 250, 250, 375, 750, ? (Multipliers: x0.5, x1, x1.5, x2, x2.5 = 1875)
+====================================================================

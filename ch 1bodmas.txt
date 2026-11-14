@@ -1,0 +1,82 @@
+====================================================================
+CHAPTER 1 NOTES: BODMAS, FRACTIONS, DECIMALS & EXACT CALCULATION
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 2-4)
+Status: PARTIALLY COMPLETED (Paused to move ahead; remaining items listed below)
+====================================================================
+
+1. RULES & CONCEPTS COVERED SO FAR
+----------------------------------
+A) VBODMAS Order of Operations:
+   1. B -> Brackets: Solve inside-out: ( ) first, then { }, then [ ]
+   2. O -> Of: Means multiply (x), done right after brackets (before divide)
+   3. D / M -> Divide (÷) and Multiply (x): Go strictly LEFT TO RIGHT!
+      * Trap fixed: 256 ÷ 16 x 4 = (256 ÷ 16) x 4 = 16 x 4 = 64 (NOT 256 ÷ 64)
+   4. A / S -> Add (+) and Subtract (-): Go strictly LEFT TO RIGHT!
+      * Trap fixed (-A + B): In 64 - 36 + 12, do NOT add 36 + 12 = 48.
+        Think of money: Start with 64, spend 36 (= 28), get 12 (= 40).
+
+B) Fractions — "of" (Multiply) vs "+" / "-" (Add / Subtract):
+   - When you see "of" or "x":
+     * NEVER cross-multiply!
+     * Cancel matching numbers from top & bottom first, then multiply straight across.
+     * Example: (1/3) of (3/4) of 40 -> cancel 3 with 3 -> (1/4) x 40 = 10.
+     * Trap fixed (PDF Q1.7): (1/2) of (1/3) = (1/2) x (1/3) = 1/6 (NOT 1/2 + 1/3 = 5/6).
+   - When you see "+" or "-":
+     * Top: Cross-multiply.
+     * Bottom: MULTIPLY the bottom numbers (never add bottoms!).
+     * Example: 1/2 + 1/3 = (3 + 2) / (2 x 3) = 5/6.
+     * Example: 1/2 - 1/3 = (3 - 2) / (2 x 3) = 1/6.
+
+C) Mixed Fractions (Whole + Fraction):
+   - 4 1/5 means 4 + 1/5 (write with a space, not *).
+   - Add whole numbers and fractions separately: 4 1/5 + 2 2/5 = 6 3/5.
+   - Whole number minus mixed fraction (e.g., 10 - 2 1/3):
+     1. Subtract 1 extra from whole: 10 - (2 + 1) = 7
+     2. Fraction = (bottom - top) / bottom = (3 - 1)/3 = 2/3 -> Answer: 7 2/3.
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Basic BODMAS):
+  - 12 + 3 x 5 = 27                     [SOLVED RIGHT]
+  - 24 ÷ 4 x 3 = 18                     [SOLVED RIGHT]
+  - 10 + (15 - 5 x 2) = 15              [SOLVED RIGHT]
+
+Round 2 (Brackets & Left-to-Right):
+  - 30 - [15 - (4 + 6)] = 25            [SOLVED RIGHT]
+  - PDF Q1.5: 256 ÷ 16 x 4 - 36 + 12    [Got 64 right; learned -36 + 12 = -24 -> 40]
+  - PDF Q1.1: 180 ÷ 4 x 5 + (72 - 18 x 3) of 2 = 261  [Walked through step-by-step]
+
+Round 3 (-A + B & "of"):
+  - 50 - 20 + 10 = 40                   [SOLVED RIGHT]
+  - 100 ÷ 5 x 2 - 15 + 5 = 30           [SOLVED RIGHT]
+  - 40 ÷ 4 x 3 + (20 - 4 x 3) of 2      [Got 38; missed "of 2" -> corrected to 46]
+
+Round 4 (Brackets + "of" + Same-Bottom Mixed Fractions):
+  - 20 ÷ 2 x 3 + (15 - 3 x 4) of 2 = 36 [SOLVED RIGHT]
+  - (1/3) of (3/4) of 40 = 10           [Learned not to cross-multiply on "of"]
+  - 4 1/5 + 2 2/5 = 6 3/5               [SOLVED RIGHT]
+
+Round 5 (Fraction "of" Cancellation & Cross-Multiply):
+  - (1/2) of (2/5) of 50 = 10           [SOLVED RIGHT]
+  - (2/3) of (3/5) of 25 = 10           [SOLVED RIGHT]
+  - 1/2 + 1/3 = 5/6                     [Learned to multiply bottoms 2x3=6, not add]
+
+Round 6 (Fraction + / - & PDF Q1.7):
+  - 1/3 + 1/4 = 7/12                    [SOLVED RIGHT]
+  - 1/2 - 1/5 = 3/10                    [SOLVED RIGHT]
+  - PDF Q1.7: 5/8 of 4/9 of 3/5 of 720  [Got 600 using 5/6; corrected to 1/6 x 720 = 120]
+
+
+3. REMAINING / PENDING IN CHAPTER 1 (TO COMPLETE LATER)
+-------------------------------------------------------
+[ ] Practice 15 - 3 1/4 = ? (Answer: 11 3/4)
+[ ] PDF Q1.3: 3 1/3 + 4 2/5 - 2 1/2 = ? (Different-bottom mixed fractions)
+[ ] PDF Q1.8: 115 - [64 ÷ {18 - (14 - 8)}] = ? (Nested brackets + whole minus mixed)
+[ ] PDF Q1.2: 45.6 ÷ [12.5 - (3.8 + 1.7)] = ? (Decimals to exact fraction)
+[ ] PDF Q1.4: 48% of 650 + 72% of 450 = ? (Double & Halve trick)
+[ ] PDF Q1.6: (14.4 x 2.5) ÷ 0.6 + 18.5 = ? (Decimal division & multiplication)
+[ ] PDF Q1.9: 0.04 x 0.025 x 1000 ÷ 0.05 = ? (Decimal place shifting)
+[ ] PDF Q1.10: 12^2 + 14^2 - 13^2 = ? (Squares & a^2 - b^2 shortcut)
+====================================================================
+

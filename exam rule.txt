@@ -1,0 +1,10 @@
+bodmos rule
+
+B — Brackets ( ) → Always solve inside ( ) first.
+O — Of → Means × (multiply), solve right after brackets.
+D — Divide ÷ & M — Multiply × → Solve these next, moving left to right.
+A — Add + & S — Subtract − → Solve these at the very end.
+
+first bracket 
+then divide , multiply
+add and subtract
