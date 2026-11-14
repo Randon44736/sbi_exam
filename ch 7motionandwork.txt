@@ -1,0 +1,61 @@
+====================================================================
+CHAPTER 7 NOTES: TIME & WORK, PIPES, SPEED, DISTANCE, TRAINS & BOATS
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 24-27)
+Status: COMPLETED CORE MODELS (Ready to move to Chapter 8)
+====================================================================
+
+1. CORE MODELS & FORMULAS
+-------------------------
+A) Time & Work LCM Unit Method (Real PDF Q7.1):
+   - Total Work = LCM of individual times (think of it as total units/chocolates).
+   - Daily rate (Efficiency) = Total Work / Days.
+   - Combined rate = Add efficiencies.
+   - Real PDF Q7.1: A takes 12 days, B takes 18 days -> LCM = 36 units.
+     A = 3 units/day, B = 2 units/day -> Together = 5 units/day.
+     4 days together = 20 units done. Remaining 16 units done by B in 16/2 = 8 days!
+
+B) Speed Conversion km/h to m/s (Real PDF Q7.3):
+   - Multiply by 5/18:
+     * 18 km/h = 5 m/s
+     * 36 km/h = 10 m/s
+     * 54 km/h = 15 m/s
+     * 72 km/h = 20 m/s
+   - Train crossing platform: Total Distance = Train Length + Platform Length.
+   - Real PDF Q7.3: Train 180m at 54 km/h (15 m/s) in 24 s -> Dist = 15 x 24 = 360m.
+     Platform = 360 - 180 = 180m.
+
+C) Boats & Streams (River Flow) (Real PDF Q7.4):
+   - Downstream D = Boat + Stream (u + v)
+   - Upstream U = Boat - Stream (u - v)
+   - Boat speed in still water: u = (D + U) / 2
+   - Stream speed: v = (D - U) / 2
+   - Real PDF Q7.4: D = 36/3 = 12 km/h, U = 24/4 = 6 km/h -> Stream = (12 - 6)/2 = 3 km/h.
+
+D) Pipes & Cisterns (Inlet vs Outlet) (Real PDF Q7.2):
+   - Inlet pipe = Positive efficiency (+)
+   - Emptying / Leak pipe = Negative efficiency (-)
+   - Capacity = LCM of hours.
+
+E) Alternate Days Working (Real PDF Q7.10):
+   - Group days into complete cycles (e.g. 2-day cycle for A + B).
+   - Multiply cycles to find total time.
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Core Motion & Work Models):
+  - 20 units work at 5 units/day -> 4 days                     [SOLVED RIGHT]
+  - 72 km/h to m/s -> 20 m/s                                   [SOLVED RIGHT]
+  - D = 12 km/h, U = 6 km/h -> Stream speed v = 3 km/h         [SOLVED RIGHT - REAL EXAM Q]
+
+
+3. REMAINING / EXTRA PRACTICE IN CHAPTER 7 (FOR REVISION LATER)
+---------------------------------------------------------------
+[ ] PDF Q7.2: Pipe A 15h, B 20h, C empties 30h -> LCM 60 -> net +5 -> 12 hours
+[ ] PDF Q7.5: 12 men in 16 days -> 8 men in (12x16)/8 = 24 days (M1D1 = M2D2)
+[ ] PDF Q7.6: Two trains 120m & 180m opposite at 40 & 32 km/h (72 km/h = 20 m/s) -> 300/20 = 15 s
+[ ] PDF Q7.7: Round-trip boat distance formula: d = T x (B^2 - S^2)/(2B) = 12 km
+[ ] PDF Q7.8: Leak empties in 8h, inlet 4 L/min, empties together in 12h -> Capacity = 5,760 L
+[ ] PDF Q7.9: Walking at 3/4 speed, 15 min late -> Usual time = 3 x 15 = 45 min
+[ ] PDF Q7.10: A (10 days) & B (15 days) alternate days starting with A -> 12 days
+====================================================================

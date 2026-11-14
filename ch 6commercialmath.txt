@@ -1,0 +1,52 @@
+====================================================================
+CHAPTER 6 NOTES: PROFIT, LOSS, DISCOUNT, SIMPLE & COMPOUND INTEREST
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 20-23)
+Status: COMPLETED CORE SHORTCUTS (Ready to move to Chapter 7)
+====================================================================
+
+1. CORE SHORTCUTS & COMMERCIAL FORMULAS
+---------------------------------------
+A) Loss-to-Profit Jump (Real PDF Q6.1):
+   - When shifting from -Loss% to +Profit%, ADD the two percentages to find the total gap!
+   - Real PDF Q6.1: 15% loss to 15% profit = 30% gap = ₹450.
+     1% = 15 -> CP (100%) = ₹1,500.
+   - Practice: 10% loss to 10% profit = 20% gap = ₹200 -> CP = ₹1,000.
+
+B) Equal Cost Price (CP) Trap (Real PDF Q6.9):
+   - If two items are BOUGHT (CP equal) for the same price:
+     One sold at +x% profit, one at -x% loss -> OVERALL IS ALWAYS NO PROFIT, NO LOSS (₹0)!
+   - (Note: The -x^2/100% loss rule applies ONLY when two items are SOLD for the same SP!).
+
+C) Compound Interest (CI) Doubling Trick (Real PDF Q6.4):
+   - In CI, money multiplies by powers: 1 -> 2 (T yrs) -> 4 (2T yrs) -> 8 (3T yrs).
+   - If money doubles (2^1) in T years, to become 8 times (2^3), time = 3 x T.
+   - Real PDF Q6.4: Doubles in 4 yrs -> becomes 8 times (2^3) in 3 x 4 = 12 years.
+   - Practice: Doubles in 5 yrs -> becomes 4 times (2^2) in 2 x 5 = 10 years.
+
+D) 2-Year CI vs SI Difference Formula (Real PDF Q6.3):
+   - Diff = P x (R / 100)^2 (Valid strictly for 2 years).
+   - Or R = 100 x √(Diff / P).
+
+E) Successive Discount (Real PDF Q6.7):
+   - Single equivalent discount = d1 + d2 - (d1 x d2) / 100.
+   - For 20% and 10%: 20 + 10 - 200/100 = 30 - 2 = 28%.
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Core Commercial Shortcuts):
+  - 10% loss to 10% profit gap ₹200 -> CP = ₹1,000            [SOLVED RIGHT]
+  - Equal CP with +15% and -15% -> No profit, no loss         [SOLVED RIGHT - BEAT THE TRAP]
+  - CI: Doubles in 5 yrs -> 4 times in 2 x 5 = 10 yrs         [SOLVED RIGHT - REAL EXAM Q]
+
+
+3. REMAINING / EXTRA PRACTICE IN CHAPTER 6 (FOR REVISION LATER)
+---------------------------------------------------------------
+[ ] PDF Q6.2: Mark up 40%, Discount 20% -> Net profit = +40 - 20 - 8 = 12%
+[ ] PDF Q6.3: Diff between CI & SI for 2 yrs on ₹15,000 is ₹96 -> R = 8%
+[ ] PDF Q6.5: ₹8,000 gives ₹2,400 SI in 3 yrs -> 1 yr SI = ₹800 -> R = 10%
+[ ] PDF Q6.6: Dishonest dealer 900 gm instead of 1 kg -> 100/900 = 11 1/9%
+[ ] PDF Q6.7: Successive discounts 20% and 10% -> 28%
+[ ] PDF Q6.8: SI in 5 yrs is 2/5 of P -> Rate = 40%/5 = 8%
+[ ] PDF Q6.10: ₹2,000 becomes ₹2,420 in 2 yrs CI -> 100:121 -> √100:√121 = 10:11 -> 10%
+====================================================================

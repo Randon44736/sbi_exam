@@ -1,0 +1,60 @@
+====================================================================
+CHAPTER 5 NOTES: PERCENTAGE, RATIO, AVERAGE, AGES & PARTNERSHIP
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 16-19)
+Status: COMPLETED CORE SHORTCUTS (Ready to move to Chapter 6)
+====================================================================
+
+1. CORE SHORTCUTS & ARITHMETIC RULES
+------------------------------------
+A) Ratio-Unit Trick for Ages (Real PDF Q5.4):
+   - Age difference NEVER changes with time.
+   - Present ratio 4:5 -> 6 years later 5:6 (+1 unit each side in 6 yrs).
+   - 1 unit = 6 years -> A's present age = 4 x 6 = 24 years.
+   - Practice: 3:4 -> 5 yrs later 4:5 -> 1 unit = 5 yrs -> P = 3 x 5 = 15 yrs.
+
+B) Ratio Sharing for Money / Profit (Real PDF Q5.5):
+   - Add total ratio units -> divide total money to get value of 1 unit.
+   - Example: ₹400 in 1:3 -> 4 units = 400 -> 1 unit = 100 -> B gets 3 x 100 = 300.
+   - Profit sharing rule: Ratio of Profit = (Investment1 x Time1) : (Investment2 x Time2).
+
+C) Price-Consumption Fraction Ladder (Real PDF Q5.1):
+   - If price increases by +1/n, consumption must reduce by -1/(n+1) to keep expenditure constant.
+   - Price rises by 25% (+1/4) -> Consumption falls by 1/(4+1) = 1/5 = 20%.
+
+D) New Member Average Shift (Real PDF Q5.3):
+   - New Member Weight/Age = Old Average + (New Total Count x Increase in Average).
+   - Real PDF Q5.3: 24 students avg 45 kg, teacher added (+1 kg) -> 45 + (25 x 1) = 70 kg.
+   - Practice: 9 students avg 15 yrs, teacher added (+1 yr) -> 15 + (10 x 1) = 25 yrs.
+
+E) Successive % Change (+x% then -x%) (Real PDF Q5.8):
+   - Net change is ALWAYS a loss of -(x^2 / 100)%.
+   - +10% then -10% = -(100/100)% = -1% loss -> Final = 99% of original.
+   - 99% = 99,000 -> 1% = 1,000 -> 100% = 100,000.
+
+F) Consecutive Numbers Average (Real PDF Q5.6):
+   - In any arithmetic progression (consecutive numbers/odds/evens), Average = EXACT MIDDLE NUMBER!
+   - Example: 5 consecutive numbers with avg 10 -> Middle is 10 -> 8, 9, 10, 11, 12.
+   - Real PDF Q5.6: 5 consecutive odd numbers avg 27 -> Middle is 27 -> 23, 25, 27, 29, 31.
+     Product of 1st & 5th = 23 x 31 = 27^2 - 4^2 = 729 - 16 = 713.
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Ages, Money Ratio & Fraction Ladder):
+  - Age ratio 3:4 -> 4:5 in 5 yrs -> P = 15 years           [SOLVED RIGHT]
+  - ₹400 in 1:3 ratio -> B gets ₹300                         [SOLVED RIGHT]
+  - Price +25% (+1/4) -> Usage reduction -1/5 = 20%          [SOLVED RIGHT - REAL EXAM Q]
+
+Round 2 (Average Shift, Successive % & Middle Number):
+  - Teacher age: 15 + (10 x 1) = 25 years                    [SOLVED RIGHT]
+  - 99% = 99,000 -> 100% = 100,000                           [Learned 1% = 1,000 logic]
+  - 5 consecutive numbers avg 10 -> 8, 9, 10, 11, 12         [SOLVED RIGHT]
+
+
+3. REMAINING / EXTRA PRACTICE IN CHAPTER 5 (FOR REVISION LATER)
+---------------------------------------------------------------
+[ ] PDF Q5.2: Incomes 5:4, Exps 3:2, save ₹6,000 -> Income A = ₹15,000
+[ ] PDF Q5.7: A:B = 2:3, B:C = 4:5 -> A:B:C = 8:12:15 (Reverse-N method)
+[ ] PDF Q5.9: Father & Son age 4 yrs ago (4:1) and 6 yrs hence (5:2) -> Son = 14 yrs
+[ ] PDF Q5.10: Partnership with 10% managing fee + 2:3:5 share of rest = ₹28,000
+====================================================================

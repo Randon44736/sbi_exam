@@ -1,0 +1,10 @@
+# Local auto-sync daemon logs
+conversation_history/*.log
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local IDE files
+.vscode/
