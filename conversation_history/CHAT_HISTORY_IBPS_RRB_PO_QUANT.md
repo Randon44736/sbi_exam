@@ -6,9 +6,9 @@
 
 **Candidate:** Hitendrasinh Solanki\
 
-**Last Synchronized:** 2026-11-14 22:51:46\
+**Last Synchronized:** 2026-11-14 22:52:05\
 
-**Total Turns/Steps Recorded:** 90
+**Total Turns/Steps Recorded:** 91
 
 ---
 
@@ -1901,5 +1901,76 @@ That’s why bank examiners use $r = 7$ all the time:
 ---
 
 Let's save your Chapter 8 notes!
+
+---
+
+### 🤖 AI Mentor — Step 90 (2026-11-14T17:21:35Z)
+
+Chapter 8 notes are saved in:
+📄 [ch 8alligationandgeometry.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/ch%208alligationandgeometry.txt)
+
+---
+
+## Chapter 9: Data Interpretation (DI)
+*(Booklet pages 32–42 — 10 to 15 Questions in your Exam!)*
+
+Data Interpretation looks big and scary, but **every single DI set asks the exact same 4 question types**:
+1. **Ratio:** Drop trailing zeros and reduce!
+2. **"What percent of":** $\frac{\text{Numerator}}{\text{Denominator}} \times 100$
+3. **"What percent MORE/LESS than":**
+   $$\frac{\text{Difference}}{\text{Value after "than"}} \times 100$$
+4. **Average:** Add the numbers $\div$ count.
+
+---
+
+### Let's Look at Set 1: Tabular DI (Real PDF Page 32)
+
+Here is the exact bank branch table from your booklet:
+
+| Branch | Savings Accounts | Current Accounts | Total Accounts |
+| :--- | :---: | :---: | :---: |
+| **Ahmedabad** | 1,200 | 800 | 2,000 |
+| **Surat** | 1,500 | 900 | 2,400 |
+| **Vadodara** | 900 | 600 | 1,500 |
+| **Rajkot** | 1,100 | 700 | 1,800 |
+| **Gandhinagar**| 800 | 400 | 1,200 |
+
+---
+
+### The 3 Speed Rules for DI
+
+- **Rule 1: Drop Zeros Instantly (Real PDF Q9.1)**
+  - *Question:* Find the ratio of **Savings accounts in Surat** to **Current accounts in Ahmedabad**.
+  - Surat Savings $= 1,500$
+  - Ahmedabad Current $= 800$
+  - Just drop the two zeros immediately: **$15 : 8$**! (Done in 2 seconds!)
+
+- **Rule 2: "Percent More than" Trap (Real PDF Q9.4)**
+  - *Question:* Total accounts in Surat ($2,400$) are what percent more than Gandhinagar ($1,200$)?
+  - Step 1: Find Difference $= 2,400 - 1,200 = \mathbf{1,200}$
+  - Step 2: The number after "than" is Gandhinagar ($1,200$).
+  - Step 3: $\frac{1,200}{1,200} \times 100 = \mathbf{100\%}$ more!
+  - *(Trap: Putting $2,400$ on the bottom gives $50\%$, which is the wrong option! Always put the "than" number on the bottom!)*
+
+- **Rule 3: Fast Average**
+  - Add in clean chunks of 1000s or 100s.
+
+---
+
+### Your Turn! (3 Real Questions on this Table)
+
+1. **Ratio (Real PDF Q9.1):**
+   - Find the ratio of **Current accounts in Vadodara (600)** to **Current accounts in Ahmedabad (800)**.
+   *(Drop zeros: $6 : 8 \rightarrow$ simplify by dividing by 2!)*
+
+2. **Total Accounts:**
+   - What is the sum of **Total Accounts** in Ahmedabad ($2,000$) and Gandhinagar ($1,200$)?
+
+3. **Percent Calculation:**
+   - Gandhinagar has **$400$ Current accounts** out of **$1,200$ Total accounts**.
+   - What fraction is that: $\frac{400}{1,200} = \frac{1}{?}$
+     *(Hint: Drop zeros $\rightarrow \frac{4}{12} = \frac{1}{3} = \mathbf{33.33\%}$!)*
+
+Reply with your 3 answers! Then we will look at Pie & Line charts, save DI notes, and jump into **Chapter 10: Quantity Comparison & Data Sufficiency**!
 
 ---
