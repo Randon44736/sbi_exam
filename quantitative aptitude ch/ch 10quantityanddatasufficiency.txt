@@ -1,0 +1,53 @@
+====================================================================
+CHAPTER 10 NOTES: QUANTITY COMPARISON & DATA SUFFICIENCY
+Booklet: IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf (Pages 43-48)
+Status: COMPLETED CORE LOGIC (All 10 Quant Chapters Completed!)
+====================================================================
+
+1. CORE STRATEGY & DECISION RULES
+---------------------------------
+A) Quantity Comparison (Q1 vs Q2):
+   - Calculate Quantity I and Quantity II independently.
+   - Compare directly: Q1 > Q2, Q1 < Q2, Q1 >= Q2, Q1 <= Q2, or Q1 = Q2 (or CND).
+   - Real PDF Q10.4:
+     Quantity I: Area of circle r=7 cm -> 154 cm^2 (7-44-154 rule).
+     Quantity II: Area of square side=12 cm -> 12^2 = 144 cm^2.
+     154 > 144 -> Quantity I > Quantity II.
+
+B) Data Sufficiency (DS) Golden Rule:
+   - NEVER calculate the final numerical value unless strictly necessary to test uniqueness!
+   - Ask only: "Do I have sufficient, unambiguous data to determine ONE unique answer?"
+   - The 5 Standard Exam Options:
+     [A] Statement I alone is sufficient, but II alone is not.
+     [B] Statement II alone is sufficient, but I alone is not.
+     [C] Both statements TOGETHER are sufficient, but neither alone suffices.
+     [D] EITHER statement alone is sufficient independently.
+     [E] Both statements together are STILL insufficient.
+
+C) Standard DS Exam Traps:
+   - Real PDF Q10.6: Two-digit number N. Sum of digits = 9, difference on reversing = 27 (|a-b|=3).
+     Gives BOTH 63 and 36! Since no statement says which digit is larger, N is NOT unique -> [E] Insufficient!
+   - Real PDF Q10.7: A completes work in 15 days (I alone lacks B). B is 50% more efficient than A (II alone lacks days).
+     Together (I + II) -> Total days can be found uniquely -> [C] Both together sufficient!
+   - Real PDF Q10.8: Train crosses pole in 9s (L = 9v), platform 200m in 19s (L + 200 = 19v).
+     Two linear equations in two variables (L, v) -> [C] Both together sufficient!
+
+
+2. PRACTICE HISTORY (SOLVED & VERIFIED)
+---------------------------------------
+Round 1 (Core Concepts):
+  - Q1 (Circle r=7: 154) vs Q2 (Square s=12: 144) -> Q1 > Q2      [SOLVED RIGHT - REAL EXAM Q]
+  - DS: Ram age (I: Ram is 5 yrs older than Shyam; II: Shyam is 20) -> Both together sufficient [C] [SOLVED RIGHT]
+
+
+3. REMAINING / EXTRA PRACTICE IN CHAPTER 10 (FOR REVISION LATER)
+----------------------------------------------------------------
+[ ] PDF Q10.1: Q1: CP at 20% profit on ₹720 (600); Q2: CP at 25% profit on ₹750 (600) -> Q1 = Q2
+[ ] PDF Q10.2: Q1: 48 km downstream at (10+2=12) -> 4h; Q2: 32 km upstream at (12-4=8) -> 4h -> Q1 = Q2
+[ ] PDF Q10.3: Q1: SI on ₹5,000 at 10% 3 yrs (1,500); Q2: CI on ₹4,000 at 20% 2 yrs (1,760) -> Q1 < Q2
+[ ] PDF Q10.5: Q1: Roots of x^2-13x+40=0 (5, 8); Q2: Roots of y^2-17y+72=0 (8, 9) -> Q1 <= Q2
+[ ] PDF Q10.6: Two-digit number sum 9 and reverse diff 27 -> [E] Both insufficient (36 or 63)
+[ ] PDF Q10.8: Length of train T crossing pole (9s) and 200m platform (19s) -> [C] Both together
+[ ] PDF Q10.9: Q1: Train speed 150m + 150m in 15s (72 km/h); Q2: Car 144 km in 2h (72 km/h) -> Q1 = Q2
+[ ] PDF Q10.10: Principal in CI (I: Amt after 2 yrs ₹14,520 at 10%; II: CI ₹2,520) -> [A] I alone sufficient
+====================================================================
