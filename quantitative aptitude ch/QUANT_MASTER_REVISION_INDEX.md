@@ -20,7 +20,7 @@
 | **Ch 9** | Data Interpretation (Table, Bar, Pie, Line, Caselet, Missing) | [ch 9datainterpretation.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%209datainterpretation.txt) | ✅ 30/30 Questions Solved (All 6 Complete DI Sets) |
 | **Ch 10**| Quantity Comparison (Q1 vs Q2) & Data Sufficiency | [ch 10quantityanddatasufficiency.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%2010quantityanddatasufficiency.txt) | ✅ 10/10 Questions Solved (Q1 vs Q2 & DS Unique Testing) |
 | **Ch 11**| Number System (Divisibility, Primes, Factors, Factorials) | [ch 11numbersystem.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%2011numbersystem.txt) | ✅ 20 Questions Solved (5 Easy + 10 Moderate + 5 PYQ Models + Special Intuition Guide) |
-| **Ch 12**| Advanced Number Series & Two-Series Patterns | [ch 12advancednumberseries.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%2012advancednumberseries.txt) | ✅ 15/15 Solved (Easy 5/5 + Moderate 10/10) -> Ready for Difficult / PYQs |
+| **Ch 12**| Advanced Number Series & Two-Series Patterns | [ch 12advancednumberseries.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%2012advancednumberseries.txt) | ✅ 20/20 Solved (Easy 5/5 + Moderate 10/10 + PYQs 5/5) — 100% Exam Ready! |
 | **Ch 20**| Permutation, Combination & Probability | [ch 20probabilityandpermutations.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%2020probabilityandpermutations.txt) | ✅ 10/10 Questions Solved (Fast nCr, Cards, Coins, Dice & Vowels) |
 
 ---
