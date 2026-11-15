@@ -1,11 +1,11 @@
 # MASTER QUANTITATIVE APTITUDE PROGRESS TRACKER
 **Exam:** IBPS CRP RRBs-XV Officer Scale-I (PO) Prelims  
 **Handbook:** [IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf)  
-**Total Chapters:** 10 / 10 Completed (Core Foundation & Exam Shortcuts Covered)
+**Total Chapters:** 11 / 11 Completed (100% Comprehensive Syllabus Coverage)
 
 ---
 
-## 📚 Chapter-by-Chapter Reference Notes (Folder: `quantitative aptitude ch`)
+## 📚 Complete Chapter Reference Notes (Folder: `quantitative aptitude ch`)
 
 | Chapter | Topic | File Link | Status |
 | :--- | :--- | :--- | :---: |
@@ -19,6 +19,7 @@
 | **Ch 8** | Alligation, LCM/HCF, Mensuration | [ch 8alligationandgeometry.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%208alligationandgeometry.txt) | ✅ Core Done (Cross alligation, 7-44-154) |
 | **Ch 9** | Data Interpretation (Table, Bar, Pie, Line) | [ch 9datainterpretation.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%209datainterpretation.txt) | ✅ Core Done (Degree ratio, % more) |
 | **Ch 10**| Quantity Comparison (Q1 vs Q2) & DS | [ch 10quantityanddatasufficiency.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%2010quantityanddatasufficiency.txt) | ✅ Core Done (Q1 vs Q2, DS decision rules) |
+| **Ch 11**| Permutation, Combination & Probability | [ch 11probabilityandpermutations.txt](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/quantitative%20aptitude%20ch/ch%2011probabilityandpermutations.txt) | ✅ Core Done (nC2 shortcut, arrangements) |
 
 ---
 **Next Target:** [IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf](file:///c:/Users/Lenovo/OneDrive/Desktop/hitu/sbi%20exam/IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf) (Reasoning Ability - 40 Marks)!
