@@ -48,14 +48,164 @@ Round 1 (Core Motion & Work Models):
   - 72 km/h to m/s -> 20 m/s                                   [SOLVED RIGHT]
   - D = 12 km/h, U = 6 km/h -> Stream speed v = 3 km/h         [SOLVED RIGHT - REAL EXAM Q]
 
+----------------------------------------------------------------------------------------
+SECTION 3: COMPLETE MASTER QUESTION BANK (10 QUESTIONS SOLVED & VERIFIED)
+Every question includes Step-by-Step Math, 10-Second Speed Shortcuts & Exam Traps!
+----------------------------------------------------------------------------------------
 
-3. REMAINING / EXTRA PRACTICE IN CHAPTER 7 (FOR REVISION LATER)
----------------------------------------------------------------
-[ ] PDF Q7.2: Pipe A 15h, B 20h, C empties 30h -> LCM 60 -> net +5 -> 12 hours
-[ ] PDF Q7.5: 12 men in 16 days -> 8 men in (12x16)/8 = 24 days (M1D1 = M2D2)
-[ ] PDF Q7.6: Two trains 120m & 180m opposite at 40 & 32 km/h (72 km/h = 20 m/s) -> 300/20 = 15 s
-[ ] PDF Q7.7: Round-trip boat distance formula: d = T x (B^2 - S^2)/(2B) = 12 km
-[ ] PDF Q7.8: Leak empties in 8h, inlet 4 L/min, empties together in 12h -> Capacity = 5,760 L
-[ ] PDF Q7.9: Walking at 3/4 speed, 15 min late -> Usual time = 3 x 15 = 45 min
-[ ] PDF Q7.10: A (10 days) & B (15 days) alternate days starting with A -> 12 days
-====================================================================
+[Q7.1: A can complete a work in 12 days and B in 18 days. They work together for 4 days, then A leaves. In how many]
+   days will B finish the remaining work?
+   ગુજરાતી: A એક કામ 12 દિવસમાં અને B 18 દિવસમાં કરે છે. બંને સાથે 4 દિવસ કામ કરે છે અને પછી A છોડી દે છે. બાકીનું કામ B
+   કેટલા દિવસમાં પૂરું કરશે?
+   [A] 8 days  |  [B] 10 days  |  [C] 6 days  |  [D] 9 days  |  [E] 7 days
+   Answer / જવાબ: [A] 8 days
+   Step-by-Step (EN): Take Total Work = LCM(12, 18) = 36 units. Daily efficiency: A = 36/12 = 3, B = 36/18 = 2. Together
+   (A+B) = 5 units/day. In 4 days = 4 × 5 = 20 units done. Remaining = 36 − 20 = 16 units. Time for B = 16 ÷ 2 = 8 days.
+   પદ્ધતિસર સમજૂતી (GU): કુલ કામ = લ.સા.અ.(12, 18) = 36 યુનિટ. દૈનિક કાર્યક્ષમતા: A = 3, B = 2 → સાથે = 5 યુનિટ/દિવસ. 4
+   દિવસનું કામ = 20 યુનિટ. બાકી કામ = 36 − 20 = 16 યુનિટ. B ને લાગતો સમય = 16 ÷ 2 = 8 દિવસ.
+   Easy Shortcut (EN): Total = 36; 4 days × 5 = 20 done; 16 left ÷ B(2) = 8 days.
+   સરળ શોર્ટકટ (GU): કુલ 36 યુનિટમાંથી 20 થઈ ગયા, બાકી 16 યુનિટ B (ક્ષમતા 2) 8 દિવસમાં કરશે.
+   Common Exam Trap (સામાન્ય ભૂલ): પ્રશ્ન 'બાકીનું કામ પૂરું થતાં લાગતો સમય' (8 દિવસ) પૂછે છે કે 'કુલ સમય' (12 દિવસ) તે ખાસ
+   વાંચવું.
+
+[Q7.2: Pipe A fills a tank in 15 hours, Pipe B fills it in 20 hours, and Pipe C empties it in 30 hours. If all three are opened]
+   together, how long will it take to fill the tank?
+   ગુજરાતી: નળ A ટાંકી 15 કલાકમાં ભરે છે, B 20 કલાકમાં ભરે છે અને C 30 કલાકમાં ખાલી કરે છે. ત્રણેય સાથે ખોલવામાં આવે તો ટાંકી
+   કેટલા સમયમાં ભરાશે?
+   [A] 12 hours  |  [B] 14 hours  |  [C] 10 hours  |  [D] 15 hours  |  [E] 16 hours
+   Answer / જવાબ: [A] 12 hours
+   Step-by-Step (EN): Capacity = LCM(15, 20, 30) = 60 units. Hourly rates: A = +4, B = +3, C = −2 (emptying). Net rate =
+   4 + 3 − 2 = +5 units/hour. Time = 60 ÷ 5 = 12 hours.
+   પદ્ધતિસર સમજૂતી (GU): ટાંકીની ક્ષમતા = લ.સા.અ.(15, 20, 30) = 60 યુનિટ. કલાક દીઠ દર: A = +4, B = +3, C = −2 (ખાલી
+   કરનાર). ચોખ્ખો દર = 4 + 3 − 2 = +5 યુનિટ/કલાક. સમય = 60 ÷ 5 = 12 કલાક.
+   Easy Shortcut (EN): LCM = 60; net flow = 4 + 3 − 2 = 5 → 60/5 = 12 hours.
+   સરળ શોર્ટકટ (GU): A(+4) + B(+3) − C(−2) = +5 યુનિટ/કલાક → 60 ÷ 5 = 12 કલાક.
+   Common Exam Trap (સામાન્ય ભૂલ): ખાલી કરનાર નળ C ને પણ (+2) ઉમેરી 60 ÷ 9 કરી દેવાની ભૂલ ન કરવી; ખાલી કરનાર
+   હંમેશા ઋણ (minus) લેવો.
+
+[Q7.3: A train 180 m long running at 54 km/h crosses a platform in 24 seconds. Find the length of the platform.]
+   ગુજરાતી: 54 કિમી/કલાકની ઝડપે દોડતી 180 મીટર લાંબી ટ્રેેન એક પ્લેટફોર્મને 24 સેકન્ડમાં પસાર કરે છે. પ્લેટફોર્મની લંબાઈ શોધો.
+   [A] 180 m  |  [B] 200 m  |  [C] 160 m  |  [D] 220 m  |  [E] 150 m
+   Answer / જવાબ: [A] 180 m
+   Step-by-Step (EN): Convert speed to m/s: 54 × (5/18) = 15 m/s. Total distance covered in 24 s = 15 × 24 = 360 m.
+   Since Distance = Train + Platform, Platform = 360 − 180 = 180 m.
+   પદ્ધતિસર સમજૂતી (GU): ઝડપ મીટર/સેકન્ડમાં: 54 × 5/18 = 15 મી/સે. 24 સેકન્ડમાં કાપેલું કુલ અંતર = 15 × 24 = 360 મી.
+   પ્લેટફોર્મની લંબાઈ = કુલ અંતર − ટ્રેેન = 360 − 180 = 180 મીટર.
+   Easy Shortcut (EN): 54 km/h = 3 × 5 = 15 m/s; 15 × 24 = 360 m − 180 m = 180 m.
+   સરળ શોર્ટકટ (GU): 54 કિમી/કલાક = 15 મી/સે યાદ રાખો; 15 × 24 = 360 માંથી ટ્રેેનની લંબાઈ 180 બાદ કરો = 180 મી.
+   Common Exam Trap (સામાન્ય ભૂલ): કુલ અંતર 360 મી ને જ પ્લેટફોર્મની લંબાઈ માની લેવાની ભૂલ ન કરવી.
+
+[Q7.4: A boat travels 36 km downstream in 3 hours and 24 km upstream in 4 hours. Find the speed of the stream.]
+   ગુજરાતી: એક હોડી પ્રવાહની દિશામાં 36 કિમી અંતર 3 કલાકમાં અને પ્રવાહની વિરુદ્ધ દિશામાં 24 કિમી અંતર 4 કલાકમાં કાપે છે.
+   પ્રવાહની ઝડપ શોધો.
+   [A] 3 km/h  |  [B] 2 km/h  |  [C] 4 km/h  |  [D] 2.5 km/h  |  [E] 3.5 km/h
+   Answer / જવાબ: [A] 3 km/h
+   Step-by-Step (EN): Downstream speed D = 36 ÷ 3 = 12 km/h. Upstream speed U = 24 ÷ 4 = 6 km/h. Speed of stream
+   y = (D − U) / 2 = (12 − 6) / 2 = 3 km/h.
+   પદ્ધતિસર સમજૂતી (GU): પ્રવાહની દિશામાં ઝડપ (D) = 36/3 = 12 કિમી/ક. વિરુદ્ધ દિશામાં ઝડપ (U) = 24/4 = 6 કિમી/ક. પ્રવાહની
+   ઝડપ = (D − U)/2 = (12 − 6)/2 = 3 કિમી/કલાક.
+   Easy Shortcut (EN): D = 12, U = 6 → Stream = (12 − 6)/2 = 3 km/h.
+   સરળ શોર્ટકટ (GU): પ્રવાહની ઝડપ = (D − U)/2 = (12 − 6)/2 = 3 કિમી/કલાક.
+   Common Exam Trap (સામાન્ય ભૂલ): 2 વડે ભાગવાનું ભૂલી 6 કિમી/ક. લખી દેવું અથવા (D+U)/2 = 9 (સ્થિર પાણીમાં હોડીની ઝડપ)
+   શોધી દેવી.
+
+[Q7.5: 12 men can complete a project in 16 days. How many days will 8 men take to finish the same project?]
+   ગુજરાતી: 12 પુરુષો એક પ્રોજેક્ટ 16 દિવસમાં પૂરો કરે છે, તો 8 પુરુષો તે જ પ્રોજેક્ટ કેટલા દિવસમાં પૂરો કરશે?
+   [A] 24 days  |  [B] 20 days  |  [C] 22 days  |  [D] 28 days  |  [E] 26 days
+   Answer / જવાબ: [A] 24 days
+   Step-by-Step (EN): Apply M1D1 = M2D2: 12 × 16 = 8 × D2 ⇒ D2 = (12 × 16) ÷ 8 = 12 × 2 = 24 days.
+   પદ્ધતિસર સમજૂતી (GU): સૂત્ર M1D1 = M2D2: 12 × 16 = 8 × D2 ⇒ D2 = (12 × 16) / 8 = 24 દિવસ.
+   Easy Shortcut (EN): Men reduced to 8/12 (2/3) → Days increase to 3/2 × 16 = 24 days.
+   સરળ શોર્ટકટ (GU): માણસો ઘટે તો દિવસો વધે: 16/8 = 2 → 12 × 2 = 24 દિવસ.
+   Common Exam Trap (સામાન્ય ભૂલ): સીધો ત્રિરાશી પ્રમાણ (8/12 × 16) મૂકી દિવસો ઓછા કરી દેવાની ભૂલ ન કરવી; અહીં વ્યસ્ત
+   પ્રમાણ છે.
+
+[Q7.6: Two trains 120 m and 180 m long run in opposite directions at 40 km/h and 32 km/h respectively. Find the time]
+   taken by them to cross each other.
+   ગુજરાતી: 120 મીટર અને 180 મીટર લાંબી બે ટ્રેેનો વિરુદ્ધ દિશામાં અનુક્રમે 40 કિમી/ક અને 32 કિમી/ક ની ઝડપે દોડે છે. એકબીજાને
+   પસાર કરતાં લાગતો સમય શોધો.
+   [A] 15 seconds  |  [B] 18 seconds  |  [C] 12 seconds  |  [D] 20 seconds  |  [E] 16 seconds
+   Answer / જવાબ: [A] 15 seconds
+   Step-by-Step (EN): Total distance = 120 + 180 = 300 m. In opposite directions, relative speed = 40 + 32 = 72 km/h =
+   72 × (5/18) = 20 m/s. Time = 300 ÷ 20 = 15 seconds.
+   પદ્ધતિસર સમજૂતી (GU): કુલ અંતર = 120 + 180 = 300 મી. વિરુદ્ધ દિશામાં સાપેક્ષ ઝડપ = 40 + 32 = 72 કિમી/ક = 72 × 5/18 =
+   20 મી/સે. સમય = 300 ÷ 20 = 15 સેકન્ડ.
+   Easy Shortcut (EN): Dist = 300 m; Rel speed = 72 km/h = 20 m/s → Time = 300/20 = 15 s.
+   સરળ શોર્ટકટ (GU): કુલ અંતર 300 મી, સાપેક્ષ ઝડપ 72 કિમી/ક (20 મી/સે) → 300/20 = 15 સેકન્ડ.
+   Common Exam Trap (સામાન્ય ભૂલ): વિરુદ્ધ દિશામાં ઝડપનો સરવાળો થાય છે; ભૂલથી બાદબાકી (40 − 32 = 8) ન કરવી.
+
+[Q7.7: A boat's speed in still water is 9 km/h and stream speed is 3 km/h. It takes 3 hours for a round trip to a place and]
+   back. Find the distance to the place.
+   ગુજરાતી: સ્થિર પાણીમાં હોડીની ઝડપ 9 કિમી/ક અને પ્રવાહની ઝડપ 3 કિમી/ક છે. એક જગ્યાએ જઈને પાછા આવવામાં કુલ 3 કલાક
+   લાગે છે, તો તે સ્થળનું અંતર શોધો.
+   [A] 12 km  |  [B] 15 km  |  [C] 10 km  |  [D] 14 km  |  [E] 9 km
+   Answer / જવાબ: [A] 12 km
+   Step-by-Step (EN): Downstream D = 9 + 3 = 12 km/h; Upstream U = 9 − 3 = 6 km/h. Round-trip distance formula: d
+   = T × (D × U) / (D + U) = 3 × (12 × 6) / 18 = 3 × 4 = 12 km. Check: 12/12 + 12/6 = 1 + 2 = 3h!
+   પદ્ધતિસર સમજૂતી (GU): D = 9+3 = 12 કિમી/ક, U = 9−3 = 6 કિમી/ક. અંતર d = સમય × (D × U)/(D + U) = 3 × (12 × 6)/18
+   = 12 કિમી. ચકાસણી: 12/12 + 12/6 = 1 + 2 = 3 કલાક!
+   Easy Shortcut (EN): Use Boat round-trip formula: d = Total Time × (B² − S²) / (2B) = 3 × (81−9)/18 = 12 km.
+   સરળ શોર્ટકટ (GU): ટૂંકું સૂત્ર: d = T × (B² − S²)/(2B) = 3 × (81 − 9)/18 = 12 કિમી.
+   Common Exam Trap (સામાન્ય ભૂલ): સરેરાશ ઝડપ 9 કિમી/ક માનીને 3 × 9 / 2 = 13.5 કિમી ન ગણી લેવું.
+
+[Q7.8: A leak can empty a full tank in 8 hours. An inlet pipe pours water at 4 litres/min. When both are open, the full]
+   tank empties in 12 hours. Find the capacity of the tank.
+   ગુજરાતી: એક કાણું ભરેલી ટાંકી 8 કલાકમાં ખાલી કરે છે. અંદર પાણી ભરતો નળ 4 લિટર/મિનિટના દરે પાણી નાખે છે. બંને ખુલ્લા હોય
+   તો ટાંકી 12 કલાકમાં ખાલી થાય છે. ટાંકીની ક્ષમતા શોધો.
+   [A] 5,760 litres  |  [B] 4,800 litres  |  [C] 6,400 litres  |  [D] 5,200 litres  |  [E] 5,500 litres
+   Answer / જવાબ: [A] 5,760 litres
+   Step-by-Step (EN): LCM(8, 12) = 24 units. Leak rate = −3 units/hr; Combined (Inlet + Leak) = −2 units/hr. Therefore
+   Inlet rate alone = (−2) − (−3) = +1 unit/hr. Inlet takes 24 ÷ 1 = 24 hours alone = 24 × 60 = 1,440 minutes. Capacity =
+   1,440 × 4 = 5,760 litres.
+   પદ્ધતિસર સમજૂતી (GU): લ.સા.અ.(8, 12) = 24. કાણાની ખાલી કરવાની ક્ષમતા = −3; બંને સાથે = −2. તેથી ભરનાર નળની ક્ષમતા =
+   +1 યુનિટ/કલાક. એકલો ભરનાર નળ 24 કલાક = 1,440 મિનિટમાં ભરે. કુલ ક્ષમતા = 1,440 × 4 = 5,760 લિટર.
+   Easy Shortcut (EN): Inlet time = (8 × 12)/(12 − 8) = 24 hours → 24 × 60 × 4 = 5,760 L.
+   સરળ શોર્ટકટ (GU): નળનો સમય = (8×12)/(12−8) = 24 કલાક → 24 × 60 મિનિટ × 4 લિટર = 5,760 લિટર.
+   Common Exam Trap (સામાન્ય ભૂલ): 4 લિટર/મિનિટ ને કલાકમાં (60 વડે ગુણ્યાા વિના) સીધું 24 × 4 = 96 લખી દેવું નહીં; એકમ
+   (મિનિટ/કલાક) સરખા કરો!
+
+[Q7.9: Walking at 3/4 of his usual speed, a person reaches office 15 minutes late. Find his usual travel time.]
+   ગુજરાતી: પોતાની સામાન્ય ઝડપના 3/4 ભાગે ચાલતાં એક વ્યક્તિ
+   ઓફિસે 15 મિનિટ મોડો પહોંચે છે. તેનો સામાન્ય સમય શોધો.
+   [A] 45 minutes  |  [B] 60 minutes  |  [C] 30 minutes  |  [D] 40 minutes  |  [E] 50 minutes
+   Answer / જવાબ: [A] 45 minutes
+   Step-by-Step (EN): Distance is fixed, so Speed ∝ 1/Time. Speed ratio Old : New = 4 : 3 ⇒ Time ratio Old : New = 3 : 4.
+   Difference = 1 unit = 15 minutes. Usual (Old) time = 3 units = 3 × 15 = 45 minutes.
+   પદ્ધતિસર સમજૂતી (GU): અંતર સરખું હોવાથી ઝડપ 4 થી 3 થાય તો સમય 3 થી 4 થાય. સમયનો વધારો = 1 યુનિટ = 15 મિનિટ. તેથી
+   સામાન્ય સમય = 3 × 15 = 45 મિનિટ.
+   Easy Shortcut (EN): At (a/b) speed, extra time = |b−a|/a of T → (1/3)T = 15 → T = 45 min.
+   સરળ શોર્ટકટ (GU): ઝડપ 3/4 થાય ત્યારે સામાન્ય સમય = (અંશ / તફાવત) × મોડો સમય = 3/(4−3) × 15 = 45 મિનિટ.
+   Common Exam Trap (સામાન્ય ભૂલ): નવો સમય (4 × 15 = 60 મિનિટ) ભૂલથી સામાન્ય સમય માની ટીક ન કરી દેવો.
+
+[Q7.10: A can do a work in 10 days and B in 15 days. If they work on alternate days starting with A, in how many days]
+   will the work be completed?
+   ગુજરાતી: A એક કામ 10 દિવસમાં અને B 15 દિવસમાં કરી શકે છે. જો તેઓ A થી શરૂ કરીને વારાફરતી (alternate days) કામ કરે, તો
+   કામ કેટલા દિવસમાં પૂરું થશે?
+   [A] 12 days  |  [B] 11 days  |  [C] 13 days  |  [D] 10 days  |  [E] 14 days
+   Answer / જવાબ: [A] 12 days
+   Step-by-Step (EN): Total Work = LCM(10, 15) = 30 units. A = 3 units/day, B = 2 units/day. One 2-day cycle (Day 1 A +
+   Day 2 B) completes 3 + 2 = 5 units. Cycles needed = 30 ÷ 5 = 6 cycles. Total days = 6 × 2 = 12 days.
+   પદ્ધતિસર સમજૂતી (GU): કુલ કામ = લ.સા.અ.(10, 15) = 30 યુનિટ. A=3, B=2. 2 દિવસનું ચક્ર (A + B) = 5 યુનિટ. 30 યુનિટ માટે 6
+   ચક્ર લાગશે, એટલે કુલ દિવસો = 6 × 2 = 12 દિવસ.
+   Easy Shortcut (EN): 2 days = 5 units → 30 units = 6 × 2 = 12 days.
+   સરળ શોર્ટકટ (GU): 2 દિવસમાં 5 યુનિટ થાય છે, એટલે 30 યુનિટ માટે 6 જોડી = 12 દિવસ.
+   Common Exam Trap (સામાન્ય ભૂલ): 6 ચક્રને જ સીધો જવાબ (6 દિવસ) માની લેવાની કે બંને સાથે દરરોજ 5 યુનિટ કરે છે એમ
+   સમજવાની ભૂલ ન કરવી.
+   📑 CHAPTER 7 FORMULA REVISION SHEET (સમય, કાર્ય અને ગતિના તમામ સૂત્રો)
+   Formula / Rule
+   Mathematical Formulation
+   Work & Efficiency
+   Total Work = LCM(T₁, T₂). Efficiency = Work / Time. Together Time = Work / (E₁ + E₂).
+   Chain Rule (Men-Days)
+   (M₁ × D₁ × H₁) / W₁ = (M₂ × D₂ × H₂) / W₂.
+   Speed Conversion
+   km/h to m/s: Multiply by 5/18. m/s to km/h: Multiply by 18/5.
+   Train Crossing Distance
+   Pole/Person: Distance = Ltrain. Platform/Bridge: Distance = Ltrain + Lplatform.
+   Boats & Streams
+   Downstream D = u + v; Upstream U = u - v; Still water u = (D + U)/2; Stream v = (D -
+   U)/2.
+   Round Trip Distance
+   Distance = Total Time × (D × U) / (D + U).
+
+========================================================================================

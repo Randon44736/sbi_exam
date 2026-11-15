@@ -47,13 +47,154 @@ Round 2 (Exam Traps & Factoring):
   - -5 vs -9 -> -5 > -9                                                [Learned number line logic]
   - PDF Q4.1: x^2 - 11x + 30 = 0 vs y^2 - 15y + 56 = 0                 [Found roots 5,6 & 7,8; x < y]
 
+----------------------------------------------------------------------------------------
+SECTION 3: COMPLETE MASTER QUESTION BANK (10 QUESTIONS SOLVED & VERIFIED)
+Every question includes Step-by-Step Math, 10-Second Speed Shortcuts & Exam Traps!
+----------------------------------------------------------------------------------------
 
-3. REMAINING / EXTRA PRACTICE IN CHAPTER 4 (FOR REVISION LATER)
----------------------------------------------------------------
-[ ] PDF Q4.3: 2x^2 - 9x + 10 = 0 vs 2y^2 - 13y + 20 = 0 (Same leading coeff a=2 -> x <= y)
-[ ] PDF Q4.4: x^2 - 16 = 0 vs y^2 - 9y + 20 = 0 (x=±4, y=4,5 -> x <= y)
-[ ] PDF Q4.6: 3x^2 + 8x + 4 = 0 vs 4y^2 - 19y + 12 = 0 (Sign rule: x is -/-, y is +/+ -> x < y)
-[ ] PDF Q4.7: x^2 - 25 = 0 vs y^2 - 10y + 25 = 0 (x=±5, y=5,5 -> x <= y)
-[ ] PDF Q4.8: 2x^2 - 7x + 6 = 0 vs 2y^2 - y - 1 = 0 (x = 2, 1.5; y = 1, -0.5 -> x > y)
-[ ] PDF Q4.10: x^2 - 8x - 20 = 0 vs y^2 + 3y - 28 = 0 (Both end in - -> Instant CND)
-====================================================================
+[Q4.1: Solve and compare: I. x² − 11x + 30 = 0  |  II. y² − 15y + 56 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. x² − 11x + 30 = 0  |  II. y² − 15y + 56 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [B] x < y
+   Step-by-Step (EN): Check Δ ≥ 0: both equations give real roots. I: (−, +) → (+, +); 5 × 6 = 30, 5 + 6 = 11 → x = +5, +6.
+   II: (−, +) → (+, +); 7 × 8 = 56, 7 + 8 = 15 → y = +7, +8. Max(x)=6 < Min(y)=7 → x < y.
+   પદ્ધતિસર સમજૂતી (GU): પહેલા વિવેચક Δ ≥ 0 છે (વાસ્તવિક બીજ મળે છે). સમી. I (−, +) → (+, +) બીજ: 5×6=30, 5+6=11 → x =
+   +5, +6. સમી. II (−, +) → (+, +): 7×8=56, 7+8=15 → y = +7, +8. x નું મોટું મૂલ્ય 6 < y નું નાનું મૂલ્ય 7 → x < y.
+   Easy Shortcut (EN): Both have (+, +) roots; x ∈ {5,6}, y ∈ {7,8} → every x < every y.
+   સરળ શોર્ટકટ (GU): (-, +) હોવાથી બંનેના બીજ (+, +) મળશે: x (5, 6) અને y (7, 8) એટલે x < y.
+   Common Exam Trap (સામાન્ય ભૂલ): સમીકરણના ચિહ્નો (−, +) પરથી બીજની નિશાની નક્કી કરવામાં ભૂલ ન કરવી; અહીં બંને બીજ
+   ધન (+) થશે.
+
+[Q4.2: Solve and compare: I. x² + 2x − 35 = 0  |  II. y² − 4y − 45 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. x² + 2x − 35 = 0  |  II. y² − 4y − 45 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [E] Relationship cannot be established (CND)
+   Step-by-Step (EN): Both equations have a = +1 > 0 and c < 0 (−35 < 0 and −45 < 0), guaranteeing real roots (Δ > 0)
+   with ONE positive and ONE negative root in BOTH equations (x = −7, +5; y = +9, −5). Since +5 > −5 and −7 < +9,
+   relation is CND.
+   પદ્ધતિસર સમજૂતી (GU): બંને સમીકરણમાં a > 0 અને c < 0 (−35 અને −45 ઋણ) છે, જેથી બંનેમાં Δ > 0 (વાસ્તવિક બીજ) અને 1
+   ધન તથા 1 ઋણ બીજ મળે છે (x = −7, +5; y = +9, −5). અહીં +5 > −5 અને −7 < +9 થવાથી સંબંધ નક્કી થઈ શકે નહીં (CND).
+   Easy Shortcut (EN): Constant Terms c/a < 0 in BOTH standard quadratic equations → Instant CND (no solving
+   needed!).
+   સરળ શોર્ટકટ (GU): બંને પ્રમાણિત સમીકરણોમાં અચળ પદ c ઋણ (a > 0, c < 0) હોય ત્યારે બંનેના બીજમાં 1(+)/1(−) આવે → સીધો
+   જવાબ CND!
+   Common Exam Trap (સામાન્ય ભૂલ): આ નિયમ માત્ર ત્યારે જ વાપરવો જ્યારે x² અને y² ના સહગુણક (a) ધન હોય અને બંને
+   સમીકરણના અચળ પદ c ઋણ હોય.
+
+[Q4.3: Solve and compare: I. 2x² − 9x + 10 = 0  |  II. 2y² − 13y + 20 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. 2x² − 9x + 10 = 0  |  II. 2y² − 13y + 20 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [D] x ≤ y
+   Step-by-Step (EN): Since leading coefficients are equal (a = 2), compare numerators directly! I: 2×10 = 20 = 4×5
+   (4+5=9) → numerators +4, +5 (x = 2.0, 2.5). II: 2×20 = 40 = 5×8 (5+8=13) → numerators +5, +8 (y = 2.5, 4.0).
+   Comparing: 2 < 2.5, 2.5 = 2.5, 2.5 < 4 → x ≤ y.
+   પદ્ધતિસર સમજૂતી (GU): બંનેમાં a = 2 સરખા હોવાથી સીધા અંશ જ સરખાવો! I: 2×10=20 → અવયવ +4, +5 (x = 2.0, 2.5). II:
+   2×20=40 → અવયવ +5, +8 (y = 2.5, 4.0). સરખામણીમાં x=2.5 અને y=2.5 સરખા છે તથા બાકીમાં x નાનું છે → x ≤ y.
+   Easy Shortcut (EN): Same 'a' (= 2): skip division! Compare (+4, +5) vs (+5, +8) → x ≤ y.
+   સરળ શોર્ટકટ (GU): જ્યારે બંને સમીકરણમાં a સરખો (અહીં 2) હોય ત્યારે છેદથી ભાગવાની જરૂર નથી; સીધા (+4, +5) અને (+5, +8)
+   સરખાવો!
+   Common Exam Trap (સામાન્ય ભૂલ): x=2.5 અને y=2.5 બંનેમાં કોમન હોવાથી '<' ને બદલે '≤' ટીક કરવાનું ભૂલશો નહીં.
+
+[Q4.4: Solve and compare: I. x² − 16 = 0  |  II. y² − 9y + 20 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. x² − 16 = 0  |  II. y² − 9y + 20 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [D] x ≤ y
+   Step-by-Step (EN): I: x² = 16 → x = +4, −4 (both signs because power is even). II: y² − 9y + 20 = 0 → 4×5 = 20, 4+5 =
+   9 → y = +4, +5. Comparing: +4 = +4, +4 < +5, −4 < +4, −4 < +5 → x ≤ y.
+   પદ્ધતિસર સમજૂતી (GU): I: x² = 16 હોવાથી x ના બે મૂલ્યો +4 અને −4 મળશે. II: 4×5=20 અને 4+5=9 પરથી y = +4, +5.
+   સરખામણી: +4 = +4 અને બાકી તમામ કિસ્સામાં x < y → x ≤ y.
+   Easy Shortcut (EN): Even power x² = 16 yields BOTH ±4; y ∈ {+4, +5} → x ≤ y.
+   સરળ શોર્ટકટ (GU): x² = 16 ના બે બીજ (+4, −4) આવે છે; ઘણા માત્ર +4 લે છે જેનાથી ભૂલ થાય.
+   Common Exam Trap (સામાન્ય ભૂલ): x = માત્ર +4 લઈને જવાબ x ≤ y જ રહેશે કે બીજું કંઈ? જો y નાનું હોત તો 'CND' ચૂકી જવાત!
+   હંમેશા ±4 લો.
+
+[Q4.5: Solve and compare: I. x² + 14x + 48 = 0  |  II. y² + 19y + 90 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. x² + 14x + 48 = 0  |  II. y² + 19y + 90 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [A] x > y
+   Step-by-Step (EN): Verify Δ ≥ 0: yes. I (+, +) → (−, −) roots: 6 × 8 = 48, 6 + 8 = 14 → x = −6, −8. II (+, +) → (−, −)
+   roots: 9 × 10 = 90, 9 + 10 = 19 → y = −9, −10. On the number line, −8 is to the RIGHT of −9 (smaller negative
+   magnitude = larger numerical value): −6 > −9, −8 > −9 → x > y.
+   પદ્ધતિસર સમજૂતી (GU): બંનેમાં (+, +) હોવાથી બંને બીજ ઋણ (−, −) આવશે: x = −6, −8 અને y = −9, −10. સંખ્યારેખા પર ઋણ
+   સંખ્યા જેટલી શૂન્યની નજીક (નાની દેખાય) તેટલી મોટી: −8 એ −9 કરતાં મોટું છે (−8 > −9)! તેથી x > y.
+   Easy Shortcut (EN): Among negatives, smaller absolute magnitude wins: x ∈ {−6, −8} > y ∈ {−9, −10}.
+   સરળ શોર્ટકટ (GU): ઋણ સંખ્યામાં નાનો આંકડો મોટો ગણાય: |−8|=8 < |−9|=9 હોવાથી −8 > −9 → x > y.
+   Common Exam Trap (સામાન્ય ભૂલ): સૌથી સામાન્ય ભૂલ: 8 < 9 જોઈને −8 < −9 સમજી લેવું અને [B] x < y ટીક કરી દેવું!
+
+[Q4.6: Solve and compare: I. 3x² + 8x + 4 = 0  |  II. 4y² − 19y + 12 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. 3x² + 8x + 4 = 0  |  II. 4y² − 19y + 12 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [B] x < y
+   Step-by-Step (EN): Check real roots (Δ ≥ 0): I gives Δ = 64 − 48 = 16 ≥ 0; II gives Δ = 361 − 192 = 169 ≥ 0. Now check
+   sign table (since a > 0): I has (+, +) → BOTH x roots are negative (x = −2, −2/3). II has (−, +) → BOTH y roots are
+   positive (y = +4, +3/4). Every negative number < every positive number → x < y.
+   પદ્ધતિસર સમજૂતી (GU): પહેલા ખાતરી કરો કે બંનેમાં b²−4ac ≥ 0 (વાસ્તવિક બીજ) છે: હા (16 અને 169). હવે નિશાની કોષ્ટક જુઓ:
+   I માં (+, +) હોવાથી x ના બંને બીજ ઋણ અને II માં (−, +) હોવાથી y ના બંને બીજ ધન થશે. દરેક ઋણ < દરેક ધન → x < y.
+   Easy Shortcut (EN): Check Δ ≥ 0 first, then pure sign table: (+, +) gives (−, −) and (−, +) gives (+, +) → x < y in 3
+   seconds!
+   સરળ શોર્ટકટ (GU): Δ ≥ 0 તપાસી સીધું નિશાની કોષ્ટક વાપરો: x (−, −) અને y (+, +) હોવાથી અવયવ પાડ્યા વગર x < y!
+   Common Exam Trap (સામાન્ય ભૂલ): વિવેચક b²−4ac ≥ 0 તપાસ્યા વગર સીધો નિશાની નિયમ ન વાપરવો (જો કાલ્પનિક બીજ હોય
+   તો નિયમ ખોટો પડે).
+
+[Q4.7: Solve and compare: I. x² − 25 = 0  |  II. y² − 10y + 25 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. x² − 25 = 0  |  II. y² − 10y + 25 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [D] x ≤ y
+   Step-by-Step (EN): I: x² = 25 → x = +5, −5. II: (y − 5)² = 0 → y = +5, +5. Comparing values: +5 = +5 and −5 < +5 → x
+   ≤ y.
+   પદ્ધતિસર સમજૂતી (GU): I: x² = 25 હોવાથી x = +5 અને −5. II: (y − 5)² = 0 હોવાથી y = +5. સરખામણીમાં +5 = +5 અને −5 <
+   +5 → x ≤ y.
+   Easy Shortcut (EN): x = ±5 vs y = +5 only → x ≤ y.
+   સરળ શોર્ટકટ (GU): x = +5, −5 અને y = માત્ર +5, એટલે x ≤ y.
+   Common Exam Trap (સામાન્ય ભૂલ): x = √25 અને x² = 25 વચ્ચેનો તફાવત ભૂલશો નહીં: x² = 25 ના બે જવાબ (+5, −5) આવે.
+
+[Q4.8: Solve and compare: I. 2x² − 7x + 6 = 0  |  II. 2y² − y − 1 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. 2x² − 7x + 6 = 0  |  II. 2y² − y − 1 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [A] x > y
+   Step-by-Step (EN): Same a = 2 in both! I: 2×6 = 12 = 4×3 (sum 7) → x = +4/2, +3/2 = +2.0, +1.5. II: 2×(−1) = −2,
+   factors −2 and +1 (sign flip → +2, −1) → y = +2/2, −1/2 = +1.0, −0.5. Min(x)=1.5 > Max(y)=1.0 → x > y.
+   પદ્ધતિસર સમજૂતી (GU): બંનેમાં a = 2 છે: I માં 2×6 = 12 ના અવયવ −4, −3 → ચિહ્ન બદલતાં x = 4/2, 3/2 = 2.0, 1.5. II માં
+   2×(−1) = −2 ના અવયવ −2, +1 → y = +2/2, −1/2 = 1.0, −0.5. x નું નાનું મૂલ્ય 1.5 > y નું મોટું 1.0 → x > y.
+   Easy Shortcut (EN): Numerators with a=2: x_num = {+3, +4}, y_num = {−1, +2}. All of {3, 4} > all of {−1, 2} → x > y.
+   સરળ શોર્ટકટ (GU): a=2 સરખો છે એટલે અંશ {+3, +4} અને {−1, +2} સરખાવતાં સીધું x > y મળે!
+   Common Exam Trap (સામાન્ય ભૂલ): II માં c ઋણ (−1) જોઈને તરત CND ન માની લેવું! CND ત્યારે જ થાય જ્યારે બંને સમીકરણમાં
+   c ઋણ હોય.
+
+[Q4.9: Solve and compare: I. x² = 196  |  II. y = √196]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. x² = 196  |  II. y = √196
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [D] x ≤ y
+   Step-by-Step (EN): Quadratic equation I (x² = 196) has TWO roots: x = +14 and −14. Linear radical equation II (y =
+   √196) gives ONLY the principal positive square root: y = +14. Comparing {+14, −14} with +14 gives x ≤ y.
+   પદ્ધતિસર સમજૂતી (GU): વર્ગ સમીકરણ x² = 196 ના બે બીજ x = +14 અને −14 મળે છે, જ્યારે સુરેખ સમીકરણ y = √196 ની માત્ર
+   ધન કિંંમત y = +14 જ મળે છે! {+14, −14} અને +14 ની સરખામણી કરતાં x ≤ y.
+   Easy Shortcut (EN): √N symbol is ALWAYS positive (+14), whereas x² = N gives ±14 → x ≤ y.
+   સરળ શોર્ટકટ (GU): યાદ રાખો: √196 = માત્ર +14, પરંતુ x² = 196 → x = ±14, તેથી x ≤ y.
+   Common Exam Trap (સામાન્ય ભૂલ): y = ±14 લઈને જવાબ [E] CND ટીક કરી દેવો એ બેંકિંંગ પરીક્ષાની સૌથી મોટી જાળ છે!
+
+[Q4.10: Solve and compare: I. x² − 8x − 20 = 0  |  II. y² + 3y − 28 = 0]
+   ગુજરાતી: સમીકરણ ઉકેલી સંબંધ નક્કી કરો: I. x² − 8x − 20 = 0  |  II. y² + 3y − 28 = 0
+   [A] x > y  |  [B] x < y  |  [C] x ≥ y  |  [D] x ≤ y  |  [E] x = y or Relationship cannot be established (CND)
+   Answer / જવાબ: [E] Relationship cannot be established (CND)
+   Step-by-Step (EN): Both equations have a = +1 > 0 and c < 0 (−20 and −28), ensuring real roots with opposite signs
+   in both: x = +10, −2 and y = −7, +4. Here +10 > +4 while −2 < +4 → CND.
+   પદ્ધતિસર સમજૂતી (GU): બંનેમાં a > 0 અને અચળ પદ c ઋણ (−20 અને −28) હોવાથી બંને સમીકરણના એક બીજ ધન અને એક
+   ઋણ આવે છે (x = +10, −2; y = −7, +4). તેથી સંબંધ નક્કી ન થઈ શકે (CND).
+   Easy Shortcut (EN): Both c/a < 0 → opposite-signed roots in both → 2-second CND.
+   સરળ શોર્ટકટ (GU): બંને સમીકરણોમાં c/a < 0 હોય તો ગણતરી વગર જ જવાબ [E] CND મળે.
+   Common Exam Trap (સામાન્ય ભૂલ): હંમેશા ખાતરી કરો કે સમીકરણ ax² + bx + c = 0 સ્વરૂપમાં જ હોય (જો =20 બીજી બાજુ
+   હોય તો અંદર લાવીને −20 જુઓ).
+   📑 CHAPTER 4 FORMULA REVISION SHEET (દ્વિઘાત સમીકરણોના તમામ સૂત્રો)
+   Formula / Law
+   Mathematical Formula & Properties
+   Standard Quadratic Form
+   a x² + b x + c = 0. Discriminant D = b² - 4ac.
+   Vieta's Formulas
+   Sum of Roots S = -b/a; Product of Roots P = c/a.
+   Opposite-Sign Law (CND)
+   When c₁/a₁ < 0 and c₂/a₂ < 0 → Roots are (+, -) in both → CND (100% Proven).
+   Sign Transformation Matrix
+   (+, +) → (-, -); (-, +) → (+, +); (+, -) → (-, +); (-, -) → (+, -).
+
+========================================================================================

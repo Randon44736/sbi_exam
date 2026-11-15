@@ -1,0 +1,54 @@
+====================================================================
+CHAPTER 1 NOTES: INEQUALITIES: DIRECT, COMBINED & CODED
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 2-7)
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: ⚡ LEARNING (ACTIVE CHAPTER - CURRENT STARTING POINT)
+====================================================================
+
+1. CORE METHOD: THE OPEN-GATE METHOD (ખુલ્લા દરવાજાની પદ્ધતિ)
+--------------------------------------------------------------------
+A) How the Gate Works:
+   - '>' : Gate is OPEN from Left to Right. You can travel A -> B.
+           Gate is CLOSED from Right to Left. You CANNOT travel B -> A.
+   - '<' : Gate is OPEN from Right to Left. You can travel B -> A.
+           Gate is CLOSED from Left to Right. You CANNOT travel A -> B.
+   - '=' : Gate is OPEN from BOTH sides! You can travel freely A <-> B.
+   - '≥' or '≤' : Same as '>' or '<', but carries an 'equal' mat at the bottom.
+
+B) Opposing Gates (Path Blocked / No Relation):
+   - Whenever you see opposing signs facing each other:
+     Example: A > B < C  OR  A < B > C
+     The gate is BLOCKED between A and C!
+     You cannot travel from A to C, and you cannot travel from C to A.
+     Any direct conclusion like A > C or A < C is immediately FALSE!
+
+C) The 3-Tier Hierarchy (The Kingdom Rule):
+   1. King (Priority 1): '>' or '<'
+      - Rule for 'A > B' to be TRUE:
+        * Path must be open all the way from A to B.
+        * At least ONE King ('>') must appear along the path!
+   2. Soldier (Priority 2): '≥' or '≤'
+      - Rule for 'A ≥ B' to be TRUE:
+        * Path must be open all the way from A to B.
+        * The 'equal' sign must NEVER drop! Every single gate must have '≥' or '='!
+        * If even ONE King ('>') appears without equal, 'A ≥ B' becomes FALSE!
+   3. Citizen (Priority 3): '='
+      - Rule for 'A = B' to be TRUE:
+        * Every single step between A and B must strictly be '='!
+
+D) The Two 'Either-Or' Rules:
+   - Case 1 (Combined Breakdown):
+     Statement gives: A ≥ B
+     Conclusions: I. A > B,  II. A = B
+     Both individual conclusions are doubtful, but together they cover A ≥ B.
+     -> Answer: Either I or II follows!
+   - Case 2 (Blocked Path / Opposing Signs):
+     Path between A and B is blocked (e.g., A > M < B).
+     All 3 signs must be present: (A > B, A < B, A = B).
+     Example: I. A ≥ B,  II. A < B
+     -> Answer: Either I or II follows!
+
+
+2. PRACTICE QUESTIONS LOG (FROM BOOKLET 2, PAGES 2-7)
+--------------------------------------------------------------------
+(We will solve questions Q1.1 to Q1.10 one by one!)

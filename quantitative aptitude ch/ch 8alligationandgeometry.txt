@@ -43,15 +43,139 @@ Round 1 (Core Alligation, LCM/HCF & Mensuration):
   - HCF 5, LCM 60, N1 15 -> N2 = 20                           [SOLVED RIGHT - REAL EXAM Q]
   - Radius 7 circle area -> 154 cm^2                          [Learned 7-44-154 benchmark]
 
+----------------------------------------------------------------------------------------
+SECTION 3: COMPLETE MASTER QUESTION BANK (10 QUESTIONS SOLVED & VERIFIED)
+Every question includes Step-by-Step Math, 10-Second Speed Shortcuts & Exam Traps!
+----------------------------------------------------------------------------------------
 
-3. REMAINING / EXTRA PRACTICE IN CHAPTER 8 (FOR REVISION LATER)
----------------------------------------------------------------
-[ ] PDF Q8.2: 60 L milk, 12 L replaced twice -> 38.4 L remaining
-[ ] PDF Q8.4: Three bells ring at 9, 12, 15 min -> LCM(9,12,15) = 180 min = 3 hours
-[ ] PDF Q8.5: Rectangle Perimeter 64, L = B + 6 -> L=19, B=13 -> Area = 247 cm^2
-[ ] PDF Q8.6: Circle circumference 88 cm -> Area = 616 cm^2 (7-44-154 scale)
-[ ] PDF Q8.7: Cylinder r=7, h=10 -> Vol = πr^2h = 154 x 10 = 1,540 cm^3
-[ ] PDF Q8.8: Cone r=6, h=8 -> Slant height l=10 (3-4-5 triplet) -> CSA = πrl = 60π
-[ ] PDF Q8.9: Sphere R=6 recast into r=2 -> (6/2)^3 = 27 spheres
-[ ] PDF Q8.10: 100 kg sugar, 10% & 20% profit for 14% mean -> Alligation 6:4 = 3:2 -> at 20% = 40 kg
-====================================================================
+[Q8.1: In what ratio must rice at ₹48/kg be mixed with rice at ₹60/kg so that the mixture is worth ₹52/kg?]
+   ગુજરાતી: ₹48/કિગ્રા વાળા ચોખાને ₹60/કિગ્રા વાળા ચોખા સાથે કયા ગુણોત્તરમાં ભેળવવા જોઈએ જેથી મિશ્રણની કિંંમત ₹52/કિગ્રા
+   થાય?
+   [A] 2:1  |  [B] 1:2  |  [C] 3:2  |  [D] 2:3  |  [E] 3:1
+   Answer / જવાબ: [A] 2:1
+   Step-by-Step (EN): Apply the Rule of Alligation: Quantity(₹48) : Quantity(₹60) = (60 − 52) : (52 − 48) = 8 : 4 = 2 : 1.
+   પદ્ધતિસર સમજૂતી (GU): મિશ્રણના નિયમ મુજબ: જથ્થો(₹48) : જથ્થો(₹60) = (60 − 52) : (52 − 48) = 8 : 4 = 2 : 1.
+   Easy Shortcut (EN): Cross-subtract from mean 52 → 8 : 4 = 2 : 1.
+   સરળ શોર્ટકટ (GU): સરેરાશ 52 સાથે ક્રોસ બાદબાકી: (60−52) : (52−48) = 8:4 = 2:1.
+   Common Exam Trap (સામાન્ય ભૂલ): સસ્તી (₹48) અને મોંઘી (₹60) વસ્તુનો ક્રમ ઊલટો ન કરી દેવો; જવાબ 1:2 નહીં પરંતુ 2:1
+   આવશે (મિશ્રણ 52, 48 ની નજીક હોવાથી 48 વધુ હશે).
+
+[Q8.2: A container has 60 litres of pure milk. 12 litres of milk is taken out and replaced with water, and this process is]
+   repeated once more (2 times total). Find remaining milk.
+   ગુજરાતી: એક વાસણમાં 60 લિટર શુદ્ધ દૂધ છે. તેમાંથી 12 લિટર દૂધ કાઢી તેટલું જ પાણી ઉમેરવામાં આવે છે અને આ ક્રિયા ફરી એકવાર
+   (કુલ 2 વખત) કરાય છે. બાકી રહેલું દૂધ શોધો.
+   [A] 38.4 L  |  [B] 36.0 L  |  [C] 40.2 L  |  [D] 37.8 L  |  [E] 39.6 L
+   Answer / જવાબ: [A] 38.4 L
+   Step-by-Step (EN): Fraction removed each time = 12/60 = 1/5, so remaining fraction each step = 4/5. After 2
+   repetitions: Milk = 60 × (4/5)² = 60 × (16/25) = 12 × 16 / 5 = 192/5 = 38.4 L.
+   પદ્ધતિસર સમજૂતી (GU): દર વખતે કાઢેલો ભાગ = 12/60 = 1/5, એટલે બાકી રહેતો ભાગ = 4/5. 2 વખત બાદ શુદ્ધ દૂધ = 60 ×
+   (4/5) × (4/5) = 60 × 16/25 = 38.4 લિટર.
+   Easy Shortcut (EN): 60 → −20% (48) → −20% (48 − 9.6 = 38.4 L).
+   સરળ શોર્ટકટ (GU): 12/60 એટલે દર વખતે 20% ઘટે: 60 − 12 = 48, અને 48 ના 20% (9.6) બાદ કરતાં 38.4 લિટર.
+   Common Exam Trap (સામાન્ય ભૂલ): દર વખતે સીધા 12 લિટર બાદ કરીને 60 − 24 = 36 L લખી દેવું એ સૌથી મોટી ભૂલ છે (બીજી
+   વખત મિશ્રણ નીકળે છે, શુદ્ધ દૂધ નહીં!).
+
+[Q8.3: The HCF and LCM of two numbers are 12 and 240 respectively. If one number is 48, find the other number.]
+   ગુજરાતી: બે સંખ્યાઓનો ગુ.સા.અ. (HCF) 12 અને લ.સા.અ. (LCM) 240 છે. જો એક સંખ્યા 48 હોય, તો બીજી સંખ્યા શોધો.
+   [A] 60  |  [B] 72  |  [C] 64  |  [D] 80  |  [E] 54
+   Answer / જવાબ: [A] 60
+   Step-by-Step (EN): Property: Number1 × Number2 = HCF × LCM ⇒ 48 × N2 = 12 × 240 ⇒ N2 = 240 / 4 = 60.
+   પદ્ધતિસર સમજૂતી (GU): સૂત્ર: પહેલી સંખ્યા × બીજી સંખ્યા = ગુ.સા.અ. × લ.સા.અ. → 48 × બીજી સંખ્યા = 12 × 240 → બીજી
+   સંખ્યા = 240 / 4 = 60.
+   Easy Shortcut (EN): 12/48 = 1/4 → Other = 240/4 = 60.
+   સરળ શોર્ટકટ (GU): 12 ને 48 વડે ભાગતાં 4 આવે, 240 ÷ 4 = 60.
+   Common Exam Trap (સામાન્ય ભૂલ): 12 અને 240 નો ગુણાકાર (2880) કરી પછી 48 થી ભાગવાને બદલે પહેલા 12/48 = 1/4 છેદ
+   ઉડાડો.
+
+[Q8.4: Three bells ring at intervals of 9, 12, and 15 minutes respectively. If they ring together now, after how much time]
+   will they next ring together?
+   ગુજરાતી: ત્રણ ઘંટ અનુક્રમે 9, 12 અને 15 મિનિટના અંતરે વાગે છે. જો તે અત્યારે સાથે વાગ્યા હોય, તો ફરી કેટલા સમય બાદ સાથે
+   વાગશે?
+   [A] 3 hours  |  [B] 2.5 hours  |  [C] 4 hours  |  [D] 3.5 hours  |  [E] 5 hours
+   Answer / જવાબ: [A] 3 hours
+   Step-by-Step (EN): Simultaneous recurrence = LCM(9, 12, 15). Prime factors: 9 = 3², 12 = 2²×3, 15 = 3×5 ⇒ LCM = 4 ×
+   9 × 5 = 180 minutes = 180 ÷ 60 = 3 hours.
+   પદ્ધતિસર સમજૂતી (GU): સાથે વાગવાનો સમય = લ.સા.અ.(9, 12, 15) = 180 મિનિટ. કલાકમાં ફેરવતાં: 180 ÷ 60 = 3 કલાક.
+   Easy Shortcut (EN): LCM(9,12,15) = 180 min = 3 hours.
+   સરળ શોર્ટકટ (GU): 9, 12 અને 15 નો લ.સા.અ. 180 મિનિટ = 3 કલાક.
+   Common Exam Trap (સામાન્ય ભૂલ): લ.સા.અ. ને બદલે ગુ.સા.અ. (3 મિનિટ) ન કાઢવો અને મિનિટને કલાકમાં ફેરવવાનું ધ્યાન
+   રાખવું.
+
+[Q8.5: The perimeter of a rectangle is 64 cm and its length is 6 cm more than its breadth. Find its area.]
+   ગુજરાતી: એક લંબચોરસની પરિમિતિ 64 સેમી છે અને તેની લંબાઈ પહોળાઈ કરતાં 6 સેમી વધુ છે. તેનું ક્ષેત્રફળ શોધો.
+   [A] 247 cm²  |  [B] 256 cm²  |  [C] 240 cm²  |  [D] 252 cm²  |  [E] 260 cm²
+   Answer / જવાબ: [A] 247 cm²
+   Step-by-Step (EN): Perimeter 2(L + B) = 64 ⇒ L + B = 32. Also L − B = 6. Solving directly: L = (32+6)/2 = 19 cm, B =
+   (32−6)/2 = 13 cm. Area = 19 × 13 = (16+3)(16−3) = 256 − 9 = 247 cm².
+   પદ્ધતિસર સમજૂતી (GU): પરિમિતિ 2(L + B) = 64 → L + B = 32, અને L − B = 6. તેથી L = (32+6)/2 = 19 સેમી અને B =
+   (32−6)/2 = 13 સેમી. ક્ષેત્રફળ = 19 × 13 = 247 ચો.સેમી.
+   Easy Shortcut (EN): L+B = 32, L−B = 6 → L=19, B=13 → 16² − 3² = 256 − 9 = 247.
+   સરળ શોર્ટકટ (GU): L અને B નો સરેરાશ 16 અને તફાવત 3 → 16² − 3² = 247 ચો.સેમી.
+   Common Exam Trap (સામાન્ય ભૂલ): L + B ને ભૂલથી 64 લઈને ગણતરી ન કરી દેવી; પરિમિતિ = 2(L + B) હોય છે.
+
+[Q8.6: If the circumference of a circle is 88 cm, find its area. (π = 22/7)]
+   ગુજરાતી: જો એક વર્તુળનો પરિઘ 88 સેમી હોય, તો તેનું ક્ષેત્રફળ શોધો. (π = 22/7)
+   [A] 616 cm²  |  [B] 624 cm²  |  [C] 608 cm²  |  [D] 632 cm²  |  [E] 594 cm²
+   Answer / જવાબ: [A] 616 cm²
+   Step-by-Step (EN): Circumference 2 × (22/7) × r = 88 ⇒ (44/7)r = 88 ⇒ r = 14 cm. Area = (22/7) × 14 × 14 = 44 × 14
+   = 616 cm².
+   પદ્ધતિસર સમજૂતી (GU): પરિઘ = 2πr = 88 ⇒ 2 × (22/7) × r = 88 ⇒ r = 14 સેમી. ક્ષેત્રફળ = (22/7) × 14 × 14 = 616 ચો.સેમી.
+   Easy Shortcut (EN): Standard 7-44-154 table: Circumference doubles (44 → 88 = 2×) ⇒ r = 2×7 = 14 ⇒ Area = 4 ×
+   154 = 616 cm².
+   સરળ શોર્ટકટ (GU): 7-44-154 ટેબલ: પરિઘ 44 થી બમણો (88) છે, એટલે ત્રિજ્યા બમણી (14) અને ક્ષેત્રફળ 4 ગણું (154 × 4 = 616)
+   થાય!
+   Common Exam Trap (સામાન્ય ભૂલ): ત્રિજ્યા r બમણી થાય ત્યારે ક્ષેત્રફળ બમણું (308) નહીં, 4 ગણું (616) થાય છે.
+
+[Q8.7: Find the volume of a solid right circular cylinder of radius 7 cm and height 10 cm. (π = 22/7)]
+   ગુજરાતી: 7 સેમી ત્રિજ્યા અને 10 સેમી ઊંચાઈ ધરાવતા નક્કર નળાકારનું ઘનફળ શોધો.
+   [A] 1,540 cm³  |  [B] 1,480 cm³  |  [C] 1,600 cm³  |  [D] 1,520 cm³  |  [E] 1,560 cm³
+   Answer / જવાબ: [A] 1,540 cm³
+   Step-by-Step (EN): Cylinder Volume = πr²h = (22/7) × 7 × 7 × 10 = 154 × 10 = 1,540 cm³.
+   પદ્ધતિસર સમજૂતી (GU): નળાકારનું ઘનફળ = πr²h = (22/7) × 7 × 7 × 10 = 154 × 10 = 1,540 ઘન સેમી.
+   Easy Shortcut (EN): For r = 7, base area πr² = 154; Volume = 154 × 10 = 1,540 cm³.
+   સરળ શોર્ટકટ (GU): r=7 માટે પાયાનું ક્ષેત્રફળ 154 યાદ રાખો, એટલે ઘનફળ = 154 × 10 = 1,540.
+   Common Exam Trap (સામાન્ય ભૂલ): ઘનફળ (πr²h) ને બદલે વક્રસપાટીનું ક્ષેત્રફળ (2πrh = 440) ન શોધી દેવું.
+
+[Q8.8: Find the Curved Surface Area (CSA) of a right circular cone of radius 6 cm and height 8 cm.]
+   ગુજરાતી: 6 સેમી ત્રિજ્યા અને 8 સેમી ઊંચાઈ ધરાવતા શંકુની વક્રસપાટીનું ક્ષેત્રફળ (CSA) શોધો.
+   [A] 60π cm²  |  [B] 48π cm²  |  [C] 72π cm²  |  [D] 54π cm²  |  [E] 64π cm²
+   Answer / જવાબ: [A] 60π cm²
+   Step-by-Step (EN): First find slant height l = √(r² + h²) = √(6² + 8²) = √100 = 10 cm (3-4-5 triplet). Now CSA = πrl = π
+   × 6 × 10 = 60π cm².
+   પદ્ધતિસર સમજૂતી (GU): પહેલા ત્રાસી ઊંચાઈ l = √(6² + 8²) = 10 સેમી (6-8-10 ત્રિપુટી). વક્રસપાટી = πrl = π × 6 × 10 = 60π
+   ચો.સેમી.
+   Easy Shortcut (EN): 6-8-10 Pythagorean triplet gives l = 10 → πrl = 60π cm².
+   સરળ શોર્ટકટ (GU): 6-8-10 ત્રિપુટીથી l = 10 મળે, તેથી π × 6 × 10 = 60π.
+   Common Exam Trap (સામાન્ય ભૂલ): πrh (6 × 8 = 48π) મૂકીને સીધી ઊંચાઈ h વાપરવાની ભૂલ ન કરવી; શંકુમાં ત્રાસી ઊંચાઈ l
+   જરૂરી છે.
+
+[Q8.9: A large metal sphere of radius 6 cm is melted and recast into small identical spheres of radius 2 cm. How many]
+   small spheres are formed?
+   ગુજરાતી: 6 સેમી ત્રિજ્યા ધરાવતા એક મોટા ગોળાને ઓગાળીને 2 સેમી ત્રિજ્યા ધરાવતા નાના ગોળા બનાવવામાં આવે છે, તો કેટલા
+   નાના ગોળા બનશે?
+   [A] 27  |  [B] 18  |  [C] 9  |  [D] 36  |  [E] 24
+   Answer / જવાબ: [A] 27
+   Step-by-Step (EN): Volume is conserved: Count n = Volume(Large) / Volume(Small) = [(4/3)πR³] / [(4/3)πr³] = (R/r)³ =
+   (6/2)³ = 3³ = 27.
+   પદ્ધતિસર સમજૂતી (GU): ઓગાળીને બીજો આકાર બનાવતાં ઘનફળ સરખું રહે: સંખ્યા n = (R/r)³ = (6/2)³ = 3³ = 27.
+   Easy Shortcut (EN): Cancel (4/3)π completely! Count = (R/r)³ = 3³ = 27.
+   સરળ શોર્ટકટ (GU): (4/3)π ની ગણતરી કર્યા વિના સીધો ગુણોત્તરનો ઘન કરો: (6/2)³ = 27.
+   Common Exam Trap (સામાન્ય ભૂલ): ત્રિજ્યાઓના ગુણોત્તરનો વર્ગ (3² = 9) કે સીધો ભાગાકાર (6/2 = 3) ન કરવો; 3D ઘનફળમાં
+   ઘન (cube) થાય.
+
+[Q8.10: A trader has 100 kg of sugar, part of which he sells at 10% profit and the rest at 20% profit. He gains 14% on]
+   the whole. Find the quantity sold at 20% profit.
+   ગુજરાતી: એક વેપારી પાસે 100 કિગ્રા ખાંડ છે. તેમાંથી અમુક ભાગ 10% નફાથી અને બાકીનો 20% નફાથી વેચે છે. સમગ્ર સોદામાં 14%
+   નફો થયો હોય, તો 20% નફાથી વેચેલો જથ્થો શોધો.
+   [A] 40 kg  |  [B] 60 kg  |  [C] 50 kg  |  [D] 45 kg  |  [E] 55 kg
+   Answer / જવાબ: [A] 40 kg
+   Step-by-Step (EN): Alligation on profit %: Part(10%) : Part(20%) = (20 − 14) : (14 − 10) = 6 : 4 = 3 : 2. Sum = 5 units =
+   100 kg ⇒ 1 unit = 20 kg. Quantity at 20% = 2 units = 2 × 20 = 40 kg.
+   પદ્ધતિસર સમજૂતી (GU): મિશ્રણ નિયમ: 10% વાળો ભાગ : 20% વાળો ભાગ = (20−14) : (14−10) = 6 : 4 = 3 : 2. કુલ 5 યુનિટ =
+   100 કિગ્રા → 1 યુનિટ = 20 કિગ્રા. 20% વાળો જથ્થો (2 યુનિટ) = 40 કિગ્રાા.
+   Easy Shortcut (EN): 6 : 4 = 3 : 2 on 100 kg → 60 kg (at 10%) and 40 kg (at 20%).
+   સરળ શોર્ટકટ (GU): 6:4 એટલે 100 કિગ્રાના સીધા ભાગ 60 કિગ્રા (10% પર) અને 40 કિગ્રા (20% પર).
+   Common Exam Trap (સામાન્ય ભૂલ): 10% નફાવાળો જથ્થો (60 કિગ્રા) ભૂલથી ટીક ન થઈ જાય તે માટે પ્રશ્નમાં 'at 20%' બરાબર
+   વાંચો.
+
+========================================================================================

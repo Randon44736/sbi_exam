@@ -50,11 +50,176 @@ Round 2 (Average Shift, Successive % & Middle Number):
   - 99% = 99,000 -> 100% = 100,000                           [Learned 1% = 1,000 logic]
   - 5 consecutive numbers avg 10 -> 8, 9, 10, 11, 12         [SOLVED RIGHT]
 
+----------------------------------------------------------------------------------------
+SECTION 3: COMPLETE MASTER QUESTION BANK (10 QUESTIONS SOLVED & VERIFIED)
+Every question includes Step-by-Step Math, 10-Second Speed Shortcuts & Exam Traps!
+----------------------------------------------------------------------------------------
 
-3. REMAINING / EXTRA PRACTICE IN CHAPTER 5 (FOR REVISION LATER)
----------------------------------------------------------------
-[ ] PDF Q5.2: Incomes 5:4, Exps 3:2, save ₹6,000 -> Income A = ₹15,000
-[ ] PDF Q5.7: A:B = 2:3, B:C = 4:5 -> A:B:C = 8:12:15 (Reverse-N method)
-[ ] PDF Q5.9: Father & Son age 4 yrs ago (4:1) and 6 yrs hence (5:2) -> Son = 14 yrs
-[ ] PDF Q5.10: Partnership with 10% managing fee + 2:3:5 share of rest = ₹28,000
-====================================================================
+[Q5.1: If the price of sugar increases by 25%, by what percentage must a family reduce consumption to keep]
+   expenditure constant?
+   ગુજરાતી: જો ખાંડના ભાવમાં 25% નો વધારો થાય, તો ખર્ચ સરખો રાખવા માટે પરિવારે વપરાશમાં કેટલા ટકા ઘટાડો કરવો પડે?
+   [A] 20%  |  [B] 25%  |  [C] 16.66%  |  [D] 33.33%  |  [E] 15%
+   Answer / જવાબ: [A] 20%
+   Step-by-Step (EN): Using ratio: 25% = +1/4 (Price rises from 4 to 5). To keep expenditure 4 × 5 constant, consumption
+   falls from 5 to 4. Percentage reduction = (1/5) × 100 = 20%.
+   પદ્ધતિસર સમજૂતી (GU): ગુણોત્તરની રીત: 25% = +1/4 એટલે ભાવ 4 થી વધી 5 થયો. ખર્ચ સરખો રાખવા વપરાશ 5 થી ઘટી 4 થવો
+   જોઈએ. ઘટાડો = (1/5) × 100 = 20%.
+   Easy Shortcut (EN): Increase 1/n → Reduce 1/(n+1). +1/4 → −1/5 = 20%.
+   સરળ શોર્ટકટ (GU): +1/4 વધારો થાય તો વપરાશમાં 1/(4+1) = 1/5 એટલે 20% ઘટાડો કરવો પડે.
+   Common Exam Trap (સામાન્ય ભૂલ): 25% વધારો જોઈને ઘટાડો પણ 25% ટીક કરી દેવો એ સામાન્ય ભૂલ છે.
+
+[Q5.2: The incomes of A and B are in the ratio 5:4 and their expenditures are in the ratio 3:2. If each saves ₹6,000, find]
+   A's income.
+   ગુજરાતી: A અને B ની આવકનો ગુણોત્તર 5:4 છે અને તેમના ખર્ચનો ગુણોત્તર 3:2 છે. જો દરેક ₹6,000 ની બચત કરે છે, તો A ની આવક
+   શોધો.
+   [A] ₹15,000  |  [B] ₹18,000  |  [C] ₹12,000  |  [D] ₹20,000  |  [E] ₹25,000
+   Answer / જવાબ: [A] ₹15,000
+   Step-by-Step (EN): Primary Mental Ratio-Unit Method:
+   • A: 5 income units − 3 expenditure units = ₹6,000
+   • B: 4 income units − 2 expenditure units = ₹6,000
+   Subtracting the two statements gives: (5 − 4) income unit − (3 − 2) expenditure unit = ₹6,000 − ₹6,000 = 0 ⇒ 1
+   income unit = 1 expenditure unit! Because both unit values are equal, A's savings = (5 − 3) = 2 units = ₹6,000 ⇒ 1
+   unit = ₹3,000 ⇒ A's income = 5 × ₹3,000 = ₹15,000.
+   (Optional algebraic check only: 5x − 3y = 6,000 and 4x − 2y = 6,000 ⇒ x = y ⇒ 2x = 6,000 ⇒ x = 3,000 ⇒ 5x =
+   ₹15,000.)
+   પદ્ધતિસર સમજૂતી (GU): પ્રાથમિક માનસિક ગુણોત્તર-યુનિટ રીત (Ratio-Unit Shortcut):
+   • A માટે: 5 આવક યુનિટ − 3 ખર્ચ યુનિટ = ₹6,000
+   • B માટે: 4 આવક યુનિટ − 2 ખર્ચ યુનિટ = ₹6,000
+   બંને વિધાનોની બાદબાકી કરતાં: 1 આવક યુનિટ − 1 ખર્ચ યુનિટ = 0, એટલે કે 1 આવક યુનિટ = 1 ખર્ચ યુનિટ! હવે આવક અને ખર્ચનો
+   તફાવત સરખો હોવાથી 5 − 3 = 2 યુનિટ = ₹6,000 ⇒ 1 યુનિટ = ₹3,000 ⇒ A ની આવક = 5 × ₹3,000 = ₹15,000.
+   (વૈકલ્પિક બીજગણિત ચકાસણી: 5x − 3y = 6,000 અને 4x − 2y = 6,000 ⇒ x = y ⇒ 2x = 6,000 ⇒ 5x = ₹15,000.)
+   Easy Shortcut (EN): Equal savings & equal ratio gaps (5−3 = 2 and 4−2 = 2) → 1 income unit = 1 expenditure unit →
+   2 units = ₹6,000 → A = 5 × 3,000 = ₹15,000 in 5 seconds!
+   સરળ શોર્ટકટ (GU): આવક અને ખર્ચના ગુણોત્તરનો તફાવત બંને માટે 2 (5−3=2, 4−2=2) સરખો છે અને બચત પણ સરખી છે, તેથી
+   સીધા 2 યુનિટ = ₹6,000 → 1 યુનિટ = ₹3,000 → A = ₹15,000.
+   Common Exam Trap (સામાન્ય ભૂલ): ક્યારેય આડી બાદબાકી (5−3 અને 4−2) સરખી છે કે નહીં તે તપાસ્યા વગર સીધા યુનિટ
+   સરખાવવા નહીં; જો તફાવત અલગ હોય તો ગુણોત્તર સરખા કરવા પડે.
+
+[Q5.3: The average weight of 24 students is 45 kg. When the teacher's weight is included, the average increases by 1 kg.]
+   Find the teacher's weight.
+   ગુજરાતી: 24 વિદ્યાાર્થીઓનું સરેરાશ વજન 45 કિગ્રા છે. શિક્ષકનું વજન ઉમેરતાં સરેરાશ 1 કિગ્રા વધે છે. શિક્ષકનું વજન શોધો.
+   [A] 70 kg  |  [B] 69 kg  |  [C] 71 kg  |  [D] 68 kg  |  [E] 72 kg
+   Answer / જવાબ: [A] 70 kg
+   Step-by-Step (EN): New total people = 24 + 1 = 25. New average = 45 + 1 = 46 kg. The teacher brings the new
+   average (46 kg) PLUS +1 kg extra for each of the 24 existing students: 46 + 24 = 70 kg.
+   પદ્ધતિસર સમજૂતી (GU): કુલ વ્યક્તિ
+   = 24 + 1 = 25, નવી સરેરાશ = 46 કિગ્રા. શિક્ષકે પોતાનું વજન 45 કિગ્રા ઉપરાંત તમામ 25
+   લોકો માટે +1 કિગ્રા વધારો આપ્યો: 45 + (25 × 1) = 70 કિગ્રાા.
+   Easy Shortcut (EN): New member = Old Avg + (New Total Count × Increase) = 45 + (25 × 1) = 70 kg.
+   સરળ શોર્ટકટ (GU): જૂની સરેરાશ (45) + નવી કુલ સંખ્યા × વધારો (25 × 1) = 70 કિગ્રા.
+   Common Exam Trap (સામાન્ય ભૂલ): વધારો 24 લોકો સાથે ગુણીને 45 + 24 = 69 કિગ્રા લખી દેવું એ સૌથી સામાન્ય ભૂલ છે (શિક્ષક
+   પોતાને પણ +1 વધે છે!).
+
+[Q5.4: The present ratio of ages of A and B is 4:5. Six years hence, the ratio will be 5:6. Find A's present age.]
+   ગુજરાતી: A અને B ની હાલની ઉંમરનો ગુણોત્તર 4:5 છે. 6 વર્ષ પછી આ ગુણોત્તર 5:6 થશે. A ની હાલની ઉંમર શોધો.
+   [A] 24 years  |  [B] 20 years  |  [C] 28 years  |  [D] 30 years  |  [E] 32 years
+   Answer / જવાબ: [A] 24 years
+   Step-by-Step (EN): A goes 4 → 5 (+1 unit) and B goes 5 → 6 (+1 unit) cleanly in 6 years! So 1 unit = 6 years. A's
+   present age = 4 units = 4 × 6 = 24 years.
+   પદ્ધતિસર સમજૂતી (GU): A 4 થી 5 (+1 યુનિટ) અને B 5 થી 6 (+1 યુનિટ) બંને સરખા 1 યુનિટ વધે છે અને સમય 6 વર્ષ છે. તેથી 1
+   યુનિટ = 6 વર્ષ → A ની હાલની ઉંમર = 4 × 6 = 24 વર્ષ.
+   Easy Shortcut (EN): Gap is equal (+1 unit = 6 yrs) → A = 4 × 6 = 24 years.
+   સરળ શોર્ટકટ (GU): બંને બાજુ 1 યુનિટ વધે છે = 6 વર્ષ, એટલે A = 4 × 6 = 24 વર્ષ.
+   Common Exam Trap (સામાન્ય ભૂલ): 6 વર્ષ પછીની ઉંમર (5×6 = 30 વર્ષ) ભૂલથી હાલની ઉંમર સમજી ટીક ન કરી દેવી.
+
+[Q5.5: A invests ₹40,000 for 12 months and B invests ₹60,000 for 9 months. Out of a total profit of ₹34,000, find B's]
+   share.
+   ગુજરાતી: A ₹40,000 નું રોકાણ 12 મહિના માટે અને B ₹60,000 નું રોકાણ 9 મહિના માટે કરે છે. ₹34,000 ના કુલ નફામાં B નો ભાગ
+   કેટલો?
+   [A] ₹18,000  |  [B] ₹20,000  |  [C] ₹19,000  |  [D] ₹21,000  |  [E] ₹16,000
+   Answer / જવાબ: [A] ₹18,000
+   Step-by-Step (EN): Profit Ratio = (Investment × Time). Cancel 10,000 first: A : B = (4 × 12) : (6 × 9) = 48 : 54 = 8 : 9.
+   Total = 17 units = ₹34,000 → 1 unit = ₹2,000. B's share = 9 × ₹2,000 = ₹18,000.
+   પદ્ધતિસર સમજૂતી (GU): નફાનો ગુણોત્તર = (રોકાણ × સમય). મીંડા ઉડાડી દો: A : B = (4×12) : (6×9) = 48 : 54 = 8 : 9. કુલ 17
+   યુનિટ = ₹34,000 → 1 યુનિટ = ₹2,000 → B = 9 × ₹2,000 = ₹18,000.
+   Easy Shortcut (EN): 4×12 : 6×9 = 8 : 9; sum 17 matches 34,000 (×2,000) → B = 9 × 2,000 = ₹18,000.
+   સરળ શોર્ટકટ (GU): ગુણોત્તર 8:9 નો સરવાળો 17 = 34,000 હોવાથી 1 યુનિટ = 2,000, એટલે B = 18,000.
+   Common Exam Trap (સામાન્ય ભૂલ): સમયને ધ્યાનમાં લીધા વગર માત્ર રોકાણ 4:6 = 2:3 ના ગુણોત્તરમાં નફો ન વહેંચવો.
+
+[Q5.6: The average of 5 consecutive odd numbers is 27. Find the product of the 1st and 5th numbers.]
+   ગુજરાતી: 5 ક્રમિક એકી સંખ્યાઓની સરેરાશ 27 છે. પ્રથમ અને પાંચમી સંખ્યાનો ગુણાકાર શોધો.
+   [A] 713  |  [B] 725  |  [C] 705  |  [D] 735  |  [E] 695
+   Answer / જવાબ: [A] 713
+   Step-by-Step (EN): In an arithmetic progression of 5 terms, the middle (3rd) term equals the average (27). Thus the 5
+   consecutive odd numbers are 23, 25, 27, 29, 31. Product of 1st & 5th = 23 × 31 = (27 − 4)(27 + 4) = 27² − 4² = 729 −
+   16 = 713.
+   પદ્ધતિસર સમજૂતી (GU): 5 ક્રમિક એકી સંખ્યાઓમાં વચ્ચેની (3જી) સંખ્યા જ સરેરાશ હોય છે, એટલે 27 વચ્ચે આવશે: 23, 25, 27, 29,
+   31. પ્રથમ અને પાંચમીનો ગુણાકાર = 23 × 31 = 27² − 4² = 729 − 16 = 713.
+   Easy Shortcut (EN): (Avg − 4)(Avg + 4) = 27² − 16 = 729 − 16 = 713.
+   સરળ શોર્ટકટ (GU): વચ્ચેની સંખ્યા 27 પરથી 27² − 4² = 729 − 16 = 713.
+   Common Exam Trap (સામાન્ય ભૂલ): ક્રમિક પ્રાકૃતિક સંખ્યા સમજી 25, 26, 27, 28, 29 ન લઈ લેવી (અહીં એકી સંખ્યાઓ કહી છે).
+
+[Q5.7: If A:B = 2:3 and B:C = 4:5, find A:B:C.]
+   ગુજરાતી: જો A:B = 2:3 અને B:C = 4:5 હોય, તો A:B:C શોધો.
+   [A] 8:12:15  |  [B] 6:10:15  |  [C] 8:10:15  |  [D] 6:12:15  |  [E] 8:15:12
+   Answer / જવાબ: [A] 8:12:15
+   Step-by-Step (EN): Equalize the common link B (LCM of 3 and 4 = 12): Multiply A:B by 4 → 8:12; Multiply B:C by 3 →
+   12:15. Thus A:B:C = 8:12:15.
+   પદ્ધતિસર સમજૂતી (GU): સામાન્ય પદ B ને સરખું કરો (3 અને 4 નો લ.સા.અ. 12): A:B ને 4 વડે ગુણો → 8:12; B:C ને 3 વડે ગુણો →
+   12:15. તેથી A:B:C = 8:12:15.
+   Easy Shortcut (EN): Reverse-N method: (2×4) : (3×4) : (3×5) = 8 : 12 : 15.
+   સરળ શોર્ટકટ (GU): ઊંધા N ની રીત: (2×4) : (3×4) : (3×5) = 8:12:15.
+   Common Exam Trap (સામાન્ય ભૂલ): વિકલ્પોમાં ક્રમ A:B:C જળવાઈ રહે છે કે નહીં તે જોવું (8:15:12 માં ક્રમ ઊલટો છે).
+
+[Q5.8: The population of a town increases by 10% in the 1st year and decreases by 10% in the 2nd year. If the final]
+   population is 99,000, find the initial population.
+   ગુજરાતી: એક શહેરની વસ્તી પ્રથમ વર્ષે 10% વધે છે અને બીજા વર્ષે 10% ઘટે છે. જો અંતિમ વસ્તી 99,000 હોય, તો શરૂઆતની વસ્તી
+   શોધો.
+   [A] 100,000  |  [B] 105,000  |  [C] 95,000  |  [D] 110,000  |  [E] 98,000
+   Answer / જવાબ: [A] 100,000
+   Step-by-Step (EN): Successive net change for +10% and −10% = −(10²/100)% = −1%. So final population = 99% of
+   initial = 99,000 ⇒ 1% = 1,000 ⇒ 100% = 100,000.
+   પદ્ધતિસર સમજૂતી (GU): +10% અને −10% નો ક્રમિક ફેરફાર = −(10²/100)% = −1% થાય. એટલે અંતિમ વસ્તી = 99% = 99,000
+   → 100% (મૂળ વસ્તી) = 100,000.
+   Easy Shortcut (EN): +x% then −x% always equals −x²/100% = −1% → 99% = 99,000 → 100% = 100,000.
+   સરળ શોર્ટકટ (GU): સરખા ટકા વધે અને ઘટે તો હંમેશા x²/100% (1%) ઘટાડો થાય: 99% = 99,000 → 100% = 1,00,000.
+   Common Exam Trap (સામાન્ય ભૂલ): +10% અને −10% સરભર થઈ 0% ફેરફાર થાય એમ માની 99,000 જવાબ ન ટીક કરવો.
+
+[Q5.9: Four years ago, a father was 4 times as old as his son. Six years hence, he will be 2.5 times as old as his son. Find]
+   the son's present age.
+   ગુજરાતી: 4 વર્ષ પહેલાં પિતાની ઉંમર પુત્ર કરતાં 4 ગણી હતી. 6 વર્ષ પછી તે પુત્રની ઉંમરથી 2.5 ગણી થશે. પુત્રની હાલની ઉંમર શોધો.
+   [A] 14 years  |  [B] 16 years  |  [C] 12 years  |  [D] 15 years  |  [E] 18 years
+   Answer / જવાબ: [A] 14 years
+   Step-by-Step (EN): Time span between (−4 yrs) and (+6 yrs) is 10 years. Ratio 1 (−4 yrs) F:S = 4:1 (diff = 3); Ratio 2 (+6
+   yrs) F:S = 2.5:1 = 5:2 (diff = 3). Since gaps are already equal (= 3), S goes from 1 to 2 (+1 unit) in 10 years! So 1 unit =
+   10 yrs ⇒ Son 4 yrs ago = 10 ⇒ Present age = 10 + 4 = 14 years.
+   પદ્ધતિસર સમજૂતી (GU): −4 વર્ષ અને +6 વર્ષ વચ્ચેનો ગાળો = 10 વર્ષ. 4 વર્ષ પહેલાં પિતા:પુત્ર = 4:1 (તફાવત 3); 6 વર્ષ પછી = 2.5:1
+   એટલે 5:2 (તફાવત 3). બંને તફાવત સરખા (3) હોવાથી પુત્ર 1 થી 2 (+1 યુનિટ) = 10 વર્ષ વધે છે. 4 વર્ષ પહેલાં પુત્ર = 10 વર્ષ → હાલની
+   ઉંમર = 10 + 4 = 14 વર્ષ.
+   Easy Shortcut (EN): 2.5:1 = 5:2; gap between 4:1 and 5:2 is already 3, so +1 unit = 10 yrs → 10 + 4 = 14 yrs.
+   સરળ શોર્ટકટ (GU): 2.5:1 ને 5:2 લખતાં 4:1 અને 5:2 વચ્ચે 1 યુનિટનો તફાવત = 10 વર્ષ → 10 + 4 = 14 વર્ષ.
+   Common Exam Trap (સામાન્ય ભૂલ): 4 વર્ષ પહેલાંની ઉંમર (10 વર્ષ) માં 4 ઉમેરીને હાલની ઉંમર શોધવાનું ભૂલશો નહીં.
+
+[Q5.10: A, B, and C invest in the ratio 2:3:5. A receives 10% of the total profit as a managing fee, and the rest is shared]
+   in their investment ratio. If total profit is ₹100,000, find A's total share.
+   ગુજરાતી: A, B અને C 2:3:5 ના ગુણોત્તરમાં રોકાણ કરે છે. A ને કુલ નફાના 10% મેનેજિંંગ ફી મળે છે અને બાકીનો નફો રોકાણના
+   ગુણોત્તરમાં વહેંચાય છે. જો કુલ નફો ₹100,000 હોય, તો A નો કુલ હિસ્સો શોધો.
+   [A] ₹28,000  |  [B] ₹30,000  |  [C] ₹26,000  |  [D] ₹25,000  |  [E] ₹32,000
+   Answer / જવાબ: [A] ₹28,000
+   Step-by-Step (EN): A's managing fee = 10% of 100,000 = ₹10,000. Remaining distributable profit = ₹100,000 −
+   ₹10,000 = ₹90,000. A's investment share = (2 / (2+3+5)) = 2/10 = 20% of ₹90,000 = ₹18,000. Total for A = ₹10,000 +
+   ₹18,000 = ₹28,000.
+   પદ્ધતિસર સમજૂતી (GU): A ની મેનેજિંંગ ફી = 1,00,000 ના 10% = ₹10,000. બાકીનો નફો = ₹90,000. તેમાં A નો ભાગ =
+   2/(2+3+5) = 2/10 એટલે 20% → 90,000 ના 20% = ₹18,000. A નો કુલ હિસ્સો = 10,000 + 18,000 = ₹28,000.
+   Easy Shortcut (EN): 10% fixed + 20% of remaining 90% (= 18%) = 28% of ₹100,000 = ₹28,000.
+   સરળ શોર્ટકટ (GU): 10% ફી + બાકીના 90% ના 20% (18%) = કુલ 28% એટલે કે ₹28,000.
+   Common Exam Trap (સામાન્ય ભૂલ): બાકીના ₹90,000 ને બદલે કુલ ₹1,00,000 ના 20% = 20,000 ગણીને 30,000 જવાબ ન લખી
+   દેવો.
+   📑 CHAPTER 5 FORMULA REVISION SHEET (અંકગણિતના પાયાના તમામ સૂત્રો)
+   Topic
+   Formula & Mathematical Definition
+   Percentage Change
+   % Change = [(Final - Initial) / Initial] × 100.
+   Successive % Change
+   Net % = a + b + (ab)/100. (વધારો હોય તો +, ઘટાડો હોય તો -).
+   Constant Expenditure
+   જો કિંંમતમાં r% વધારો થાય, તો વપરાશ ઘટાડો = [r / (100 + r)] × 100.
+   Partnership Profit
+   Profit₁ : Profit₂ = (Capital₁ × Time₁) : (Capital₂ × Time₂).
+   Average Shift
+   New Member = Old Average + (New Count × Increase in Average).
+   Age Difference
+   બે વ્યક્તિ
+   ઓની ઉંમર વચ્ચેનો તફાવત સમય સાથે ક્યારેય બદલાતો નથી.
+
+========================================================================================

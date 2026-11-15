@@ -44,15 +44,371 @@ Round 2 (Pie Chart Benchmarks):
   - Arts (72 deg) to Others (36 deg) -> 2:1                        [Learned 72 = 2 x 36]
   - 90 deg / 360 deg -> 1/4 (25%)                                  [Learned 1/4 clock/quarter rule]
 
+----------------------------------------------------------------------------------------
+SECTION 3: COMPLETE MASTER QUESTION BANK (30 QUESTIONS SOLVED & VERIFIED)
+Every question includes Step-by-Step Math, 10-Second Speed Shortcuts & Exam Traps!
+----------------------------------------------------------------------------------------
 
-3. REMAINING / EXTRA PRACTICE IN CHAPTER 9 (FOR REVISION LATER)
----------------------------------------------------------------
-[ ] PDF Q9.2: Rajkot Current (700) is % of Vadodara Total (1500) -> 7/15 = 46.67%
-[ ] PDF Q9.3: Average Savings accounts across all 5 branches -> 5500 / 5 = 1100
-[ ] PDF Q9.5: 25% Savings in Ahmedabad are female -> Male = 75% of 1200 = 900
-[ ] PDF Q9.6 - Q9.10: Set 2 Bar Chart (Home loan vs Vehicle loan)
-[ ] PDF Q9.11 - Q9.15: Set 3 Pie Chart (Degrees to applicants)
-[ ] PDF Q9.16 - Q9.20: Set 4 Line Graph (Production of P & Q)
-[ ] PDF Q9.21 - Q9.25: Set 5 Caselet DI (Rural banking customers)
-[ ] PDF Q9.26 - Q9.30: Set 6 Missing DI (Phones & Tablets sales)
-====================================================================
+[Q9.1: Find the ratio of Savings accounts in Surat to Current accounts in Ahmedabad.]
+   ગુજરાતી: સુરતમાં બચત (Savings) ખાતાઓ અને અમદાવાદમાં ચાલુ (Current) ખાતાઓનો ગુણોત્તર શોધો.
+   [A] 15:8  |  [B] 8:15  |  [C] 5:3  |  [D] 15:7  |  [E] 12:7
+   Answer / જવાબ: [A] 15:8
+   Step-by-Step (EN): From Table: Surat Savings = 1,500; Ahmedabad Current = 800. Ratio = 1,500 : 800 = 15:8.
+   પદ્ધતિસર સમજૂતી (GU): કોષ્ટક પરથી: સુરત બચત = 1,500; અમદાવાદ ચાલુ = 800. ગુણોત્તર = 1,500 : 800 = 15:8.
+   Easy Shortcut (EN): Drop 00 immediately → 15:8.
+   સરળ શોર્ટકટ (GU): બંને પાછળના બે મીંડા ઉડાડી દો → 15:8.
+   Common Exam Trap (સામાન્ય ભૂલ): ક્રમ બદલીને 8:15 ન ટીક કરી દેવો.
+
+[Q9.2: Current accounts in Rajkot are approximately what percentage of Total accounts in Vadodara?]
+   ગુજરાતી: રાજકોટમાં ચાલુ ખાતાઓ એ વડોદરાના કુલ ખાતાઓના કેટલા ટકા છે?
+   [A] 44.5%  |  [B] 46.67%  |  [C] 48.33%  |  [D] 42.0%  |  [E] 52.5%
+   Answer / જવાબ: [B] 46.67% (46 2/3%)
+   Step-by-Step (EN): Rajkot Current = 700; Vadodara Total = 1,500. Required % = (700 / 1,500) × 100 = 700 / 15 = 140 /
+   3 = 46.67%.
+   પદ્ધતિસર સમજૂતી (GU): રાજકોટ ચાલુ = 700; વડોદરા કુલ = 1,500. ટકા = (700/1500) × 100 = 140/3 = 46.67%.
+   Easy Shortcut (EN): 7/15 = 7 × 6.666% = 46.67%.
+   સરળ શોર્ટકટ (GU): 1/15 = 6.67% યાદ રાખો, એટલે 7/15 = 46.67%.
+   Common Exam Trap (સામાન્ય ભૂલ): રાજકોટ અને વડોદરાની કૉલમ અદલાબદલી ન થઈ જાય તેનું ધ્યાન રાખવું.
+
+[Q9.3: Find the average number of Savings accounts across all 5 branches.]
+   ગુજરાતી: તમામ 5 શાખાઓમાં બચત (Savings) ખાતાઓની સરેરાશ સંખ્યા શોધો.
+   [A] 1,050  |  [B] 1,150  |  [C] 1,100  |  [D] 1,200  |  [E] 1,080
+   Answer / જવાબ: [C] 1,100
+   Step-by-Step (EN): Sum of Savings = 1,200 + 1,500 + 900 + 1,100 + 800 = 5,500. Average = 5,500 ÷ 5 = 1,100.
+   પદ્ધતિસર સમજૂતી (GU): કુલ બચત ખાતા = 1200 + 1500 + 900 + 1100 + 800 = 5,500. સરેરાશ = 5,500 / 5 = 1,100.
+   Easy Shortcut (EN): Assumed base 1,100 → deviations (+100 +400 −200 +0 −300) = 0 → Avg = 1,100!
+   સરળ શોર્ટકટ (GU): (1200+800)=2000, (1500+900+1100)=3500 → કુલ 5500/5 = 1,100.
+   Common Exam Trap (સામાન્ય ભૂલ): કુલ ખાતાઓ (Total) નો સરવાળો ભૂલથી ન કરી લેવો.
+
+[Q9.4: Total accounts in Surat are what percent more than Total accounts in Gandhinagar?]
+   ગુજરાતી: સુરતમાં કુલ ખાતાઓ ગાંધીનગરના કુલ ખાતાઓ કરતાં કેટલા ટકા વધુ છે?
+   [A] 80%  |  [B] 120%  |  [C] 50%  |  [D] 100%  |  [E] 90%
+   Answer / જવાબ: [D] 100%
+   Step-by-Step (EN): Surat Total = 2,400; Gandhinagar Total = 1,200. More by = 2,400 − 1,200 = 1,200. % more = (1,200
+   / 1,200) × 100 = 100%.
+   પદ્ધતિસર સમજૂતી (GU): સુરત કુલ = 2,400; ગાંધીનગર કુલ = 1,200. તફાવત = 1,200. ટકા વધુ = (1200/1200) × 100 = 100%.
+   Easy Shortcut (EN): Double value (1,200 → 2,400) ALWAYS equals +100% more.
+   સરળ શોર્ટકટ (GU): જ્યારે કિંંમત બમણી (1200 થી 2400) હોય ત્યારે હંમેશા 100% વધુ હોય!
+   Common Exam Trap (સામાન્ય ભૂલ): આધારમાં સુરત (2400) મૂકીને 50% જવાબ ટીક ન કરી દેવો; 'than Gandhinagar' હોવાથી
+   છેદમાં 1200 આવે.
+
+[Q9.5: If 25% of Savings accounts in Ahmedabad belong to females, find the number of male Savings accounts in]
+   Ahmedabad.
+   ગુજરાતી: જો અમદાવાદના બચત ખાતાઓમાંથી 25% મહિલાઓના હોય, તો અમદાવાદમાં પુરુષોના બચત ખાતા કેટલા હશે?
+   [A] 900  |  [B] 850  |  [C] 960  |  [D] 800  |  [E] 1,000
+   Answer / જવાબ: [A] 900
+   Step-by-Step (EN): Ahmedabad Savings = 1,200. Male share = 100% − 25% = 75% (3/4). Male accounts = (3/4) ×
+   1,200 = 900.
+   પદ્ધતિસર સમજૂતી (GU): અમદાવાદ બચત ખાતા = 1,200. મહિલા 25% એટલે પુરુષ = 75% (3/4). પુરુષ ખાતા = 1200 × 3/4 =
+   900.
+   Easy Shortcut (EN): 75% of 1,200 = 3 × 300 = 900.
+   સરળ શોર્ટકટ (GU): 1200 ના 25% (ચોથો ભાગ = 300) બાદ કરો: 1200 − 300 = 900.
+   Common Exam Trap (સામાન્ય ભૂલ): મહિલાઓના ખાતા (300) ને બદલે અમદાવાદના કુલ ખાતા (2000) પર ગણતરી ન કરી લેવી.
+
+[Q9.6: Find the percentage increase in Total loans (Home + Vehicle) from 2021 to 2023.]
+   ગુજરાતી: 2021 થી 2023 સુધીમાં કુલ લોન (હોમ + વિહિકલ) માં કેટલા ટકાનો વધારો થયો?
+   [A] 45%  |  [B] 50%  |  [C] 55%  |  [D] 40%  |  [E] 60%
+   Answer / જવાબ: [B] 50%
+   Step-by-Step (EN): 2021 Total = 240 + 160 = 400 Cr. 2023 Total = 360 + 240 = 600 Cr. Increase = 600 − 400 = 200 Cr.
+   % Increase = (200 / 400) × 100 = 50%.
+   પદ્ધતિસર સમજૂતી (GU): 2021 કુલ લોન = 240 + 160 = 400 કરોડ. 2023 કુલ = 360 + 240 = 600 કરોડ. વધારો = 200 કરોડ →
+   (200/400) × 100 = 50%.
+   Easy Shortcut (EN): 400 → 600 is cleanly +1/2 = 50%.
+   સરળ શોર્ટકટ (GU): 400 પર 200 વધે એટલે અડધો ભાગ = સીધા 50%.
+   Common Exam Trap (સામાન્ય ભૂલ): માત્ર હોમ લોન (240 થી 360 = +50%) જોકે અહીં બંને 50% છે, પરંતુ હંમેશા કુલ (Total)
+   ગણો.
+
+[Q9.7: Find the ratio of Vehicle loans in 2022 to Home loans in 2024.]
+   ગુજરાતી: 2022 ની વિહિકલ લોન અને 2024 ની હોમ લોનનો ગુણોત્તર શોધો.
+   [A] 4:7  |  [B] 3:8  |  [C] 3:7  |  [D] 5:7  |  [E] 2:5
+   Answer / જવાબ: [C] 3:7
+   Step-by-Step (EN): Vehicle 2022 = 180 Cr; Home 2024 = 420 Cr. Ratio = 180 : 420. Divide both by 60 → 3:7.
+   પદ્ધતિસર સમજૂતી (GU): 2022 વિહિકલ લોન = 180; 2024 હોમ લોન = 420. ગુણોત્તર = 180 : 420 (60 વડે ભાગતાં) = 3:7.
+   Easy Shortcut (EN): 18 : 42 ÷ 6 = 3 : 7.
+   સરળ શોર્ટકટ (GU): 180 અને 420 માંથી 60 વડે ભાગતાં 3:7 મળે.
+   Common Exam Trap (સામાન્ય ભૂલ): બાર ચાર્ટમાં ભૂરો (Home) અને કેસરી (Vehicle) રંગ ધ્યાનથી વાંચવો.
+
+[Q9.8: Find the average Home loan per year from 2021 to 2024 (in ₹ Crore).]
+   ગુજરાતી: 2021 થી 2024 સુધીની વાર્ષિક સરેરાશ હોમ લોન (કરોડ ₹ માં) શોધો.
+   [A] 320 Cr  |  [B] 340 Cr  |  [C] 325 Cr  |  [D] 330 Cr  |  [E] 315 Cr
+   Answer / જવાબ: [D] 330 Cr
+   Step-by-Step (EN): Home loans across 4 years = 240 + 300 + 360 + 420 = 1,320 Cr. Average = 1,320 ÷ 4 = 330 Cr.
+   પદ્ધતિસર સમજૂતી (GU): ચારેય વર્ષની હોમ લોન = 240 + 300 + 360 + 420 = 1,320 કરોડ. સરેરાશ = 1320 / 4 = 330 કરોડ.
+   Easy Shortcut (EN): Equally spaced AP (240, 300, 360, 420)! Average = midpoint of middle two = (300 + 360)/2 = 330
+   Cr.
+   સરળ શોર્ટકટ (GU): ક્રમિક +60 ના અંતરે (240, 300, 360, 420) હોવાથી બરાબર વચ્ચેની કિંંમત (300+360)/2 = 330 કરોડ!
+   Common Exam Trap (સામાન્ય ભૂલ): 4 ને બદલે 5 વડે ભાગાકાર ન થઈ જાય તેનું ધ્યાન રાખવું (અહીં 4 વર્ષ આપ્યા છે).
+
+[Q9.9: In 2024, Vehicle loans formed what percentage of Total loans in that year?]
+   ગુજરાતી: 2024 માં વિહિકલ લોન એ તે વર્ષની કુલ લોનના કેટલા ટકા હતી?
+   [A] 38%  |  [B] 42%  |  [C] 36%  |  [D] 45%  |  [E] 40%
+   Answer / જવાબ: [E] 40%
+   Step-by-Step (EN): In 2024: Vehicle = 280 Cr, Home = 420 Cr ⇒ Total = 280 + 420 = 700 Cr. Percentage = (280 / 700)
+   × 100 = 40%.
+   પદ્ધતિસર સમજૂતી (GU): 2024 માં વિહિકલ = 280 અને હોમ = 420 → કુલ લોન = 700 કરોડ. ટકા = (280/700) × 100 = 40%.
+   Easy Shortcut (EN): 280 / 700 = 4 / 10 = 40%.
+   સરળ શોર્ટકટ (GU): 28/70 = 4/10 = 40% સીધું મનમાં.
+   Common Exam Trap (સામાન્ય ભૂલ): છેદમાં કુલ 700 ને બદલે હોમ લોન 420 (280/420 = 66.67%) ન મૂકી દેવી.
+
+[Q9.10: If Home loans in 2025 increase by 20% over 2024, what will be the Home loan amount in 2025?]
+   ગુજરાતી: જો 2025 માં હોમ લોનમાં 2024 ની સરખામણીમાં 20% નો વધારો થાય, તો 2025 ની હોમ લોન કેટલી થશે?
+   [A] 504 Cr  |  [B] 500 Cr  |  [C] 484 Cr  |  [D] 512 Cr  |  [E] 496 Cr
+   Answer / જવાબ: [A] 504 Cr
+   Step-by-Step (EN): 2024 Home loans = 420 Cr. +20% = +84 Cr. 2025 Home loans = 420 + 84 = 504 Cr.
+   પદ્ધતિસર સમજૂતી (GU): 2024 ની હોમ લોન = 420 કરોડ. 20% વધારો = 420 ના 20% = 84 કરોડ. 2025 ની લોન = 420 + 84 =
+   504 કરોડ.
+   Easy Shortcut (EN): 420 × 1.2 = 42 × 12 = 504 Cr.
+   સરળ શોર્ટકટ (GU): 420 નો 10% = 42, તો 20% = 84 → 420 + 84 = 504 કરોડ.
+   Common Exam Trap (સામાન્ય ભૂલ): વિહિકલ લોન 280 પર 20% વધારીને ગણતરી ન થઈ જાય તે જોવું.
+
+[Q9.11: Find the total number of applicants from Commerce.]
+   ગુજરાતી: કોમર્સ (Commerce) ના કુલ ઉમેદવારોની સંખ્યા શોધો.
+   [A] 20,400  |  [B] 21,600  |  [C] 22,000  |  [D] 21,000  |  [E] 19,800
+   Answer / જવાબ: [B] 21,600
+   Step-by-Step (EN): 360° = 72,000 applicants ⇒ 1° = 200. Commerce = 108° = 108 × 200 = 21,600 (note chart legend
+   also shows 30% of 72,000 = 21,600).
+   પદ્ધતિસર સમજૂતી (GU): 360° = 72,000 એટલે 1° = 200 ઉમેદવાર. કોમર્સ = 108° → 108 × 200 = 21,600.
+   Easy Shortcut (EN): 108 × 200 = 21,600 (or 30% × 72,000).
+   સરળ શોર્ટકટ (GU): 1° = 200 હોવાથી ડિગ્રીને સીધા 200 વડે ગુણો: 108 × 200 = 21,600.
+   Common Exam Trap (સામાન્ય ભૂલ): ડિગ્રીને સીધા ટકા સમજીને 108 ન લઈ લેવા; કુલ 360° છે (100% નહીં).
+
+[Q9.12: By how much are Arts applicants less than Science applicants?]
+   ગુજરાતી: આર્ટ્સ (Arts) ના ઉમેદવારો સાયન્સ (Science) ના ઉમેદવારો કરતાં કેટલા ઓછા છે?
+   [A] 3,200  |  [B] 4,000  |  [C] 3,600  |  [D] 3,400  |  [E] 2,800
+   Answer / જવાબ: [C] 3,600
+   Step-by-Step (EN): Difference in degrees = Science (90°) − Arts (72°) = 18°. Since 1° = 200, difference = 18 × 200 =
+   3,600.
+   પદ્ધતિસર સમજૂતી (GU): ડિગ્રીનો તફાવત = સાયન્સ (90°) − આર્ટ્સ (72°) = 18°. 1° = 200 હોવાથી તફાવત = 18 × 200 = 3,600.
+   Easy Shortcut (EN): Subtract degrees FIRST (90° − 72° = 18°) → 18 × 200 = 3,600.
+   સરળ શોર્ટકટ (GU): 18,000 અને 14,400 અલગ-અલગ શોધવાને બદલે સીધો ડિગ્રી તફાવત 18° × 200 = 3,600 કરો.
+   Common Exam Trap (સામાન્ય ભૂલ): બંનેનો સરવાળો (90+72) ન કરી દેવો; 'less than' એટલે બાદબાકી.
+
+[Q9.13: Find the ratio of Engineering applicants to Others applicants.]
+   ગુજરાતી: એન્જિનિયરિંંગ (Engineering) અને અન્ય (Others) ઉમેદવારોનો ગુણોત્તર શોધો.
+   [A] 2:3  |  [B] 4:3  |  [C] 5:3  |  [D] 3:2  |  [E] 5:2
+   Answer / જવાબ: [D] 3:2
+   Step-by-Step (EN): Engineering = 54°, Others = 36°. Because both come from the same pie total, ratio of counts =
+   ratio of degrees = 54 : 36 = 3:2.
+   પદ્ધતિસર સમજૂતી (GU): એન્જિનિયરિંંગ = 54°, અન્ય = 36°. બંનેનો પાયો સરખો હોવાથી સીધો ડિગ્રીનો ગુણોત્તર લો: 54 : 36 = 3:2.
+   Easy Shortcut (EN): Ratio uses degrees directly (skip multiplying by 200!): 54/18 : 36/18 = 3 : 2.
+   સરળ શોર્ટકટ (GU): કુલ સંખ્યા 10,800 અને 7,200 શોધવાની જરૂર નથી; સીધો 54 : 36 (18 વડે ભાગતાં) = 3:2.
+   Common Exam Trap (સામાન્ય ભૂલ): ક્રમ ઊલટો કરીને 2:3 ન ટીક કરી દેવો.
+
+[Q9.14: Science applicants form what percentage of the total applicants?]
+   ગુજરાતી: સાયન્સ (Science) ના ઉમેદવારો કુલ ઉમેદવારોના કેટલા ટકા છે?
+   [A] 20%  |  [B] 22.5%  |  [C] 30%  |  [D] 27.5%  |  [E] 25%
+   Answer / જવાબ: [E] 25%
+   Step-by-Step (EN): Science central angle = 90° out of 360°. Percentage = (90 / 360) × 100 = (1/4) × 100 = 25%.
+   પદ્ધતિસર સમજૂતી (GU): સાયન્સનો ખૂણો = 90° (કુલ 360° માંથી). ટકા = (90/360) × 100 = 25%.
+   Easy Shortcut (EN): 90° out of 360° is one quarter = 25%.
+   સરળ શોર્ટકટ (GU): 360° નો ચોથો ભાગ 90° એટલે સીધા 25%.
+   Common Exam Trap (સામાન્ય ભૂલ): 90° ને 90% સમજી લેવાની ભૂલ ન કરવી.
+
+[Q9.15: If 60% of Commerce applicants passed the exam, how many Commerce applicants passed?]
+   ગુજરાતી: જો કોમર્સના 60% ઉમેદવારો પરીક્ષામાં પાસ થયા હોય, તો કેટલા કોમર્સ ઉમેદવારો પાસ થયા?
+   [A] 12,960  |  [B] 13,200  |  [C] 12,600  |  [D] 13,440  |  [E] 12,480
+   Answer / જવાબ: [A] 12,960
+   Step-by-Step (EN): Commerce total = 21,600. Passed = 60% of 21,600 = 0.6 × 21,600 = 12,960.
+   પદ્ધતિસર સમજૂતી (GU): કોમર્સના કુલ ઉમેદવાર = 21,600. પાસ = 21,600 ના 60% = 21,600 × 3/5 = 4,320 × 3 = 12,960.
+   Easy Shortcut (EN): 216 × 6 = 1296 → 12,960.
+   સરળ શોર્ટકટ (GU): 216 × 6 = 1,296 પાછળ 0 મૂકો → 12,960.
+   Common Exam Trap (સામાન્ય ભૂલ): કુલ 72,000 ના 60% કાઢીને ગુણાકાર ન કરવો; માત્ર કોમર્સના (21,600) ગણવાના છે.
+
+[Q9.16: Find the ratio of Company P production in March to Company Q production in April.]
+   ગુજરાતી: માર્ચમાં કંપની P નું ઉત્પાદન અને એપ્રિલમાં કંપની Q ના ઉત્પાદનનો ગુણોત્તર શોધો.
+   [A] 11:13  |  [B] 12:13  |  [C] 13:12  |  [D] 12:11  |  [E] 6:7
+   Answer / જવાબ: [B] 12:13
+   Step-by-Step (EN): From Line Graph: P in Mar = 60 thousand; Q in Apr = 65 thousand. Ratio = 60 : 65 = 12:13.
+   પદ્ધતિસર સમજૂતી (GU): લાઈન ગ્રાફ મુજબ: માર્ચમાં P = 60; એપ્રિલમાં Q = 65. ગુણોત્તર = 60 : 65 = 12:13.
+   Easy Shortcut (EN): Divide both by 5 → 12 : 13.
+   સરળ શોર્ટકટ (GU): બંનેને 5 વડે ભાગતાં 12:13 મળે.
+   Common Exam Trap (સામાન્ય ભૂલ): માર્ચ અને એપ્રિલની કંપનીઓ (P અને Q) બદલાઈ ન જાય તે ધ્યાનથી જોવું.
+
+[Q9.17: Find the percentage increase in combined production (P + Q) from January to April.]
+   ગુજરાતી: જાન્યુઆરીથી એપ્રિલ સુધીમાં કંપની P અને Q ના કુલ ઉત્પાદનમાં કેટલા ટકાનો વધારો થયો?
+   [A] 65%  |  [B] 62.5%  |  [C] 68.75%  |  [D] 72.5%  |  [E] 70%
+   Answer / જવાબ: [C] 68.75%
+   Step-by-Step (EN): Jan total = 45 + 35 = 80 thousand. Apr total = 70 + 65 = 135 thousand. Increase = 135 − 80 = 55
+   thousand. % Increase = (55 / 80) × 100 = 11/16 × 100 = 68.75%.
+   પદ્ધતિસર સમજૂતી (GU): જાન્યુઆરી કુલ = 45 + 35 = 80; એપ્રિલ કુલ = 70 + 65 = 135. વધારો = 135 − 80 = 55. ટકા વધારો =
+   (55/80) × 100 = 11/16 = 68.75%.
+   Easy Shortcut (EN): 11/16 = 1/2 + 3/16 = 50% + 18.75% = 68.75%.
+   સરળ શોર્ટકટ (GU): 1/16 = 6.25% એટલે 11/16 = 11 × 6.25% = 68.75%.
+   Common Exam Trap (સામાન્ય ભૂલ): જાન્યુઆરીના કુલ (80) ને બદલે એપ્રિલના કુલ (135) વડે ભાગવાની ભૂલ ન કરવી.
+
+[Q9.18: Find the difference between total production of Company P and total production of Company Q across all four]
+   months (in thousands).
+   ગુજરાતી: ચારેય મહિનામાં કંપની P ના કુલ ઉત્પાદન અને કંપની Q ના કુલ ઉત્પાદન વચ્ચેનો તફાવત (હજારમાં) શોધો.
+   [A] 25 thousand  |  [B] 35 thousand  |  [C] 20 thousand  |  [D] 30 thousand  |  [E] 40 thousand
+   Answer / જવાબ: [D] 30 thousand
+   Step-by-Step (EN): Sum P = 45 + 50 + 60 + 70 = 225 thousand. Sum Q = 35 + 40 + 55 + 65 = 195 thousand.
+   Difference = 225 − 195 = 30 thousand.
+   પદ્ધતિસર સમજૂતી (GU): કુલ P = 45+50+60+70 = 225; કુલ Q = 35+40+55+65 = 195. તફાવત = 225 − 195 = 30 હજાર.
+   Easy Shortcut (EN): Sum month-wise gaps (P − Q): 10 + 10 + 5 + 5 = 30 thousand!
+   સરળ શોર્ટકટ (GU): દર મહિનાનો તફાવત ઉમેરો: (45−35)=10, (50−40)=10, (60−55)=5, (70−65)=5 → 10+10+5+5 = 30
+   હજાર!
+   Common Exam Trap (સામાન્ય ભૂલ): બંનેનો કુલ સરવાળો કરતી વખતે 5 કે 10 ની નાની સરવાળા ભૂલ ટાળવા મહિનાવાર તફાવત
+   ઉમેરો.
+
+[Q9.19: Find the average monthly production of Company Q (in thousands).]
+   ગુજરાતી: કંપની Q નું માસિક સરેરાશ ઉત્પાદન (હજારમાં) શોધો.
+   [A] 50 thousand  |  [B] 47.5 thousand  |  [C] 51.25 thousand  |  [D] 46.25 thousand  |  [E] 48.75 thousand
+   Answer / જવાબ: [E] 48.75 thousand
+   Step-by-Step (EN): Sum Q = 35 + 40 + 55 + 65 = 195 thousand. Average over 4 months = 195 ÷ 4 = 48.75
+   thousand.
+   પદ્ધતિસર સમજૂતી (GU): કુલ Q = 35 + 40 + 55 + 65 = 195 હજાર. 4 મહિનાની સરેરાશ = 195 / 4 = 48.75 હજાર.
+   Easy Shortcut (EN): 195/4 = (200 − 5)/4 = 50 − 1.25 = 48.75.
+   સરળ શોર્ટકટ (GU): 195 ને 4 વડે ભાગવાને બદલે (200 − 5)/4 = 50 − 1.25 = 48.75.
+   Common Exam Trap (સામાન્ય ભૂલ): કંપની P ની સરેરાશ (225/4 = 56.25) ન કાઢી દેવી.
+
+[Q9.20: In February, Company Q's production was what percent of Company P's production?]
+   ગુજરાતી: ફેબ્રુુઆરીમાં કંપની Q નું ઉત્પાદન કંપની P ના ઉત્પાદનના કેટલા ટકા હતું?
+   [A] 80%  |  [B] 75%  |  [C] 85%  |  [D] 72%  |  [E] 90%
+   Answer / જવાબ: [A] 80%
+   Step-by-Step (EN): In Feb: Q = 40 thousand, P = 50 thousand. Percentage = (40 / 50) × 100 = 80%.
+   પદ્ધતિસર સમજૂતી (GU): ફેબ્રુુઆરીમાં Q = 40 અને P = 50. ટકા = (40/50) × 100 = 80%.
+   Easy Shortcut (EN): 4/5 = 80% immediately.
+   સરળ શોર્ટકટ (GU): 40/50 = 4/5 = સીધા 80%.
+   Common Exam Trap (સામાન્ય ભૂલ): 'percentage less' (20%) અને 'what percent of' (80%) વચ્ચે ગૂંચવણ ન કરવી; અહીં 'what
+   percent of' પૂછ્યુંું છે.
+   SET 5: CASELET DI (૧,૨૦૦ ગ્રાામીણ ગ્રાાહકોનું વિશ્લેેષણ)
+   Directions (English): Out of 1,200 rural bank customers surveyed, 60% are males and the remaining are females. Among
+   males, 40% use Mobile banking only, 30% use Net banking only, and the remaining use Both. Among females, 50% use
+   Mobile banking only, 25% use Net banking only, and the rest use Both. (Derived Table: Males = 720 [Mobile only 288, Net
+   only 216, Both 216]; Females = 480 [Mobile only 240, Net only 120, Both 120]).
+   સૂચના (ગુજરાતી): ૧,૨૦૦ ગ્રામીણ ગ્રાહકોમાંથી ૬૦% પુરુષો (૭૨૦) અને બાકીની મહિલાઓ (૪૮૦) છે. પુરુષોમાં ૪૦% માત્ર મોબાઈલ (૨૮૮),
+   ૩૦% માત્ર નેટ (૨૧૬) અને બાકીના ૩૦% બંને સુવિધા (૨૧૬) વાપરે છે. મહિલાઓમાં ૫૦% માત્ર મોબાઈલ (૨૪૦), ૨૫% માત્ર નેટ (૧૨૦) અને
+   બાકીની ૨૫% બંને સુવિધા (૧૨૦) વાપરે છે.
+
+[Q9.21: Find the total number of customers (males + females) using Mobile banking only.]
+   ગુજરાતી: માત્ર મોબાઈલ બેંકિંંગ (Mobile only) વાપરતા કુલ ગ્રાહકો (પુરુષ + મહિલા) કેટલા?
+   [A] 520  |  [B] 528  |  [C] 540  |  [D] 512  |  [E] 536
+   Answer / જવાબ: [B] 528
+   Step-by-Step (EN): From Caselet: Males (Mobile only) = 40% of 720 = 288; Females (Mobile only) = 50% of 480 = 240.
+   Total = 288 + 240 = 528.
+   પદ્ધતિસર સમજૂતી (GU): કેસલેટ મુજબ: પુરુષ (માત્ર મોબાઈલ) = 720 ના 40% = 288; મહિલા (માત્ર મોબાઈલ) = 480 ના 50% =
+   240. કુલ = 288 + 240 = 528.
+   Easy Shortcut (EN): 288 + 240 = 528.
+   સરળ શોર્ટકટ (GU): સીધો સરવાળો: 288 + 240 = 528.
+   Common Exam Trap (સામાન્ય ભૂલ): આમાં 'Both' વાળા ગ્રાહકો (216 + 120) ઉમેરી ન દેવા; અહીં 'Mobile ONLY' પૂછ્યુંું છે.
+
+[Q9.22: Find the ratio of Males using Both facilities to Females using Net banking only.]
+   ગુજરાતી: બંને સુવિધાઓ (Both) વાપરતા પુરુષો અને માત્ર નેટ બેંકિંંગ (Net only) વાપરતી મહિલાઓનો ગુણોત્તર શોધો.
+   [A] 8:5  |  [B] 9:4  |  [C] 9:5  |  [D] 7:5  |  [E] 6:5
+   Answer / જવાબ: [C] 9:5
+   Step-by-Step (EN): Males (Both) = 216; Females (Net only) = 120. Ratio = 216 : 120. Divide both by 24 → 9:5.
+   પદ્ધતિસર સમજૂતી (GU): પુરુષ (બંને) = 216; મહિલા (માત્ર નેટ) = 120. ગુણોત્તર = 216 : 120 (24 વડે ભાગતાં) = 9:5.
+   Easy Shortcut (EN): 216 = 24 × 9 and 120 = 24 × 5 → 9:5.
+   સરળ શોર્ટકટ (GU): પહેલા 12 વડે ભાગતાં 18:10, પછી 2 વડે ભાગતાં 9:5.
+   Common Exam Trap (સામાન્ય ભૂલ): પુરુષ 'Net only' (216 સમાન છે) સાથે સરખું હોવા છતાં બધા કેસમાં કૉલમ ધ્યાનથી
+   તપાસવી.
+
+[Q9.23: Females using Both facilities form what percentage of total female customers?]
+   ગુજરાતી: બંને સુવિધાઓ વાપરતી મહિલાઓ એ કુલ મહિલા ગ્રાહકોના કેટલા ટકા છે?
+   [A] 20%  |  [B] 30%  |  [C] 22.5%  |  [D] 25%  |  [E] 15%
+   Answer / જવાબ: [D] 25%
+   Step-by-Step (EN): Females (Both) = 120; Total females = 480. Percentage = (120 / 480) × 100 = (1/4) × 100 = 25%.
+   પદ્ધતિસર સમજૂતી (GU): બંને વાપરતી મહિલા = 120; કુલ મહિલા = 480. ટકા = (120/480) × 100 = 25%.
+   Easy Shortcut (EN): 120/480 = 1/4 = 25% (already given directly by 100% − 50% − 25% = 25%!).
+   સરળ શોર્ટકટ (GU): 120 એ 480 નો ચોથો ભાગ હોવાથી સીધા 25%.
+   Common Exam Trap (સામાન્ય ભૂલ): કુલ 1,200 ગ્રાહકોના ટકા (120/1200 = 10%) કાઢવાની ભૂલ ન કરવી; પ્રશ્નમાં 'કુલ મહિલા
+   ગ્રાહકો' પૂછ્યુંું છે.
+
+[Q9.24: Find the total number of customers using Net banking (including those who use Both).]
+   ગુજરાતી: નેટ બેંકિંંગ વાપરતા કુલ ગ્રાહકો (બંને સુવિધા વાપરતા સહિત) કેટલા?
+   [A] 650  |  [B] 680  |  [C] 660  |  [D] 696  |  [E] 672
+   Answer / જવાબ: [E] 672
+   Step-by-Step (EN): Total Net users = Males(Net only + Both) + Females(Net only + Both) = (216 + 216) + (120 + 120)
+   = 432 + 240 = 672. Cross-check: Total 1200 − Mobile only (528) = 672!
+   પદ્ધતિસર સમજૂતી (GU): કુલ નેટ યુઝર્સ = પુરુષ (216 + 216 = 432) + મહિલા (120 + 120 = 240) = 672. ટૂંકી રીત: કુલ 1200 −
+   માત્ર મોબાઈલ (528) = 672!
+   Easy Shortcut (EN): Total (1,200) − Mobile Only (528 from Q9.21) = 672!
+   સરળ શોર્ટકટ (GU): Q9.21 માં 'માત્ર મોબાઈલ' 528 શોધી જ લીધા છે! 1200 − 528 = 672 (3 સેકન્ડમાં!).
+   Common Exam Trap (સામાન્ય ભૂલ): અહીં 'માત્ર નેટ' (336) નહીં, 'બંને વાપરતા સહિત' (including Both) પૂછ્યુંું છે.
+
+[Q9.25: Find the difference between Males using Mobile banking only and Females using Mobile banking only.]
+   ગુજરાતી: માત્ર મોબાઈલ બેંકિંંગ વાપરતા પુરુષો અને માત્ર મોબાઈલ બેંકિંંગ વાપરતી મહિલાઓ વચ્ચેનો તફાવત શોધો.
+   [A] 48  |  [B] 52  |  [C] 44  |  [D] 56  |  [E] 36
+   Answer / જવાબ: [A] 48
+   Step-by-Step (EN): Males (Mobile only) = 288; Females (Mobile only) = 240. Difference = 288 − 240 = 48.
+   પદ્ધતિસર સમજૂતી (GU): પુરુષ (માત્ર મોબાઈલ) = 288; મહિલા (માત્ર મોબાઈલ) = 240. તફાવત = 288 − 240 = 48.
+   Easy Shortcut (EN): 288 − 240 = 48.
+   સરળ શોર્ટકટ (GU): 288 માંથી 240 બાદ કરતાં સીધા 48.
+   Common Exam Trap (સામાન્ય ભૂલ): ગણતરી પહેલા કેસલેટનું 2×3 કોષ્ટક રફ પેજ પર ચોક્કસ લખી લો જેથી 5 પ્રશ્નો 1 મિનિટમાં પૂરા
+   થાય.
+
+[Q9.26: Find the missing value [ A ] (Tablets sold in Q1).]
+   ગુજરાતી: ખૂટતી કિંંમત [ A ] (Q1 માં વેચાયેલા ટેબ્લેટ) શોધો.
+   [A] 1,500  |  [B] 1,600  |  [C] 1,800  |  [D] 1,400  |  [E] 2,400
+   Answer / જવાબ: [B] 1,600
+   Step-by-Step (EN): In Q1, Total Devices = 4,000 and Phones : Tablets = 3 : 2 (total = 5 units). 1 unit = 4,000 ÷ 5 = 800.
+   Tablets [A] = 2 units = 2 × 800 = 1,600.
+   પદ્ધતિસર સમજૂતી (GU): Q1 માં કુલ ડિવાઇસ = 4,000 અને ગુણોત્તર 3:2 (કુલ 5 ભાગ). 1 ભાગ = 4000/5 = 800. ટેબ્લેટ [A] = 2 ×
+   800 = 1,600.
+   Easy Shortcut (EN): 4,000 × (2/5) = 1,600.
+   સરળ શોર્ટકટ (GU): 4,000 ના 2/5 (40%) = 1,600.
+   Common Exam Trap (સામાન્ય ભૂલ): ફોનની સંખ્યા (2,400) ભૂલથી ટેબ્લેટ [A] માં ટીક ન કરી દેવી.
+
+[Q9.27: Find the missing value [ B ] (Total Devices sold in Q2).]
+   ગુજરાતી: ખૂટતી કિંંમત [ B ] (Q2 માં કુલ ડિવાઇસ) શોધો.
+   [A] 4,500  |  [B] 4,200  |  [C] 4,800  |  [D] 5,000  |  [E] 3,600
+   Answer / જવાબ: [C] 4,800
+   Step-by-Step (EN): In Q2, Phones : Tablets = 5 : 3 (total = 8 units) and Tablets = 1,800 (3 units). So 1 unit = 1,800 ÷ 3
+   = 600. Total Devices [B] = 8 units = 8 × 600 = 4,800.
+   પદ્ધતિસર સમજૂતી (GU): Q2 માં ગુણોત્તર 5:3 અને ટેબ્લેટ (3 યુનિટ) = 1,800 → 1 યુનિટ = 600. કુલ ડિવાઇસ [B] = (5+3) = 8
+   યુનિટ = 8 × 600 = 4,800.
+   Easy Shortcut (EN): 3 units = 1,800 (×600) → 8 units = 4,800.
+   સરળ શોર્ટકટ (GU): 3 યુનિટ = 1,800 → 1 યુનિટ = 600 → કુલ 8 યુનિટ = 4,800.
+   Common Exam Trap (સામાન્ય ભૂલ): ફોનની સંખ્યા 5 × 600 = 3,000 શોધીને [B] માં ટીક ન કરી દેવી; [B] 'Total Devices' માં છે.
+
+[Q9.28: Find the missing ratio [ C ] (Phones : Tablets in Q3).]
+   ગુજરાતી: ખૂટતો ગુણોત્તર [ C ] (Q3 માં ફોન : ટેબ્લેટ) શોધો.
+   [A] 4:3  |  [B] 5:3  |  [C] 2:3  |  [D] 3:2  |  [E] 5:2
+   Answer / જવાબ: [D] 3:2
+   Step-by-Step (EN): In Q3, Total Devices = 6,000 and Tablets = 2,400. Thus Phones = 6,000 − 2,400 = 3,600. Ratio [C] =
+   3,600 : 2,400 = 3:2.
+   પદ્ધતિસર સમજૂતી (GU): Q3 માં કુલ 6,000 માંથી ટેબ્લેટ 2,400 છે, એટલે ફોન = 6,000 − 2,400 = 3,600. ગુણોત્તર [C] = 3,600 :
+   2,400 = 3:2.
+   Easy Shortcut (EN): 36 : 24 ÷ 12 = 3 : 2.
+   સરળ શોર્ટકટ (GU): 3600 અને 2400 ને 1200 વડે ભાગતાં 3:2 મળે.
+   Common Exam Trap (સામાન્ય ભૂલ): 6000 : 2400 = 5:2 કરી દેવાની ભૂલ ન કરવી; પહેલા કુલમાંથી ટેબ્લેટ બાદ કરી ફોન શોધો.
+
+[Q9.29: Find the missing value [ D ] (Tablets sold in Q4).]
+   ગુજરાતી: ખૂટતી કિંંમત [ D ] (Q4 માં વેચાયેલા ટેબ્લેટ) શોધો.
+   [A] 2,200  |  [B] 2,400  |  [C] 1,800  |  [D] 2,500  |  [E] 2,000
+   Answer / જવાબ: [E] 2,000
+   Step-by-Step (EN): In Q4, Total Devices = 5,500 and Phones : Tablets = 7 : 4 (total = 11 units). 1 unit = 5,500 ÷ 11 =
+   500. Tablets [D] = 4 units = 4 × 500 = 2,000.
+   પદ્ધતિસર સમજૂતી (GU): Q4 માં કુલ 5,500 અને ગુણોત્તર 7:4 (કુલ 11 યુનિટ). 1 યુનિટ = 5500/11 = 500. ટેબ્લેટ [D] = 4 × 500 =
+   2,000.
+   Easy Shortcut (EN): 11 units = 5,500 (×500) → Tablets = 4 × 500 = 2,000.
+   સરળ શોર્ટકટ (GU): 11 યુનિટ = 5,500 → 1 યુનિટ = 500 → 4 યુનિટ = 2,000.
+   Common Exam Trap (સામાન્ય ભૂલ): ફોનની સંખ્યા (7 × 500 = 3,500) ભૂલથી ટીક ન કરવી.
+
+[Q9.30: Find the total number of Phones sold across all four quarters (Q1 to Q4).]
+   ગુજરાતી: ચારેય ત્રિમાસિક ગાળા (Q1 થી Q4) માં વેચાયેલા કુલ ફોનની સંખ્યા શોધો.
+   [A] 12,500  |  [B] 12,400  |  [C] 12,800  |  [D] 12,000  |  [E] 13,000
+   Answer / જવાબ: [A] 12,500
+   Step-by-Step (EN): Phones sold: Q1 = 4,000 − 1,600 = 2,400; Q2 = 4,800 − 1,800 = 3,000; Q3 = 6,000 − 2,400 = 3,600;
+   Q4 = 5,500 − 2,000 = 3,500. Total Phones = 2,400 + 3,000 + 3,600 + 3,500 = 12,500.
+   પદ્ધતિસર સમજૂતી (GU): ફોન: Q1 = 2,400; Q2 = 3,000; Q3 = 3,600; Q4 = 3,500. કુલ ફોન = 2400 + 3000 + 3600 + 3500 =
+   12,500.
+   Easy Shortcut (EN): Pair 2,400 + 3,600 (= 6,000) + 3,000 + 3,500 (= 6,500) = 12,500.
+   સરળ શોર્ટકટ (GU): 2400 + 3600 = 6000 અને 3000 + 3500 = 6500 → કુલ 12,500.
+   Common Exam Trap (સામાન્ય ભૂલ): ચારેય ગાળાના ટેબ્લેટ (7,800) કે કુલ ડિવાઇસ (20,300) ને બદલે માત્ર ફોનનો જ સરવાળો
+   કરવો.
+   📑 CHAPTER 9 FORMULA REVISION SHEET (ડેટા ઇન્ટરપ્રિટેશનના ગણતરી સૂત્રો)
+   Calculation Type
+   Exact Speed Formula
+   Percentage More / Less
+   % More = [(A - B) / B] × 100; % Less = [(B - A) / B] × 100. ('Than' પછીનું પદ છેદમાં
+   આવે).
+   Pie Chart Degree to %
+   % = (Degrees / 360) × 100. Degree = (% / 100) × 360. 1% = 3.6°.
+   Average of Quantities
+   Average = Sum of all values / Total count. (સમાન આધાર પર સરવાળો કરી સીધો
+   ભાગાકાર).
+   Missing Value Deductions
+   Total = Part₁ + Part₂. Value = Total × [Ratio Part / Total Ratio Units].
+
+========================================================================================

@@ -39,15 +39,253 @@ Round 1 (Core Concepts):
   - Q1 (Circle r=7: 154) vs Q2 (Square s=12: 144) -> Q1 > Q2      [SOLVED RIGHT - REAL EXAM Q]
   - DS: Ram age (I: Ram is 5 yrs older than Shyam; II: Shyam is 20) -> Both together sufficient [C] [SOLVED RIGHT]
 
+----------------------------------------------------------------------------------------
+SECTION 3: COMPLETE MASTER QUESTION BANK (10 QUESTIONS SOLVED & VERIFIED)
+Every question includes Step-by-Step Math, 10-Second Speed Shortcuts & Exam Traps!
+----------------------------------------------------------------------------------------
 
-3. REMAINING / EXTRA PRACTICE IN CHAPTER 10 (FOR REVISION LATER)
-----------------------------------------------------------------
-[ ] PDF Q10.1: Q1: CP at 20% profit on ₹720 (600); Q2: CP at 25% profit on ₹750 (600) -> Q1 = Q2
-[ ] PDF Q10.2: Q1: 48 km downstream at (10+2=12) -> 4h; Q2: 32 km upstream at (12-4=8) -> 4h -> Q1 = Q2
-[ ] PDF Q10.3: Q1: SI on ₹5,000 at 10% 3 yrs (1,500); Q2: CI on ₹4,000 at 20% 2 yrs (1,760) -> Q1 < Q2
-[ ] PDF Q10.5: Q1: Roots of x^2-13x+40=0 (5, 8); Q2: Roots of y^2-17y+72=0 (8, 9) -> Q1 <= Q2
-[ ] PDF Q10.6: Two-digit number sum 9 and reverse diff 27 -> [E] Both insufficient (36 or 63)
-[ ] PDF Q10.8: Length of train T crossing pole (9s) and 200m platform (19s) -> [C] Both together
-[ ] PDF Q10.9: Q1: Train speed 150m + 150m in 15s (72 km/h); Q2: Car 144 km in 2h (72 km/h) -> Q1 = Q2
-[ ] PDF Q10.10: Principal in CI (I: Amt after 2 yrs ₹14,520 at 10%; II: CI ₹2,520) -> [A] I alone sufficient
-====================================================================
+[Q10.1: Compare Quantity I and Quantity II:]
+   Quantity I: Cost Price of an article sold at ₹720 with 20% profit.
+   Quantity II: Cost Price of an article sold at ₹750 with 25% profit.
+   ગુજરાતી: પરિમાણ I અને પરિમાણ II ની સરખામણી કરો:
+   પરિમાણ I: 20% નફાથી ₹720 માં વેચાયેલી વસ્તુની મૂળ કિંંમત (CP).
+   પરિમાણ II: 25% નફાથી ₹750 માં વેચાયેલી વસ્તુની મૂળ કિંંમત (CP).
+   [A] Quantity I > Quantity II (પરિમાણ I > પરિમાણ II)
+   [B] Quantity I < Quantity II (પરિમાણ I < પરિમાણ II)
+   [C] Quantity I ≥ Quantity II (પરિમાણ I ≥ પરિમાણ II)
+   [D] Quantity I ≤ Quantity II (પરિમાણ I ≤ પરિમાણ II)
+   [E] Quantity I = Quantity II or Relation cannot be established / CND (I = II અથવા સંબંધ નક્કી ન થઈ શકે)
+   Answer / જવાબ: [E] Quantity I = Quantity II
+   Step-by-Step (EN): Quantity I: 120% of CP = ₹720 ⇒ CP = 720 ÷ 1.2 = ₹600. Quantity II: 125% of CP = ₹750 ⇒ CP =
+   750 ÷ 1.25 = ₹600. Both equal ₹600 → Quantity I = Quantity II.
+   પદ્ધતિસર સમજૂતી (GU): પરિમાણ I: 120% = 720 → CP = 720 × 5/6 = ₹600. પરિમાણ II: 125% = 750 → CP = 750 × 4/5 =
+   ₹600. બંને સરખા છે → પરિમાણ I = પરિમાણ II.
+   Easy Shortcut (EN): 6/5 of Q1 = 720 (→ 600); 5/4 of Q2 = 750 (→ 600) → Equal [E].
+   સરળ શોર્ટકટ (GU): 720 × 5/6 = 600 અને 750 × 4/5 = 600, એટલે બંને સરખા [E].
+   Common Exam Trap (સામાન્ય ભૂલ): વિકલ્પોમાં 720 × 0.80 = 576 કરી દેવાની ભૂલ ન કરવી; નફો CP પર હોય છે SP પર નહીં.
+
+[Q10.2: Compare Quantity I and Quantity II:]
+   Quantity I: Time taken to cover 48 km downstream (boat speed 10 km/h, stream 2 km/h).
+   Quantity II: Time taken to cover 32 km upstream (boat speed 12 km/h, stream 4 km/h).
+   ગુજરાતી: પરિમાણ I અને પરિમાણ II ની સરખામણી કરો:
+   પરિમાણ I: પ્રવાહની દિશામાં 48 કિમી જવાનો સમય (હોડી 10 કિમી/ક, પ્રવાહ 2 કિમી/ક).
+   પરિમાણ II: પ્રવાહની વિરુદ્ધ 32 કિમી જવાનો સમય (હોડી 12 કિમી/ક, પ્રવાહ 4 કિમી/ક).
+   [A] Quantity I > Quantity II (પરિમાણ I > પરિમાણ II)
+   [B] Quantity I < Quantity II (પરિમાણ I < પરિમાણ II)
+   [C] Quantity I ≥ Quantity II (પરિમાણ I ≥ પરિમાણ II)
+   [D] Quantity I ≤ Quantity II (પરિમાણ I ≤ પરિમાણ II)
+   [E] Quantity I = Quantity II or Relation cannot be established / CND (I = II અથવા સંબંધ નક્કી ન થઈ શકે)
+   Answer / જવાબ: [E] Quantity I = Quantity II
+   Step-by-Step (EN): Quantity I: Downstream speed = 10 + 2 = 12 km/h → Time = 48 ÷ 12 = 4 hours. Quantity II:
+   Upstream speed = 12 − 4 = 8 km/h → Time = 32 ÷ 8 = 4 hours. Thus Quantity I = Quantity II.
+   પદ્ધતિસર સમજૂતી (GU): પરિમાણ I: D = 10 + 2 = 12 કિમી/ક → સમય = 48/12 = 4 કલાક. પરિમાણ II: U = 12 − 4 = 8 કિમી/ક
+   → સમય = 32/8 = 4 કલાક. તેથી પરિમાણ I = પરિમાણ II.
+   Easy Shortcut (EN): 48/12 = 4 hours and 32/8 = 4 hours → Equal [E].
+   સરળ શોર્ટકટ (GU): 48/12 = 4 કલાક અને 32/8 = 4 કલાક → બંને સરખા [E].
+   Common Exam Trap (સામાન્ય ભૂલ): ઉતાવળમાં બંને જગ્યાએ સરવાળો કે બાદબાકી કરી સમય ખોટો ન કાઢવો.
+
+[Q10.3: Compare Quantity I and Quantity II:]
+   Quantity I: Simple Interest on ₹5,000 at 10% p.a. for 3 years.
+   Quantity II: Compound Interest on ₹4,000 at 20% p.a. for 2 years.
+   ગુજરાતી: પરિમાણ I અને પરિમાણ II ની સરખામણી કરો:
+   પરિમાણ I: ₹5,000 પર 10% લેખે 3 વર્ષનું સાદું વ્યાજ.
+   પરિમાણ II: ₹4,000 પર 20% લેખે 2 વર્ષનું ચક્રવૃદ્ધિ
+   વ્યાજ.
+   [A] Quantity I > Quantity II (પરિમાણ I > પરિમાણ II)
+   [B] Quantity I < Quantity II (પરિમાણ I < પરિમાણ II)
+   [C] Quantity I ≥ Quantity II (પરિમાણ I ≥ પરિમાણ II)
+   [D] Quantity I ≤ Quantity II (પરિમાણ I ≤ પરિમાણ II)
+   [E] Quantity I = Quantity II or Relation cannot be established / CND (I = II અથવા સંબંધ નક્કી ન થઈ શકે)
+   Answer / જવાબ: [B] Quantity I < Quantity II
+   Step-by-Step (EN): Quantity I: 30% of ₹5,000 = ₹1,500. Quantity II: Effective 2-year CI at 20% = 20 + 20 + (20×20)/100
+   = 44%. So CI = 44% of ₹4,000 = ₹1,760. Clearly ₹1,500 < ₹1,760 → Quantity I < Quantity II.
+   પદ્ધતિસર સમજૂતી (GU): પરિમાણ I: 30% × 5,000 = ₹1,500. પરિમાણ II: 20% લેખે 2 વર્ષનું ચક્રવૃદ્ધિ
+   વ્યાજ = 44% → 4,000 ના
+   44% = ₹1,760. અહીં 1,500 < 1,760 → પરિમાણ I < પરિમાણ II.
+   Easy Shortcut (EN): 30% × 5000 (1,500) vs 44% × 4000 (1,760) → Q1 < Q2.
+   સરળ શોર્ટકટ (GU): 5000 ના 30% = 1500 અને 4000 ના 44% = 1760 → પરિમાણ I < પરિમાણ II.
+   Common Exam Trap (સામાન્ય ભૂલ): 20% લેખે 2 વર્ષનું ચક્રવૃદ્ધિ
+   વ્યાજ 40% સમજીને 1,600 ગણવા છતાં I < II રહેશે, પણ ચોક્કસ
+   ગણતરી 44% (₹1,760) રાખવી.
+
+[Q10.4: Compare Quantity I and Quantity II:]
+   Quantity I: Area of a circle of radius 7 cm.
+   Quantity II: Area of a square of side 12 cm.
+   ગુજરાતી: પરિમાણ I અને પરિમાણ II ની સરખામણી કરો:
+   પરિમાણ I: 7 સેમી ત્રિજ્યા ધરાવતા વર્તુળનું ક્ષેત્રફળ.
+   પરિમાણ II: 12 સેમી બાજુ ધરાવતા ચોરસનું ક્ષેત્રફળ.
+   [A] Quantity I > Quantity II (પરિમાણ I > પરિમાણ II)
+   [B] Quantity I < Quantity II (પરિમાણ I < પરિમાણ II)
+   [C] Quantity I ≥ Quantity II (પરિમાણ I ≥ પરિમાણ II)
+   [D] Quantity I ≤ Quantity II (પરિમાણ I ≤ પરિમાણ II)
+   [E] Quantity I = Quantity II or Relation cannot be established / CND (I = II અથવા સંબંધ નક્કી ન થઈ શકે)
+   Answer / જવાબ: [A] Quantity I > Quantity II
+   Step-by-Step (EN): Quantity I: πr² = (22/7) × 7 × 7 = 154 cm². Quantity II: Side² = 12² = 144 cm². Since 154 > 144 →
+   Quantity I > Quantity II.
+   પદ્ધતિસર સમજૂતી (GU): પરિમાણ I: વર્તુળ = (22/7) × 7 × 7 = 154 ચો.સેમી. પરિમાણ II: ચોરસ = 12² = 144 ચો.સેમી. 154 > 144
+   હોવાથી પરિમાણ I > પરિમાણ II.
+   Easy Shortcut (EN): 154 cm² > 144 cm² → Q1 > Q2.
+   સરળ શોર્ટકટ (GU): r=7 માટે વર્તુળ 154 અને 12²=144 → પરિમાણ I > પરિમાણ II.
+   Common Exam Trap (સામાન્ય ભૂલ): વર્તુળનો પરિઘ (44) અને ચોરસની પરિમિતિ (48) સરખાવીને ભૂલ ન કરી દેવી; અહીં ક્ષેત્રફળ
+   પૂછ્યુંું છે.
+
+[Q10.5: Compare Quantity I and Quantity II:]
+   Quantity I: Roots x of x² − 13x + 40 = 0.
+   Quantity II: Roots y of y² − 17y + 72 = 0.
+   ગુજરાતી: પરિમાણ I અને પરિમાણ II ની સરખામણી કરો:
+   પરિમાણ I: x² − 13x + 40 = 0 ના બીજ x.
+   પરિમાણ II: y² − 17y + 72 = 0 ના બીજ y.
+   [A] Quantity I > Quantity II (પરિમાણ I > પરિમાણ II)
+   [B] Quantity I < Quantity II (પરિમાણ I < પરિમાણ II)
+   [C] Quantity I ≥ Quantity II (પરિમાણ I ≥ પરિમાણ II)
+   [D] Quantity I ≤ Quantity II (પરિમાણ I ≤ પરિમાણ II)
+   [E] Quantity I = Quantity II or Relation cannot be established / CND (I = II અથવા સંબંધ નક્કી ન થઈ શકે)
+   Answer / જવાબ: [D] Quantity I ≤ Quantity II
+   Step-by-Step (EN): Quantity I: 5 × 8 = 40, 5 + 8 = 13 → x = +5, +8. Quantity II: 8 × 9 = 72, 8 + 9 = 17 → y = +8, +9.
+   Comparing {5, 8} with {8, 9}: +8 = +8 and 5 < 8 < 9 → Quantity I ≤ Quantity II.
+   પદ્ધતિસર સમજૂતી (GU): પરિમાણ I: 5×8=40, 5+8=13 → x = +5, +8. પરિમાણ II: 8×9=72, 8+9=17 → y = +8, +9. અહીં 8=8
+   અને બાકી x નાનું છે, તેથી પરિમાણ I ≤ પરિમાણ II.
+   Easy Shortcut (EN): x ∈ {5, 8}, y ∈ {8, 9} → x ≤ y [D].
+   સરળ શોર્ટકટ (GU): x = 5, 8 અને y = 8, 9 હોવાથી પરિમાણ I ≤ પરિમાણ II [D].
+   Common Exam Trap (સામાન્ય ભૂલ): 8 બંનેમાં કોમન હોવાથી '<' (B) ને બદલે '≤' (D) ટીક કરવું.
+
+[Q10.6: Data Sufficiency: What is the value of the two-digit number N?]
+   Statement I: The sum of the two digits is 9.
+   Statement II: The positive difference between the number and the number formed by reversing its digits is 27.
+   ગુજરાતી: ડેટા પર્યાપ્તતા: બે અંકની સંખ્યા N ની કિંંમત શું છે?
+   વિધાન I: બંને અંકોનો સરવાળો 9 છે.
+   વિધાન II: મૂળ સંખ્યા અને તેના અંકો ઉલટાવવાથી મળતી સંખ્યા વચ્ચેનો ધન તફાવત 27 છે.
+   [A] Statement I alone is sufficient (માત્ર વિધાન I એકલું પૂરતું છે)
+   [B] Statement II alone is sufficient (માત્ર વિધાન II એકલું પૂરતું છે)
+   [C] Both statements together are sufficient, but neither alone is sufficient (બંને વિધાનો સાથે મળીને પૂરતા છે, પરંતુ કોઈ એક
+   એકલું પૂરતું નથી)
+   [D] Either statement alone is sufficient (બંનેમાંથી કોઈપણ એક વિધાન એકલું પૂરતું છે)
+   [E] Even both statements together are insufficient (બંને વિધાનો સાથે મળીને પણ અપૂરતા છે)
+   Answer / જવાબ: [E] Even both statements together are insufficient
+   Step-by-Step (EN): Let digits be a and b. Statement I alone gives a + b = 9 (pairs: 18, 27, 36, 45, 54, 63, 72, 81 →
+   insufficient). Statement II alone gives 9|a − b| = 27 ⇒ |a − b| = 3 (pairs: 14, 25, 36, 47, 58, 69, 41, 52... → insufficient).
+   Combining I & II: a + b = 9 and |a − b| = 3 gives TWO valid numbers: 63 AND 36. Because Statement II does not
+   specify which digit is larger, even both statements together cannot yield a unique N → [E].
+   પદ્ધતિસર સમજૂતી (GU): વિધાન I એકલું: a + b = 9 (ઘણી સંખ્યાઓ શક્ય → અપૂરતું). વિધાન II એકલું: 9|a − b| = 27 એટલે |a − b|
+   = 3 (ઘણી સંખ્યાઓ શક્ય → અપૂરતું). બંને સાથે લેતાં (a+b=9 અને |a−b|=3) હજુ પણ બે શક્ય જવાબ 63 અને 36 મળે છે! કયો અંક
+   મોટો છે તે ન હોવાથી ચોક્કસ એક જ સંખ્યા મળતી નથી → [E] બંને વિધાનો સાથે મળીને પણ અપૂરતા છે.
+   Easy Shortcut (EN): a + b = 9 & |a − b| = 3 → N can be EITHER 63 OR 36 (not unique!) → [E].
+   સરળ શોર્ટકટ (GU): સરવાળો 9 અને તફાવત 3 પરથી 63 અને 36 એમ બે સંખ્યા મળે; એક જ અનન્ય જવાબ ન મળવાથી [E].
+   Common Exam Trap (સામાન્ય ભૂલ): માત્ર 63 ને જવાબ માનીને 'બંને સાથે પૂરતા [C]' ટીક કરી દેવું એ સૌથી મોટી Data
+   Sufficiency જાળ છે!
+
+[Q10.7: Data Sufficiency: In how many days can A and B together complete the work?]
+   Statement I: A alone completes the work in 15 days.
+   Statement II: B is 50% more efficient than A.
+   ગુજરાતી: ડેટા પર્યાપ્તતા: A અને B સાથે મળીને તે કામ કેટલા દિવસમાં પૂરું કરશે?
+   વિધાન I: A એકલો તે કામ 15 દિવસમાં પૂરું કરે છે.
+   વિધાન II: B ની કાર્યક્ષમતા A કરતાં 50% વધુ છે.
+   [A] Statement I alone is sufficient (માત્ર વિધાન I એકલું પૂરતું છે)
+   [B] Statement II alone is sufficient (માત્ર વિધાન II એકલું પૂરતું છે)
+   [C] Both statements together are sufficient, but neither alone is sufficient (બંને વિધાનો સાથે મળીને પૂરતા છે, પરંતુ કોઈ એક
+   એકલું પૂરતું નથી)
+   [D] Either statement alone is sufficient (બંનેમાંથી કોઈપણ એક વિધાન એકલું પૂરતું છે)
+   [E] Even both statements together are insufficient (બંને વિધાનો સાથે મળીને પણ અપૂરતા છે)
+   Answer / જવાબ: [C] Both statements together are sufficient, but neither alone is sufficient
+   Step-by-Step (EN): Statement I alone gives only A = 15 days (nothing about B → insufficient). Statement II alone gives
+   only efficiency ratio A:B = 2:3 (no total time in days → insufficient). Together: A = 15 days (rate 2) ⇒ Total work = 30
+   units; B's rate = 3; Combined rate = 5 units/day ⇒ Together = 30/5 = 6 days (unique answer) → [C] Both together
+   sufficient.
+   પદ્ધતિસર સમજૂતી (GU): વિધાન I એકલાથી માત્ર A નો સમય (15 દિવસ) મળે, B વિશે માહિતી નથી (અપૂરતું). વિધાન II એકલાથી માત્ર
+   ક્ષમતાનો ગુણોત્તર 2:3 મળે, દિવસો નહીં (અપૂરતું). બંને સાથે લેતાં: કુલ કામ = 15 × 2 = 30 યુનિટ અને સાથે ક્ષમતા 2+3=5, એટલે
+   30/5 = 6 દિવસ ચોક્કસ મળે → [C].
+   Easy Shortcut (EN): I gives days, II gives ratio → Both needed together [C].
+   સરળ શોર્ટકટ (GU): એકમાં દિવસ અને બીજામાં ક્ષમતાનો ગુણોત્તર હોવાથી બંને સાથે જરૂરી [C].
+   Common Exam Trap (સામાન્ય ભૂલ): ડેટા પર્યાપ્તતાના પ્રશ્નમાં ચોક્કસ જવાબ 6 શોધવાની જરૂર નથી; માત્ર 'જવાબ મળી શકે કે
+   નહીં' એટલું જ ચકાસો.
+
+[Q10.8: Data Sufficiency: What is the length of train T?]
+   Statement I: Train T crosses a stationary pole in 9 seconds.
+   Statement II: Train T crosses a 200 m long platform in 19 seconds.
+   ગુજરાતી: ડેટા પર્યાપ્તતા: ટ્રેેન T ની લંબાઈ કેટલી છે?
+   વિધાન I: ટ્રેેન T એક સ્થિર થાંભલાને 9 સેકન્ડમાં પસાર કરે છે.
+   વિધાન II: ટ્રેેન T 200 મીટર લાંબા પ્લેટફોર્મને 19 સેકન્ડમાં પસાર કરે છે.
+   [A] Statement I alone is sufficient (માત્ર વિધાન I એકલું પૂરતું છે)
+   [B] Statement II alone is sufficient (માત્ર વિધાન II એકલું પૂરતું છે)
+   [C] Both statements together are sufficient, but neither alone is sufficient (બંને વિધાનો સાથે મળીને પૂરતા છે, પરંતુ કોઈ એક
+   એકલું પૂરતું નથી)
+   [D] Either statement alone is sufficient (બંનેમાંથી કોઈપણ એક વિધાન એકલું પૂરતું છે)
+   [E] Even both statements together are insufficient (બંને વિધાનો સાથે મળીને પણ અપૂરતા છે)
+   Answer / જવાબ: [C] Both statements together are sufficient, but neither alone is sufficient
+   Step-by-Step (EN): Statement I alone: L = 9v (2 unknowns → insufficient). Statement II alone: L + 200 = 19v (2
+   unknowns → insufficient). Combining I & II: Extra 200 m takes 19 − 9 = 10 s ⇒ v = 20 m/s ⇒ L = 9 × 20 = 180 m
+   (unique!) → [C] Both together sufficient.
+   પદ્ધતિસર સમજૂતી (GU): વિધાન I એકલાથી L = 9v (ઝડપ નથી → અપૂરતું). વિધાન II એકલાથી L + 200 = 19v (અપૂરતું). બંને સાથે
+   લેતાં: 200 મી વધારાના અંતર માટે 19 − 9 = 10 સેકન્ડ લાગે → ઝડપ = 20 મી/સે → લંબાઈ = 9 × 20 = 180 મીટર ચોક્કસ મળે → [C].
+   Easy Shortcut (EN): Two linear equations in two variables (L, v) → Both together [C].
+   સરળ શોર્ટકટ (GU): બે અજ્ઞાાત (લંબાઈ, ઝડપ) માટે બે સમીકરણ જરૂરી હોવાથી બંને વિધાનો સાથે પૂરતા [C].
+   Common Exam Trap (સામાન્ય ભૂલ): ટ્રેેન પોતાની જૂની ઝડપે જ દોડે છે તે સ્પષ્ટ છે, તેથી બંને મળીને ચોક્કસ ઉકેલ આપે છે.
+
+[Q10.9: Compare Quantity I and Quantity II:]
+   Quantity I: Speed (in km/h) of a 150 m long train crossing a 150 m platform in 15 seconds.
+   Quantity II: Speed (in km/h) of a car covering 144 km in 2 hours.
+   ગુજરાતી: પરિમાણ I અને પરિમાણ II ની સરખામણી કરો:
+   પરિમાણ I: 150 મીટર પ્લેટફોર્મને 15 સેકન્ડમાં પસાર કરતી 150 મીટર લાંબી ટ્રેેનની ઝડપ (કિમી/કલાકમાં).
+   પરિમાણ II: 2 કલાકમાં 144 કિમી અંતર કાપતી કારની ઝડપ (કિમી/કલાકમાં).
+   [A] Quantity I > Quantity II (પરિમાણ I > પરિમાણ II)
+   [B] Quantity I < Quantity II (પરિમાણ I < પરિમાણ II)
+   [C] Quantity I ≥ Quantity II (પરિમાણ I ≥ પરિમાણ II)
+   [D] Quantity I ≤ Quantity II (પરિમાણ I ≤ પરિમાણ II)
+   [E] Quantity I = Quantity II or Relation cannot be established / CND (I = II અથવા સંબંધ નક્કી ન થઈ શકે)
+   Answer / જવાબ: [E] Quantity I = Quantity II
+   Step-by-Step (EN): Quantity I: Distance = 150 + 150 = 300 m. Speed = 300/15 = 20 m/s = 20 × (18/5) = 72 km/h.
+   Quantity II: Speed = 144 ÷ 2 = 72 km/h. Thus Quantity I = Quantity II.
+   પદ્ધતિસર સમજૂતી (GU): પરિમાણ I: કુલ અંતર = 150 + 150 = 300 મી. ઝડપ = 300/15 = 20 મી/સે = 20 × 18/5 = 72 કિમી/
+   કલાક. પરિમાણ II: 144/2 = 72 કિમી/કલાક. બંને સરખા → પરિમાણ I = પરિમાણ II.
+   Easy Shortcut (EN): 20 m/s = 72 km/h vs 144/2 = 72 km/h → Equal [E].
+   સરળ શોર્ટકટ (GU): 20 મી/સે એટલે 72 કિમી/કલાક, અને 144/2 = 72 કિમી/કલાક → બંને સરખા [E].
+   Common Exam Trap (સામાન્ય ભૂલ): કુલ અંતર 300 મી ને બદલે માત્ર 150 મી લઈ 10 m/s (36 km/h) ગણી લેવાની ભૂલ ન કરવી.
+
+[Q10.10: Data Sufficiency: What is the principal P invested at compound interest?]
+   Statement I: The amount after 2 years is ₹14,520 at 10% per annum.
+   Statement II: The compound interest earned in 2 years is ₹2,520.
+   ગુજરાતી: ડેટા પર્યાપ્તતા: ચક્રવૃદ્ધિ
+   વ્યાજે રોકેલી મુદ્દલ (P) કેટલી છે?
+   વિધાન I: 10% વાર્ષિક દરે 2 વર્ષ પછી કુલ રકમ ₹14,520 થાય છે.
+   વિધાન II: 2 વર્ષમાં મળેલું ચક્રવૃદ્ધિ
+   વ્યાજ ₹2,520 છે.
+   [A] Statement I alone is sufficient (માત્ર વિધાન I એકલું પૂરતું છે)
+   [B] Statement II alone is sufficient (માત્ર વિધાન II એકલું પૂરતું છે)
+   [C] Both statements together are sufficient, but neither alone is sufficient (બંને વિધાનો સાથે મળીને પૂરતા છે, પરંતુ કોઈ એક
+   એકલું પૂરતું નથી)
+   [D] Either statement alone is sufficient (બંનેમાંથી કોઈપણ એક વિધાન એકલું પૂરતું છે)
+   [E] Even both statements together are insufficient (બંને વિધાનો સાથે મળીને પણ અપૂરતા છે)
+   Answer / જવાબ: [A] Statement I alone is sufficient
+   Step-by-Step (EN): Statement I alone: Given A = ₹14,520, T = 2 yrs, R = 10%. Using A = P(1 + R/100)², 14,520 =
+   P(1.21) ⇒ P = ₹12,000 uniquely. Sufficient!
+   Statement II alone: Gives CI = ₹2,520 and T = 2 yrs, but R is unknown! Infinitely many (P, R) pairs give ₹2,520 (e.g.,
+   10% on ₹12,000 or 20% on ₹5,727.27). Not sufficient!
+   Therefore [A] Statement I alone is sufficient.
+   પદ્ધતિસર સમજૂતી (GU): વિધાન I એકલું: A = ₹14,520, T = 2 વર્ષ, R = 10% આપેલ છે. A = P(1.10)² = 1.21 P પરથી P =
+   14,520/1.21 = ₹12,000 અનન્ય રીતે મળી જાય છે (પૂરતું!).
+   વિધાન II એકલું: માત્ર CI = ₹2,520 આપ્યું છે પરંતુ વ્યાજનો દર R આપ્યો નથી! દર વગર મુદ્દલ શોધી ન શકાય (અપૂરતું!).
+   તેથી [A] માત્ર વિધાન I એકલું પૂરતું છે.
+   Easy Shortcut (EN): I gives A, T, R → P is unique; II misses R → I alone sufficient [A].
+   સરળ શોર્ટકટ (GU): વિધાન I માં A, T અને R ત્રણેય છે એટલે P તરત મળે, જ્યારે II માં દર (R) ખૂટે છે → [A].
+   Common Exam Trap (સામાન્ય ભૂલ): વ્યાજ 2,520 અને અમાઉન્ટ 14,520 ની બાદબાકી કરીને 12,000 શોધવા માટે બંનેની જરૂર
+   પડે તેમ માની [C] ટીક ન કરવું; માત્ર વિધાન I થી જ સીધો જવાબ મળે છે!
+   📑 CHAPTER 10 FORMULA REVISION SHEET (સરખામણી અને પૂરતીતાના નિયમો — V7 માન્ય ક્રમ)
+   Standard Option
+   Exact Decision Rule (English + ગુજરાતી)
+   [A] Option
+   Statement I alone is sufficient, while Statement II alone is not. (માત્ર વિધાન I એકલું પૂરતું છે.)
+   [B] Option
+   Statement II alone is sufficient, while Statement I alone is not. (માત્ર વિધાન II એકલું પૂરતું છે.)
+   [C] Option
+   Both statements together are sufficient, neither alone suffices. (બંને વિધાનો સાથે મળીને પૂરતા
+   છે.)
+   [D] Option
+   Either statement I alone OR statement II alone is sufficient independently. (બંનેમાંથી કોઈપણ
+   એક એકલું પૂરતું છે.)
+   [E] Option
+   Even both statements together are insufficient to find a unique answer. (બંને વિધાનો સાથે
+   મળીને પણ અપૂરતા છે.)
+   IBPS CRP RRBs-XV Officer Scale-I Preparation System | Booklet 1: Quantitative Aptitude Complete Handbook | 120 Questions + 10 Formula Sheets |
+   Candidate: Hitendrasinh Solanki | Exam Date: 21 Nov 2026
+
+========================================================================================

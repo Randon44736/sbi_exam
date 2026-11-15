@@ -39,14 +39,164 @@ Round 1 (Core Commercial Shortcuts):
   - Equal CP with +15% and -15% -> No profit, no loss         [SOLVED RIGHT - BEAT THE TRAP]
   - CI: Doubles in 5 yrs -> 4 times in 2 x 5 = 10 yrs         [SOLVED RIGHT - REAL EXAM Q]
 
+----------------------------------------------------------------------------------------
+SECTION 3: COMPLETE MASTER QUESTION BANK (10 QUESTIONS SOLVED & VERIFIED)
+Every question includes Step-by-Step Math, 10-Second Speed Shortcuts & Exam Traps!
+----------------------------------------------------------------------------------------
 
-3. REMAINING / EXTRA PRACTICE IN CHAPTER 6 (FOR REVISION LATER)
----------------------------------------------------------------
-[ ] PDF Q6.2: Mark up 40%, Discount 20% -> Net profit = +40 - 20 - 8 = 12%
-[ ] PDF Q6.3: Diff between CI & SI for 2 yrs on ₹15,000 is ₹96 -> R = 8%
-[ ] PDF Q6.5: ₹8,000 gives ₹2,400 SI in 3 yrs -> 1 yr SI = ₹800 -> R = 10%
-[ ] PDF Q6.6: Dishonest dealer 900 gm instead of 1 kg -> 100/900 = 11 1/9%
-[ ] PDF Q6.7: Successive discounts 20% and 10% -> 28%
-[ ] PDF Q6.8: SI in 5 yrs is 2/5 of P -> Rate = 40%/5 = 8%
-[ ] PDF Q6.10: ₹2,000 becomes ₹2,420 in 2 yrs CI -> 100:121 -> √100:√121 = 10:11 -> 10%
-====================================================================
+[Q6.1: A shopkeeper's result shifts from 15% loss to 15% profit when he increases the selling price by ₹450. Find the]
+   cost price (CP).
+   ગુજરાતી: વેચાણ કિંંમત ₹450 વધારવાથી 15% ખોટને બદલે 15% નફો થાય છે. વસ્તુની મૂળ કિંંમત (CP) શોધો.
+   [A] ₹1,500  |  [B] ₹1,600  |  [C] ₹1,400  |  [D] ₹1,800  |  [E] ₹2,000
+   Answer / જવાબ: [A] ₹1,500
+   Step-by-Step (EN): 15% loss is 85% of CP; 15% profit is 115% of CP. Total jump = 115% − 85% = 30% of CP = ₹450.
+   Therefore 1% of CP = ₹15 → 100% (CP) = ₹1,500.
+   પદ્ધતિસર સમજૂતી (GU): 15% ખોટ એટલે CP ના 85% અને 15% નફો એટલે CP ના 115%. કુલ તફાવત = 15% + 15% = 30% =
+   ₹450. એટલે 1% = ₹15 → 100% (મૂળ કિંંમત) = ₹1,500.
+   Easy Shortcut (EN): Opposite signs (−15% to +15%) add up: 30% = ₹450 → CP = 450 ÷ 0.3 = ₹1,500.
+   સરળ શોર્ટકટ (GU): વિરુદ્ધ નિશાની (ખોટથી નફો) હોવાથી ટકાનો સરવાળો: 15% + 15% = 30% = 450 → 100% = ₹1,500.
+   Common Exam Trap (સામાન્ય ભૂલ): બંને નફો (દા.ત. +10% થી +15%) આપેલ હોય ત્યારે ટકાની બાદબાકી (5%) થાય; અહીં ખોટ
+   અને નફો હોવાથી સરવાળો (30%) થાય.
+
+[Q6.2: A trader marks up goods by 40% above cost price and allows a 20% discount. Find his net profit percentage.]
+   ગુજરાતી: એક વેપારી વસ્તુની છાપેલી કિંંમત પડતર કિંંમત કરતાં 40% વધુ રાખે છે અને 20% વળતર આપે છે. તેનો ચોખ્ખો નફો કેટલા
+   ટકા?
+   [A] 12%  |  [B] 15%  |  [C] 10%  |  [D] 14%  |  [E] 16%
+   Answer / જવાબ: [A] 12%
+   Step-by-Step (EN): Let CP = ₹100. Marked Price (MP) = ₹140. Discount = 20% of ₹140 = ₹28. Selling Price (SP) = 140
+   − 28 = ₹112. Net profit = 112 − 100 = 12%.
+   પદ્ધતિસર સમજૂતી (GU): ધારો કે CP = ₹100, તો MP = ₹140. વળતર = 140 ના 20% = ₹28. વેચાણ કિંંમત (SP) = 140 − 28 =
+   ₹112. ચોખ્ખો નફો = 12%.
+   Easy Shortcut (EN): Successive formula: +40 − 20 − (40×20)/100 = 20 − 8 = 12%.
+   સરળ શોર્ટકટ (GU): ક્રમિક સૂત્ર: +40 − 20 − (40×20)/100 = 20 − 8 = 12%.
+   Common Exam Trap (સામાન્ય ભૂલ): 40% − 20% = 20% સીધી બાદબાકી કરીને 20% નફો ન લખી દેવો; વળતર હંમેશા છાપેલી
+   કિંંમત (140) પર ગણાય.
+
+[Q6.3: The difference between Compound Interest (CI) and Simple Interest (SI) on ₹15,000 for 2 years at the same]
+   annual rate is ₹96. Find the rate of interest R.
+   ગુજરાતી: ₹15,000 પર 2 વર્ષ માટે ચક્રવૃદ્ધિ
+   વ્યાજ (CI) અને સાદા વ્યાજ (SI) નો તફાવત ₹96 છે. વ્યાજનો દર (R) શોધો.
+   [A] 8%  |  [B] 6%  |  [C] 10%  |  [D] 7.5%  |  [E] 9%
+   Answer / જવાબ: [A] 8%
+   Step-by-Step (EN): For 2 years, CI − SI = P × (R/100)². Plugging values: 96 = 15,000 × (R/100)² ⇒ R² = (96 × 10,000) /
+   15,000 = 96 / 1.5 = 64 ⇒ R = 8%.
+   પદ્ધતિસર સમજૂતી (GU): 2 વર્ષ માટે CI − SI = P(R/100)². તેથી 96 = 15,000 × (R²/10,000) ⇒ R² = 960 / 15 = 64 ⇒ R = 8%.
+   Easy Shortcut (EN): R = 100 × √(Diff / P) = 100 × √(96/15000) = 100 × √(16/2500) = 8%.
+   સરળ શોર્ટકટ (GU): ટૂંકું સૂત્ર: R² = (તફાવત × 10,000) / મુદ્દલ = 9,60,000 / 15,000 = 64 → R = 8%.
+   Common Exam Trap (સામાન્ય ભૂલ): 2 વર્ષના તફાવત માટે SI માં વ્યાજ પરનું વ્યાજ 1 જ વખત ગણાય છે; ભૂલથી 3 વર્ષનું સૂત્ર ન
+   મૂકવું.
+
+[Q6.4: A sum of money placed at compound interest doubles itself in 4 years. In how many years will it become 8 times]
+   itself at the same rate?
+   ગુજરાતી: ચક્રવૃદ્ધિ
+   વ્યાજે મૂકેલી રકમ 4 વર્ષમાં બમણી થાય છે. તે જ દરે કેટલા વર્ષમાં તે 8 ગણી થશે?
+   [A] 12 years  |  [B] 16 years  |  [C] 8 years  |  [D] 10 years  |  [E] 14 years
+   Answer / જવાબ: [A] 12 years
+   Step-by-Step (EN): In CI, money grows by equal multiplication factors in equal time blocks: 1 → 2 (4 yrs), 2 → 4 (+4 yrs
+   = 8 yrs), 4 → 8 (+4 yrs = 12 years). Power check: 8 = 2³ → 3 × 4 = 12 years.
+   પદ્ધતિસર સમજૂતી (GU): ચક્રવૃદ્ધિ
+   વ્યાજમાં દરેક 4 વર્ષે રકમ બમણી થાય છે: 1→2 (4 વર્ષ), 2→4 (8 વર્ષ), 4→8 (12 વર્ષ). ઘાતની રીત:
+   8 = 2³, એટલે 3 × 4 = 12 વર્ષ.
+   Easy Shortcut (EN): Base multiplier = 2 (in 4 yrs). Target 8 = 2³ → Power 3 × 4 = 12 years.
+   સરળ શોર્ટકટ (GU): 8 = 2 ની 3 ઘાત, એટલે ઘાત (3) × સમય (4) = 12 વર્ષ.
+   Common Exam Trap (સામાન્ય ભૂલ): સાદા વ્યાજની જેમ (7 ગણો વધારો × 4 = 28 વર્ષ) ગણતરી ન કરવી; અહીં 'ચક્રવૃદ્ધિ
+   વ્યાજ'
+   આપેલ છે.
+
+[Q6.5: ₹8,000 yields ₹2,400 Simple Interest in 3 years. Find the annual rate of interest.]
+   ગુજરાતી: ₹8,000 પર 3 વર્ષમાં ₹2,400 સાદું વ્યાજ મળે છે. વાર્ષિક વ્યાજનો દર શોધો.
+   [A] 10%  |  [B] 8%  |  [C] 12%  |  [D] 9%  |  [E] 11%
+   Answer / જવાબ: [A] 10%
+   Step-by-Step (EN): Total SI for 3 years = ₹2,400 ⇒ 1 year SI = 2,400 ÷ 3 = ₹800. Annual rate = (1 yr SI / Principal) ×
+   100 = (800 / 8,000) × 100 = 10%.
+   પદ્ધતિસર સમજૂતી (GU): 3 વર્ષનું વ્યાજ ₹2,400 → 1 વર્ષનું વ્યાજ = ₹800. વાર્ષિક દર = (800 / 8,000) × 100 = 10%.
+   Easy Shortcut (EN): 1-year SI = ₹800, which is cleanly 10% of ₹8,000.
+   સરળ શોર્ટકટ (GU): 1 વર્ષનું વ્યાજ ₹800 એ ₹8,000 ના સીધા 10% છે.
+   Common Exam Trap (સામાન્ય ભૂલ): સમય (3 વર્ષ) વડે ભાગવાનું ભૂલી જઈને (2400/8000 = 30%) ટીક ન કરી દેવું.
+
+[Q6.6: A dishonest dealer sells goods at cost price but uses a weight of 900 gm instead of 1 kg. Find his profit]
+   percentage.
+   ગુજરાતી: એક બેઈમાન વેપારી પડતર કિંંમતે વસ્તુ વેચવાનો દાવો કરે છે પરંતુ 1 કિગ્રાને બદલે 900 ગ્રામ વજન વાપરે છે. તેનો નફો કેટલા
+   ટકા?
+   [A] 11 1/9%  |  [B] 10%  |  [C] 12.5%  |  [D] 9 1/11%  |  [E] 11.5%
+   Answer / જવાબ: [A] 11 1/9%
+   Step-by-Step (EN): Wait: the shopkeeper pays for only 900 gm (his real CP = 900 units) while charging the customer
+   for 1000 gm (SP = 1000 units). Profit = 100 gm on 900 gm base = (100 / 900) × 100 = 1/9 = 11 1/9%.
+   પદ્ધતિસર સમજૂતી (GU): વેપારીના ખિસ્સામાંથી માત્ર 900 ગ્રામ જાય છે (વાસ્તવિક પડતર = 900) અને પૈસા 1000 ગ્રામના લે છે. નફો
+   = 100 ગ્રામ. નફાની ટકાવારી = (100 / 900) × 100 = 11 1/9%.
+   Easy Shortcut (EN): Profit % = (Error / Weight Given) × 100 = 100/900 = 1/9 = 11 1/9%.
+   સરળ શોર્ટકટ (GU): નફો % = (ભૂલ / આપેલું વજન) × 100 = 100/900 = 11 1/9%.
+   Common Exam Trap (સામાન્ય ભૂલ): 100 / 1000 = 10% ગણી લેવું એ સૌથી મોટી ભૂલ છે; નફો હંમેશા ખરેખર આપેલા વજન
+   (900) પર ગણાય.
+
+[Q6.7: Find the single equivalent discount for two successive discounts of 20% and 10%.]
+   ગુજરાતી: 20% અને 10% ના બે ક્રમિક વળતરને સમકક્ષ એક જ વળતર કેટલા ટકા થાય?
+   [A] 28%  |  [B] 30%  |  [C] 25%  |  [D] 27%  |  [E] 29%
+   Answer / જવાબ: [A] 28%
+   Step-by-Step (EN): Start with ₹100. First 20% off → ₹80. Next 10% off on ₹80 (= ₹8 off) → ₹72. Net reduction = 100 −
+   72 = 28%.
+   પદ્ધતિસર સમજૂતી (GU): ધારો કે છાપેલી કિંંમત ₹100. પ્રથમ 20% વળતર બાદ ₹80, પછી 80 પર 10% (₹8) વળતર બાદ ₹72. કુલ
+   વળતર = 100 − 72 = 28%.
+   Easy Shortcut (EN): D_eq = D1 + D2 − (D1×D2)/100 = 20 + 10 − 2 = 28%.
+   સરળ શોર્ટકટ (GU): સૂત્ર: x + y − xy/100 = 20 + 10 − 2 = 28%.
+   Common Exam Trap (સામાન્ય ભૂલ): બંને વળતરનો સીધો સરવાળો 20% + 10% = 30% ક્યારેય ન કરવો.
+
+[Q6.8: Simple Interest on a sum for 5 years is 2/5 of the principal. Find the rate of interest per annum.]
+   ગુજરાતી: એક રકમ પર 5 વર્ષનું સાદું વ્યાજ મુદ્દલના 2/5 ભાગ જેટલું છે. વાર્ષિક વ્યાજનો દર શોધો.
+   [A] 8%  |  [B] 10%  |  [C] 6%  |  [D] 7.5%  |  [E] 9%
+   Answer / જવાબ: [A] 8%
+   Step-by-Step (EN): Let Principal P = ₹100. Total 5-year SI = (2/5) × 100 = ₹40. Since SI is equal every year, 1-year SI =
+   40 ÷ 5 = ₹8. Thus Rate = 8%.
+   પદ્ધતિસર સમજૂતી (GU): ધારો કે મુદ્દલ P = ₹100. 5 વર્ષનું કુલ વ્યાજ = 100 ના 2/5 = ₹40. તેથી 1 વર્ષનું વ્યાજ = 40 ÷ 5 = ₹8,
+   એટલે કે દર = 8%.
+   Easy Shortcut (EN): 2/5 = 40% total in 5 years → 40% ÷ 5 = 8% per year.
+   સરળ શોર્ટકટ (GU): 2/5 એટલે 40% વ્યાજ 5 વર્ષમાં, તો 1 વર્ષમાં = 40 / 5 = 8%.
+   Common Exam Trap (સામાન્ય ભૂલ): 5 વર્ષ વડે ભાગ્યા વિના 40% કે 2/5 ને સીધો દર સમજી ભૂલ ન કરવી.
+
+[Q6.9: Two cycles were bought for ₹3,000 each. One is sold at 10% profit and the other at 10% loss. Find the overall]
+   profit or loss.
+   ગુજરાતી: બે સાયકલ દરેક ₹3,000 માં ખરીદવામાં આવી. એક 10% નફાથી અને બીજી 10% ખોટથી વેચવામાં આવી. સમગ્ર સોદામાં શું
+   થશે?
+   [A] No profit, no loss  |  [B] 1% loss  |  [C] 1% profit  |  [D] ₹50 profit  |  [E] ₹50 loss
+   Answer / જવાબ: [A] No profit, no loss
+   Step-by-Step (EN): Cost Price (CP) of BOTH cycles is equal (₹3,000 each). Profit on 1st = +10% of 3,000 = +₹300; Loss
+   on 2nd = −10% of 3,000 = −₹300. Net result = +300 − 300 = 0 → No profit, no loss.
+   પદ્ધતિસર સમજૂતી (GU): અહીં બંને સાયકલની ખરીદ કિંંમત (CP = ₹3,000) સરખી છે! પહેલી પર +₹300 નફો અને બીજી પર −₹300
+   ખોટ થાય છે. કુલ નફો/ખોટ = +300 − 300 = ₹0 → નફો કે ખોટ નહીં.
+   Easy Shortcut (EN): Equal CP & Equal ±x% → ALWAYS No profit, no loss. (x²/100% loss applies ONLY when Selling
+   Price SP is equal!)
+   સરળ શોર્ટકટ (GU): CP (ખરીદ કિંંમત) સરખી હોય અને સરખા ટકા (+10%, −10%) હોય તો હંમેશા 'નફો કે ખોટ નહીં' થાય!
+   Common Exam Trap (સામાન્ય ભૂલ): વેચાણ કિંંમત (SP) સરખી હોય ત્યારે જ 1% ખોટ (x²/100%) થાય; અહીં 'ખરીદવામાં આવી
+   (bought)' લખ્યું છે એટલે CP સરખી છે!
+
+[Q6.10: ₹2,000 becomes ₹2,420 at Compound Interest in 2 years compounded annually. Find the annual rate of interest.]
+   ગુજરાતી: ₹2,000 વાર્ષિક ચક્રવૃદ્ધિ
+   વ્યાજે 2 વર્ષમાં ₹2,420 થાય છે. વાર્ષિક વ્યાજનો દર શોધો.
+   [A] 10%  |  [B] 8%  |  [C] 12%  |  [D] 9%  |  [E] 11%
+   Answer / જવાબ: [A] 10%
+   Step-by-Step (EN): Simplify P : A = 2,000 : 2,420. Divide both by 20 → 100 : 121. For 2 years, take square roots: √100 :
+   √121 = 10 : 11. Annual growth = 1 on 10 = (1/10) × 100 = 10%.
+   પદ્ધતિસર સમજૂતી (GU): P અને A નો ગુણોત્તર સરળ બનાવો: 2,000 : 2,420 = 100 : 121. સમય 2 વર્ષ હોવાથી બંનેનું વર્ગમૂળ લો: 10
+   : 11. એટલે 10 પર 1 વધે = 10%.
+   Easy Shortcut (EN): Ratio P:A = 100:121 → Square root (2 yrs) = 10:11 → +1/10 = 10%.
+   સરળ શોર્ટકટ (GU): 2000:2420 ને 20 વડે ભાગતાં 100:121 મળે → વર્ગમૂળ 10:11 → 10%.
+   Common Exam Trap (સામાન્ય ભૂલ): કુલ વ્યાજ ₹420 (21%) જોઈને 21 ÷ 2 = 10.5% સાદા વ્યાજની રીતે દર ન કાઢવો; ચક્રવૃદ્ધિ
+   માં
+   10% + 10% + 1% = 21% થાય.
+   📑 CHAPTER 6 FORMULA REVISION SHEET (વાણિજ્ય ગણિતના તમામ સૂત્રો)
+   Concept
+   Exact Mathematical Formula
+   Selling Price (SP)
+   SP = CP × (1 + Profit/100) અથવા SP = CP × (1 - Loss/100).
+   Marked Price & Discount
+   SP = MP × (1 - Discount/100). વળતર હંમેશાં છાપેલી કિંંમત (MP) પર ગણાય.
+   Simple Interest (SI)
+   SI = (P × R × T) / 100. Amount A = P + SI.
+   Compound Interest (CI)
+   A = P × (1 + R/100)T. CI = A - P.
+   2-Year CI - SI Diff
+   Difference = P × (R / 100)². (માત્ર ૨ વર્ષ માટે માન્ય).
+   Dishonest Dealer
+   Profit % = [ભૂલ (Error) / (ખરું માપ - ભૂલ)] × 100.
+
+========================================================================================

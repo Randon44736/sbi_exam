@@ -1,0 +1,338 @@
+========================================================================================
+CHAPTER 11 COMPLETE MASTER REVISION NOTE: NUMBER SYSTEM (સંખ્યા પદ્ધતિ)
+Exam: IBPS CRP RRBs-XV Officer Scale-I (PO) | Quantitative Aptitude
+Status: 100% Comprehensive Exam Master Note (Theory + All Solved Questions + PYQs)
+Candidate: Hitendrasinh Solanki | Exam Date: 21 Nov 2026
+========================================================================================
+
+----------------------------------------------------------------------------------------
+SECTION 1: THE GOLDEN RULES & SPEED SHORTCUTS (COACH'S CHEAT SHEET)
+----------------------------------------------------------------------------------------
+
+1. UNIVERSAL DIVISIBILITY RULES:
+   • Divisibility by 9:
+     - GOLDEN RULE: Sum of ALL digits across the ENTIRE number must be a multiple of 9 (9, 18, 27, 36...).
+     - EXAM TRAP: Never look at just front or back digits (e.g., in 81,235, seeing '81' is a trap; the sum is 19, so NOT divisible!).
+     - EXAMPLE: 52,434 -> 5 + 2 + 4 + 3 + 4 = 18 -> Divisible by 9!
+
+   • Divisibility by 11 (The Alternating Sum Trick):
+     - GOLDEN RULE: |Sum of Odd-placed digits - Sum of Even-placed digits| = 0 or 11 or 22...
+     - EXAMPLE: 65,714
+       Group 1 (1st, 3rd, 5th digits): 6 + 7 + 4 = 17
+       Group 2 (2nd, 4th digits): 5 + 1 = 6
+       Difference = 17 - 6 = 11 -> Completely Divisible by 11!
+
+   • Co-Prime Compound Divisor Rules (Super High-Yield in IBPS RRB PO):
+     - Rule for 72: Split into co-primes 8 and 9 (HCF = 1). Must satisfy BOTH Divisibility by 8 and 9!
+     - Rule for 88: Split into co-primes 8 and 11 (HCF = 1). Must satisfy BOTH Divisibility by 8 and 11!
+     - TRAP ALERT: Never split 72 into 6 x 12 or 88 into 4 x 22 (they share common factors!).
+
+----------------------------------------------------------------------------------------
+★ COACH'S SPECIAL INTUITION GUIDE:
+HOW TO DECIDE WHETHER TO PICK 18, 27, OR 36 WHEN SOLVING DIVISIBILITY BY 9 / 72?
+----------------------------------------------------------------------------------------
+Question students often ask: "How do I guess whether to set the sum equal to 18, 27, or another multiple of 9?"
+
+Here is the exact mathematical boundary and mental rule:
+1. Every digit (x and y) can ONLY be a single digit from 0 to 9.
+   Therefore, the minimum sum of two digits (x + y) is 0 + 0 = 0.
+   The maximum possible sum of two digits (x + y) is 9 + 9 = 18.
+   Mathematical Law: 0 <= (x + y) <= 18.
+
+2. Let S_known be the sum of the known digits given in the question.
+   Total sum = S_known + (x + y).
+   Since 0 <= (x + y) <= 18:
+   The total sum MUST lie strictly in the range:
+   S_known <= Total Sum <= S_known + 18.
+
+3. Step-by-Step Decision Protocol:
+   • Look at Q2.1: Number is 65x42y. Divisible by 72 (needs sum of digits to be multiple of 9).
+     Sum of known digits = 6 + 5 + 4 + 2 = 17.
+     Possible range of total sum = 17 to (17 + 18) = 17 to 35.
+     Which multiples of 9 fall between 17 and 35?
+     Only two multiples exist: 18 and 27! (36 is > 35, so 36 is mathematically IMPOSSIBLE!).
+
+   • Now test 18 vs 27 against the options:
+     Case A: If Total Sum = 18:
+             17 + (x + y) = 18  ==>  (x + y) = 18 - 17 = 1.
+             Look at the options: [A] 8, [B] 10, [C] 12, [D] 9, [E] 11.
+             Is 1 in the options? NO! So 18 is impossible.
+
+     Case B: If Total Sum = 27:
+             17 + (x + y) = 27  ==>  (x + y) = 27 - 17 = 10.
+             Look at the options: Option [B] is 10! MATCH FOUND INSTANTLY!
+
+   • Look at Q2.1B: Number is 41x32y.
+     Sum of known digits = 4 + 1 + 3 + 2 = 10.
+     Range of total sum = 10 to 28.
+     Multiples of 9 in this range: 18 and 27.
+     Case A: If Total Sum = 18:
+             10 + (x + y) = 18  ==>  (x + y) = 8.
+             Look at options: [A] 6, [B] 7, [C] 8, [D] 9, [E] 10.
+             Option [C] is 8! MATCH FOUND! (No need to even test 27!).
+
+GOLDEN SUMMARY FOR EXAM DAY:
+1. Sum the known digits: S_known.
+2. Next multiple of 9 after S_known gives the FIRST candidate.
+3. If that candidate matches the options, MARK IT!
+4. If that candidate is too small (e.g. 1), jump to the NEXT multiple of 9 (+9), which gives the answer!
+5. Never go beyond S_known + 18 because digits cannot exceed 9.
+----------------------------------------------------------------------------------------
+
+2. UNIT DIGIT (LAST DIGIT) OF POWERS - THE UNIVERSAL CYCLICITY RULE:
+   • Master Key: Divide the power by 4!
+   • The remainder 'r' is the EFFECTIVE POWER:
+     - Remainder 1 -> Base^1
+     - Remainder 2 -> Base^2
+     - Remainder 3 -> Base^3
+     - Remainder 0 -> Base^4 (CRITICAL: Remainder 0 means full cycle of 4, NOT power 0!).
+   • EXAM TRAP: The remainder is the EXPONENT/POWER, NOT the final answer!
+     - 7^45: 45 / 4 = Remainder 1 -> Effective power = 7^1 = 7! (Do not write 1!).
+   • Permanent Ending Digits (Never Change for any positive power):
+     - 0 always ends in 0
+     - 1 always ends in 1
+     - 5 always ends in 5 (e.g., 5^100 ends in 5)
+     - 6 always ends in 6 (e.g., 46^78 ends in 6)
+
+3. TOTAL FACTORS & ODD/EVEN FACTORS FORMULA:
+   • Prime-factorize N into: N = 2^a x p1^b x p2^c ...
+   • Total Factors = (a + 1)(b + 1)(c + 1)...
+   • ODD Factors ("Ignore the 2" Trick):
+     - Powers of 2 make numbers even. To get ODD factors, completely delete 2^a!
+     - Odd Factors = (b + 1)(c + 1)...
+     - Example: 60 = 2^2 x 3^1 x 5^1 -> Odd factors = (1 + 1)(1 + 1) = 2 x 2 = 4 (Factors: 1, 3, 5, 15).
+   • EVEN Factors:
+     - Even Factors = Total Factors - Odd Factors = [a x (b + 1)(c + 1)...]
+
+4. TRAILING ZEROS IN FACTORIALS (LEGENDRE'S FORMULA):
+   • Trailing zeros are produced by 2 x 5 pairs. 2s are abundant, so count powers of 5:
+     Number of Trailing Zeros = [N/5] + [N/25] + [N/125] + [N/625] ...
+   • Example 1: 50! -> [50/5] + [50/25] = 10 + 2 = 12 zeros.
+   • Example 2: 100! -> [100/5] + [100/25] = 20 + 4 = 24 zeros.
+   • Example 3: 125! -> [125/5] + [125/25] + [125/125] = 25 + 5 + 1 = 31 zeros. (Don't forget 125!).
+
+5. NEGATIVE REMAINDER SHORTCUT:
+   • When dividing (M - 1)^n by M:
+     Treat (M - 1) as -1 mod M.
+     - If power n is ODD: (-1)^odd = -1 -> Final Remainder = M - 1.
+     - If power n is EVEN: (-1)^even = +1 -> Final Remainder = 1.
+   • Example: 14^99 ÷ 15 -> (-1)^99 = -1 -> Final Remainder = 15 - 1 = 14! (Done in 3 seconds).
+
+6. ALGEBRAIC FACTOR THEOREM:
+   • (a^n + b^n) is ALWAYS divisible by (a + b) whenever n is ODD!
+     - Example: (43^29 + 17^29) is divisible by (43 + 17) = 60!
+   • (a^n - b^n) is ALWAYS divisible by (a - b) for ALL natural powers n!
+   • (a^n - b^n) is divisible by (a + b) whenever n is EVEN!
+
+7. COMMON REMAINDER LCM RULE:
+   • The smallest number which when divided by a, b, c leaves remainder r in each case:
+     Number = LCM(a, b, c) + r
+   • Example: Smallest number divided by 4, 6, 8 leaving remainder 3:
+     LCM(4, 6, 8) = 24 -> Number = 24 + 3 = 27.
+
+8. CONSECUTIVE NUMBERS & THE MIDDLE NUMBER PROPERTY:
+   • For any odd count of consecutive numbers (3, 5, 7 numbers):
+     Average = EXACT MIDDLE NUMBER!
+   • Example: Sum of 5 consecutive even numbers = 140.
+     Middle (3rd) number = 140 ÷ 5 = 28.
+     Numbers: 24, 26, 28, 30, 32 -> Largest is 32!
+
+9. HCF & LCM PRODUCT RELATION:
+   • Fundamental Law: First Number x Second Number = HCF x LCM.
+   • When numbers are in ratio a : b with HCF = H:
+     Numbers are (H x a) and (H x b).
+     LCM = H x a x b.
+
+
+----------------------------------------------------------------------------------------
+SECTION 2: ALL 15 SOLVED EXAM QUESTIONS (STEP-BY-STEP & SHORTCUTS)
+----------------------------------------------------------------------------------------
+
+--- PHASE 1: 5 EASY FOUNDATIONAL QUESTIONS ---
+
+[Q1.1] Which of the following numbers is divisible by 9?
+       [A] 43,721   [B] 56,412   [C] 72,342   [D] 81,235   [E] 65,311
+       • Concept: Sum of all digits must be divisible by 9.
+       • Mistake analyzed: Trapped by seeing '81' at the start of [D].
+         In [D], sum is 8+1+2+3+5 = 19 (19 is not divisible by 9).
+       • Correct Check: In [B], sum = 5+6+4+1+2 = 18. (18/9 = 2 cleanly).
+       • Answer: [B] 56,412
+       • Coach's Rule: Always sum the WHOLE number, never guess based on front or back digits.
+
+[Q1.1B] Reinforcement Question: Which of the following numbers is divisible by 9?
+        [A] 23,456   [B] 41,237   [C] 63,118   [D] 52,434   [E] 91,241
+        • Solution: In [D], 5 + 2 + 4 + 3 + 4 = 18. Since 18 is a multiple of 9, it is divisible!
+        • Answer: [D] 52,434
+
+[Q1.2] Which of the following numbers is divisible by 11?
+       [A] 48,271   [B] 65,714   [C] 53,429   [D] 39,282   [E] 71,425
+       • Concept: Difference between sum of odd-placed digits and even-placed digits must be 0 or 11.
+       • Solution for [B] (65,714):
+         Odd positions (1st, 3rd, 5th digits): 6 + 7 + 4 = 17.
+         Even positions (2nd, 4th digits): 5 + 1 = 6.
+         Difference = 17 - 6 = 11. Completely divisible by 11!
+       • Answer: [B] 65,714
+       • Coach's Shortcut: Group digits in two alternating waves: (6, 7, 4) and (5, 1). Fast subtraction takes 5 seconds!
+
+[Q1.3] What is the unit digit of 7^45?
+       [A] 1   [B] 3   [C] 7   [D] 9   [E] 5
+       • Concept: Cyclicity of 4 for powers. Divide power 45 by 4.
+       • Step 1: 45 ÷ 4 = 11 with Remainder = 1.
+       • Step 2: Remainder 1 means the unit digit is the same as 7^1 = 7.
+       • Mistake analyzed: Remainder is 1, but do NOT select 1 as the answer! The remainder is the POWER.
+       • Answer: [C] 7
+
+[Q1.3B] Reinforcement Question: What is the unit digit of 3^13?
+        [A] 1   [B] 3   [C] 7   [D] 9   [E] 5
+        • Solution: 13 ÷ 4 gives remainder 1.
+          Effective power = 3^1 = 3!
+        • Answer: [B] 3
+
+[Q1.4] How many total factors does 36 have?
+       [A] 6   [B] 8   [C] 9   [D] 12   [E] 10
+       • Concept: Prime factorize 36: 36 = 4 x 9 = 2^2 x 3^2.
+       • Formula: Total factors = (a + 1)(b + 1) = (2 + 1)(2 + 1) = 3 x 3 = 9.
+       • Answer: [C] 9
+       • Fast Check: The factors are 1, 2, 3, 4, 6, 9, 12, 18, 36 (exactly 9 factors).
+       • Coach's Rule: Perfect squares always have an ODD number of total factors!
+
+[Q1.5] How many trailing zeros are at the end of 50!?
+       [A] 10   [B] 12   [C] 14   [D] 15   [E] 8
+       • Concept: Legendre's Formula counting factors of 5.
+       • Step 1: [50 / 5] = 10.
+       • Step 2: [50 / 25] = 2.
+       • Total Zeros = 10 + 2 = 12.
+       • Answer: [B] 12
+       • Coach's Rule: Keep dividing by 5 until the quotient is less than 5, then add quotients: 50/5 = 10; 10/5 = 2. Total = 10 + 2 = 12!
+
+
+--- PHASE 2: 10 MODERATE EXAM-PATTERN QUESTIONS ---
+
+[Q2.1] If 65x42y is completely divisible by 72, find the value of (x + y).
+       [A] 8   [B] 10   [C] 12   [D] 9   [E] 11
+       • Concept: Divisibility by 72 requires divisibility by 8 and 9.
+       • 5-Second Hack: When exam asks for (x + y), skip checking 8!
+       • Sum known digits: 6 + 5 + 4 + 2 = 17.
+       • Total sum = 17 + (x + y).
+       • If sum = 18 -> (x + y) = 1 (Not in options).
+       • If sum = 27 -> (x + y) = 27 - 17 = 10 (Option [B] matches!).
+       • Answer: [B] 10
+
+[Q2.1B] Reinforcement: If 41x32y is completely divisible by 72, find the value of (x + y).
+        [A] 6   [B] 7   [C] 8   [D] 9   [E] 10
+        • Solution: Known digits sum = 4 + 1 + 3 + 2 = 10.
+          Next multiple of 9 is 18.
+          (x + y) = 18 - 10 = 8!
+        • Answer: [C] 8
+
+[Q2.2] What is the remainder when 14^99 is divided by 15?
+       [A] 1   [B] 0   [C] 14   [D] 7   [E] 13
+       • 3-Second Shortcut: 14 mod 15 is -1.
+         (-1)^99 = -1 (since 99 is odd).
+         Final positive remainder = 15 - 1 = 14!
+       • Answer: [C] 14
+       • Coach's Rule: (M - 1)^odd ÷ M ALWAYS leaves remainder (M - 1)!
+
+[Q2.3] What is the unit digit of (23^45 x 46^78 x 77^43)?
+       [A] 2   [B] 4   [C] 6   [D] 8   [E] 1
+       • Step 1 (23^45): 45 ÷ 4 leaves rem 1 -> 3^1 = 3.
+       • Step 2 (46^78): Any power of 6 always ends in 6.
+       • Step 3 (77^43): 43 ÷ 4 leaves rem 3 -> 7^3 = 343 (ends in 3).
+       • Multiply unit digits: 3 x 6 x 3 = 54 -> Unit digit is 4!
+       • Answer: [B] 4
+
+[Q2.4] The sum of 5 consecutive even numbers is 140. What is the largest of these numbers?
+       [A] 30   [B] 32   [C] 34   [D] 28   [E] 36
+       • 5-Second Hack: Average = Middle (3rd) Number = 140 ÷ 5 = 28.
+       • Numbers are: 24, 26, 28, 30, 32.
+       • Largest number = 32!
+       • Answer: [B] 32
+
+[Q2.5] Two numbers are in the ratio 3 : 4, and their HCF is 5. What is their LCM?
+       [A] 45   [B] 60   [C] 75   [D] 30   [E] 90
+       • Formula: LCM = HCF x a x b = 5 x 3 x 4 = 60!
+       • Answer: [B] 60
+       • Check: The numbers are 5x3=15 and 5x4=20. LCM(15, 20) = 60.
+
+[Q2.6] How many ODD factors does the number 60 have?
+       [A] 2   [B] 4   [C] 6   [D] 8   [E] 3
+       • Prime factorization: 60 = 2^2 x 3^1 x 5^1.
+       • "Ignore the 2" Rule: Delete 2^2 completely!
+       • Odd factors = (1 + 1)(1 + 1) = 2 x 2 = 4.
+       • The odd factors are: 1, 3, 5, 15.
+       • Answer: [B] 4
+
+[Q2.7] If a number is divisible by 88, it must be divisible by which co-prime pair?
+       [A] 2 and 44   [B] 4 and 22   [C] 8 and 11   [D] 1 and 88   [E] 3 and 29
+       • Concept: To test divisibility by composite N = A x B, A and B MUST have HCF = 1 (co-prime).
+       • HCF(8, 11) = 1.
+       • Answer: [C] 8 and 11
+       • Exam Trap: 4 and 22 have common factor 2, so testing 4 and 22 is flawed!
+
+[Q2.8] How many trailing zeros are at the end of 125!?
+       [A] 25   [B] 30   [C] 31   [D] 32   [E] 28
+       • Formula: [125/5] + [125/25] + [125/125]
+         = 25 + 5 + 1 = 31 zeros!
+       • Answer: [C] 31
+       • Exam Trap: Many students stop at 25 + 5 = 30 and forget that 125 itself has 5^3 contributing +1 extra zero!
+
+[Q2.9] The expression (43^29 + 17^29) is completely divisible by which number?
+       [A] 26   [B] 50   [C] 60   [D] 34   [E] 45
+       • Algebraic Rule: (a^n + b^n) is ALWAYS divisible by (a + b) when n is odd.
+       • Here n = 29 (odd).
+       • Divisor = 43 + 17 = 60!
+       • Answer: [C] 60
+
+[Q2.10] What is the smallest number which when divided by 4, 6, and 8 leaves a remainder of 3 in each case?
+        [A] 25   [B] 27   [C] 29   [D] 35   [E] 21
+        • Formula: Number = LCM(4, 6, 8) + Remainder
+        • LCM(4, 6, 8) = 24.
+        • Number = 24 + 3 = 27!
+        • Answer: [B] 27
+        • Check: 27/4 leaves rem 3; 27/6 leaves rem 3; 27/8 leaves rem 3. Perfect!
+
+----------------------------------------------------------------------------------------
+SECTION 3: REAL EXAM PYQ MASTER MODELS (COACH'S VERIFIED SPRINT)
+----------------------------------------------------------------------------------------
+
+[PYQ 11.1] (IBPS PO Prelims Model):
+If the 7-digit number 54x32y4 is divisible by 72, find the value of (x + y).
+• Method: Divisible by 8 and 9.
+  For 8: last 3 digits '2y4' divisible by 8 -> 224/8=28 (y=2) or 264/8=33 (y=6).
+  For 9: sum of digits = 5 + 4 + x + 3 + 2 + y + 4 = 18 + x + y.
+  For 18 + (x + y) to be a multiple of 9:
+  (x + y) can be 9 (sum = 27) or 18 (sum = 36).
+  Options in exam: [A] 7, [B] 9, [C] 11, [D] 13 -> Answer: [B] 9!
+
+[PYQ 11.2] (SBI PO / RRB PO Mains Model):
+Find the remainder when 2^68 is divided by 33.
+• Coach's Shortcut: Notice that 2^5 = 32 = (33 - 1) = -1 mod 33.
+  Rewrite: 2^68 = 2^(5 x 13 + 3) = (2^5)^13 x 2^3.
+  (32)^13 x 8 mod 33 = (-1)^13 x 8 = -1 x 8 = -8 mod 33.
+  Positive Remainder = 33 - 8 = 25!
+• Exam Hack: Convert large powers of 2 into powers close to the divisor (32 is 33 - 1).
+
+[PYQ 11.3] (RRB PO Prelims Model):
+How many trailing zeros are in the product (25! x 40!)?
+• Trailing zeros in 25!: [25/5] + [25/25] = 5 + 1 = 6 zeros.
+• Trailing zeros in 40!: [40/5] + [40/25] = 8 + 1 = 9 zeros.
+• In multiplication, zeros ADD UP: 6 + 9 = 15 trailing zeros!
+• Exam Trap: Do NOT multiply 6 x 9 = 54. Zeros always add!
+
+[PYQ 11.4] (IBPS PO Prelims Model):
+How many factors of 360 are multiples of 12?
+• Prime factorization: 360 = 2^3 x 3^2 x 5^1.
+• Since factors must be multiples of 12 (2^2 x 3^1), factor out 12:
+  360 = 12 x (2^1 x 3^1 x 5^1).
+• Total factors of the remaining part: (1 + 1)(1 + 1)(1 + 1) = 2 x 2 x 2 = 8 factors!
+• Answer: 8 factors of 360 are divisible by 12.
+
+[PYQ 11.5] (SBI PO Prelims Model):
+Find the unit digit of (7^95 - 3^58).
+• Unit digit of 7^95: 95 ÷ 4 leaves rem 3 -> 7^3 = 343 (ends in 3).
+• Unit digit of 3^58: 58 ÷ 4 leaves rem 2 -> 3^2 = 9 (ends in 9).
+• Subtraction: (ends in 3) - (ends in 9).
+  Borrow 1: 13 - 9 = 4!
+• Answer: Unit digit is 4!
+• Exam Trap: Never do 3 - 9 = -6. Always borrow 10 just like normal subtraction!
+========================================================================================
