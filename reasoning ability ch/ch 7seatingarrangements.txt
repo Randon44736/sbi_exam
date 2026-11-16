@@ -1,0 +1,170 @@
+====================================================================
+CHAPTER 7: SEATING ARRANGEMENTS CORE (CIRCLE, SQUARE, ROWS)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 30-33)
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: ⚡ LEARNING (ACTIVE NOW)
+Exam Weightage: 10 Questions / 2 Full Sets (Solid 10 Marks in Prelims!)
+====================================================================
+
+1. CORE METHOD & GOLDEN DIRECTION RULES
+--------------------------------------------------------------------
+A) Circular Seating (ગોળાકાર ગોઠવણી):
+   • Facing the CENTRE (કેન્દ્ર તરફ મોં):
+     - LEFT  = CLOCKWISE (ઘડિયાળની દિશામાં આગળ વધો)
+     - RIGHT = ANTICLOCKWISE (ઘડિયાળની વિરુદ્ધ દિશામાં આગળ વધો)
+   • Facing OUTSIDE (કેન્દ્રની બહાર મોં):
+     - LEFT  = ANTICLOCKWISE
+     - RIGHT = CLOCKWISE (Direct inversion!)
+   • Opposite Seats in 8-Person Circle:
+     - Exactly 3 persons sit between them from either side!
+     - Formula: Opposite = (Position + 4) -> 1↔5, 2↔6, 3↔7, 4↔8.
+
+B) Linear Row Seating (સીધી હરોળ):
+   • Facing NORTH (ઉત્તર તરફ):
+     - Left = West (ડાબી બાજુ) | Right = East (જમણી બાજુ)
+   • Facing SOUTH (દક્ષિણ તરફ - Inverted!):
+     - Left = EAST (તમારો જમણો હાથ તે તેમનો ડાબો હાથ બને!)
+     - Right = WEST (તમારો ડાબો હાથ તે તેમનો જમણો હાથ બને!)
+   • Parallel Rows (બે સમાંતર હરોળ):
+     - South-facing row sits on Top facing downward.
+     - North-facing row sits on Bottom facing upward.
+
+C) The "Fixing Anchor" Strategy (પઝલ શરૂ કરવાનો નિયમ):
+   1. Never start with negative clues (e.g. "A is not near B").
+   2. Always pick a DEFINITE, FIXED clue with clear direction (e.g. "G sits 3rd to the left of B").
+   3. Maintain at most 2 parallel cases on rough paper!
+
+====================================================================
+2. PRACTICE QUESTIONS LOG (FROM BOOKLET 2, PAGES 30-33)
+--------------------------------------------------------------------
+
+[Question 7.1 - Verified IBPS RRB PO Prelims 2023]:
+Setup: 8 persons (B-G-C-E-D-A-H-F) seated clockwise facing the centre.
+Target: 3rd to the left of G.
+Candidate Answer: [C] D
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Facing centre -> Left = Clockwise.
+• Steps from G: 1st=C, 2nd=E, 3rd=D.
+• Solved directly on screen in under 4 seconds!
+--------------------------------------------------------------------
+
+[Question 7.2 - Verified IBPS RRB PO Prelims 2023]:
+Row 1: Five persons (T - P - S - Q - R) facing South from West to East.
+Target: 2nd to the left of Q.
+Candidate Answer: [D] No one
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Facing South -> Left hand points East!
+• To the left of Q: 1st left is R. Beyond R, the row ends!
+• 2nd to the left of Q is uniquely 'No one'.
+• Candidate avoided the North-facing Left trap (P) effortlessly!
+--------------------------------------------------------------------
+
+[Question 7.3 - Verified IBPS RRB PO Prelims 2022]:
+Setup: 8 persons around a square table (4 corners facing outside, 4 edges facing center).
+Target: Person directly opposite corner P.
+Candidate Answer: [B] Diagonally opposite corner person facing outside
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Corner symmetry law: A corner sits directly opposite the diagonal corner.
+• Since all corners face outside, the opposite corner also faces outside!
+• Solved directly in under 3 seconds!
+--------------------------------------------------------------------
+
+[Question 7.4 - Verified IBPS RRB PO Prelims 2021]:
+Row: 7 persons facing North. D = Pos 4 (middle), B = 2nd right of D = Pos 6.
+Target: Position of person immediate right of B.
+Candidate Answer: [D] Extreme right end (Position 7)
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Pos 4 -> (+2) Pos 6 (B) -> (+1) Pos 7 (Extreme right end).
+• Solved in 3 seconds directly using numerical coordinates!
+--------------------------------------------------------------------
+
+[Question 7.5 - Verified IBPS RRB PO Prelims 2023]:
+Circle: 8 persons (B-G-C-E-D-A-H-F) facing center.
+Target: Person directly opposite B.
+Candidate Answer: [C] D (Identified the exact '4,4' semicircle split!)
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Pos(1) + 4 = Pos(5) -> D.
+• Candidate noted: 'split 4,4' - exactly half of an 8-person circle!
+• Solved directly in 3 seconds!
+--------------------------------------------------------------------
+
+[Question 7.6 - Verified IBPS RRB PO Prelims 2023]:
+Row: T - P - S - Q - R (West to East) facing South.
+Target: Extreme Western end (Right end of South-facing row).
+Candidate Answer: T [Option D]
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Western end = 1st element = T.
+• For South-facing persons, Western end is also their Right hand end!
+• Solved directly in 2 seconds!
+--------------------------------------------------------------------
+
+[Question 7.7 - Verified IBPS RRB PO Prelims 2022]:
+Shape: Triangular table facing centre.
+Target: Direction to move when counting to the RIGHT.
+Candidate Answer: [B] Anticlockwise
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Universal Polygon Law: For any closed shape facing center, Right = Anticlockwise, Left = Clockwise.
+• Solved directly in under 2 seconds!
+--------------------------------------------------------------------
+
+[Question 7.8 - Verified IBPS RRB PO Prelims 2021]:
+Given: A is 2nd left of B, C is 3rd right of A.
+Target: Position of C with respect to B.
+Candidate Answer: [D] Immediate right
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Net Vector Shortcut applied:
+  - B = 0
+  - A = -2 (Left)
+  - C = -2 + 3 = +1 (Right) -> 1st to the right (Immediate Right)!
+• Solved directly without sketching a single circle in 3 seconds!
+--------------------------------------------------------------------
+
+[Question 7.9 - Verified IBPS RRB PO Prelims 2023]:
+Row: 15 persons facing North. X = 4th from left, Y = 5th from right.
+Target: Number of persons sitting strictly between X and Y.
+Candidate Answer: [C] 6
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• L + R = 4 + 5 = 9 < Total (15) -> Non-Overlapping.
+• Between = 15 - (4 + 5) = 15 - 9 = 6.
+• Solved directly on screen in 2 seconds!
+--------------------------------------------------------------------
+
+[Question 7.10 - Verified IBPS RRB PO Prelims 2022]:
+Row: North-facing. X is 3rd left of Y (X = -3, Y = 0). Z is 2nd right of X (Z = -3 + 2 = -1).
+Target: Number of persons sitting between Y and Z.
+Candidate Answer: [D] No one (they are immediate neighbours)
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Positions: X(-3) -> Empty(-2) -> Z(-1) -> Y(0).
+• Z and Y occupy adjacent seats (-1 and 0); exactly 0 persons sit between them.
+• Avoided the trap of 1 person (3 - 2 = 1 position gap, but 0 people between).
+• 10/10 Practice Questions on Chapter 7 COMPLETED!
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+3. 60-SECOND SPEED BLITZ (FINAL VERIFICATION TEST)
+--------------------------------------------------------------------
+⚡ Blitz Q1: 2nd to the left of P in clockwise circle facing centre?
+• Candidate Answer: [C] R
+• Result: ✅ 100% CORRECT! (Left = Clockwise: P -> Q -> R).
+
+⚡ Blitz Q2: Opposite to Q in 8-person circle?
+• Candidate Answer: [B] U
+• Result: ✅ 100% CORRECT! (+4 split: Q(2) + 4 = U(6)).
+
+⚡ Blitz Q3: Immediate right of C in South-facing row A-B-C-D-E?
+• Candidate Answer: [B] B
+• Result: ✅ 100% CORRECT! (Facing South -> Right is Westward -> B).
+
+Blitz Score: 3/3 (100% PERFECT ACCURACY)
+FINAL VERDICT: 🏆 CHAPTER 7 OFFICIALLY EXAM READY!
+====================================================================
