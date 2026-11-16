@@ -25,16 +25,11 @@ All backups, chat exports, progress trackers, and synchronization scripts are or
 - **`conversation_history/auto_sync_daemon.py`**: Background watcher process that auto-pushes whenever files or chats change.
 
 ### 📑 Study Booklets (PDFs)
-- **`IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf`**: Complete Quant syllabus (expanded to 52 pages), bilingual theory, shortcuts, 120 verified practice questions, and formula sheets.
-- **`IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf`**: Complete Reasoning syllabus (expanded to 53 pages), covering all 17 chapters, Master Syllabus Directory, audit blueprint, bilingual rules, verified PYQs, and cheat sheets.
-- **`IBPS_RRB_PO_Booklet_2_Reasoning_Ability_backup49p.pdf`**: Safe unedited backup of the original 49-page Reasoning handbook.
+- **`IBPS_RRB_PO_Booklet_1_Quantitative_Aptitude.pdf`**: Complete 10-chapter Quant syllabus, bilingual theory (English + Gujarati), shortcuts, 120 verified practice questions, and end-of-chapter formula sheets.
+- **`IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf`**: Reasoning syllabus and practice questions.
 - **`IBPS_RRB_PO_Speed_Hacks_Zero_Pen_Method.pdf`**: Zero-Pen mental math techniques and speed shortcuts.
 - **`CRP-RRBs-XV-notification (2).pdf`**: Official notification for IBPS CRP RRBs-XV.
 - **`IPRRB HITENDRA.pdf`**: Candidate registration / exam details.
-
-### 🧠 Reasoning Ability Expanded Preparation (`reasoning ability ch/`)
-- **[`reasoning ability ch/REASONING_MASTER_TRACKER.md`](reasoning%20ability%20ch/REASONING_MASTER_TRACKER.md)**: Master progress tracker across all 17 chapters, tracking status from Not Started to Exam Ready, PYQ trends, and weak-topic error log.
-- **[`reasoning ability ch/ch 11miscellaneous.txt`](reasoning%20ability%20ch/ch%2011miscellaneous.txt)**: Chapter 11 notes, speed rules, anagram traps, numerical translation shortcuts, and practice history.
 
 ### 📝 Chapter Notes & Solved Problems
 - **[`ch 1bodmas.txt`](ch%201bodmas.txt)**: Chapter 1 — BODMAS, Fractions, Decimals, Order of Priority.

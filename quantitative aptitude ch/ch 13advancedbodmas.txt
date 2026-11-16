@@ -1,0 +1,69 @@
+========================================================================================
+CHAPTER 13 NOTES: ADVANCED BODMAS, DECIMALS, FRACTIONS & SPEED CALCULATION
+(એડવાન્સ્ડ BODMAS, દશાંશ, અપૂર્ણાંક અને ગણતરી શોર્ટકટ્સ)
+Exam: IBPS CRP RRBs-XV Officer Scale-I (PO) | Quantitative Aptitude
+Status: IN PROGRESS (Phase 1: Easy Foundational Questions)
+Candidate: Hitendrasinh Solanki | Exam Date: 21 Nov 2026
+========================================================================================
+
+----------------------------------------------------------------------------------------
+SECTION 1: THE GOLDEN RULES & SPEED SHORTCUTS (COACH'S CHEAT SHEET)
+----------------------------------------------------------------------------------------
+
+1. THE VBODMAS HIERARCHY:
+   • V -> Vinculum (Bar bracket, e.g. 8 - 3 with a bar over it: solve first!)
+   • B -> Brackets: Inner ( ) -> Curly { } -> Square [ ]
+   • O -> "Of": Strictly means multiply, but takes precedence over normal division!
+     TRAP ALERT: 40 ÷ 5 of 2 = 40 ÷ (5 x 2) = 40 ÷ 10 = 4 (NOT 8 x 2 = 16!).
+   • D / M -> Division and Multiplication: Equal priority, solve STRICTLY LEFT TO RIGHT!
+   • A / S -> Addition and Subtraction: Equal priority, solve STRICTLY LEFT TO RIGHT!
+
+2. MIXED FRACTIONS WHOLE-PART SEPARATION RULE:
+   • Never convert mixed fractions to improper fractions in speed math!
+   • Formula:
+     A b/c + D e/f - G h/k = (A + D - G) + (b/c + e/f - h/k)
+   • Example: 7 1/4 + 5 1/2 - 3 1/4 = (7 + 5 - 3) + (1/4 + 1/2 - 1/4) = 9 + 1/2 = 9 1/2.
+
+3. THE "WHOLE MINUS MIXED FRACTION" 3-SECOND TRICK:
+   • To compute: Whole Number N - (A b/c):
+     Step 1: Subtract 1 extra from whole number: (N - A - 1)
+     Step 2: New numerator = (Denominator - Numerator): (c - b) / c
+   • Example: 50 - 13 4/7:
+     Step 1: 50 - 14 = 36
+     Step 2: (7 - 4) / 7 = 3/7
+     Answer: 36 3/7! (Zero rough paper needed!).
+
+4. THE PERCENTAGE SWAP RULE (A% of B = B% of A):
+   • When A% of B looks ugly, flip it!
+   • Example: 64% of 25 = 25% of 64 = 64 ÷ 4 = 16!
+   • Example: 48% of 50 = 50% of 48 = 48 ÷ 2 = 24!
+   • Example: 36% of 250 = 250% of 36 = 2.5 x 36 = 90!
+
+5. SURDS & INDICES BASE MATCHING LAW:
+   • Whenever an equation has exponents (e.g. 4^? x 8^3 ÷ 16 = 2^10):
+     Convert EVERY base to the smallest prime base (usually 2, 3, or 5)!
+     - 4 = 2^2
+     - 8 = 2^3
+     - 16 = 2^4
+     - 32 = 2^5
+     - 64 = 2^6
+
+----------------------------------------------------------------------------------------
+SECTION 2: PRACTICE HISTORY (STEP-BY-STEP SOLVED QUESTIONS)
+----------------------------------------------------------------------------------------
+
+--- PHASE 1: 5 EASY FOUNDATIONAL QUESTIONS ---
+
+[Q1.1] Mixed Fraction Separation Rule:
+       Evaluate: 4 2/5 + 3 1/2 - 2 1/5 = ?
+       [A] 4 7/10   [B] 5 3/10   [C] 5 7/10   [D] 6 1/10   [E] 5 1/2
+
+       • Golden Separation Working:
+         Step 1 (Whole numbers): 4 + 3 - 2 = 5.
+         Step 2 (Matching denominators): 2/5 - 1/5 = 1/5.
+         Step 3 (Cross-add): 1/5 + 1/2 = (2 + 5)/10 = 7/10.
+         Total Combined = 5 7/10!
+       • Exam Trap Avoided:
+         Converting to improper fractions (22/5 + 7/2 - 11/5) creates big numerators and wastes 30+ seconds!
+       • Answer: [C] 5 7/10 (Solved 100% correctly in seconds!).
+========================================================================================

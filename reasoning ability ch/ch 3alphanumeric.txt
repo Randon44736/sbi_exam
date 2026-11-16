@@ -1,0 +1,115 @@
+====================================================================
+CHAPTER 3: ALPHANUMERIC-SYMBOL SERIES, ALPHABET TEST & WORD PAIRS
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 14-17)
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: 🏆 EXAM READY (100% Speed Blitz Score: 3/3)
+Exam Weightage: 3–5 Questions (Target: 1.5–2 Minutes for all 5 Qs)
+====================================================================
+
+1. CORE METHOD & GOLDEN SPEED FORMULAS
+--------------------------------------------------------------------
+A) The Direction Arithmetic Formula (દિશા સરવાળા-બાદબાકી નિયમ):
+   Never count manually in two steps! Use the algebraic formula:
+   1. Same Directions -> SUBTRACT (-):
+      * "x-th to the LEFT of y-th from LEFT end"  = (y - x)th from LEFT
+      * "x-th to the RIGHT of y-th from RIGHT end" = (y - x)th from RIGHT
+   2. Opposite Directions -> ADD (+):
+      * "x-th to the RIGHT of y-th from LEFT end"  = (y + x)th from LEFT
+      * "x-th to the LEFT of y-th from RIGHT end"  = (y + x)th from RIGHT
+
+B) Preceded by vs Followed by (આગળ અને પાછળની ચોખ્ખી ઓળખ):
+   - "Preceded by" (પહેલાં / આગળ): Comes BEFORE the element!
+   - "Followed by" (પછી / પાછળ): Comes AFTER the element!
+   - Formula:
+     [ PRECEDING ELEMENT ]  ──►  [ TARGET ]  ──►  [ FOLLOWING ELEMENT ]
+     Example: "Vowels preceded by a number and followed by a symbol":
+              [ Number ] [ Vowel ] [ Symbol ]
+
+C) Dropping Rules (ઘટકો કાઢી નાખવાનો નિયમ):
+   - If asked: "If all numbers are dropped, which element is 8th from right end?"
+   - Speed Hack: NEVER cross out numbers on scratch paper!
+     Directly count from right end, skipping all digits with your finger.
+
+D) Position Values & Pair Counting:
+   - Forward Anchors: EJOTY (E=5, J=10, O=15, T=20, Y=25)
+   - Backward Position: (27 - Forward Position)
+   - Pair Counting: Match alphabetical gap forward and backward.
+
+
+2. PRACTICE QUESTIONS LOG (FROM BOOKLET 2, PAGES 14-17)
+--------------------------------------------------------------------
+Sequence for Q3.1 to Q3.7:
+M  4  #  K  7  @  B  2  $  E  9  %  T  5  &  W  8  *  P  3
+
+[Question 3.1 - Verified IBPS RRB PO Prelims Shift 1]:
+Question: Which element is 5th to the right of the 12th element from the left end?
+Candidate Answer: [E] 8
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Opposite directions (Right & Left) -> ADD (+).
+• Position: 12 + 5 = 17th from LEFT end.
+• Counting 17 elements from left yields '8'.
+• Perfect zero-pen execution!
+--------------------------------------------------------------------
+[Question 3.2 - Verified IBPS RRB PO Prelims Shift 1]:
+Question: Which element is 4th to the left of the 15th element from the left end?
+Candidate Answer: [B] 9
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Same directions (Left & Left) -> SUBTRACT (-).
+• Position: 15 - 4 = 11th from LEFT end.
+• Counting 11 elements from left yields '9'.
+• Direction Arithmetic Formula (Same = Minus, Opposite = Plus) 100% mastered!
+--------------------------------------------------------------------
+[Question 3.3 - Verified IBPS RRB PO Prelims Shift 1]:
+Question: If all symbols are dropped from the sequence, which element will be 7th from the right end?
+Candidate Answer: [B] 9
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Candidate applied the zero-pen skipping hack: counted from right end skipping symbols (*, &, %, $, @, #).
+• Elements counted: 3(1), P(2), 8(3), W(4), 5(5), T(6), 9(7).
+• Solved directly on screen in under 10 seconds!
+--------------------------------------------------------------------
+[Question 3.4 - Concept Drill / Verified Bank PO Model]:
+Word: "POST" (Followed by "BANKING")
+Question: How many pairs of letters have the same gap as in the English alphabet?
+Candidate Answer: 2 pairs (ST, PO)
+Result: ✅ 100% PERFECT! COMPLETE MASTERY OF PAIR COUNTING!
+Speed / Analysis:
+• Forward: S -> T (Match 1: ST).
+• Backward: O -> P (Match 2: PO).
+• Candidate mastered the "Finger & Mouth" recitation technique!
+• Now able to find all forward & backward pairs independently!
+--------------------------------------------------------------------
+
+[Question 3.5 - Verified IBPS RRB PO Prelims Shift 1]:
+Sequence: M  4  #  K  7  @  B  2  $  E  9  %  T  5  &  W  8  *  P  3
+Question: How many symbols are immediately preceded by an odd number?
+Candidate Answer: [E] 4 (pointed out numbers 7, 9, 5, 3)
+Result: ⚠️ Corrected to [D] 3 (7@, 9%, 5&)
+Trap Identified & Mastered:
+• '3' sits at the terminal end with no symbol following it!
+• A boundary element cannot fulfill a forward/backward relation if there is nothing past the boundary.
+• 3 Valid Matches: 7@, 9%, 5&.
+
+--------------------------------------------------------------------
+3. 60-SECOND SPEED BLITZ (FINAL VERIFICATION TEST)
+--------------------------------------------------------------------
+Blitz Sequence:
+R  2  $  D  5  #  M  8  @  K  3  %  B  7  &  P  4  *  T  9
+
+⚡ Blitz Q1: 4th to the right of 13th from left end?
+• Candidate Answer: [C] 4
+• Result: ✅ 100% CORRECT (Opposite -> Add: 13 + 4 = 17th from Left = 4).
+
+⚡ Blitz Q2: 3rd to the left of 11th from left end?
+• Candidate Answer: [B] 8
+• Result: ✅ 100% CORRECT (Same -> Subtract: 11 - 3 = 8th from Left = 8).
+
+⚡ Blitz Q3: If all numbers are dropped, 5th from left end?
+• Candidate Answer: [B] M
+• Result: ✅ 100% CORRECT (Count non-digits: R, $, D, #, M = 5th is M).
+
+Blitz Score: 3/3 (100% PERFECT ACCURACY)
+FINAL VERDICT: 🏆 CHAPTER 3 OFFICIALLY EXAM READY!
+====================================================================

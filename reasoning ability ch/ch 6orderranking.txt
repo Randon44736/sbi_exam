@@ -1,0 +1,168 @@
+====================================================================
+CHAPTER 6: ORDER, RANKING & COMPARISON
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 26-29)
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: ⚡ LEARNING (ACTIVE NOW)
+Exam Weightage: 3–4 Questions in Prelims & Mains (Target: Under 1.5 Mins)
+====================================================================
+
+1. CORE METHOD & GOLDEN SPEED FORMULAS
+--------------------------------------------------------------------
+A) The "Total + 1" Opposite Rank Law (વિરુદ્ધ છેડેથી ક્રમ શોધવાનો નિયમ):
+   • When finding rank from opposite end:
+     Opposite Rank = (Total + 1) - Given Rank
+   • Why (+ 1)? Because the target person must be counted from both directions!
+   • Example: Total = 40, Left = 14.
+     Right Rank = (40 + 1) - 14 = 41 - 14 = 27th!
+
+B) Total Persons in a Single Row (કુલ સંખ્યા શોધવાનું સૂત્ર):
+   • When the rank of ONE person is given from both sides:
+     Total = (Left + Right) - 1
+   • Why (- 1)? Because the same person was counted twice (from Left and from Right)!
+
+C) Finding Persons "In Between" (વચ્ચે રહેલા લોકો શોધવાના બે કેસ):
+   Always check sum of ranks (L + R) against Total first:
+   1. Case 1: Simple / Non-Overlapping (સામાન્ય કેસ):
+      When (Left + Right) < Total:
+      Between = Total - (Left + Right)
+   2. Case 2: Overlapping (ઓવરલેપિંગ કેસ - ક્રોસિંગ):
+      When (Left + Right) > Total:
+      Between = (Left + Right) - Total - 2
+      (Why - 2? Because the two reference people are counted twice!).
+
+D) Position Interchange Hack (સ્થાન અદલાબદલીનો શોર્ટકટ):
+   • Total = (New rank of Person A) + (Old rank of Person B) - 1.
+
+====================================================================
+2. PRACTICE QUESTIONS LOG (FROM BOOKLET 2, PAGES 26-29)
+--------------------------------------------------------------------
+
+[Question 6.1 - Verified IBPS RRB PO Prelims 2023]:
+Given: Total = 40, Amit's Left Rank = 14th.
+Target: Amit's Right Rank.
+Candidate Answer: [C] 27th
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Applied (Total + 1) - Left Rank = (40 + 1) - 14 = 41 - 14 = 27th!
+• Avoided the classic exam trap of 40 - 14 = 26th.
+• Solved directly on screen in under 5 seconds!
+--------------------------------------------------------------------
+
+[Question 6.2 - Verified IBPS RRB PO Prelims 2022]:
+Given: Top = 12th, Bottom = 28th.
+Target: Total students.
+Candidate Answer: [D] 39
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Total = (Top + Bottom) - 1 = (12 + 28) - 1 = 40 - 1 = 39.
+• Avoided the trap of 40 (forgetting to subtract duplicate count).
+• Solved in 3 seconds flat!
+--------------------------------------------------------------------
+
+[Question 6.3 - Verified IBPS RRB PO Prelims 2021]:
+Given: Total = 30, A (Left) = 10th, B (Right) = 8th.
+Target: Number of people sitting between A and B.
+Candidate Answer: [C] 12
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Step 1: L + R = 10 + 8 = 18 < Total (30) -> Non-Overlapping Case.
+• Step 2: Between = Total - (L + R) = 30 - 18 = 12.
+• Flawlessly executed in under 4 seconds!
+--------------------------------------------------------------------
+
+[Question 6.4 - Verified IBPS RRB PO Prelims 2022]:
+Given: Total = 25, Sita (Left) = 16th, Gita (Right) = 14th.
+Target: Number of students sitting between them.
+Candidate Answer: [D] 3
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Step 1: L + R = 16 + 14 = 30 > Total (25) -> Overlapping Case identified!
+• Step 2: Between = (L + R) - Total - 2 = 30 - 25 - 2 = 3.
+• Candidate successfully mastered the '- 2' overlapping rule!
+--------------------------------------------------------------------
+
+[Question 6.5 - Verified IBPS RRB PO Prelims 2023]:
+Scenario: A (Left) = 9th, B (Right) = 15th. Interchange positions -> A becomes 18th from Left.
+Target: Total number of students.
+Candidate Answer: 32 [Option C]
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Total = New Left + Old Right - 1 = 18 + 15 - 1 = 32.
+• Candidate correctly connected the Occupied Chair logic.
+• Solved in under 5 seconds!
+--------------------------------------------------------------------
+
+[Question 6.6 - Verified IBPS RRB PO Prelims 2022]:
+Given Chain: S > T > P > Q > R
+Target: Second tallest friend.
+Candidate Answer: [D] T (Correctly noted 2nd from tallest/left end)
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Tallest = S (1st).
+• Second tallest = T (2nd).
+• Solved directly from the chain in 2 seconds!
+--------------------------------------------------------------------
+
+[Question 6.7 - Verified IBPS RRB PO Prelims 2021]:
+Given: Rahul (Top) = 7th, (Bottom) = 26th among passed. Failed = 6.
+Target: Total students appeared.
+Candidate Answer: [D] 38
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Passed = 7 + 26 - 1 = 32.
+• Total Appeared = Passed + Failed = 32 + 6 = 38.
+• Avoided the trap of 32 (ignoring failures) and 39 (forgetting -1).
+• Solved directly in 4 seconds!
+--------------------------------------------------------------------
+
+[Question 6.8 - Verified IBPS RRB PO Prelims 2022]:
+Given Chain: A > B > D > C
+Target: Lightest box.
+Candidate Answer: [B] C
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Rightmost terminal in descending chain = Lightest = C.
+• Solved directly in under 2 seconds!
+--------------------------------------------------------------------
+
+[Question 6.9 - Verified IBPS RRB PO Prelims 2023]:
+Given: Front = 13, Rear = 6, Between = 2.
+Target: Minimum possible persons in the queue.
+Candidate Answer: [C] 15
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Minimum Queue Formula applied:
+  Minimum = (Front + Rear) - Between - 2 = (13 + 6) - 2 - 2 = 19 - 4 = 15.
+• Avoided the trap of 21 (Maximum) and 17 (forgetting -2).
+• Solved directly in under 4 seconds!
+--------------------------------------------------------------------
+
+[Question 6.10 - Verified IBPS RRB PO Prelims 2022]:
+Given: Total = 45, Rohan's Rank = 15th from top.
+Target: Number of students ranked BELOW Rohan.
+Candidate Answer: [D] 30
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Students below Rohan = Total - Rank = 45 - 15 = 30.
+• Correctly distinguished between 'students below' (30) and 'rank from bottom' (31st).
+• 10/10 Practice Questions on Chapter 6 COMPLETED!
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+3. 60-SECOND SPEED BLITZ (FINAL VERIFICATION TEST)
+--------------------------------------------------------------------
+⚡ Blitz Q1: Priya ranks 8th from top, 23rd from bottom. Total?
+• Candidate Answer: [C] 30
+• Result: ✅ 100% CORRECT! (Total = 8 + 23 - 1 = 30).
+
+⚡ Blitz Q2: Total = 20, A = 12th left, B = 11th right. Between?
+• Candidate Answer: [B] 1
+• Result: ✅ 100% CORRECT! (Overlapping: 12 + 11 = 23 > 20 -> 23 - 20 - 2 = 1).
+
+⚡ Blitz Q3: P = 7th left, Q = 12th right. Swap -> P becomes 16th left. Total?
+• Candidate Answer: [C] 27
+• Result: ✅ 100% CORRECT! (Total = 16 + 12 - 1 = 27).
+
+Blitz Score: 3/3 (100% PERFECT ACCURACY)
+FINAL VERDICT: 🏆 CHAPTER 6 OFFICIALLY EXAM READY!
+====================================================================

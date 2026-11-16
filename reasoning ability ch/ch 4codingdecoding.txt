@@ -1,0 +1,199 @@
+====================================================================
+CHAPTER 4: CODING-DECODING (CHINESE SUBSTITUTION & CONDITIONAL TABLES)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 18-21)
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: ⚡ LEARNING (ACTIVE NOW)
+Exam Weightage: 5 Questions (Solid 5 Marks in Prelims; Target: 1.5–2 Mins)
+====================================================================
+
+1. CORE METHOD & GOLDEN SPEED PROTOCOLS
+--------------------------------------------------------------------
+A) The "Laser-Focus / Target-First" Rule (લક્ષ્ય-કેન્દ્રીત ઝડપી રીત):
+   - In RRB PO Prelims, 5 questions are asked on a 4-line Chinese Coding set.
+   - FATAL MISTAKE (સમયનો બગાડ): Writing down all 16 words and all 16 codes on scratch paper before looking at the questions! This wastes 2.5 minutes!
+   - WINNER'S STRATEGY (વિજેતાની રીત): Look at the TARGET WORD in the question first.
+     1. If target word appears in EXACTLY 2 statements: Find the ONLY code common to those 2 statements!
+     2. If target word appears in ONLY 1 statement: Eliminate the codes that appear elsewhere; the residual code is the answer!
+     3. If 2 words appear together in 2 statements and nowhere else: They cannot be separated -> Answer is "EITHER ... OR" (અથવા).
+
+B) The 2-Column Scratchpad Shorthand (જો જરૂર પડે તો રફ વર્ક):
+   - Never write full words! Use 2-3 letter abbreviations:
+     "bank exam easy crack" -> bnk exm esy crk = pe la zo ti
+   - Use shapes for visual matching:
+     Circle common words in St 1 & 2
+     Box common words in St 1 & 3
+     Underline common words in St 2 & 3
+
+C) Order Independence Law (શબ્દ અને કોડનો ક્રમ સ્વતંત્ર છે):
+   - "bank exam easy crack" = "pe la zo ti"
+   - DOES NOT MEAN bank = pe, exam = la!
+   - Positional mapping is 100% false; only logical elimination finds the true code.
+
+D) Conditional / Table-Based Coding (શરતો આધારિત કોડિંગ):
+   - A table of Digits/Symbols with corresponding Letter codes is given, followed by 3-4 specific conditions (e.g. "If first element is odd and last is even...").
+   - Golden Rule: ALWAYS check conditions 1, 2, 3 FIRST against the given input before touching the table!
+
+====================================================================
+2. PRACTICE QUESTIONS LOG (FROM BOOKLET 2, PAGES 18-21)
+--------------------------------------------------------------------
+Master Set for Questions 4.1 to 4.5:
+1. 'bank exam easy crack' = 'pe la zo ti'
+2. 'easy paper high score' = 'zo ka ma re'
+3. 'crack high target score' = 'ti ka re nu'
+4. 'bank target sure success' = 'pe nu fa lo'
+5. 'best score' = 'yu re'
+
+[Question 4.1 - Verified IBPS RRB PO Prelims]:
+Question: What is the code for 'crack'?
+Candidate Answer: [A] ti
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Comparing Statement 1 ('bank exam easy crack') & Statement 3 ('crack high target score').
+• The ONLY common word between 1 and 3 is 'crack'.
+• The ONLY common code between 1 and 3 is 'ti'.
+• Direct laser-focus match in under 8 seconds!
+--------------------------------------------------------------------
+
+[Question 4.2 - Verified IBPS RRB PO Prelims]:
+Question: What is the code for 'easy'?
+Candidate Answer: [A] zo
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Comparing Statement 1 ('bank exam easy crack') & Statement 2 ('easy paper high score').
+• The ONLY common word between 1 and 2 is 'easy'.
+• The ONLY common code between 1 and 2 is 'zo'.
+• Direct elimination in under 5 seconds!
+--------------------------------------------------------------------
+
+[Question 4.3 - Verified IBPS RRB PO Prelims]:
+Question: What is the code for 'bank'?
+Candidate Answer: [A] pe
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Comparing Statement 1 ('bank exam easy crack') & Statement 4 ('bank target sure success').
+• The ONLY common word between 1 and 4 is 'bank'.
+• The ONLY common code between 1 and 4 is 'pe'.
+• Flawless elimination in 4 seconds!
+--------------------------------------------------------------------
+
+[Question 4.4 - Verified IBPS RRB PO Prelims]:
+Question: What is the code for 'target'?
+Candidate Answer: [C] nu
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Comparing Statement 3 ('crack high target score' = 'ti ka re nu') & Statement 4 ('bank target sure success' = 'pe nu fa lo').
+• 're' is eliminated because Statement 4 does not contain 're' (re belongs to 'score').
+• The ONLY code shared between Statement 3 and Statement 4 is 'nu'.
+• Target = nu locked in with complete clarity!
+--------------------------------------------------------------------
+
+[Question 4.5 - Verified IBPS RRB PO Prelims]:
+Question: What is the exact code for 'exam score'?
+Candidate Answer: [D] la re
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Statement 1 residual: 'bank' (pe), 'easy' (zo), 'crack' (ti) -> 'exam' = la.
+• Statement 5 & 2 overlap: 'score' = re.
+• Combined: 'exam score' = 'la re'.
+• Chinese Elimination Set (Q4.1 - Q4.5) COMPLETED with 100% ACCURACY (5/5)!
+--------------------------------------------------------------------
+
+[Question 4.6 - Verified IBPS RRB PO Prelims 2022]:
+Word: 'LIGHT' -> 'MJHIU' | Target: 'FLAME'
+Candidate Answer: [C] GMBNF (Identified +1 uniform shift)
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• L(+1)=M, I(+1)=J, G(+1)=H, H(+1)=I, T(+1)=U.
+• F(+1)=G, L(+1)=M, A(+1)=B, M(+1)=N, E(+1)=F -> GMBNF.
+• Candidate spotted the exact rule (+1 forward shift) in seconds!
+--------------------------------------------------------------------
+
+[Question 4.7 - Verified IBPS RRB PO Prelims 2021]:
+Word: 'ROAD' -> 'URDG' | Target: 'SWAN'
+Candidate Answer: [D] VZDQ (Identified +3 uniform shift)
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• R(18)+3=U(21), O(15)+3=R(18), A(1)+3=D(4), D(4)+3=G(7).
+• S(19)+3=V(22), W(23)+3=Z(26), A(1)+3=D(4), N(14)+3=Q(17) -> VZDQ.
+• Flawless execution in 5 seconds!
+--------------------------------------------------------------------
+
+[Question 4.8 - Verified SBI PO / RRB PO Prelims]:
+Word: 'SYSTEM' -> 'SYSMET' | Target: 'FRACTION'
+Candidate Answer: [C] FRACNOIT
+Result: ⚠️ Corrected to [E] CARFNOIT
+Classic Exam Trap Mastered:
+• The "Palindrome Splitting Illusion":
+  SYSTEM splits into [SYS] and [TEM].
+  Both halves are reversed:
+  - 1st half: SYS reversed is still S-Y-S (because SYS is a palindrome!).
+  - 2nd half: TEM reversed becomes M-E-T.
+  Resulting in SYSMET!
+• Applying the true rule (REVERSE BOTH HALVES) to FRACTION:
+  - 1st half: FRAC reversed becomes C-A-R-F.
+  - 2nd half: TION reversed becomes N-O-I-T.
+  Combined: CARFNOIT [E]!
+--------------------------------------------------------------------
+
+[Question 4.9 - Verified IBPS RRB PO Prelims 2020]:
+Rule: A=1, CAT = 3 + 1 + 20 = 24.
+Target: POLICE
+Candidate Answer: [C] 60 (Mastered EJOTY Anchors!)
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• P(16) + O(15) + L(12) + I(9) + C(3) + E(5) = 31 + 21 + 8 = 60.
+• Candidate unlocked the EJOTY 5-table anchor trick (E=5, J=10, O=15, T=20, Y=25).
+• Converted mental confusion into a permanent high-speed asset!
+--------------------------------------------------------------------
+
+[Question 4.10 - Verified IBPS RRB PO / Clerk Prelims]:
+Statement: 'WHITE' is called 'BLUE', 'BLUE' is called 'RED', and 'RED' is called 'YELLOW'.
+Target: What is the colour of human blood?
+Candidate Answer: [D] YELLOW
+Result: ✅ 100% CORRECT!
+Speed / Analysis:
+• Step 1: Real-world fact -> Human blood is RED.
+• Step 2: Code lookup -> 'RED is called YELLOW'.
+• Answer is uniquely YELLOW [D].
+• 10/10 Practice Questions on Chapter 4 COMPLETED!
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+3. 60-SECOND SPEED BLITZ (FINAL VERIFICATION TEST)
+--------------------------------------------------------------------
+⚡ Blitz Q1: Code for 'get' in Chinese Elimination?
+• Candidate Answer: [C] mo
+• Result: ✅ 100% CORRECT (Common in St 1 & 2 = mo).
+
+⚡ Blitz Q2: Value of 'BANK' via EJOTY?
+• Candidate Answer: [B] 28
+• Result: ✅ 100% CORRECT (B=2, A=1, N=14, K=11 -> 2+1+14+11 = 28).
+
+⚡ Blitz Q3: Code for 'PERSON' via Word Halving?
+• Candidate Answer: REPNOS (PER -> REP, SON -> NOS)
+• Result: ✅ 100% CORRECT (Candidate nailed the exact string REPNOS).
+
+Blitz Score: 3/3 (100% PERFECT ACCURACY)
+FINAL VERDICT: 🏆 CHAPTER 4 OFFICIALLY EXAM READY!
+====================================================================
+
+--------------------------------------------------------------------
+4. THE "MEANS" VS "IS CALLED" FORMULA (CRACKED & MASTERED)
+--------------------------------------------------------------------
+A) "IS CALLED" (Forward Lookup):
+   • Rule: Real Truth -> Look forward for code.
+   • Example: 'Red is called Yellow' -> Real is Red -> Answer is Yellow.
+
+B) "MEANS" (Backward / Fill-in-the-Blank Lookup):
+   • Formula: [ ? ] means [ Real Truth ]
+   • Example 1: What does a thirsty person drink?
+     Real Truth = water.
+     Formula: [ ? ] means water.
+     Statement: 'sky' means 'water' -> Answer is uniquely SKY!
+   • Example 2: What colour is a ripe banana?
+     Real Truth = yellow.
+     Formula: [ ? ] means yellow.
+     Statement: 'red' means 'yellow' -> Answer is uniquely RED!
+
+Candidate completely mastered both forward and backward substitution rules!
+====================================================================
