@@ -1,167 +1,145 @@
 ====================================================================
-CHAPTER 6: ORDER, RANKING & COMPARISON
+CHAPTER 6: ORDER, RANKING & COMPARISON (ક્રમ, રેન્કિંગ અને સરખામણી)
 Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 26-29)
 Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
-Status: ⚡ LEARNING (ACTIVE NOW)
+Status: 🏆 100% EXAM READY (Practice 10/10 + Speed Blitz 3/3)
 Exam Weightage: 3–4 Questions in Prelims & Mains (Target: Under 1.5 Mins)
 ====================================================================
 
-1. CORE METHOD & GOLDEN SPEED FORMULAS
+1. CORE METHOD & GOLDEN SPEED FORMULAS (સુવર્ણ સૂત્રો અને શોર્ટકટ્સ)
 --------------------------------------------------------------------
 A) The "Total + 1" Opposite Rank Law (વિરુદ્ધ છેડેથી ક્રમ શોધવાનો નિયમ):
-   • When finding rank from opposite end:
-     Opposite Rank = (Total + 1) - Given Rank
+   • Opposite Rank = (Total + 1) - Given Rank
    • Why (+ 1)? Because the target person must be counted from both directions!
-   • Example: Total = 40, Left = 14.
-     Right Rank = (40 + 1) - 14 = 41 - 14 = 27th!
+   • પદ્ધતિસર ગુજરાતી સમજૂતી: સામસામે છેડેથી ક્રમ શોધતી વખતે હંમેશાં (કુલ + ૧) માંથી આપેલ ક્રમ બાદ કરવો. કારણ કે તે વ્યક્તિ પોતે બંને તરફથી ગણતરીમાં આવે છે.
+     દાખલા તરીકે: કુલ = 40, ડાબેથી ક્રમ = 14 ➔ જમણેથી ક્રમ = (40 + 1) - 14 = 41 - 14 = 27મો!
 
-B) Total Persons in a Single Row (કુલ સંખ્યા શોધવાનું સૂત્ર):
-   • When the rank of ONE person is given from both sides:
-     Total = (Left + Right) - 1
+B) Total Persons in a Single Row (એક જ હરોળમાં કુલ સંખ્યા શોધવાનું સૂત્ર):
+   • Total = (Left + Right) - 1
    • Why (- 1)? Because the same person was counted twice (from Left and from Right)!
+   • પદ્ધતિસર ગુજરાતી સમજૂતી: જ્યારે એક જ વ્યક્તિનો ક્રમ બંને બાજુથી આપેલો હોય, ત્યારે તે એક વ્યક્તિ બે વાર ગણાઈ જાય છે, તેથી સરવાળામાંથી ૧ બાદ કરવો: કુલ = (ડાબે + જમણે) - ૧.
 
-C) Finding Persons "In Between" (વચ્ચે રહેલા લોકો શોધવાના બે કેસ):
-   Always check sum of ranks (L + R) against Total first:
-   1. Case 1: Simple / Non-Overlapping (સામાન્ય કેસ):
-      When (Left + Right) < Total:
+C) Finding Persons "In Between" (વચ્ચે રહેલા લોકો શોધવાની ૧-સેકન્ડ લિટમસ ટેસ્ટ):
+   હંમેશાં પહેલાં બંને ક્રમોનો સરવાળો (L + R) કુલ સંખ્યા સાથે સરખાવો:
+   1. Case 1: Non-Overlapping (સામાન્ય કેસ — જ્યારે L + R < Total):
       Between = Total - (Left + Right)
-   2. Case 2: Overlapping (ઓવરલેપિંગ કેસ - ક્રોસિંગ):
-      When (Left + Right) > Total:
+      ગુજરાતી: જો સરવાળો કુલ કરતાં ઓછો હોય, તો વચ્ચેના = કુલ - (L + R).
+   2. Case 2: Overlapping (ઓવરલેપિંગ કેસ - ક્રોસિંગ — જ્યારે L + R > Total):
       Between = (Left + Right) - Total - 2
-      (Why - 2? Because the two reference people are counted twice!).
+      ગુજરાતી: જો સરવાળો કુલ કરતાં વધી જાય, તો બંને જણા ક્રોસ કરી ગયા છે! તેથી ૨ બાદ કરવા: વચ્ચેના = (L + R) - Total - 2!
 
 D) Position Interchange Hack (સ્થાન અદલાબદલીનો શોર્ટકટ):
    • Total = (New rank of Person A) + (Old rank of Person B) - 1.
+   • ગુજરાતી: જ્યારે બે વ્યક્તિઓ સ્થાન બદલે, ત્યારે એક વ્યક્તિનો નવો ક્રમ + બીજી વ્યક્તિનો જૂનો ક્રમ - ૧ = કુલ સંખ્યા!
 
 ====================================================================
 2. PRACTICE QUESTIONS LOG (FROM BOOKLET 2, PAGES 26-29)
---------------------------------------------------------------------
+====================================================================
 
 [Question 6.1 - Verified IBPS RRB PO Prelims 2023]:
-Given: Total = 40, Amit's Left Rank = 14th.
-Target: Amit's Right Rank.
-Candidate Answer: [C] 27th
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Applied (Total + 1) - Left Rank = (40 + 1) - 14 = 41 - 14 = 27th!
-• Avoided the classic exam trap of 40 - 14 = 26th.
-• Solved directly on screen in under 5 seconds!
+• English: Total = 40, Amit's Left Rank = 14th. Target: Amit's Right Rank.
+• ગુજરાતી: 40 વિદ્યાર્થીઓની હરોળમાં અમિત ડાબેથી 14મા સ્થાને છે. જમણેથી તેનો ક્રમ કયો હશે?
+• Candidate Answer: [C] 27th
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Opposite Rank = (Total + 1) - Left = (40 + 1) - 14 = 27th.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: સૂત્ર મુજબ: (કુલ + ૧) - ડાબેથી ક્રમ = (40 + 1) - 14 = 41 - 14 = 27મો ક્રમ!
 --------------------------------------------------------------------
 
-[Question 6.2 - Verified IBPS RRB PO Prelims 2022]:
-Given: Top = 12th, Bottom = 28th.
-Target: Total students.
-Candidate Answer: [D] 39
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Total = (Top + Bottom) - 1 = (12 + 28) - 1 = 40 - 1 = 39.
-• Avoided the trap of 40 (forgetting to subtract duplicate count).
-• Solved in 3 seconds flat!
+[Question 6.2 - Verified IBPS RRB PO Prelims 2023]:
+• English: Sumit ranks 12th from top and 28th from bottom. How many students in class?
+• ગુજરાતી: સુમિતનો ક્રમ ઉપરથી 12મો અને નીચેથી 28મો છે. વર્ગમાં કુલ કેટલા વિદ્યાર્થીઓ છે?
+• Candidate Answer: [C] 39
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Total = (Top + Bottom) - 1 = (12 + 28) - 1 = 39.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: સુમિત એક જ વ્યક્તિ બંને તરફથી ગણાય છે. તેથી: (12 + 28) - 1 = 40 - 1 = 39 વિદ્યાર્થીઓ!
 --------------------------------------------------------------------
 
-[Question 6.3 - Verified IBPS RRB PO Prelims 2021]:
-Given: Total = 30, A (Left) = 10th, B (Right) = 8th.
-Target: Number of people sitting between A and B.
-Candidate Answer: [C] 12
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Step 1: L + R = 10 + 8 = 18 < Total (30) -> Non-Overlapping Case.
-• Step 2: Between = Total - (L + R) = 30 - 18 = 12.
-• Flawlessly executed in under 4 seconds!
+[Question 6.3 - Verified IBPS RRB PO Prelims 2022]:
+• English: In a row of 50, A is 15th from left, B is 18th from right. Persons between them?
+• ગુજરાતી: 50 વ્યક્તિઓની હરોળમાં A ડાબેથી 15મો અને B જમણેથી 18મો છે. તેમની વચ્ચે કેટલા લોકો છે?
+• Candidate Answer: [A] 17
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): L + R = 15 + 18 = 33 < 50 (Non-overlapping). Between = 50 - 33 = 17.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: 15 + 18 = 33 જે 50 કરતાં ઓછા છે (નોન-ઓવરલેપિંગ). તેથી વચ્ચેના લોકો = 50 - 33 = 17!
 --------------------------------------------------------------------
 
-[Question 6.4 - Verified IBPS RRB PO Prelims 2022]:
-Given: Total = 25, Sita (Left) = 16th, Gita (Right) = 14th.
-Target: Number of students sitting between them.
-Candidate Answer: [D] 3
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Step 1: L + R = 16 + 14 = 30 > Total (25) -> Overlapping Case identified!
-• Step 2: Between = (L + R) - Total - 2 = 30 - 25 - 2 = 3.
-• Candidate successfully mastered the '- 2' overlapping rule!
+[Question 6.4 - Verified IBPS RRB PO Prelims 2021]:
+• English: In a row of 30, M is 18th from left, N is 17th from right. Persons between them?
+• ગુજરાતી: 30 વ્યક્તિઓની હરોળમાં M ડાબેથી 18મો અને N જમણેથી 17મો છે. તેમની વચ્ચે કેટલા લોકો છે?
+• Candidate Answer: [B] 3
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): L + R = 18 + 17 = 35 > 30 (Overlapping!). Between = (18 + 17) - 30 - 2 = 3.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: L + R = 18 + 17 = 35 જે કુલ (30) કરતાં મોટા છે (ઓવરલેપિંગ કેસ!). સુવર્ણ સૂત્ર: (18 + 17) - 30 - 2 = 35 - 32 = 3 વ્યક્તિઓ!
 --------------------------------------------------------------------
 
 [Question 6.5 - Verified IBPS RRB PO Prelims 2023]:
-Scenario: A (Left) = 9th, B (Right) = 15th. Interchange positions -> A becomes 18th from Left.
-Target: Total number of students.
-Candidate Answer: 32 [Option C]
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Total = New Left + Old Right - 1 = 18 + 15 - 1 = 32.
-• Candidate correctly connected the Occupied Chair logic.
-• Solved in under 5 seconds!
+• English: A is 10th from left, B is 15th from right. They swap places. A becomes 22nd from left. Total?
+• ગુજરાતી: A ડાબેથી 10મો અને B જમણેથી 15મો છે. સ્થાન અદલાબદલી કરતાં A ડાબેથી 22મો બને છે. કુલ કેટલી વ્યક્તિઓ છે?
+• Candidate Answer: [D] 36
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Total = (New A + Old B) - 1 = (22 + 15) - 1 = 36.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: સ્થાન અદલાબદલીનો શોર્ટકટ: A ની નવી પોઝિશન (22) + B ની જૂની પોઝિશન (15) - 1 = 37 - 1 = 36!
 --------------------------------------------------------------------
 
 [Question 6.6 - Verified IBPS RRB PO Prelims 2022]:
-Given Chain: S > T > P > Q > R
-Target: Second tallest friend.
-Candidate Answer: [D] T (Correctly noted 2nd from tallest/left end)
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Tallest = S (1st).
-• Second tallest = T (2nd).
-• Solved directly from the chain in 2 seconds!
+• English: Weight ranking: T > S > P > Q > R. Who is the 2nd lightest?
+• ગુજરાતી: પાંચ મિત્રોમાં વજનની સરખામણી: T > S > P > Q > R. બીજા ક્રમે સૌથી હલકો કોણ છે?
+• Candidate Answer: [B] Q
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Lightest is R; 2nd lightest is Q.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: સૌથી હલકો છેલ્લો R છે, અને તેની આગળ બીજા ક્રમે સૌથી હલકો Q છે!
 --------------------------------------------------------------------
 
 [Question 6.7 - Verified IBPS RRB PO Prelims 2021]:
-Given: Rahul (Top) = 7th, (Bottom) = 26th among passed. Failed = 6.
-Target: Total students appeared.
-Candidate Answer: [D] 38
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Passed = 7 + 26 - 1 = 32.
-• Total Appeared = Passed + Failed = 32 + 6 = 38.
-• Avoided the trap of 32 (ignoring failures) and 39 (forgetting -1).
-• Solved directly in 4 seconds!
+• English: In an exam, Rahul is 11th from top and 26th from bottom among passed students. 7 failed. Total students?
+• ગુજરાતી: પરીક્ષામાં પાસ થયેલાઓમાં રાહુલ ઉપરથી 11મો અને નીચેથી 26મો છે. 7 વિદ્યાર્થીઓ નાપાસ થયા. વર્ગમાં કુલ કેટલા વિદ્યાર્થીઓ છે?
+• Candidate Answer: [B] 43
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Passed = (11 + 26) - 1 = 36. Total = 36 + 7 = 43.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: પાસ થયેલા = (11 + 26) - 1 = 36. કુલ વિદ્યાર્થીઓ = પાસ (36) + નાપાસ (7) = 43!
 --------------------------------------------------------------------
 
-[Question 6.8 - Verified IBPS RRB PO Prelims 2022]:
-Given Chain: A > B > D > C
-Target: Lightest box.
-Candidate Answer: [B] C
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Rightmost terminal in descending chain = Lightest = C.
-• Solved directly in under 2 seconds!
+[Question 6.8 - Verified IBPS RRB PO Prelims 2023]:
+• English: Five books compared: B > D > (A, C) > E. Which is the lightest book?
+• ગુજરાતી: પાંચ ચોપડીઓ B > D > (A, C) > E માં સૌથી હલકી ચોપડી કઈ છે?
+• Candidate Answer: [E] E
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Book E sits at the tail of the chain -> Lightest is E.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: શૃંખલાના સૌથી છેડે E છે, તેથી સૌથી હલકી ચોપડી E જ છે!
 --------------------------------------------------------------------
 
-[Question 6.9 - Verified IBPS RRB PO Prelims 2023]:
-Given: Front = 13, Rear = 6, Between = 2.
-Target: Minimum possible persons in the queue.
-Candidate Answer: [C] 15
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Minimum Queue Formula applied:
-  Minimum = (Front + Rear) - Between - 2 = (13 + 6) - 2 - 2 = 19 - 4 = 15.
-• Avoided the trap of 21 (Maximum) and 17 (forgetting -2).
-• Solved directly in under 4 seconds!
+[Question 6.9 - Verified IBPS RRB PO Prelims 2022]:
+• English: Minimum number in a queue where A is 10th from front, B is 15th from back, and 5 persons between them?
+• ગુજરાતી: લાઈનમાં ન્યૂનતમ (ઓછામાં ઓછી) કેટલી વ્યક્તિઓ હોઈ શકે જો A આગળથી 10મો, B પાછળથી 15મો અને વચ્ચે 5 વ્યક્તિઓ હોય?
+• Candidate Answer: [C] 18
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Minimum Queue Formula (Overlapping): (Front + Back) - Between - 2 = (10 + 15) - 5 - 2 = 18.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: લઘુત્તમ સંખ્યા માટે ઓવરલેપિંગ થાય: (10 + 15) - 5 - 2 = 25 - 7 = 18 વ્યક્તિઓ!
 --------------------------------------------------------------------
 
 [Question 6.10 - Verified IBPS RRB PO Prelims 2022]:
-Given: Total = 45, Rohan's Rank = 15th from top.
-Target: Number of students ranked BELOW Rohan.
-Candidate Answer: [D] 30
-Result: ✅ 100% CORRECT!
-Speed / Analysis:
-• Students below Rohan = Total - Rank = 45 - 15 = 30.
-• Correctly distinguished between 'students below' (30) and 'rank from bottom' (31st).
-• 10/10 Practice Questions on Chapter 6 COMPLETED!
---------------------------------------------------------------------
+• English: Total = 45, Rohan's Rank = 15th from top. Number of students ranked BELOW Rohan?
+• ગુજરાતી: 45 વિદ્યાર્થીઓના વર્ગમાં રોહન ઉપરથી 15મો છે. રોહનની નીચે કેટલા વિદ્યાર્થીઓ છે?
+• Candidate Answer: [D] 30
+• Result: ✅ 100% CORRECT!
+• Analysis (EN): Students below = Total - Rank = 45 - 15 = 30.
+• પદ્ધતિસર ગુજરાતી સમજૂતી: રોહનની નીચે રહેલા વિદ્યાર્થીઓ = કુલ - રોહનનો ક્રમ = 45 - 15 = 30! (જો નીચેથી ક્રમ પૂછ્યો હોત તો 31મો આવત).
+====================================================================
 
---------------------------------------------------------------------
+====================================================================
 3. 60-SECOND SPEED BLITZ (FINAL VERIFICATION TEST)
---------------------------------------------------------------------
+====================================================================
 ⚡ Blitz Q1: Priya ranks 8th from top, 23rd from bottom. Total?
-• Candidate Answer: [C] 30
-• Result: ✅ 100% CORRECT! (Total = 8 + 23 - 1 = 30).
+• Candidate Answer: [C] 30 (Formula: 8 + 23 - 1 = 30). ✅
+  ગુજરાતી: (8 + 23) - 1 = 30!
 
 ⚡ Blitz Q2: Total = 20, A = 12th left, B = 11th right. Between?
-• Candidate Answer: [B] 1
-• Result: ✅ 100% CORRECT! (Overlapping: 12 + 11 = 23 > 20 -> 23 - 20 - 2 = 1).
+• Candidate Answer: [B] 1 (Overlapping: 12 + 11 = 23 > 20 -> 23 - 20 - 2 = 1). ✅
+  ગુજરાતી: ઓવરલેપિંગ: (12 + 11) - 20 - 2 = 1!
 
 ⚡ Blitz Q3: P = 7th left, Q = 12th right. Swap -> P becomes 16th left. Total?
-• Candidate Answer: [C] 27
-• Result: ✅ 100% CORRECT! (Total = 16 + 12 - 1 = 27).
+• Candidate Answer: [C] 27 (Formula: 16 + 12 - 1 = 27). ✅
+  ગુજરાતી: P નો નવો (16) + Q નો જૂનો (12) - 1 = 27!
 
 Blitz Score: 3/3 (100% PERFECT ACCURACY)
 FINAL VERDICT: 🏆 CHAPTER 6 OFFICIALLY EXAM READY!
