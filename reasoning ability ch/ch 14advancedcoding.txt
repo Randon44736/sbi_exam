@@ -1,0 +1,621 @@
+====================================================================
+CHAPTER 14: ADVANCED CODING-DECODING (NEW PATTERN, CONDITIONAL & BINARY)
+(અદ્યતન કોડિંગ-ડિકોડિંગ - મેઈન્સ ન્યૂ પેટર્ન સિમ્બોલ-નંબર-લેટર, શરતી કોડિંગ અને બાઈનરી કોડિંગ)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 58-59)
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: 🏆 100% EXAM READY (BLITZ SCORE: 3/3)
+Exam Weightage: 5 Questions in Mains (મેઈન્સ પરીક્ષામાં રોકડા ૫ માર્ક્સ!)
+====================================================================
+
+1. CORE METHODOLOGIES & DECODING BLUEPRINT (મુખ્ય પદ્ધતિ અને ડિકોડિંગ નિયમો)
+--------------------------------------------------------------------
+In modern IBPS RRB PO Mains exams, Coding-Decoding is NOT simple Chinese word elimination. Each word is coded into a structured triplet:
+            [SYMBOL] [NUMBER] [LETTER]   (e.g., 'BANKING' → '@ 7 T')
+
+A) The 3-Component Decoding Protocol (ત્રિ-પરિમાણીય ડિકોડિંગ નિયમ):
+   1. Deciphering the Number (સંખ્યા ઓળખવાની ટેકનિક):
+      * Word Length (શબ્દની લંબાઈ): Check if code numbers directly match word character counts (e.g., 4, 6, 7).
+      * Vowel / Consonant Count: Number of vowels (A, E, I, O, U) or consonants.
+      * Positional Rank: Alphabetical rank of the first or last letter (e.g., A=1, B=2 ... Z=26).
+   2. Deciphering the Letter (અક્ષર ઓળખવાની ટેકનિક):
+      * Opposite Letter (વિરોધી અક્ષર - સરવાળો ૨૭):
+        - A-Z, B-Y, C-X, D-W, E-V, F-U, G-T, H-S, I-R, J-Q, K-P, L-O, M-N.
+        - Check if code letter is opposite of the 1st or Last letter!
+      * Adjacent Shifts (+1 / -1): Next (+1) or previous (-1) letter of the last letter or middle letter.
+   3. Deciphering the Symbol (પ્રતીક ઓળખવાની ટેકનિક):
+      * First Letter Family: Words starting with the same letter get the same symbol (e.g., all words starting with 'P' get '%', 'M' get '#').
+      * Even / Odd Word Length: If only 2 symbols exist in the whole set (e.g. only '&' and '%'), Even length words get one symbol and Odd length get another!
+
+B) Conditional Coding Architecture (શરતી કોડિંગ નિયમો):
+   1. Digits/Letters are coded based on a reference table.
+   2. Conditions (શરતો) must be applied strictly:
+      * Condition 1: If 1st element is vowel & last is consonant $\to$ swap their codes.
+      * Condition 2: If both 1st and last elements are odd numbers $\to$ code both as special symbol (e.g., '*').
+      * Condition 3: If an element is immediately preceded by an even number $\to$ apply specific transformation.
+   3. Golden Scanning Rule: Scan strictly LEFT-TO-RIGHT. Never apply overlapping condition triggers!
+
+C) Binary Coding System (બાઈનરી કોડિંગ - ઘાતાંક ૨ ની શ્રેણી):
+   * 0 is represented by a specific symbol (e.g., '$').
+   * 1 is represented by another symbol (e.g., '#').
+   * Decimal to Binary Conversion via Powers of 2 (16, 8, 4, 2, 1):
+     - Example: $13 = 8 + 4 + 0 + 1 = 1101_2 \implies \text{# # \$ #}$!
+     - Example: $22 = 16 + 4 + 2 = 10110_2 \implies \text{# \$ # # \$}$!
+
+--------------------------------------------------------------------
+2. COMMON EXAM TRAPS (સામાન્ય પરીક્ષાની ભૂલો અને સાવચેતી)
+--------------------------------------------------------------------
+1. Multi-Condition Interference Trap: શરતી કોડિંગમાં એક કરતાં વધુ શરતો લાગુ પડતી હોય ત્યારે પ્રશ્નની પ્રાથમિકતા (Hierarchy) ચકાસ્યા વગર સીધો ફેરફાર કરવાની ઉતાવળ કરવી નહીં.
+2. Opposite Letter Miscount: વિરોધી અક્ષર શોધતી વખતે સરવાળો ૨૭ થવો જોઈએ (દા.ત. L(12) નો વિરોધી O(15) થાય, N(14) નહીં).
+3. Even/Odd Symbol Misidentification: માત્ર એક શબ્દ જોઈને સિમ્બોલ નક્કી ન કરવો; તમામ ૪ શબ્દોના સિમ્બોલ્સ ચકાસીને જ સામાન્ય પેટર્ન નક્કી કરવી.
+
+--------------------------------------------------------------------
+3. PRACTICE QUESTIONS LOG (ONE-BY-ONE INTERACTIVE SESSION)
+--------------------------------------------------------------------
+(Current Interactive Questions will be logged here step-by-step)
+
+[Question 14.1 - Verified IBPS RRB PO Mains Model]:
+Directions: Study the following information carefully and answer the question given below.
+In a certain code language:
+'morning peaceful banking growth' is coded as '#7T   %8O   @7T   $6S'
+'global market public budget' is coded as '$6O   #6G   %6X   @6G'
+
+Question:
+What will be the code for the word 'POVERTY' in the given code language?
+• ગુજરાતી પ્રશ્ન: આપેલી કોડ ભાષામાં 'POVERTY' શબ્દ માટે કયો કોડ બનશે?
+Options:
+[A] %7B
+[B] #7Y
+[C] %6B
+[D] @7B
+[E] %7Z
+Candidate Answer: [E] %7Z (Candidate cracked Symbol % and Number 7, but guessed +1 for Letter: Y -> Z)
+Correct Answer: [A] %7B
+Result: ⚠️ VERY CLOSE! (Symbol & Number Mastered! Letter Rule Clarified: Opposite Letter Sum=27)
+
+Candidate's Logic Analysis & Core Clarification:
+1. Candidate's Correct Breakdown:
+   - Symbol: Starts with 'P' $\to$ `%` (100% CORRECT!).
+   - Number: Length of 'POVERTY' is 7 letters $\to$ `7` (100% CORRECT!).
+2. Where the Trap Triggered (The Letter Rule):
+   - Candidate thought Letter = Next letter (+1) $\implies$ Y $\to$ Z.
+   - Look at the actual examples in the given data:
+     * 'peaceful': Last letter is 'L' (12). If it were +1, it would be 'M'. But the code is `%8O` ('O' = 15).
+       $L(12) + O(15) = 27$ $\implies$ OPPOSITE PAIR!
+     * 'public': Last letter is 'C' (3). If it were +1, it would be 'D'. But the code is `%6X` ('X' = 24).
+       $C(3) + X(24) = 27$ $\implies$ OPPOSITE PAIR!
+     * 'morning': Last letter is 'G' (7) $\to$ Code letter is 'T' (20) ($7 + 20 = 27$).
+3. Applying the Opposite Rule to 'POVERTY':
+   - Last letter is 'Y' (Rank 25).
+   - Opposite letter = $27 - 25 = 2$ $\implies$ **B** (A=1, B=2)! Remember: "BYE" $\to$ B-Y pair!
+   - Therefore, the code is: `[Symbol: %] [Number: 7] [Letter: B]` = `%7B`!
+   - Correct Choice: [A] %7B!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને સુધારો:
+૧. ઉમેદવારનું ઉત્કૃષ્ટ વિશ્લેષણ:
+   - સિમ્બોલ: P થી શરૂ થાય એટલે `%` (બિલકુલ સાચું!).
+   - સંખ્યા: 'POVERTY' માં ૭ અક્ષરો છે એટલે `7` (બિલકુલ સાચું!).
+૨. અક્ષરનો નિયમ (Letter Rule Clarification):
+   - ઉમેદવારે વિચાર્યું કે Y પછીનો અક્ષર Z (+1) આવે.
+   - આપેલા ડેટામાં ચકાસો:
+     * 'peaceful' નો છેલ્લો અક્ષર 'L' (૧૨) છે. જો +૧ હોત તો 'M' આવત. પરંતુ કોડ `%8O` માં 'O' (૧૫) છે.
+       $૧૨ + ૧૫ = ૨૭$ ➔ એટલે કે આ **વિરોધી અક્ષર (Opposite Letter)** છે!
+     * 'public' નો છેલ્લો અક્ષર 'C' (૩) છે ➔ કોડમાં 'X' (૨૪) છે ($૩ + ૨૪ = ૨૭$).
+     * 'growth' નો છેલ્લો અક્ષર 'H' (૮) છે ➔ કોડમાં 'S' (૧૯) છે ($૮ + ૧૯ = ૨૭$).
+૩. 'POVERTY' પર વિરોધી અક્ષરનો નિયમ:
+   - છેલ્લો અક્ષર 'Y' (ક્રમ ૨૫) છે.
+   - વિરોધી અક્ષર = ૨૭ - ૨૫ = **૨ એટલે કે 'B'** (યાદ રાખો: "B-Y" જોડી!).
+   - તેથી સંપૂર્ણ કોડ બનશે: `[%] [7] [B]` = `%7B`!
+   - સાચો વિકલ્પ: [A] %7B!
+
+--------------------------------------------------------------------
+[Question 14.2 - Verified IBPS RRB PO Mains Model]:
+(Based on the same New Pattern Coding Language)
+Question: What will be the code for the word 'GOLDEN' in the given code language?
+• ગુજરાતી પ્રશ્ન: આપેલી કોડ ભાષામાં 'GOLDEN' શબ્દ માટે કયો કોડ બનશે?
+Options:
+[A] $6M
+[B] %6N
+[C] $6O
+[D] #6M
+[E] $7M
+Candidate Answer: [A] $6M
+Correct Answer: [A] $6M
+Result: ✅ 100% CORRECT (Mastered Triplet Coding Architecture!)
+
+Step-by-Step English Derivation:
+• Symbol Rule: Starts with 'G' $\to$ Assigned symbol is `$` (as seen in 'growth' $\to$ `$6S` and 'global' $\to$ `$6O`).
+• Number Rule: Count the letters in 'GOLDEN' $\to$ 6 letters $\to$ `6`.
+• Letter Rule: Opposite of last letter 'N' (Rank 14) $\to 27 - 14 = 13 \implies$ **M**!
+• Combined Triplet Code: `[Symbol: $] [Number: 6] [Letter: M]` = `$6M`!
+• Correct Choice: [A] $6M!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• સિમ્બોલનો નિયમ: 'G' થી શરૂ થતાં શબ્દો ('growth', 'global') માટે પ્રતીક `$` છે.
+• સંખ્યાનો નિયમ: 'GOLDEN' માં કુલ ૬ અક્ષરો છે ➔ `6`.
+• અક્ષરનો નિયમ: છેલ્લો અક્ષર 'N' (ક્રમ ૧૪) છે. વિરોધી અક્ષર = ૨૭ - ૧૪ = **૧૩ એટલે કે 'M'**!
+• સંપૂર્ણ કોડ: `[$] [6] [M]` = `$6M`!
+• સાચો વિકલ્પ: [A] $6M!
+
+--------------------------------------------------------------------
+[Question 14.3 - Verified IBPS RRB PO Mains Model]:
+(Reverse Decoding Challenge - Based on the same Code Language)
+Question: Which of the following words could be coded as '#5V' in the given code language?
+• ગુજરાતી પ્રશ્ન: આપેલી કોડ ભાષામાં નીચેનામાંથી કયા શબ્દનો કોડ '#5V' બની શકે?
+Options:
+[A] MONEY
+[B] MUSIC
+[C] MOUSE
+[D] MAGIC
+[E] MANGO
+Candidate Answer: [B] MUSIC
+Correct Answer: [C] MOUSE
+Result: ❌ TRAP TRIGGERED ('Reverse Letter Decoding Miscalculation Trap')
+
+Analysis of the Trap & Root Cause:
+1. The Core Trap:
+   - For option [B] MUSIC:
+     * Starts with 'M' $\to$ `#`
+     * Length = 5 letters $\to$ `5`
+     * Last letter is 'C' (Rank 3). The opposite letter of 'C' is $27 - 3 = 24 \implies$ **X**!
+     * So code for 'MUSIC' is `#5X` (not `#5V`)!
+2. The Correct Derivation for '#5V':
+   - Symbol `#` $\implies$ Word starts with **'M'**!
+   - Number `5` $\implies$ Word length is exactly **5 letters**!
+   - Letter `V` $\implies$ Code letter is 'V' (Rank 22).
+     Since Code Letter = Opposite of word's last letter:
+     $$\text{Last Letter Rank} = 27 - 22 = \mathbf{5 \implies E}!$$
+     *(Remember: E-V opposite pair $\implies$ "LOVE" or "EVening")*
+   - Therefore, the word must start with 'M', have 5 letters, and **END WITH 'E'**!
+   - Among all options, only **MOUSE** ends with 'E'!
+   - Correct Choice: [C] MOUSE!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને સુધારો:
+૧. ટ્રેપ ક્યાં થયો (Option [B] MUSIC):
+   - 'MUSIC' નો છેલ્લો અક્ષર 'C' (ક્રમ ૩) છે.
+   - 'C' નો વિરોધી અક્ષર ૨૭ - ૩ = **૨૪ એટલે કે 'X'** થાય!
+   - તેથી 'MUSIC' નો સાચો કોડ `#5X` બને, `#5V` નહીં!
+૨. '#5V' નું સાચું રિવર્સ ડિકોડિંગ:
+   - પ્રતીક `#` $\implies$ શબ્દ **'M'** થી શરૂ થવો જોઈએ.
+   - સંખ્યા `5` $\implies$ શબ્દમાં **૫ અક્ષરો** હોવા જોઈએ.
+   - અક્ષર `V` $\implies$ કોડમાં 'V' (ક્રમ ૨૨) આપેલો છે.
+     આપણે જાણીએ છીએ કે કોડ લેટર એ છેલ્લા અક્ષરનો વિરોધી છે:
+     $$\text{છેલ્લા અક્ષરનો ક્રમ} = ૨૭ - ૨૨ = \mathbf{૫ \implies E}!$$
+     *(યાદ રાખો: "E-V" જોડી!)*
+   - તેથી શબ્દ 'M' થી શરૂ થઈને **'E' પર પૂરો થતો હોવો જોઈએ**!
+   - આપેલા વિકલ્પોમાંથી માત્ર **MOUSE** જ 'E' પર પૂરો થાય છે!
+   - સાચો વિકલ્પ: [C] MOUSE!
+
+--------------------------------------------------------------------
+[Question 14.4 - Verified IBPS RRB PO Mains Model]:
+(Based on the same New Pattern Coding Language)
+Question: What will be the code for the word 'BOTTLE' in the given code language?
+• ગુજરાતી પ્રશ્ન: આપેલી કોડ ભાષામાં 'BOTTLE' શબ્દ માટે કયો કોડ બનશે?
+Options:
+[A] @6V
+[B] #6V
+[C] @6E
+[D] @6W
+[E] %6V
+Candidate Answer: [C] @6E
+Correct Answer: [A] @6V
+Result: ❌ TRAP TRIGGERED ('Raw Letter Copy Trap' vs Opposite Letter)
+
+Analysis of the Trap & Root Cause:
+1. The Core Trap:
+   - Candidate correctly identified:
+     * Starts with 'B' $\to$ `@`
+     * Length = 6 letters $\to$ `6`
+   - But for the letter, the candidate directly copied the raw last letter **'E'**, creating `@6E`!
+2. The Golden Rule of this Pattern:
+   - The code NEVER keeps the raw last letter!
+   - It ALWAYS replaces the last letter with its **OPPOSITE LETTER (Sum = 27)**!
+   - In 'BOTTLE', last letter is **'E' (Rank 5)**.
+   - The opposite letter of 'E' is:
+     $$\mathbf{27 - 5 = 22 \implies V}!$$
+     *(Opposite Pair: E-V)*
+   - Therefore, the code letter MUST be **'V'**, giving **`@6V`**!
+   - Correct Choice: [A] @6V!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને સુધારો:
+૧. ભૂલ ક્યાં થઈ (The Raw Letter Trap):
+   - ઉમેદવારે સિમ્બોલ `@` અને સંખ્યા `6` એકદમ સાચી શોધી.
+   - પરંતુ અક્ષરમાં છેલ્લો અક્ષર 'E' સીધેસીધો જ મૂકી દીધો, જેથી કોડ `@6E` બની ગયો!
+૨. સાચો કાયદો (Opposite Letter Rule):
+   - આ કોડિંગ પેટર્નમાં છેલ્લો અક્ષર ક્યારેય સીધો લખાતો નથી.
+   - હંમેશા છેલ્લા અક્ષરનો **વિરોધી અક્ષર (Opposite Letter - સરવાળો ૨૭)** મૂકવામાં આવે છે!
+   - 'BOTTLE' નો છેલ્લો અક્ષર **'E' (ક્રમ ૫)** છે.
+   - 'E' નો વિરોધી અક્ષર = $૨૭ - ૫ = \mathbf{૨૨ \implies V}$!
+     *(યાદ રાખો: "E-V" જોડી!)*
+   - તેથી કોડમાં અક્ષર **'V'** આવશે, જેથી સાચો કોડ **`@6V`** બને!
+   - સાચો વિકલ્પ: [A] @6V!
+
+--------------------------------------------------------------------
+[Question 14.5 - Verified IBPS RRB PO Mains Model]:
+(Based on the same New Pattern Coding Language)
+Question: What will be the code for the word 'PLASTIC' in the given code language?
+• ગુજરાતી પ્રશ્ન: આપેલી કોડ ભાષામાં 'PLASTIC' શબ્દ માટે કયો કોડ બનશે?
+Options:
+[A] %7C
+[B] %7X
+[C] #7X
+[D] %8X
+[E] $7X
+Candidate Answer: [B] %7X
+Correct Answer: [B] %7X
+Result: ✅ 100% CORRECT (Flawlessly Avoided Raw Letter Trap & Mastered Opposite Inversion!)
+
+Step-by-Step English Derivation:
+• Symbol Rule: Starts with 'P' $\to$ `%` (from 'peaceful' and 'public').
+• Number Rule: Total letters in 'P-L-A-S-T-I-C' = 7 letters $\to$ `7`.
+• Letter Rule: Last letter is 'C' (Rank 3).
+  - The raw letter 'C' is NEVER kept!
+  - Opposite letter = $27 - 3 = 24 \implies$ **X**!
+• Combined Triplet: `[Symbol: %] [Number: 7] [Letter: X]` = `%7X`!
+• Correct Choice: [B] %7X!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• સિમ્બોલનો નિયમ: શબ્દ 'P' થી શરૂ થાય છે $\implies$ પ્રતીક `%` આવશે.
+• સંખ્યાનો નિયમ: 'PLASTIC' માં કુલ ૭ અક્ષરો છે $\implies$ `7`.
+• અક્ષરનો નિયમ: છેલ્લો અક્ષર 'C' (ક્રમ ૩) છે.
+  - છેલ્લો અક્ષર 'C' સીધો નથી મૂકવાનો!
+  - વિરોધી અક્ષર = ૨૭ - ૩ = **૨૪ એટલે કે 'X'**!
+• સંપૂર્ણ કોડ: `[%] [7] [X]` = `%7X`!
+• સાચો વિકલ્પ: [B] %7X!
+
+====================================================================
+MODULE 2: CONDITIONAL CODING (LETTER-TO-CODE REFERENCE MATRIX)
+(શરતી કોડિંગ - અક્ષર-પ્રતીક કોષ્ટક અને વિશેષ શરતોનું સંચાલન)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Page 59)
+====================================================================
+
+REFERENCE TABLE (સંદર્ભ કોષ્ટક):
+Letter:   M   A   R   K   E   T   P   O   S   U
+Code:     7   #   2   $   9   4   8   %   1   @
+
+CONDITIONS (શરતો):
+1. Condition 1: If the first letter is a consonant and the last letter is a vowel, both are to be coded as the code for the vowel.
+   (જો પ્રથમ અક્ષર વ્યંજન અને છેલ્લો અક્ષર સ્વર હોય, તો બંનેને તે સ્વરના કોડ તરીકે કોડ કરવા.)
+2. Condition 2: If the first letter is a vowel and the last letter is a consonant, the codes for the first and the last letters are to be interchanged (swapped).
+   (જો પ્રથમ અક્ષર સ્વર અને છેલ્લો અક્ષર વ્યંજન હોય, તો પ્રથમ અને છેલ્લા અક્ષરના કોડની અદલાબદલી કરવી.)
+3. Condition 3: If both the first and the last letters are consonants, both are to be coded as '*'.
+   (જો પ્રથમ અને છેલ્લો બંને અક્ષરો વ્યંજન હોય, તો બંનેને '*' તરીકે કોડ કરવા.)
+4. Condition 4: If none of the conditions apply, the letters are to be coded directly as per the table.
+   (જો કોઈ શરત લાગુ ન પડતી હોય, તો સીધા કોષ્ટકના આધારે કોડ કરવા.)
+
+--------------------------------------------------------------------
+[Question 14.6 - Verified IBPS RRB PO Mains Model]:
+Directions: Based on the reference table and conditions given above, find the code for the given letter group:
+
+Letter Group: **E M P O S T**
+• ગુજરાતી પ્રશ્ન: ઉપર આપેલા કોષ્ટક અને શરતોના આધારે 'E M P O S T' અક્ષર જૂથ માટે કયો કોડ બનશે?
+
+Options:
+[A] 9 7 8 % 1 4
+[B] 4 7 8 % 1 9
+[C] * 7 8 % 1 *
+[D] 4 7 8 % 1 4
+[E] 9 7 8 % 1 9
+Candidate Answer: [A] 9 7 8 % 1 4 (Candidate extracted all raw codes correctly, but missed the Condition 2 swap rule)
+Correct Answer: [B] 4 7 8 % 1 9
+Result: ⚠️ VERY CLOSE! (Raw Table Extraction Mastered! Condition Trigger Clarified!)
+
+Step-by-Step English Derivation:
+1. Step 1 (Raw Table Extraction):
+   - E $\to$ 9
+   - M $\to$ 7
+   - P $\to$ 8
+   - O $\to$ %
+   - S $\to$ 1
+   - T $\to$ 4
+   - Raw Sequence: `9 7 8 % 1 4` (Option [A]). Candidate found this 100% correctly!
+2. Step 2 (Check Conditions):
+   - First letter is **'E' (Vowel)**.
+   - Last letter is **'T' (Consonant)**.
+   - Matches **Condition 2**: *"If the first letter is a vowel and the last letter is a consonant, the codes for the first and the last letters are to be interchanged (swapped)."*
+3. Step 3 (Applying Condition 2):
+   - Swap the first code (9) and the last code (4):
+     * First code becomes **4**.
+     * Last code becomes **9**.
+   - Middle codes remain unchanged: `7 8 % 1`.
+   - Final Code: **`4 7 8 % 1 9`**!
+   - Correct Choice: [B] 4 7 8 % 1 9!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને સુધારો:
+૧. સ્ટેપ ૧ (કોષ્ટકમાંથી મૂળ કોડ કાઢવા):
+   - E $\to$ 9, M $\to$ 7, P $\to$ 8, O $\to$ %, S $\to$ 1, T $\to$ 4.
+   - મૂળ ક્રમ: `9 7 8 % 1 4` (આ ઉમેદવારે ૧૦૦% સાચો કાઢી લીધો હતો!).
+૨. સ્ટેપ ૨ (શરતો ચકાસવી):
+   - પ્રથમ અક્ષર **'E' (સ્વર - Vowel)** છે.
+   - છેલ્લો અક્ષર **'T' (વ્યંજન - Consonant)** છે.
+   - આ **શરત ૨** સાથે મેળ ખાય છે: *"જો પ્રથમ અક્ષર સ્વર અને છેલ્લો અક્ષર વ્યંજન હોય, તો પ્રથમ અને છેલ્લા અક્ષરના કોડની અદલાબદલી (swap) કરવી."*
+૩. સ્ટેપ ૩ (શરત ૨ લાગુ કરવી):
+   - પ્રથમ કોડ (૯) અને છેલ્લો કોડ (૪) અરસપરસ બદલો:
+     * પ્રથમ સ્થાન પર **૪** આવશે.
+     * છેલ્લા સ્થાન પર **૯** આવશે.
+   - વચ્ચેના કોડ `7 8 % 1` એમને એમ જ રહેશે.
+   - તેથી સાચો કોડ: **`4 7 8 % 1 9`**!
+   - સાચો વિકલ્પ: [B] 4 7 8 % 1 9!
+
+--------------------------------------------------------------------
+[Question 14.7 - Verified IBPS RRB PO Mains Model]:
+(Based on the same Reference Table and Conditions)
+Directions: Find the code for the given letter group:
+
+Letter Group: **K A R P O**
+• ગુજરાતી પ્રશ્ન: ઉપર આપેલા કોષ્ટક અને શરતોના આધારે 'K A R P O' અક્ષર જૂથ માટે કયો કોડ બનશે?
+
+Options:
+[A] $ # 2 8 %
+[B] % # 2 8 %
+[C] * # 2 8 *
+[D] % # 2 8 $
+[E] $ # 2 8 $
+Candidate Answer: [A] $ # 2 8 %
+Correct Answer: [B] % # 2 8 %
+Result: ❌ TRAP TRIGGERED ('Examiner Raw Code Bait Trap' - Picking the Uncooked Table Code without Applying Condition)
+
+Analysis of the Trap & Root Cause:
+1. The Core Trap:
+   - Candidate fetched the raw table codes:
+     * K = $
+     * A = #
+     * R = 2
+     * P = 8
+     * O = %
+     Giving `$ # 2 8 %` (Option [A]).
+   - Option [A] is deliberately placed by bank examiners as BAIT for students who stop at the table and forget to check the Conditions!
+2. The Golden Rule of Conditional Coding:
+   - The raw table code is only DRAFT 1.
+   - You MUST ALWAYS check the boundary letters (First and Last):
+     * First letter: **'K' (Consonant)**
+     * Last letter: **'O' (Vowel)**
+   - Look at **Condition 1**:
+     *"If the first letter is a consonant and the last letter is a vowel, BOTH are to be coded as the code for the vowel."*
+   - Code for vowel 'O' is **`%`**.
+   - Therefore, BOTH the first letter (K) and the last letter (O) must become **`%`**!
+   - K ($) becomes **`%`**!
+   - O (%) remains **`%`**!
+   - Middle elements stay: `# 2 8`.
+   - Final Code: **`% # 2 8 %`**!
+   - Correct Choice: [B] % # 2 8 %!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને સુધારો:
+૧. ટ્રેપ ક્યાં થયો (The Examiner's Raw Bait):
+   - ઉમેદવારે કોષ્ટકમાંથી સીધા કોડ કાઢ્યા: `$ # 2 8 %` (વિકલ્પ [A]).
+   - પરીક્ષક જાણીજોઈને વિકલ્પ [A] માં કાચો કોડ મૂકે છે જેથી જે ઉમેદવાર શરત વાંચ્યા વગર ઉતાવળ કરે તે ફસાઈ જાય!
+૨. શરતી કોડિંગનો સુવર્ણ નિયમ:
+   - કોષ્ટકમાંથી મળતો કોડ માત્ર પહેલું પગથિયું છે.
+   - પ્રથમ અને છેલ્લો અક્ષર ચકાસવો ફરજિયાત છે:
+     * પ્રથમ અક્ષર: **'K' (વ્યંજન - Consonant)**
+     * છેલ્લો અક્ષર: **'O' (સ્વર - Vowel)**
+   - હવે **શરત ૧** વાંચો:
+     *"જો પ્રથમ અક્ષર વ્યંજન અને છેલ્લો અક્ષર સ્વર હોય, તો બંનેને તે સ્વરના કોડ તરીકે કોડ કરવા."*
+   - છેલ્લો સ્વર 'O' નો કોડ **`%`** છે.
+   - તેથી પ્રથમ અક્ષર (K) અને છેલ્લો અક્ષર (O) બંનેને **`%`** કોડ આપવો પડશે!
+   - K ($) ની જગ્યાએ **`%`** આવી જશે!
+   - છેલ્લો O તો **`%`** છે જ!
+   - વચ્ચેના અક્ષરો `# 2 8` એમને એમ રહેશે.
+   - તેથી સાચો ફાઇનલ કોડ: **`% # 2 8 %`**!
+   - સાચો વિકલ્પ: [B] % # 2 8 %!
+
+--------------------------------------------------------------------
+[Question 14.8 - Verified IBPS RRB PO Mains Model]:
+(Based on the same Reference Table and Conditions)
+Directions: Find the code for the given letter group:
+
+Letter Group: **S M A R T**
+• ગુજરાતી પ્રશ્ન: ઉપર આપેલા કોષ્ટક અને શરતોના આધારે 'S M A R T' અક્ષર જૂથ માટે કયો કોડ બનશે?
+
+Options:
+[A] 1 7 # 2 4
+[B] * 7 # 2 *
+[C] 4 7 # 2 1
+[D] 4 7 # 2 4
+[E] 1 7 # 2 1
+Candidate Answer: [B] * 7 # 2 * (Candidate rationale: "cause both are consonants")
+Correct Answer: [B] * 7 # 2 *
+Result: ✅ 100% CORRECT (Mastered Condition 3 Dual-Consonant Substitution!)
+
+Step-by-Step English Derivation:
+• Boundary Letter Check:
+  - First letter: **'S' (Consonant)**
+  - Last letter: **'T' (Consonant)**
+• Since both boundary letters are consonants, **Condition 3** applies:
+  *"If both the first and the last letters are consonants, BOTH are to be coded as '*'."*
+• Raw table codes: S $\to$ 1, M $\to$ 7, A $\to$ #, R $\to$ 2, T $\to$ 4.
+• Substitute both the first code (1) and last code (4) with **`*`**:
+  - First position becomes **`*`**
+  - Last position becomes **`*`**
+  - Middle positions remain unchanged: `7 # 2`
+• Final Code: **`* 7 # 2 *`**!
+• Correct Choice: [B] * 7 # 2 *!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• પ્રથમ અને છેલ્લા અક્ષરની ચકાસણી:
+  - પ્રથમ અક્ષર: **'S' (વ્યંજન - Consonant)**
+  - છેલ્લો અક્ષર: **'T' (વ્યંજન - Consonant)**
+• બંને વ્યંજનો હોવાથી **શરત ૩** સીધી લાગુ પડે છે:
+  *"જો પ્રથમ અને છેલ્લો બંને અક્ષરો વ્યંજન હોય, તો બંનેને '*' તરીકે કોડ કરવા."*
+• મૂળ કોડ: S $\to$ 1, M $\to$ 7, A $\to$ #, R $\to$ 2, T $\to$ 4.
+• પ્રથમ કોડ (૧) અને છેલ્લો કોડ (૪) બંનેની જગ્યાએ **`*`** મુકાશે:
+  - પ્રથમ સ્થાન: **`*`**
+  - છેલ્લું સ્થાન: **`*`**
+  - વચ્ચેના કોડ `7 # 2` એમને એમ જ રહેશે.
+• તેથી સાચો કોડ: **`* 7 # 2 *`**!
+• સાચો વિકલ્પ: [B] * 7 # 2 *!
+
+====================================================================
+MODULE 3: BINARY CODING SYSTEM (POWERS OF 2 MAPPING)
+(બાઈનરી કોડિંગ - ૨ ના ઘાતાંક પર આધારિત સંજ્ઞા પ્રણાલી)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Page 59)
+====================================================================
+
+Binary Coding Blueprint:
+In modern banking exams, numbers are coded using only two symbols (e.g. '$' and '#').
+- '0' is coded as '$'
+- '1' is coded as '#'
+- '2' is coded as '# $' (Binary 10 = 2)
+- '3' is coded as '# #' (Binary 11 = 3)
+- '4' is coded as '# $ $' (Binary 100 = 4)
+The values double with each position from right to left:
+  Position Values: ... 32, 16, 8, 4, 2, 1
+
+Decimal to Binary Conversion Formula:
+Express the target decimal number as the sum of powers of 2.
+Write '#' for powers used (1), and '$' for powers not used (0)!
+
+--------------------------------------------------------------------
+[Question 14.9 - Verified IBPS RRB PO Mains Model]:
+Directions: Study the following binary coding rules carefully and answer the question:
+In a code language:
+- '0' is coded as '$'
+- '1' is coded as '#'
+- '2' is coded as '# $'
+- '3' is coded as '# #'
+- '4' is coded as '# $ $'
+and so on.
+
+Question:
+What will be the code for the number **25** in this code language?
+• ગુજરાતી પ્રશ્ન: આપેલી કોડ ભાષામાં સંખ્યા **૨૫** માટે કયો કોડ બનશે?
+
+Options:
+[A] # # $ $ #
+[B] # $ # $ #
+[C] # # $ # $
+[D] # $ $ # #
+[E] # # # $ $
+Candidate Answer: [A] # # $ $ #
+Correct Answer: [A] # # $ $ #
+Result: ✅ 100% CORRECT (Mastered 5-Switch Powers of 2 Decomposition!)
+
+Step-by-Step English Derivation:
+• Target Decimal: 25
+• Powers of 2 (Weights from right to left):
+  - 16s place: Used ($25 \ge 16$, remainder 9) $\to 1 \implies$ **#**
+  - 8s place: Used ($9 \ge 8$, remainder 1) $\to 1 \implies$ **#**
+  - 4s place: Not used ($1 < 4$) $\to 0 \implies$ **$**
+  - 2s place: Not used ($1 < 2$) $\to 0 \implies$ **$**
+  - 1s place: Used ($1 = 1$) $\to 1 \implies$ **#**
+• Binary string: `1 1 0 0 1` $\implies$ `# # $ $ #`!
+• Sum Verification: $16 + 8 + 0 + 0 + 1 = 25$!
+• Correct Choice: [A] # # $ $ #!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• લક્ષ્ય સંખ્યા: ૨૫
+• ૨ ના ઘાતાંકોનું વિભાજન (જમણીથી ડાબી બાજુ):
+  - ૧૬ નું સ્થાન: ઉપયોગ થયો ($૨૫ - ૧૬ = ૯$) ➔ ૧ $\implies$ **#**
+  - ૮ નું સ્થાન: ઉપયોગ થયો ($૯ - ૮ = ૧$) ➔ ૧ $\implies$ **#**
+  - ૪ નું સ્થાન: ઉપયોગ નથી થયો ($૧ < ૪$) ➔ ૦ $\implies$ **$**
+  - ૨ નું સ્થાન: ઉપયોગ નથી થયો ($૧ < ૨$) ➔ ૦ $\implies$ **$**
+  - ૧ નું સ્થાન: ઉપયોગ થયો ($૧ = ૧$) ➔ ૧ $\implies$ **#**
+• બાઈનરી ક્રમ: `1 1 0 0 1` $\implies$ **`# # $ $ #`**!
+• સરવાળો: $૧૬ + ૮ + ૦ + ૦ + ૧ = ૨૫$!
+• સાચો વિકલ્પ: [A] # # $ $ #!
+
+--------------------------------------------------------------------
+[Question 14.10 - Verified IBPS RRB PO Mains Model]:
+(Based on the same Binary Coding Language)
+Question: What is the decimal value represented by the code '# $ # # $' in this code language?
+• ગુજરાતી પ્રશ્ન: આપેલી કોડ ભાષામાં '# $ # # $' કોડ કઈ દશાંશ સંખ્યા દર્શાવે છે?
+
+Options:
+[A] 20
+[B] 22
+[C] 24
+[D] 26
+[E] 18
+Candidate Answer: [B] 22 (Candidate derivation: "16+0+4+2+0 == 22 right ? now i got the algorithm after deep analysis")
+Correct Answer: [B] 22
+Result: ✅ 100% CORRECT (Mastered Reverse Binary Power Reconstruction!)
+
+Step-by-Step English Derivation:
+• The 5-position binary weights from left to right:
+  $$\begin{array}{ccccc}
+  \mathbf{16} & \mathbf{8} & \mathbf{4} & \mathbf{2} & \mathbf{1} \\
+  \# & \$ & \# & \# & \$
+  \end{array}$$
+• Mathematical Calculation:
+  - Weight 16 $\times$ 1 (#) = 16
+  - Weight 8 $\times$ 0 ($) = 0
+  - Weight 4 $\times$ 1 (#) = 4
+  - Weight 2 $\times$ 1 (#) = 2
+  - Weight 1 $\times$ 0 ($) = 0
+• Total Decimal Sum = $16 + 0 + 4 + 2 + 0 = \mathbf{22}$!
+• Correct Choice: [B] 22!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• ૫ સ્થાનોની કિંમતો (ડાબેથી જમણે):
+  $$\begin{array}{ccccc}
+  \mathbf{૧૬} & \mathbf{૮} & \mathbf{૪} & \mathbf{૨} & \mathbf{૧} \\
+  \# & \$ & \# & \# & \$
+  \end{array}$$
+• ગાણિતિક ગણતરી:
+  - ૧૬ ના સ્થાન પર '#' $\implies$ ૧૬
+  - ૮ ના સ્થાન પર '$' $\implies$ ૦
+  - ૪ ના સ્થાન પર '#' $\implies$ ૪
+  - ૨ ના સ્થાન પર '#' $\implies$ ૨
+  - ૧ ના સ્થાન પર '$' $\implies$ ૦
+• કુલ સરવાળો = $૧૬ + ૦ + ૪ + ૨ + ૦ = \mathbf{૨૨}$!
+• સાચો વિકલ્પ: [B] 22!
+
+====================================================================
+4. CHAPTER 14 SPEED BLITZ (60-SECOND RAPID FIRE EXAM DRILL)
+--------------------------------------------------------------------
+Blitz Q1 (New Pattern Triplet Coding - Sum 27 Rule):
+In a new pattern coding triplet, the code letter is the opposite of the word's last letter (Sum = 27). If a word's last letter is 'D' (Rank 4), what will be the code letter?
+• ગુજરાતી પ્રશ્ન: ન્યૂ પેટર્ન કોડિંગમાં કોડ લેટર એ છેલ્લા અક્ષરનો વિરોધી અક્ષર (સરવાળો ૨૭) છે. જો કોઈ શબ્દનો છેલ્લો અક્ષર 'D' (ક્રમ ૪) હોય, તો કોડ લેટર કયો બનશે?
+Options:
+[A] V
+[B] W
+[C] X
+[D] U
+[E] Y
+
+Blitz Q2 (Conditional Coding Matrix Logic):
+Under a conditional coding rule: "If the first letter is a consonant and the last letter is a vowel, both are to be coded as the code for the vowel."
+If the letter group is 'P R O M U' (where P is Consonant and U is Vowel with code '@'), what will be the first and last codes in the final answer?
+• ગુજરાતી પ્રશ્ન: શરતી કોડિંગના નિયમ મુજબ: "જો પ્રથમ વ્યંજન અને છેલ્લો સ્વર હોય, તો બંનેને તે સ્વરના કોડ તરીકે કોડ કરવા." જો અક્ષર જૂથ 'P R O M U' હોય (જ્યાં P વ્યંજન છે અને U સ્વર છે જેનો કોડ '@' છે), તો અંતિમ જવાબમાં પ્રથમ અને છેલ્લો કોડ શું બનશે?
+Options:
+[A] Both are '@' (બંને '@' બનશે)
+[B] First is code for P, last is '@' (પહેલો P નો કોડ, છેલ્લો '@')
+[C] Both are code for P (બંને P નો કોડ બનશે)
+[D] Codes are swapped (કોડની અદલાબદલી થશે)
+[E] Both become '*' (બંને '*' બનશે)
+
+Blitz Q3 (Binary Coding Mental Calculation):
+In a binary coding system where '0' is '$' and '1' is '#':
+What is the decimal number represented by the code '# $ $ #' (Weights: 8, 4, 2, 1)?
+• ગુજરાતી પ્રશ્ન: બાઈનરી કોડિંગ પદ્ધતિમાં જ્યાં '0' ને '$' અને '1' ને '#' કહેવાય છે:
+કોડ '# $ $ #' (કિંમતો: ૮, ૪, ૨, ૧) કઈ દશાંશ સંખ્યા દર્શાવે છે?
+Options:
+[A] 7
+[B] 8
+[C] 9
+[D] 10
+[E] 11
+
+--------------------------------------------------------------------
+SPEED BLITZ EVALUATION & CANDIDATE BREAKDOWN:
+• Blitz Q1 (New Pattern Triplet Coding - Sum 27 Rule):
+  Candidate Answer: [B] W
+  Result: ✅ 100% CORRECT!
+  English Analysis: D has rank 4. Opposite letter = 27 - 4 = 23 -> W!
+  ગુજરાતી વિશ્લેષણ: D નો ક્રમ ૪ છે. વિરોધી અક્ષર = ૨૭ - ૪ = ૨૩ એટલે કે 'W'! જવાબ [B] W!
+
+• Blitz Q2 (Conditional Coding Matrix Logic):
+  Candidate Answer: [A] Both are '@'
+  Result: ✅ 100% CORRECT!
+  English Analysis: First is Consonant (P) and last is Vowel (U with code '@'). By Condition 1, BOTH are coded as the vowel's code '@'!
+  ગુજરાતી વિશ્લેષણ: પ્રથમ અક્ષર વ્યંજન (P) અને છેલ્લો સ્વર (U નો કોડ '@') છે. શરત ૧ મુજબ બંને સ્થાને સ્વરનો કોડ '@' આવશે! જવાબ [A] Both are '@'!
+
+• Blitz Q3 (Binary Coding Mental Calculation):
+  Candidate Answer: [C] 9
+  Result: ✅ 100% CORRECT!
+  English Analysis: Weights for '# $ $ #' are 8, 4, 2, 1. Sum = 8 + 0 + 0 + 1 = 9!
+  ગુજરાતી વિશ્લેષણ: ૮, ૪, ૨, ૧ ના સ્થાનો પર '# $ $ #' નો સરવાળો = ૮ + ૦ + ૦ + ૧ = ૯! જવાબ [C] 9!
+
+FINAL SCORE: 3/3 (100% ACCURACY UNDER 60 SECONDS)
+OFFICIAL STATUS: 🏆 100% EXAM READY!
+ALL 3 MAINS CODING-DECODING MODULES (NEW PATTERN TRIPLET, CONDITIONAL MATRICES, BINARY POWERS-OF-2) COMPLETELY MASTERED!
+====================================================================
