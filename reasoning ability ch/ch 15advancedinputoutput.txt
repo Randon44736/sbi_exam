@@ -1,0 +1,100 @@
+====================================================================
+CHAPTER 15: ADVANCED INPUT-OUTPUT (MATHEMATICAL BOX/BLOCK & SHIFT MACHINES)
+(અદ્યતન ઇનપુટ-આઉટપુટ - મેઈન્સ બોક્સ-ટાઇપ ગાણિતિક મશીન અને આધુનિક શિફ્ટિંગ પ્રણાલી)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 60-61)
+Dedicated Mains PDF: MAINS_EXCLUSIVE_REASONING_CH15_16_17.pdf
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: 🔒 RESERVED FOR MAINS (POST-PRELIMS PHASE) — 100% MAINS EXCLUSIVE
+Exam Weightage: 5 Questions in Mains (0% in Prelims; મેઈન્સ પરીક્ષામાં રોકડા ૫ માર્ક્સ!)
+====================================================================
+
+1. CORE METHODOLOGIES & MATHEMATICAL MACHINE BLUEPRINT
+--------------------------------------------------------------------
+In modern IBPS RRB PO Mains exams, Input-Output is NOT just arranging words alphabetically or numbers ascendingly. The dominant Mains model is the MATHEMATICAL BOX MACHINE (બોક્સ-ટાઇપ ગાણિતિક મશીન):
+
+A) Standard Box Machine Operations (મેઈન્સ બોક્સ મશીન પ્રક્રિયા):
+   Input: Usually 6 boxes containing 2-digit numbers: [B1] [B2] [B3] [B4] [B5] [B6].
+   
+   1. Step 1 (Cross-Box Digit Combination - ક્રોસ બોક્સ અંક જોડાણ):
+      - Box 1 pairs with Box 4:
+        * 1st digit of Box 1 $\times$ 1st digit of Box 4 = Result 1
+        * 2nd digit of Box 1 $\times$ 2nd digit of Box 4 = Result 2
+      - Box 2 pairs with Box 5.
+      - Box 3 pairs with Box 6.
+      - Result: 3 new boxes in Step 1!
+
+   2. Step 2 (Inter-Box Operations - બોક્સ અંકોનો સરવાળો/ગુણાકાર):
+      - Digits of Box 1 and Box 2 are combined (e.g., Sum of all digits of Box 1 + Box 2).
+      - Digits of Box 2 and Box 3 are combined.
+      - Result: 2 new boxes in Step 2!
+
+   3. Step 3 (Division or Multiplication - ભાગાકાર કે ગુણાકાર):
+      - Step 2 values are divided by a constant factor (e.g., divided by 2 or 3).
+      - If decimal appears (e.g., 4.5), division rule is 100% confirmed!
+
+   4. Step 4 (Final Terminal Output - અંતિમ આઉટપુટ):
+      - Absolute difference between Step 3 numbers: $|N_1 - N_2|$!
+      - Result: A single final output number!
+
+B) Traditional Shifting Machines (પરંપરાગત આધુનિક શિફ્ટિંગ):
+   1. Single Side Shifting:
+      - Elements move to extreme Left or Right one by one.
+      - Pen-free shortcut: Number elements L1, L2, L3... Auto-arranged elements consume 0 steps!
+   2. Double Side Shifting (બેવડી શિફ્ટિંગ):
+      - Word shifts to extreme Left, Number shifts to extreme Right simultaneously in each step.
+   3. The Step Inversion Rule (રિવર્સ ટ્રેપ):
+      - Finding 'Input' from a given Step (e.g. "What was the Input if Step 3 is given?") is ALWAYS:
+        "CANNOT BE DETERMINED (નક્કી ન થઈ શકે)"! You can NEVER go backward!
+
+--------------------------------------------------------------------
+2. COMMON EXAM TRAPS (સામાન્ય પરીક્ષાની ભૂલો અને સાવચેતી)
+--------------------------------------------------------------------
+1. Digit-Cross vs Full-Number Trap: બોક્સ મશીનમાં આખી સંખ્યા ગુણવાની નથી હોતી, પરંતુ અંકો (Individual Digits: D1 અને D2) નો ગુણાકાર/સરવાળો કરવાનો હોય છે.
+2. Step Inversion Backward Trap: કોઈપણ સ્ટેપ પરથી પાછળ (ઇનપુટ તરફ) જઈ શકાતું નથી. આવા પ્રશ્નમાં સીધો જવાબ 'Cannot be determined' આવે છે.
+3. Intermediate Calculation Slip: એક સ્ટેપની નાની ગણતરીની ભૂલ આખા સેટના પાંચેય પ્રશ્નો ખોટા પાડી શકે છે, તેથી દરેક બોક્સના સરવાળા/ગુણાકારનું રી-ચેક કરવું.
+
+--------------------------------------------------------------------
+3. PRACTICE QUESTIONS LOG (ONE-BY-ONE INTERACTIVE SESSION)
+--------------------------------------------------------------------
+(Current Interactive Questions will be logged here step-by-step)
+
+[Question 15.1 - Verified IBPS RRB PO Mains Model]:
+Directions: Study the following mathematical box machine operations carefully and answer the questions that follow.
+
+ILLUSTRATIVE MACHINE (સમજૂતી ઉદાહરણ):
+Input:    [32]    [41]    [23]    [21]    [13]    [32]
+         Box 1   Box 2   Box 3   Box 4   Box 5   Box 6
+
+Step 1:   [62]            [43]            [66]
+         Box A           Box B           Box C
+(Rule: Box A = 1st digit of Box 1 x 1st digit of Box 4, and 2nd digit of Box 1 x 2nd digit of Box 4 -> 3x2=6, 2x1=2 -> [62])
+(Rule: Box B = 1st digit of Box 2 x 1st digit of Box 5, and 2nd digit of Box 2 x 2nd digit of Box 5 -> 4x1=4, 1x3=3 -> [43])
+(Rule: Box C = 1st digit of Box 3 x 1st digit of Box 6, and 2nd digit of Box 3 x 2nd digit of Box 6 -> 2x3=6, 3x2=6 -> [66])
+
+Step 2:           [15]                    [19]
+                 Box D                   Box E
+(Rule: Box D = Sum of all digits of Box A and Box B -> (6+2) + (4+3) = 8 + 7 = 15)
+(Rule: Box E = Sum of all digits of Box B and Box C -> (4+3) + (6+6) = 7 + 12 = 19)
+
+Step 3:           [7.5]                   [9.5]
+(Rule: Divide Box D and Box E by 2 -> 15/2 = 7.5, 19/2 = 9.5)
+
+Step 4:                   [2.0]
+(Rule: Absolute difference of Step 3 values -> |7.5 - 9.5| = 2.0)
+
+--------------------------------------------------------------------
+NEW INPUT FOR CANDIDATE (ઉમેદવાર માટે નવું ઇનપુટ):
+Input:    [24]    [51]    [32]    [32]    [14]    [23]
+         Box 1   Box 2   Box 3   Box 4   Box 5   Box 6
+
+Question:
+For the given New Input, what is the value of Box A in Step 1 (formed by Box 1 and Box 4)?
+• ગુજરાતી પ્રશ્ન: આપેલા નવા ઇનપુટ માટે, સ્ટેપ ૧ માં બોક્સ A ની કિંમત (જે બોક્સ ૧ અને બોક્સ ૪ ના અંકો વડે બને છે) શું થશે?
+
+Options:
+[A] 66
+[B] 68
+[C] 54
+[D] 72
+[E] 58
+====================================================================

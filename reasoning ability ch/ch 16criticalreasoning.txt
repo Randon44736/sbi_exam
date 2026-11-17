@@ -1,0 +1,65 @@
+====================================================================
+CHAPTER 16: ADVANCED LOGICAL REASONING (CRITICAL ANALYTICAL REASONING)
+(અદ્યતન તાર્કિક નિષ્કર્ષ - ક્રિટિકલ રીઝનિંગ, પૂર્વધારણાઓ અને નિર્ણાયક તર્ક)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 62-63)
+Dedicated Mains PDF: MAINS_EXCLUSIVE_REASONING_CH15_16_17.pdf
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: 🔒 RESERVED FOR MAINS (POST-PRELIMS PHASE) — 100% MAINS EXCLUSIVE
+Exam Weightage: 8–12 Questions in Mains (0% in Prelims; મેઈન્સમાં ૮ થી ૧૨ માર્ક્સનું પ્રભુત્વ!)
+====================================================================
+
+1. CORE PILLARS & ARCHITECTURE (ક્રિટિકલ રીઝનિંગના ૪ મુખ્ય સ્તંભો)
+--------------------------------------------------------------------
+Critical Reasoning tests your ability to evaluate verbal statements objectively without bringing in personal feelings or external unstated information.
+
+A) Statement & Assumption (વિધાન અને પૂર્વધારણા):
+   - Definition: An assumption is something taken for granted *before* the speaker speaks.
+   - THE NEGATION TEST (અવરોધક કસોટી — સર્વશ્રેષ્ઠ પદ્ધતિ):
+     * Negate the assumption (add 'NOT').
+     * If negating it invalidates or destroys the speaker's statement, then the assumption is 100% IMPLICIT (અંતર્ગત છે)!
+     * Example: Statement: "Boil water during monsoon to prevent water-borne disease."
+       Negation of Assumption: "Boiling water does NOT kill bacteria."
+       Result: If boiling fails to kill bacteria, advising it makes no sense! Hence the assumption is IMPLICIT!
+
+B) Statement & Course of Action (વિધાન અને કાર્યવાહી):
+   - Definition: A logical step taken to resolve a problem or improve a situation.
+   - The 3 Golden Rules:
+     1. Feasibility (શક્યતા): Must be practically actionable.
+     2. Direct Connection (સીધો સંબંધ): Must target the root problem, not symptoms.
+     3. Proportionality (સંતુલિત): Must NOT be overly harsh or cause a greater crisis.
+        (e.g., Dismissing 100 staff for a 5-minute delay is extreme and INVALID!).
+
+C) Statement & Argument (મજબૂત વિરુદ્ધ નબળી દલીલ):
+   - Strong Argument (મજબૂત દલીલ): Addresses the core issue directly, supported by constitutional rights, national welfare, or logical cause-effect.
+   - Weak Argument (નબળી દલીલ): Emotional, ambiguous, based on personal opinion, or mere comparison ("Country X does it, so we should too").
+
+D) Cause & Effect (કારણ અને પરિણામ):
+   - Principle: Event A is the cause of Event B if Event A precedes Event B and has a direct causal link.
+   - Check if both are independent effects of a common cause (e.g., both due to economic recession).
+
+--------------------------------------------------------------------
+2. THE 6 GOLDEN ELIMINATION TRAPS (પરીક્ષામાં તાત્કાલિક વિકલ્પ કાઢવાના નિયમો)
+--------------------------------------------------------------------
+1. Absolute Words Trap: Words like 'All', 'Only', 'Always', 'Never', 'Solely' (બધા જ, માત્ર, હંમેશાં, ક્યારેય નહીં) usually make assumptions/arguments INVALID!
+2. Out-of-Scope Trap: Introducing external information not mentioned or logically deducible from the passage.
+3. Punitive Extreme Action: Over-reacting actions in Course of Action questions are 100% rejected.
+4. Mere Comparison: Comparing with another city or country without underlying context is a weak argument.
+5. Simple Restatement: Merely paraphrasing the statement does NOT strengthen or weaken it.
+6. The 45-Second Cap: In Mains, spend at most 45 seconds per Critical Reasoning question. If stuck between two close options, skip and return during the final review.
+
+--------------------------------------------------------------------
+3. VERIFIED MAINS CASE STUDIES
+--------------------------------------------------------------------
+Case 1: Public Health Warning
+Statement: "The civic authority has advised all citizens to wear masks in public transit during the winter surge of respiratory infections."
+Assumption I: Masks significantly reduce transmission of airborne viruses. (IMPLICIT - Passes Negation Test).
+Assumption II: Citizens will cooperate and wear masks. (IMPLICIT - An appeal assumes compliance).
+
+Case 2: Traffic Congestion
+Statement: "Peak-hour traffic congestion on the central expressway has doubled commuter travel times."
+Course of Action I: Implement staggered office timings for government and private sectors. (FOLLOWS - Feasible & direct).
+Course of Action II: Ban all private vehicles permanently from the city. (DOES NOT FOLLOW - Extreme and unfeasible).
+
+====================================================================
+NOTE: This chapter is officially quarantined for post-prelims study. Complete worked models are preserved in MAINS_EXCLUSIVE_REASONING_CH15_16_17.pdf.
+====================================================================
