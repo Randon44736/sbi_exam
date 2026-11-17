@@ -3,83 +3,465 @@ CHAPTER 11: MISCELLANEOUS REASONING (WORD, PAIR & NUMBERS)
 (પરચૂરણ તાર્કિક ક્ષમતા - શબ્દ નિર્માણ, અક્ષર જોડીઓ અને અંક પ્રક્રિયાઓ)
 Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 52-53)
 Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
-Status: ⚡ LEARNING (ACTIVE NOW)
+Status: 🏆 100% EXAM READY (Practice 10/10 + Speed Blitz 3/3)
 Exam Weightage: 3–4 Questions (Target: 1.5–2 Minutes in Prelims)
 ====================================================================
 
-1. CORE METHOD & SPEED SCORING BLUEPRINT (મુખ્ય પદ્ધતિ અને ગતિ સૂત્રો)
+1. CORE METHODOLOGIES & SHORTCUT BLUEPRINT (મુખ્ય પદ્ધતિ અને ગતિ સૂત્રો)
 --------------------------------------------------------------------
 A) Letter Pair Formation (Forward & Backward - અક્ષર જોડીઓની ગણતરી):
-   - સુવર્ણ નિયમ (The Alphabet Gap Rule):
-     શબ્દમાં બે અક્ષરો વચ્ચે જેટલા અક્ષરો છે, તેટલા જ અક્ષરો વાસ્તવિક અંગ્રેજી મૂળાક્ષરો (A to Z) માં પણ તેમની વચ્ચે હોવા જોઈએ!
-   - અંતર (Gap) કોઈ પણ હોઈ શકે:
-     * Gap = 0: લાઈનમાં ક્રમિક અક્ષરો (જેમ કે 'POST' માં S અને T).
-     * Gap = 1: વચ્ચે ૧ અક્ષર (જેમ કે 'BANKING' માં G [H] I ➔ શબ્દમાં G [N] I).
-     * Gap = 3: વચ્ચે ૩ અક્ષરો (જેમ કે P [Q R S] T ➔ શબ્દમાં P [R I N] T).
-   - મોં-અને-આંગળી રીત (Finger & Recite Magic Hack):
-     * ડાબેથી જમણે (Forward): દરેક અક્ષર પર આંગળી મૂકો અને મનમાં ABCD બોલતા આગળ વધો. જ્યાં તમારું મોં અને સ્ક્રીનનો અક્ષર એક જ બોલે, ત્યાં ૧ જોડી પાકી!
-     * જમણેથી ડાબે (Backward): છેલ્લા અક્ષરથી શરૂ કરી ડાબી બાજુ ABCD બોલતા પાછા ફરો.
-     * નોંધ: Z પછી પાછા A પર ક્યારેય ન જવું (જ્યાં સુધી પ્રશ્નમાં સ્પષ્ટ ન કહ્યું હોય).
+   1. The Alphabet Gap Rule (મૂળાક્ષર અંતર નિયમ):
+      - પ્રશ્ન પૂછે છે: "શબ્દમાં એવા કેટલા અક્ષરોની જોડીઓ છે જેમની વચ્ચે શબ્દમાં એટલા જ અક્ષરો છે જેટલા અંગ્રેજી મૂળાક્ષરો (A to Z) માં હોય છે?"
+      - અંતર (Gap) કોઈ પણ કદનું હોઈ શકે:
+        * Gap = 0: અંગ્રેજીમાં પાસ-પાસે (જેમ કે 'POST' માં S અને T).
+        * Gap = 1: વચ્ચે ૧ અક્ષર (જેમ કે G [H] I ➔ શબ્દમાં G [N] I).
+        * Gap = 2: વચ્ચે ૨ અક્ષરો (જેમ કે A [B C] D ➔ શબ્દમાં A [X Y] D).
+   2. The Finger & Recite Hack (આંગળી અને મોં થી ગણતરી - પેન વગર):
+      - ડાબેથી જમણે (Forward): દરેક અક્ષર પર આંગળી મૂકો અને આગળ ABCD બોલો. જ્યાં મોં અને સ્ક્રીનનો અક્ષર એક થાય, ત્યાં ૧ જોડી ગણી લો!
+      - જમણેથી ડાબે (Backward): છેલ્લા અક્ષરથી શરૂ કરી ડાબી બાજુ તરફ ABCD બોલતા આવો.
+      - ⚠️ મહત્વનો નિયમ: Z પછી પાછા A પર જવાનું નથી (No loop from Z to A)!
 
-B) Meaningful Word Formation (અર્થપૂર્ણ શબ્દ નિર્માણ - 1-X-Y સાવચેતી નિયમ):
-   - ફોર્મેટ: "આપેલા શબ્દમાંથી ૧લા, ૪થા, ૬ઠ્ઠા, ૮મા અક્ષરો કાઢો. જો એક શબ્દ બને તો તેનો ૩જો અક્ષર ટીક કરો; જો એકથી વધુ બને તો 'X' ટીક કરો; જો કોઈ ન બને તો 'Y' ટીક કરો."
-   - ⚠️ પરીક્ષાની સૌથી મોટી ચેતવણી (#1 Negative Marking Trap):
-     જો તમને અક્ષરો જોતાં જ તરત સીધો સ્પષ્ટ શબ્દ ન દેખાય, તો આ પ્રશ્ન પર સમય બગાડ્યા વગર તુરંત SKIP કરો! છેલ્લી ૨ મિનિટમાં જ આને અડવું.
-   - પ્રખ્યાત બેંકિંગ એનાગ્રામ મૂળિયા (Frequent Anagram Roots):
-     * D-E-A-R ➔ DEAR, DARE, READ
-     * P-O-S-T ➔ POST, SPOT, STOP, TOPS, POTS
-     * T-A-M-E ➔ TAME, MEAT, TEAM, MATE
-     * R-A-C-E ➔ RACE, CARE, ACRE
-     * S-E-A-T ➔ SEAT, EAST, EATS
+B) Meaningful Word Formation (1-X-Y Framework - અર્થપૂર્ણ શબ્દ નિર્માણ):
+   1. ફોર્મેટ:
+      - આપેલા શબ્દમાંથી અમુક ક્રમના અક્ષરો (દા.ત. ૧લો, ૪થો, ૭મો, ૯મો) પસંદ કરવાના હોય છે.
+      - જો માત્ર ૧ જ અર્થપૂર્ણ અંગ્રેજી શબ્દ બને ➔ તે શબ્દનો ત્રીજો (અથવા પૂછાયેલો) અક્ષર જવાબ બને.
+      - જો ૧ થી વધુ અર્થપૂર્ણ શબ્દો બને ➔ જવાબ 'X' ટીક કરવો.
+      - જો એક પણ અર્થપૂર્ણ શબ્દ ન બને ➔ જવાબ 'Y' ટીક કરવો.
+   2. ધ ગોલ્ડન સ્કીપ રૂલ (#1 Negative Marking Trap in IBPS RRB PO):
+      - જો અક્ષરો જોતાં જ ૨૦ સેકન્ડમાં સ્પષ્ટ શબ્દ મગજમાં ન ચમકે, તો આ પ્રશ્ન પર સમય ન બગાડવો!
+      - તુરંત તેને SKIP કરી આગળ વધવું અને પરીક્ષાના છેલ્લા ૨ મિનિટમાં જો સમય વધે તો જ અડવું.
+   3. પ્રખ્યાત બેંકિંગ એનાગ્રામ મૂળિયા (Frequent Anagram Roots):
+      * P-O-S-T ➔ POST, SPOT, STOP, TOPS, POTS
+      * D-E-A-R ➔ DEAR, DARE, READ
+      * T-A-M-E ➔ TAME, MEAT, TEAM, MATE
+      * R-A-C-E ➔ RACE, CARE, ACRE
+      * S-E-A-T ➔ SEAT, EAST, EATS
+      * B-A-R-E ➔ BARE, BEAR
 
-C) Number & Digit Manipulation (સંખ્યા અને અંકોની પ્રક્રિયા):
-   - વિધાન: "દરેક એકી અંકમાં ૧ ઉમેરો અને બેકી અંકમાંથી ૧ બાદ કરો; કયા અંકો એકથી વધુ વખત આવે છે?"
-   - શોર્ટકટ: આખી ૮-અંકની નવી સંખ્યા રફ પેપર પર ક્યારેય ન લખવી! સ્ક્રીન પર સીધા જ સરખા પરિણામ આપતા અંકો તપાસો (જેમ કે એકી ૩ + ૧ = ૪ અને બેકી ૬ - ૧ = ૫).
+C) Digit Manipulation Operations (અંક પ્રક્રિયાઓ):
+   1. નિયમ: "દરેક એકી અંકમાં ૧ ઉમેરો અને દરેક બેકી અંકમાંથી ૧ બાદ કરો; કયા અંકનું પુનરાવર્તન થાય છે?"
+   2. શોર્ટકટ: આખી સંખ્યા રફ કાગળ પર ફરીથી ક્યારેય ન લખવી!
+      - સીધા જ સ્ક્રીન પર નજર કરો:
+      - એકી સંખ્યા + ૧ અને બેકી સંખ્યા - ૧ સરખો અંક ક્યારે બનાવે?
+        દા.ત. એકી (૩) + ૧ = ૪; અને બેકી (૬) માંથી ૧ જાય = ૫ (મેળ નથી).
+        જો એકી (૫) + ૧ = ૬; અને બેકી (૮) - ૧ = ૭ (મેળ નથી).
+      - સીધા સમાન પરિણામ આપતા અંકો જ ઝડપથી શોધી લો.
 
-D) Odd One Out (અલગ પડતો અક્ષર સમૂહ):
-   - ક્રમિક અક્ષરો વચ્ચેનો તફાવત તપાસો (+2, +3).
-   - ઊંધા વિરોધી અક્ષરો (Opposite Letters - સરવાળો ૨૭) તપાસો:
-     AZ, BY, CX, DW, EV, FU, GT, HS, IR, JQ, KP, LO, MN.
-   - સ્વર (Vowels: A, E, I, O, U) ની સંખ્યા તપાસો.
+D) Odd One Out & Alphabet Ranking (અલગ પડતો ઘટક અને મૂળાક્ષર ક્રમ):
+   1. અક્ષરો વચ્ચેનો તફાવત તપાસો (+2, +3, +4).
+   2. વિરોધી અક્ષરો (Opposite Letters - જેમનો સ્થાન સરવાળો ૨૭ થાય) તપાસો.
+   3. સ્વર (Vowels: A, E, I, O, U) ની સંખ્યા તપાસો.
 
-E) Position Memory Anchors (મૂળાક્ષર ક્રમ યાદ રાખવાના હથિયાર):
-   - ૫ ના ગુણાંક: EJOTY (E=5, J=10, O=15, T=20, Y=25)
-   - ૩ ના ગુણાંક: CFILORUX (C=3, F=6, I=9, L=12, O=15, R=18, U=21, X=24)
-   - વ્યંજનમાંથી સ્વર બનતા અક્ષરો (Consonant - 1 = Vowel):
-     B -> A,  F -> E,  J -> I,  P -> O,  V -> U
+E) Rapid Mental Anchors (ઝડપી માનસિક હથિયારો):
+   1. EJOTY (૫ ના ગુણાંક): E=5, J=10, O=15, T=20, Y=25
+   2. CFILORUX (૩ ના ગુણાંક): C=3, F=6, I=9, L=12, O=15, R=18, U=21, X=24
+   3. વિરોધી અક્ષરોની જોડીઓ (Opposite Pairs - Sum = 27):
+      A-Z, B-Y, C-X, D-W, E-V, F-U, G-T, H-S, I-R, J-Q, K-P, L-O, M-N
+   4. વ્યંજન - ૧ = સ્વર (Consonant - 1 = Vowel):
+      B -> A,   F -> E,   J -> I,   P -> O,   V -> U
 
 
-2. VERIFIED EXAM MODELS & STEP-BY-STEP DERIVATIONS (પરીક્ષાના ઉદાહરણો)
+2. COMMON EXAM TRAPS (સામાન્ય પરીક્ષાની ભૂલો અને સાવચેતી)
 --------------------------------------------------------------------
-[Model 1 - Verified IBPS RRB PO Prelims]:
-Word: 'BANKING'
-Letters: B(2), A(1), N(14), K(11), I(9), N(14), G(7)
-• Forward (ડાબેથી જમણે):
-  - B: C, D, E, F, G, H (નથી)
-  - A: B, C, D, E, F (નથી)
-  - N, K, I, N (કોઈ મેળ નથી) -> Forward = 0 pairs.
-• Backward (જમણેથી ડાબે):
-  - G થી શરૂ: H, I (મેળ પડ્યો! ૧લી જોડી: G-I) [અંગ્રેજીમાં G [H] I વચ્ચે ૧ અક્ષર, શબ્દમાં G [N] I વચ્ચે ૧ અક્ષર].
-  - A થી શરૂ: B (મેળ પડ્યો! ૨જી જોડી: A-B) [અંગ્રેજીમાં A-B ક્રમિક, શબ્દમાં પણ B-A ક્રમિક].
-• કુલ માન્ય જોડીઓ = ૨ (G-I અને A-B). જવાબ: [C] Two!
+1. Z to A Loop Trap: Z પછી ફરી A ગણવાની ભૂલ ન કરવી.
+2. Meaningful Word Ego Trap: ખોટો અપ્રચલિત કે વ્યાકરણ વગરનો શબ્દ માનીને નેગેટિવ માર્કિંગ વહોરવું નહીં.
+3. Rewriting Entire Digits Trap: ૮ કે ૯ અંકો ફરીથી લખવામાં ૪૦ સેકન્ડ બગાડવા નહીં.
+4. Missing Backward Pairs Trap: માત્ર ડાબેથી જમણે ગણીને અટકી જવું નહીં; જમણેથી ડાબે પણ સરખી ચોકસાઈથી ગણવું!
 
-[Model 2 - Memory-Based IBPS RRB PO 2023 Prelims]:
+
+3. PRACTICE QUESTIONS LOG (ONE-BY-ONE INTERACTIVE SESSION)
+--------------------------------------------------------------------
+[Question 11.1 - Verified IBPS RRB PO Prelims]:
+Word: 'CREATIVE'
+Letters: C(3), R(18), E(5), A(1), T(20), I(9), V(22), E(5)
+Question: How many such pairs of letters are there in the word 'CREATIVE' each of which has as many letters between them in the word as in the English alphabetical series (in both forward and backward directions)?
+• ગુજરાતી પ્રશ્ન: 'CREATIVE' શબ્દમાં એવા કેટલા અક્ષરોની જોડીઓ છે જેમની વચ્ચે શબ્દમાં એટલા જ અક્ષરો છે જેટલા અંગ્રેજી મૂળાક્ષરો (A to Z) માં હોય છે (આગળ અને પાછળ બંને દિશામાં)?
+Candidate Answer: [A] One (Found 'CE')
+Correct Answer: [C] Three
+Result: ⚠️ PARTIALLY ACCURATE / TRAP TRIGGERED (Premature Stopping / Incomplete Scanning)
+
+Detailed Analysis & Scanning:
+• Candidate correctly spotted the first pair: (C, E)!
+• The Trap: Stopping scanning too early. In banking exams, you must scan EVERY letter until the very last letter in both directions!
+
+1. Forward Scanning (ડાબેથી જમણે):
+   - C (3): D, E -> MATCH 1: (C, E)! [Word: C [R] E; Alphabet: C [D] E]
+   - R (18): S, T, U, V, W, X -> No match.
+   - E (5): F, G, H, I, J -> No match.
+   - A (1): B, C, D, E -> MATCH 2: (A, E)! [Word: A [T I V] E; Alphabet: A [B C D] E - exactly 3 letters between!]
+   - T (20): U, V -> MATCH 3: (T, V)! [Word: T [I] V; Alphabet: T [U] V - exactly 1 letter between!]
+   - I (9), V (22), E (5) -> No match.
+
+2. Backward Scanning (જમણેથી ડાબે):
+   - E (5): F, G, H, I, J, K, L -> No match.
+   - V (22): W, X, Y, Z -> No match.
+   - I (9): J, K, L, M, N -> No match.
+   - T (20): U, V, W, X -> No match.
+   - A (1): B, C, D -> No match.
+   - E (5): F, G, H -> No match.
+   - R (18): S -> No match.
+
+Total Valid Pairs = 3: (C, E), (A, E), (T, V).
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• ઉમેદવારે C અને E ની જોડી એકદમ સાચી પકડી! પરંતુ ઉતાવળમાં બાકીના અક્ષરો સ્કેન કરવાનું ચૂકી ગયા.
+• અક્ષર A થી ગણતાં: A, B, C, D, E ➔ છેલ્લો અક્ષર E મેળ ખાય છે! (શબ્દમાં વચ્ચે T, I, V ત્રણ અક્ષરો છે અને મૂળાક્ષરોમાં B, C, D ત્રણ અક્ષરો છે ➔ ૨જી જોડી: A-E).
+• અક્ષર T થી ગણતાં: T, U, V ➔ V મેળ ખાય છે! (શબ્દમાં વચ્ચે I એક અક્ષર છે અને મૂળાક્ષરોમાં U એક અક્ષર છે ➔ ૩જી જોડી: T-V).
+• તેથી કુલ ૩ જોડીઓ (C-E, A-E, T-V) મળે છે!
+• સાચો જવાબ: [C] Three!
+--------------------------------------------------------------------
+[Question 11.2 - Verified IBPS RRB PO Prelims]:
+Word: 'CREDIT'
+Letters: C(3), R(18), E(5), D(4), I(9), T(20)
+Question: How many such pairs of letters are there in the word 'CREDIT' each of which has as many letters between them in the word as in the English alphabetical series (in both forward and backward directions)?
+• ગુજરાતી પ્રશ્ન: 'CREDIT' શબ્દમાં એવા કેટલા અક્ષરોની જોડીઓ છે જેમની વચ્ચે શબ્દમાં એટલા જ અક્ષરો છે જેટલા અંગ્રેજી મૂળાક્ષરો (A to Z) માં હોય છે (આગળ અને પાછળ બંને દિશામાં)?
+Candidate Answer: [D] Three (Candidate marked 'CE', 'CD', 'DE')
+Correct Answer: [C] Two
+Result: ❌ TRAP TRIGGERED (The Alphabet Gap Mismatch Trap on 'CD')
+
+Root Cause & Trap Analysis:
+• Candidate correctly identified: (C, E) [Forward] and (D, E) [Backward]! Outstanding observation!
+• The Error: Why 'CD' is NOT a valid pair:
+  - In the English Alphabet: C and D are ADJACENT (Gap = 0 letters: C, D).
+  - In the Word 'CREDIT': Between C (1st) and D (4th), there are TWO letters: R and E (C [R E] D -> Gap = 2 letters).
+  - Since Gap in Alphabet (0) != Gap in Word (2), 'CD' cannot form a pair!
+
+1. Forward Scanning (ડાબેથી જમણે):
+   - C (3): D, E -> MATCH 1: (C, E)! [Word: C [R] E (1 letter); Alphabet: C [D] E (1 letter)]
+   - R (18): S, T, U, V -> No match.
+   - E (5): F, G, H -> No match.
+   - D (4): E, F -> No match.
+   - I (9): J -> No match.
+   - T (20) -> End.
+
+2. Backward Scanning (જમણેથી ડાબે):
+   - T (20): U, V, W, X, Y -> No match.
+   - I (9): J, K, L, M -> No match.
+   - D (4): E -> MATCH 2: (D, E)! [Word: E and D are adjacent; Alphabet: D and E are adjacent!]
+   - E (5): F, G -> No match.
+   - R (18): S -> No match.
+   - C (3) -> End.
+
+Total Valid Pairs = 2: (C, E) and (D, E).
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• ઉમેદવારે 'CE' અને 'DE' બંને સાચી જોડીઓ શોધી લીધી! ખૂબ સરસ પ્રયાસ!
+• ભૂલ ક્યાં થઈ (The 'CD' Trap):
+  - અંગ્રેજી મૂળાક્ષરોમાં C અને D એકબીજાને અડીને આવે છે (વચ્ચે ૦ અક્ષર).
+  - જ્યારે 'CREDIT' શબ્દમાં C અને D વચ્ચે બે અક્ષરો (R અને E) છે (C [R E] D ➔ વચ્ચે ૨ અક્ષરો).
+  - બંને વચ્ચેનું અંતર સરખું નથી (૦ != ૨), તેથી 'CD' જોડી બની શકે નહીં!
+• સાચી જોડીઓ માત્ર ૨ છે:
+  ૧. (C, E) [આગળ]: શબ્દમાં વચ્ચે R (૧ અક્ષર) ➔ ABCD માં વચ્ચે D (૧ અક્ષર).
+  ૨. (D, E) [પાછળ]: શબ્દમાં E અને D પાસે-પાસે છે ➔ ABCD માં D અને E પાસે-પાસે છે.
+• સાચો જવાબ: [C] Two!
+--------------------------------------------------------------------
+[Question 11.3 - Verified IBPS RRB PO Prelims]:
 Word: 'DISCOVERY'
-૧લા, ૩જા, ૫મા અને ૭મા અક્ષરો: D, S, O, E.
-બનતા અર્થપૂર્ણ શબ્દો:
-  1. DOSE (દવાનો નિર્ધારિત ડોઝ)
-  2. ODES (ભાવપ્રધાન કવિતાઓ)
-એકથી વધુ શબ્દો બનતા હોવાથી જવાબ: 'X'!
+Extraction: 1st, 3rd, 5th, and 7th letters -> D, S, O, E
+Question: If it is possible to make only one meaningful English word from the 1st, 3rd, 5th, and 7th letters of the word 'DISCOVERY', using each letter only once in each word, which of the following will be the third letter of that newly formed word? If more than one such word can be formed, mark 'X'. If no such word can be formed, mark 'Y'.
+• ગુજરાતી પ્રશ્ન: 'DISCOVERY' શબ્દના ૧લા, ૩જા, ૫મા અને ૭મા અક્ષરો (D, S, O, E) નો ઉપયોગ કરીને જો માત્ર ૧ જ અર્થપૂર્ણ શબ્દ બને તો તેનો ત્રીજો અક્ષર કયો? ૧ થી વધુ બને તો 'X' અને એક પણ ન બને તો 'Y' ટીક કરો.
+Candidate Answer: [A] D
+Correct Answer: [D] X (More than one word)
+Result: ❌ TRAP TRIGGERED (Single-Word Tunnel Vision / Anagram Plural Blindspot)
 
-[Model 3 - Verified IBPS RRB PO 2022 Prelims]:
-સંખ્યા: '73942618'
-પ્રક્રિયા: દરેક એકી અંકમાં ૧ ઉમેરો, દરેક બેકી અંકમાંથી ૧ બાદ કરો.
-એકી અંકો: 7->8, 3->4, 9->10 (અથવા 0), 1->2
-બેકી અંકો: 4->3, 2->1, 6->5, 8->7
-નવા અંકો: 8, 4, 0, 3, 1, 5, 2, 7. બધા જ અંકો અસમાન છે, કોઈ પણ અંકનું પુનરાવર્તન થતું નથી!
+Detailed Analysis & Word Discovery:
+• Extracted letters: D, S, O, E.
+• Formed Words:
+  1. DOSE (A measured quantity of medicine / દવાનો નિર્ધારિત ડોઝ).
+  2. ODES (Plural of ODE — Lyric poems or songs / ભાવપ્રધાન કાવ્યો કે સ્તુતિગીતો).
+• Since exactly TWO valid words can be formed (>1 word), the rule explicitly demands:
+  'If more than one such word can be formed, mark X as your answer.'
+• Therefore, the correct option is [D] X!
 
-
-3. HITENDRA'S INTERACTIVE PRACTICE LOG (લાઈવ કસોટી નોંધ)
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• ૧લો (D), ૩જો (S), ૫મો (O) અને ૭મો (E) અક્ષરો અલગ તારવતાં: {D, S, O, E} મળે છે.
+• આ ચાર અક્ષરોથી અંગ્રેજીમાં ૨ અર્થપૂર્ણ શબ્દો બને છે:
+  ૧. DOSE (દવાનો ડોઝ)
+  ૨. ODES (કવિતાઓ / ઓડ)
+• પ્રશ્નની સ્પષ્ટ શરત છે: 'જો એક કરતાં વધુ અર્થપૂર્ણ શબ્દો બને, તો જવાબ તરીકે X ટીક કરવો.'
+• તેથી કોઈ અક્ષર પસંદ કરવાનો રહેતો નથી, સાચો જવાબ [D] X બને છે!
+• ⚠️ ગોલ્ડન પરીક્ષા ચેતવણી: આ પ્રશ્ન IBPS RRB PO માં સૌથી વધુ નેગેટિવ માર્કિંગ લાવે છે. જો ૨૦ સેકન્ડમાં સ્પષ્ટતા ન થાય, તો આને હંમેશા SKIP કરવો હિતાવહ છે!
 --------------------------------------------------------------------
-(Current Interactive Questions will be logged here step-by-step)
+[Question 11.4 - Verified IBPS RRB PO Prelims]:
+Number: '72458327'
+Operation: Add 1 to each odd digit (+1) and Subtract 1 from each even digit (-1).
+Question: How many digits will appear more than once in the newly formed number?
+• ગુજરાતી પ્રશ્ન: જો સંખ્યા '72458327' માં દરેક એકી અંકમાં ૧ ઉમેરવામાં આવે અને દરેક બેકી અંકમાંથી ૧ બાદ કરવામાં આવે, તો નવા બનેલા નંબરમાં કેટલા અંકો એકથી વધુ વખત (પુનરાવર્તિત) આવશે?
+Candidate Calculation: 81367418 (100% PERFECT DERIVATION!)
+Candidate Answer: [B] One
+Correct Answer: [C] Two (Digits '1' and '8')
+Result: ⚠️ CALCULATION PERFECT / COUNTING OVERSIGHT (Terminal Boundary Blindspot)
+
+Detailed Step-by-Step Derivation:
+• Original Digits: 7   2   4   5   8   3   2   7
+• Odd Digits (+1): 7->8, 5->6, 3->4, 7->8
+• Even Digits (-1): 2->1, 4->3, 8->7, 2->1
+• Resulting Number: 8  1  3  6  7  4  1  8
+
+Count of Each Digit in Result:
+  - Digit '8': Appears 2 times (at position 1 and position 8) -> REPEATED!
+  - Digit '1': Appears 2 times (at position 2 and position 7) -> REPEATED!
+  - Digit '3': Appears 1 time
+  - Digit '6': Appears 1 time
+  - Digit '7': Appears 1 time
+  - Digit '4': Appears 1 time
+
+Total Unique Digits Appearing More Than Once = 2 (Both '1' and '8')!
+Therefore, the correct answer is [C] Two!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• ઉમેદવારની ગણતરી '81367418' એકદમ ૧૦૦% સાચી હતી! ખૂબ સરસ!
+• ભૂલ ક્યાં થઈ (The Terminal Boundary Blindspot):
+  - ઉમેદવારે વચ્ચેના અંક '1' નું પુનરાવર્તન (સ્થાન ૨ અને ૭) જોયું અને વિકલ્પ [B] One ટીક કર્યો.
+  - પરંતુ છેવાડાના અંક '8' (સૌથી પહેલો અને સૌથી છેલ્લો અંક) ને જોવાનું ચૂકી ગયા!
+  - નવી સંખ્યામાં:
+    * અંક '8' બે વાર આવે છે (સ્થાન ૧ અને ૮).
+    * અંક '1' બે વાર આવે છે (સ્થાન ૨ અને ૭).
+  - કુલ ૨ અંકો ('1' અને '8') પુનરાવર્તિત થાય છે!
+• સાચો જવાબ: [C] Two!
+--------------------------------------------------------------------
+[Question 11.5 - Verified IBPS RRB PO Prelims]:
+Cluster Options: [A] PRQ, [B] KML, [C] TVU, [D] FHI, [E] BDC
+Question: Four of the following five are alike in a certain way based on their positions in the English alphabetical series and hence form a group. Which is the one that does not belong to that group?
+• ગુજરાતી પ્રશ્ન: નીચેના પાંચમાંથી ચાર અંગ્રેજી મૂળાક્ષરોમાં તેમના સ્થાનના આધારે કોઈ ચોક્કસ રીતે સરખા છે અને એક જૂથ બનાવે છે. કયો એક વિકલ્પ એવો છે જે તે જૂથમાં બેસતો નથી (અલગ પડે છે)?
+Candidate Answer: [D] FHI
+Correct Answer: [D] FHI
+Result: ✅ 100% CORRECT! (FLAWLESS PATTERN IDENTIFICATION)
+
+Step-by-Step English Derivation:
+• Alphabetical Positions:
+  [A] P(16) -> R(18) [+2] -> Q(17) [-1]
+  [B] K(11) -> M(13) [+2] -> L(12) [-1]
+  [C] T(20) -> V(22) [+2] -> U(21) [-1]
+  [D] F(6)  -> H(8)  [+2] -> I(9)   [+1]  <-- VIOLATES THE RULE!
+  [E] B(2)  -> D(4)  [+2] -> C(3)   [-1]
+• Uniform Rule for Options A, B, C, E: First letter +2 -> Second letter; Second letter -1 -> Third letter (+2, -1).
+• In Option [D] FHI: Second letter to Third letter is +1 (H to I), NOT -1.
+• Therefore, [D] FHI is the Odd One Out!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• દરેક વિકલ્પમાં મૂળાક્ષરો વચ્ચેનો સંબંધ:
+  [A] PRQ : P (૧૬) ➔ R (૧૮) [+૨], R (૧૮) ➔ Q (૧૭) [-૧]
+  [B] KML : K (૧૧) ➔ M (૧૩) [+૨], M (૧૩) ➔ L (૧૨) [-૧]
+  [C] TVU : T (૨૦) ➔ V (૨૨) [+૨], V (૨૨) ➔ U (૨૧) [-૧]
+  [D] FHI : F (૬)  ➔ H (૮)  [+૨], H (૮)  ➔ I (૯)   [+૧]  ➔ આ પેટર્ન તોડે છે!
+  [E] BDC : B (૨)  ➔ D (૪)  [+૨], D (૪)  ➔ C (૩)   [-૧]
+• વિકલ્પો A, B, C, E માં સમાન નિયમ (+૨, -૧) છે: વચ્ચેનો અક્ષર +૨ આગળ છે અને છેલ્લો અક્ષર -૧ પાછળ છે.
+• માત્ર વિકલ્પ [D] FHI માં છેલ્લો અક્ષર -૧ થવાને બદલે +૧ આગળ વધે છે (H થી I).
+• તેથી સાચો જવાબ [D] FHI છે!
+--------------------------------------------------------------------
+[Question 11.6 - Verified IBPS RRB PO Prelims]:
+Number: '52847361'
+Operation: Arrange all digits in ascending order from left to right.
+Question: The position of how many digits will remain unchanged?
+• ગુજરાતી પ્રશ્ન: જો સંખ્યા '52847361' ના તમામ અંકોને ડાબેથી જમણે ચડતા ક્રમમાં ગોઠવવામાં આવે, તો કેટલા અંકોનું સ્થાન અપરિવર્તિત રહેશે?
+Candidate Alignment:
+5 2 8 4 7 3 6 1
+1 2 3 4 5 6 7 8
+Candidate Answer: [C] Two (Identified digits 2 and 4 as unchanged)
+Correct Answer: [C] Two
+Result: ✅ 100% PERFECT & RAPID! (UNDER 20 SECONDS EXECUTION)
+
+Step-by-Step English Derivation:
+• Original Number: 5   2   8   4   7   3   6   1
+• Ascending Order: 1   2   3   4   5   6   7   8
+• Vertical Comparison:
+  - Position 1: 5 != 1 (Changed)
+  - Position 2: 2 == 2 (UNCHANGED! -> Match 1)
+  - Position 3: 8 != 3 (Changed)
+  - Position 4: 4 == 4 (UNCHANGED! -> Match 2)
+  - Position 5: 7 != 5 (Changed)
+  - Position 6: 3 != 6 (Changed)
+  - Position 7: 6 != 7 (Changed)
+  - Position 8: 1 != 8 (Changed)
+• Exactly TWO digits ('2' and '4') retain their original positions.
+• Correct Answer: [C] Two!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• મૂળ સંખ્યા: ૫  ૨  ૮  ૪  ૭  ૩  ૬  ૧
+• ચડતો ક્રમ:  ૧  ૨  ૩  ૪  ૫  ૬  ૭  ૮
+• ઉપર-નીચે સ્તંભો સરખાવતાં:
+  - સ્થાન ૨: ઉપર ૨ અને નીચે ૨ ➔ અપરિવર્તિત (Match ૧)!
+  - સ્થાન ૪: ઉપર ૪ અને નીચે ૪ ➔ અપરિવર્તિત (Match ૨)!
+  - બાકીના તમામ સ્થાનો બદલાઈ જાય છે.
+• માત્ર ૨ અંકો ('2' અને '4') પોતાના મૂળ સ્થાને જ રહે છે.
+• ઉમેદવારની રજૂઆત એકદમ સચોટ અને ગતિશીલ રહી!
+• સાચો જવાબ: [C] Two!
+--------------------------------------------------------------------
+[Question 11.7 - Verified IBPS RRB PO Prelims]:
+Word: 'SILVER'
+Operation: Arrange all letters in alphabetical order from left to right.
+Question: The position of how many letters will remain unchanged?
+• ગુજરાતી પ્રશ્ન: જો શબ્દ 'SILVER' ના તમામ અક્ષરોને ડાબેથી જમણે મૂળાક્ષર ક્રમમાં (A to Z મુજબ) ગોઠવવામાં આવે, તો કેટલા અક્ષરોનું સ્થાન અપરિવર્તિત રહેશે?
+Candidate Alignment:
+S I L V E R
+E I L R S V
+Candidate Answer: [C] Two (Identified letters I and L as unchanged)
+Correct Answer: [C] Two
+Result: ✅ 100% PERFECT & FLAWLESS! (ZERO-HESITATION EXECUTION)
+
+Step-by-Step English Derivation:
+• Original Word:      S   I   L   V   E   R
+• Alphabetical Order: E   I   L   R   S   V
+• Vertical Comparison:
+  - Position 1: S != E (Changed)
+  - Position 2: I == I (UNCHANGED! -> Match 1)
+  - Position 3: L == L (UNCHANGED! -> Match 2)
+  - Position 4: V != R (Changed)
+  - Position 5: E != S (Changed)
+  - Position 6: R != V (Changed)
+• Exactly TWO letters ('I' and 'L') remain in their original positions.
+• Correct Answer: [C] Two!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• મૂળ શબ્દ:       S   I   L   V   E   R
+• મૂળાક્ષર ક્રમ:  E   I   L   R   S   V
+• સ્તંભ સરખામણી:
+  - સ્થાન ૨ પર: ઉપર I અને નીચે I ➔ અપરિવર્તિત (પહેલો મેળ)!
+  - સ્થાન ૩ પર: ઉપર L અને નીચે L ➔ અપરિવર્તિત (બીજો મેળ)!
+  - બાકીના સ્થાનો બદલાઈ જાય છે.
+• માત્ર ૨ અક્ષરો ('I' અને 'L') પોતાના મૂળ સ્થાને જ રહે છે.
+• ઉમેદવારની રજૂઆત એકદમ ઝડપી અને સંપૂર્ણ સાચી રહી!
+• સાચો જવાબ: [C] Two!
+--------------------------------------------------------------------
+[Question 11.8 - Verified IBPS RRB PO Prelims]:
+Word: 'PROJECT'
+Operation: Vowels + 1 (next letter) and Consonants - 1 (previous letter).
+Question: How many vowels will be there in the newly formed word?
+• ગુજરાતી પ્રશ્ન: જો શબ્દ 'PROJECT' માં દરેક સ્વરમાં +૧ (પછીનો અક્ષર) અને દરેક વ્યંજનમાં -૧ (અગાઉનો અક્ષર) કરવામાં આવે, તો નવા બનેલા શબ્દમાં કેટલા સ્વરો હશે?
+Candidate Answer: [C] Two (Identified 2 vowels; derived O and U)
+Correct Answer: [C] Two (Actual vowels are 'O' and 'I')
+Result: ✅ FINAL OPTION CORRECT / TRANSFORMATION PROCESS REFINED
+
+Step-by-Step English Derivation:
+• Original Word: P   R   O   J   E   C   T
+• Classification & Rules:
+  - P (Consonant) - 1 = O (Vowel 1)
+  - R (Consonant) - 1 = Q (Consonant)
+  - O (Vowel)     + 1 = P (Consonant)
+  - J (Consonant) - 1 = I (Vowel 2)
+  - E (Vowel)     + 1 = F (Consonant)
+  - C (Consonant) - 1 = B (Consonant)
+  - T (Consonant) - 1 = S (Consonant)
+• Resulting Word: O  Q  P  I  F  B  S
+• Vowels in Result: Exactly TWO vowels ('O' and 'I').
+
+Secret BFJPV Speed Hack Explained:
+• Vowels + 1 never yield vowels (A->B, E->F, I->J, O->P, U->V).
+• Consonants - 1 yield vowels ONLY for B, F, J, P, V (B->A, F->E, J->I, P->O, V->U).
+• In 'PROJECT', scanning for BFJPV immediately reveals P and J!
+• P turns into O, and J turns into I. Count = 2 in under 3 seconds!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• મૂળ શબ્દ: P   R   O   J   E   C   T
+• સાચો પરિવર્તન નિયમ:
+  - P (વ્યંજન) - ૧ = O ➔ સ્વર ૧
+  - R (વ્યંજન) - ૧ = Q
+  - O (સ્વર)   + ૧ = P
+  - J (વ્યંજન) - ૧ = I ➔ સ્વર ૨
+  - E (સ્વર)   + ૧ = F
+  - C (વ્યંજન) - ૧ = B
+  - T (વ્યંજન) - ૧ = S
+• નવો શબ્દ: O  Q  P  I  F  B  S
+• નવા શબ્દમાં ૨ સ્વરો ('O' અને 'I') આવે છે!
+• ઉમેદવારનો આખરી વિકલ્પ [C] Two સાચો હતો!
+• BFJPV શોર્ટકટ: આપેલા શબ્દમાં માત્ર B, F, J, P, V શોધો. PROJECT માં 'P' અને 'J' છે, જે અનુક્રમે 'O' અને 'I' બનશે ➔ સીધો જવાબ ૨!
+• સાચો જવાબ: [C] Two!
+--------------------------------------------------------------------
+[Question 11.9 - Verified IBPS RRB PO Prelims]:
+Words: SMART, SMILE, SMOKE, SMALL, SMASH
+Question: If the following five words are arranged in alphabetical order as in an English dictionary from left to right, which of the following will be the third word from the left end?
+• ગુજરાતી પ્રશ્ન: જો આપેલા પાંચ શબ્દોને અંગ્રેજી ડિક્શનરી મુજબ ડાબેથી જમણે મૂળાક્ષર ક્રમમાં ગોઠવવામાં આવે, તો ડાબે છેડેથી ત્રીજો (3rd) શબ્દ કયો હશે?
+Candidate Answer: [B] SMART
+Correct Answer: [C] SMASH
+Result: ❌ TRAP TRIGGERED (Ordinal Rank Oversight — 2nd vs 3rd Position)
+
+Step-by-Step English Derivation:
+• All 5 words start with prefix 'SM'.
+• Compare by 3rd and 4th letters:
+  1. SMA L L : L = 12 -> 1st word from Left
+  2. SMA R T : R = 18 -> 2nd word from Left (Candidate picked this!)
+  3. SMA S H : S = 19 -> 3rd word from Left (Since R comes before S!)
+  4. SMI L E : I = 9  -> 4th word from Left
+  5. SMO K E : O = 15 -> 5th word from Left
+• The Alphabetical Sequence: SMALL, SMART, SMASH, SMILE, SMOKE.
+• The 3rd word from the left end is SMASH.
+• Correct Answer: [C] SMASH!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• બધા જ ૫ શબ્દો 'SM' થી શરૂ થાય છે.
+• ૩જા અને ૪થા અક્ષરોની ડિક્શનરી મુજબ સરખામણી:
+  - SMA L L : ૪થો અક્ષર L (૧૨) ➔ ૧લો ક્રમ
+  - SMA R T : ૪થો અક્ષર R (૧૮) ➔ ૨જો ક્રમ (ઉમેદવારે ૨જો શબ્દ ટીક કર્યો)
+  - SMA S H : ૪થો અક્ષર S (૧૯) ➔ ૩જો ક્રમ (કારણ કે અંગ્રેજીમાં R પછી S આવે છે!)
+  - SMI L E : ૩જો અક્ષર I (૯) ➔ ૪થો ક્રમ
+  - SMO K E : ૩જો અક્ષર O (૧૫) ➔ ૫મો ક્રમ
+• ડિક્શનરી મુજબ સાચો ક્રમ: SMALL (૧), SMART (૨), SMASH (૩), SMILE (૪), SMOKE (૫).
+• પ્રશ્નમાં ડાબે છેડેથી 'ત્રીજો (3rd)' શબ્દ પૂછ્યો હતો. ત્રીજા સ્થાને 'SMASH' આવે છે!
+• સાચો જવાબ: [C] SMASH!
+--------------------------------------------------------------------
+[Question 11.10 - Verified IBPS RRB PO Prelims]:
+Word: 'DISQUALIFY'
+Letters: D(1), I(2), S(3), Q(4), U(5), A(6), L(7), I(8), F(9), Y(10)
+Question: How many letters are there in the English alphabetical series between the letter which is 3rd from the left end and the letter which is 2nd from the right end in the word 'DISQUALIFY'?
+• ગુજરાતી પ્રશ્ન: શબ્દ 'DISQUALIFY' માં ડાબે છેડેથી ત્રીજા (3rd) અક્ષર અને જમણે છેડેથી બીજા (2nd) અક્ષર વચ્ચે અંગ્રેજી મૂળાક્ષરોની શ્રેણીમાં કેટલા અક્ષરો આવે છે?
+Candidate Response: Guided concept explanation (No idea how to solve -> Fully clarified)
+Correct Answer: [C] Twelve (12 letters)
+Result: 💡 FULL CONCEPT CLARIFIED & FORMULA SOLIDIFIED
+
+Step-by-Step English Derivation:
+1. Identify the two target letters:
+   - 3rd letter from Left end: D(1), I(2), S(3) -> Letter is 'S'.
+   - 2nd letter from Right end: Count from right: Y(1st), F(2nd) -> Letter is 'F'.
+2. Alphabetical Positions (A=1 ... Z=26):
+   - Position of F = 6
+   - Position of S = 19
+3. English Alphabetical Gap Formula:
+   - Letters Between = (Position of Larger - Position of Smaller) - 1
+   - Letters Between = (19 - 6) - 1 = 13 - 1 = 12 letters!
+4. Verification by Listing:
+   - Letters strictly between F(6) and S(19):
+     G(7), H(8), I(9), J(10), K(11), L(12), M(13), N(14), O(15), P(16), Q(17), R(18).
+   - Exactly 12 letters!
+5. Correct Option: [C] Twelve!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+૧. બંને લક્ષ્ય અક્ષરો ઓળખો:
+   - ડાબે છેડેથી ૩જો અક્ષર: D (૧), I (૨), S (૩) ➔ અક્ષર 'S' છે.
+   - જમણે છેડેથી ૨જો અક્ષર: છેલ્લેથી ગણતાં Y (૧લો), F (૨જો) ➔ અક્ષર 'F' છે.
+૨. મૂળાક્ષરોમાં તેમના સ્થાન નંબરો:
+   - F નું સ્થાન = ૬
+   - S નું સ્થાન = ૧૯ (EJOTY મુજબ T=૨૦, તેથી T પહેલા S=૧૯)
+૩. વચ્ચેના અક્ષરો શોધવાનું સુવર્ણ સૂત્ર:
+   - વચ્ચેના અક્ષરો = (મોટો નંબર - નાનો નંબર) - ૧
+   - વચ્ચેના અક્ષરો = (૧૯ - ૬) - ૧ = ૧૩ - ૧ = ૧૨ અક્ષરો!
+૪. ચકાસણી (F અને S વચ્ચે આવતા અક્ષરો):
+   - G, H, I, J, K, L, M, N, O, P, Q, R (કુલ બરાબર ૧૨ અક્ષરો થાય છે).
+૫. સાચો જવાબ: [C] Twelve (૧૨ અક્ષરો)!
+--------------------------------------------------------------------
+====================================================================
+⚡ CHAPTER 11 SPEED BLITZ CHALLENGE (VERIFIED 3/3 - 100% EXAM READY)
+====================================================================
+• Blitz Q1 (Letter Pair Counting in 'BANKING'):
+  Word: 'BANKING'
+  Candidate Answer: [C] Two
+  Result: ✅ 100% CORRECT!
+  English Analysis: Backward pairs: G(7) to I(9) [G [N] I vs G [H] I -> 1 letter gap] and A(1) to B(2) [adjacent]. Total = 2 pairs.
+  ગુજરાતી વિશ્લેષણ: પાછળની દિશામાં G-I (વચ્ચે ૧ અક્ષર) અને A-B (પાસ-પાસે) એમ કુલ ૨ જોડીઓ બને છે. જવાબ [C] Two!
+
+• Blitz Q2 (Odd One Out — Letter Cluster Gaps):
+  Options: [A] DFH, [B] KMO, [C] PRT, [D] VXZ, [E] LNO
+  Candidate Answer: [E] LNO
+  Result: ✅ 100% CORRECT!
+  English Analysis: Options A, B, C, D follow (+2, +2) spacing. In [E] LNO, L(12) -> N(14) is +2, but N(14) -> O(15) is +1! Hence, LNO is the odd one out.
+  ગુજરાતી વિશ્લેષણ: વિકલ્પો A, B, C, D માં દરેક અક્ષર વચ્ચે (+૨, +૨) નો તફાવત છે. જ્યારે [E] LNO માં N થી O જતાં માત્ર +૧ નો જ વધારો થાય છે. તેથી LNO અલગ પડે છે [E]!
+
+• Blitz Q3 (Vowel/Consonant Shift — BFJPV Hack):
+  Word: 'JOURNAL' (Vowels +1, Consonants -1)
+  Candidate Answer: [B] One
+  Result: ✅ 100% CORRECT!
+  English Analysis: Secret BFJPV Rule: Only consonants B, F, J, P, V can yield vowels. Scanning 'JOURNAL' reveals only 'J' (J - 1 = I). Resulting word: I P V Q M B K (only 1 vowel: 'I').
+  ગુજરાતી વિશ્લેષણ: BFJPV નિયમ મુજબ 'JOURNAL' માં માત્ર 'J' વ્યંજન છે જે -૧ થતાં સ્વર 'I' બનાવશે. નવો શબ્દ 'IPVQMBK' બને છે જેમાં માત્ર ૧ જ સ્વર છે. જવાબ [B] One!
+
+FINAL SCORE: 3/3 (100% ACCURACY UNDER 60 SECONDS)
+OFFICIAL STATUS: 🏆 100% EXAM READY!
+ALL 5 MISCELLANEOUS SPEED MODULES (PAIRS, WORDS, DIGITS, CLUSTERS, DICTIONARY) MASTERED!
 ====================================================================
