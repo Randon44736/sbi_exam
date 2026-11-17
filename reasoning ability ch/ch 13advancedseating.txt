@@ -1,0 +1,660 @@
+====================================================================
+CHAPTER 13: ADVANCED SEATING (MIXED FACING & COMPLEX POLYGONS)
+(અદ્યતન બેઠક વ્યવસ્થા - અંદર-બહાર મિશ્ર મુખ, ચોરસ/લંબચોરસ, ત્રિકોણ અને સમાંતર હરોળ)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Pages 56-57)
+Candidate: Hitendrasinh Solanki | Exam Target: IBPS RRB PO 2026
+Status: 🏆 100% EXAM READY (BLITZ SCORE: 3/3) | 🔥 HIGH-PRIORITY REVISION ALERT (HARD TOPIC)
+Exam Weightage: 10–15 Questions in Prelims & Mains (પેપરનો ૩૦-૪૦% ભાર!)
+====================================================================
+
+1. CORE METHODOLOGIES & NAVIGATIONAL BLUEPRINT (મુખ્ય પદ્ધતિ અને દિશા નિયમો)
+--------------------------------------------------------------------
+A) Circular Seating with Mixed Facing (વર્તુળાકાર મિશ્ર મુખ - અંદર અને બહાર):
+   1. The Clock-Hand Direction Rule (ઘડિયાળના કાંટાનો અચૂક નિયમ):
+      * Facing INSIDE / Center (કેન્દ્ર તરફ મુખ હોય ત્યારે):
+        - Counter-Clockwise (ઘડિયાળની વિરુદ્ધ દિશા) = RIGHT (જમણી બાજુ)
+        - Clockwise (ઘડિયાળની દિશા) = LEFT (ડાબી બાજુ)
+      * Facing OUTSIDE (કેન્દ્રથી બહાર મુખ હોય ત્યારે - ઉલટાઈ જાય છે!):
+        - Clockwise (ઘડિયાળની દિશા) = RIGHT (જમણી બાજુ)
+        - Counter-Clockwise (ઘડિયાળની વિરુદ્ધ દિશા) = LEFT (ડાબી બાજુ)
+   2. The Golden Anchor Rule (શરૂઆત ક્યાંથી કરવી?):
+      - હંમેશા જે વ્યક્તિનું મુખ (Facing) સ્પષ્ટપણે આપેલું હોય ત્યાંથી જ આકૃતિ શરૂ કરવી (દા.ત. "B faces inside").
+      - ક્યારેય મુખ અજ્ઞાત હોય તેવા વ્યક્તિથી શરૂઆત ન કરવી.
+
+B) Square & Rectangular Tables (ચોરસ અને લંબચોરસ ટેબલ):
+   1. The Corner vs Middle Split:
+      - ૪ વ્યક્તિઓ ખૂણા પર (Corners) અને ૪ વ્યક્તિઓ બાજુઓની મધ્યમાં (Middle of sides).
+      - સામાન્ય નિયમ: ખૂણા વાળા કેન્દ્ર તરફ જુએ છે અને મધ્ય વાળા બહાર જુએ છે (અથવા તેનાથી ઉલટું).
+   2. Straight Opposite vs Diagonally Opposite:
+      - ખૂણા વાળા વ્યક્તિઓ સામસામે ત્રાંસા (Diagonally) બેસે છે.
+      - મધ્ય વાળા વ્યક્તિઓ સીધા સામસામે (Straight across) બેસે છે.
+
+C) Triangular Tables (ત્રિકોણાકાર ટેબલ - ૬ વ્યક્તિઓ):
+   - ૩ વ્યક્તિઓ ત્રિકોણના ૩ ખૂણા પર (Corners).
+   - ૩ વ્યક્તિઓ ત્રિકોણની ૩ બાજુઓ પર (Middle of sides).
+   - દરેક ખૂણાની વ્યક્તિ સામેની બાજુ વાળાની બરાબર સામે આવે છે.
+
+D) Dual Parallel Rows (સમાંતર બેવડી હરોળ - દક્ષિણ અને ઉત્તર મુખ):
+   - Row 1: દક્ષિણ (South ↓) તરફ મુખ ➔ ડાબી બાજુ એ તમારો જમણો હાથ (Left is YOUR Right)!
+   - Row 2: ઉત્તર (North ↑) તરફ મુખ ➔ ડાબી બાજુ એ તમારો ડાબો હાથ (Left is YOUR Left)!
+
+
+2. COMMON EXAM TRAPS (સામાન્ય પરીક્ષાની ભૂલો અને સાવચેતી)
+--------------------------------------------------------------------
+1. 'Faces Outside' Left Trap: બહાર મુખ હોય ત્યારે પોતાના હાથ પ્રમાણે ડાબે-જમણે ગણી લેવાની ભૂલ કરવી નહીં (ઘડિયાળના કાંટાનો નિયમ જ વાપરવો).
+2. 'No three adjacent face same direction' Violation: સળંગ ૩ લોકોનું મુખ એક જ દિશામાં ન હોવું જોઈએ તેવી શરત ચકાસવાનું ભૂલવું નહીં.
+3. Corner vs Edge Ambiguity Trap: જ્યાં સુધી વ્યક્તિ ખૂણા પર છે કે મધ્યમાં તે સ્પષ્ટ ન હોય ત્યાં સુધી ૨ અલગ-અલગ કેસ (Case 1 & Case 2) બનાવીને જ ચાલવું.
+
+
+3. PRACTICE QUESTIONS LOG (ONE-BY-ONE INTERACTIVE SESSION)
+--------------------------------------------------------------------
+(Current Interactive Questions will be logged here step-by-step)
+
+[Question 13.1 - Verified IBPS RRB PO Prelims]:
+Puzzle: 8 Persons around a Square Table (Corners face Center, Middles face Outside)
+Persons: P, Q, R, S, T, U, V, W
+Question: Who among the following sits second to the left of W?
+• ગુજરાતી પ્રશ્ન: નીચેનામાંથી કોણ W ની ડાબે બીજા (2nd to the left) સ્થાને બેસે છે?
+Candidate Answer: [C] U
+Correct Answer: [C] U
+Result: ✅ 100% CORRECT (Bullseye Mastered on First Attempt!)
+
+The Final Mastered Square Table Layout:
+               [U] (Middle, Outside ↑)
+      [P] (Corner, Inside ↘)        [V] (Corner, Inside ↙)
+   
+[T] (Middle, Outside ←)                   [W] (Middle, Outside →)
+
+      [S] (Corner, Inside ↗)        [Q] (Corner, Inside ↖)
+               [R] (Middle, Outside ↓)
+
+Summary of Positions:
+- Corners (Facing Inside):
+  * Top-Left: P
+  * Top-Right: V
+  * Bottom-Right: Q
+  * Bottom-Left: S
+- Middles of Sides (Facing Outside):
+  * Top Middle: U
+  * Right Middle: W
+  * Bottom Middle: R
+  * Left Middle: T
+
+Step-by-Step English Derivation:
+1. P sits at a corner, facing Inside. Let P = Top-Left Corner.
+2. S sits second to the right of P. P faces inside -> Right is Counter-Clockwise -> 1st right is Left Middle, 2nd right is Bottom-Left Corner. So S = Bottom-Left Corner.
+3. Only 3 persons sit between S and V. In an 8-person table, 3 persons between means directly opposite. Opposite of Bottom-Left Corner is Top-Right Corner -> V = Top-Right Corner.
+4. Q sits at a corner and is not adjacent to V. The only remaining corner not adjacent to V is Bottom-Right Corner -> Q = Bottom-Right Corner.
+5. T sits immediate left of S. S is at Bottom-Left Corner facing Inside -> Left is Clockwise (upwards) -> T = Left Middle (facing Outside).
+6. Only 3 persons sit between T and W -> W is opposite T -> W = Right Middle (facing Outside).
+7. U sits immediate left of P. P is at Top-Left facing Inside -> Left is Clockwise (towards Top Middle) -> U = Top Middle (facing Outside).
+8. R sits at the middle of one of the sides -> R takes the remaining middle position -> R = Bottom Middle (facing Outside).
+Finding 2nd to the left of W:
+- W is at Right Middle, facing OUTSIDE.
+- Facing Outside: Left is Counter-Clockwise (upwards towards North/Top).
+- 1st to left of W is V (Top-Right Corner).
+- 2nd to left of W is U (Top Middle).
+- Correct Choice: [C] U!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+૧. P ચોરસના એક ખૂણા પર બેસે છે (મુખ કેન્દ્ર તરફ/અંદર). આપણે P ને ઉપરના ડાબા ખૂણે (Top-Left) મૂકીએ.
+૨. S એ P ની જમણી બાજુએ બીજો છે. P અંદર જોતો હોવાથી જમણી બાજુ ઘડિયાળની વિરુદ્ધ દિશા (Counter-Clockwise) માં નીચે તરફ જશે. ૧st Right = ડાબી બાજુની મધ્ય, ૨nd Right = નીચેનો ડાબો ખૂણો (Bottom-Left). તેથી S = નીચેનો ડાબો ખૂણો.
+૩. S અને V વચ્ચે બરાબર ૩ લોકો છે. ૮ લોકોના ટેબલમાં ૩ લોકો વચ્ચે હોય એટલે બંને બરાબર સામસામે (ત્રાંસા ખૂણે) બેસે. નીચેના ડાબા ખૂણાની સામે ઉપરનો જમણો ખૂણો (Top-Right) આવે ➔ V = ઉપરનો જમણો ખૂણો.
+૪. Q પણ ખૂણા પર બેસે છે અને તે V નો પડોશી નથી. બાકી રહેલો ચોથો ખૂણો નીચેનો જમણો ખૂણો (Bottom-Right) છે ➔ Q = નીચેનો જમણો ખૂણો.
+૫. T એ S ની તરત ડાબી બાજુએ છે. S નીચેના ડાબા ખૂણે અંદર જુએ છે. અંદર જોતાં ડાબી બાજુ એટલે ઘડિયાળની દિશા (Clockwise/ઉપર તરફ) ➔ T = ડાબી બાજુની મધ્ય (Left Middle - બહાર મુખ).
+૬. T અને W વચ્ચે ૩ લોકો છે ➔ T ની સામે W આવે ➔ W = જમણી બાજુની મધ્ય (Right Middle - બહાર મુખ).
+૭. U એ P ની તરત ડાબે છે. P ઉપરના ડાબા ખૂણે અંદર જુએ છે. ડાબી બાજુ એટલે ઘડિયાળની દિશા (Clockwise/જમણી તરફ) ➔ U = ઉપરની મધ્ય (Top Middle - બહાર મુખ).
+૮. R બાજુની મધ્યમાં બેસે છે ➔ છેલ્લી બાકી રહેલી જગ્યા નીચેની મધ્ય (Bottom Middle - બહાર મુખ) R લેશે.
+W ની ડાબે બીજો શોધવો:
+- W જમણી બાજુની મધ્યમાં છે અને તેનું મુખ બહાર (Facing Outside) છે!
+- બહાર મુખ હોય ત્યારે ડાબી બાજુ (Left) એટલે ઘડિયાળની વિરુદ્ધ દિશા (Counter-Clockwise / ઉપર તરફ).
+- W ની ડાબે પહેલો (1st left) = V (ઉપરનો જમણો ખૂણો).
+- W ની ડાબે બીજો (2nd left) = U (ઉપરની મધ્ય)!
+- સાચો વિકલ્પ: [C] U! એકદમ ઉત્કૃષ્ટ અને સાચો જવાબ!
+
+--------------------------------------------------------------------
+[Question 13.2 - Verified IBPS RRB PO Prelims]:
+(Based on the same 8-Person Square Table Arrangement)
+Question: How many persons sit between U and Q when counted from the right of U?
+• ગુજરાતી પ્રશ્ન: જ્યારે U ની જમણી બાજુએથી (counted from the right of U) ગણતરી કરવામાં આવે, ત્યારે U અને Q વચ્ચે કેટલા વ્યક્તિઓ બેસે છે?
+Candidate Answer: [E] Four
+Correct Answer: [C] Two
+Result: ❌ TRAP TRIGGERED ('Top-Edge Facing Outside Inversion Trap')
+
+Analysis of the Trap & Root Cause:
+1. The Core Misconception:
+   - Candidate counted Counter-Clockwise (P, T, S, R -> 4 persons).
+   - This happens when one unconsciously assumes U is facing INSIDE (Center).
+   - When facing Center at the Top edge (looking South ↓), the right hand points West (Counter-Clockwise).
+2. The Reality Check:
+   - Clue explicitly states: "Middles of the sides face AWAY from the center (OUTSIDE)".
+   - U sits at the TOP Middle, facing OUTSIDE (looking North ↑, away from table).
+   - When you look North (upwards):
+     * Your RIGHT hand points EAST (to the right of the screen / CLOCKWISE)!
+     * Your LEFT hand points WEST (to the left of the screen / COUNTER-CLOCKWISE)!
+3. Counting from the RIGHT of U:
+   - Start at U and move to U's RIGHT (Clockwise):
+     1. V (Top-Right corner)
+     2. W (Right Middle)
+     ... then you reach Q (Bottom-Right corner)!
+   - Persons between U and Q counted from the right of U = exactly TWO persons (V and W)!
+   - Correct Answer: [C] Two!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને ભૂલ સુધારણા:
+૧. ભૂલનું મૂળ કારણ (The Facing Trap):
+   - ઉમેદવારે ઘડિયાળની વિરુદ્ધ દિશા (Counter-Clockwise) માં ગણતરી કરીને P, T, S, R એમ ૪ વ્યક્તિઓ ગણ્યા.
+   - આવું ત્યારે થાય જ્યારે આપણે ભૂલથી માની લઈએ કે U અંદર (કેન્દ્ર તરફ) જુએ છે. જો U અંદર જોતો હોય (નીચે દક્ષિણ તરફ), તો જ તેનો જમણો હાથ પશ્ચિમ (Counter-Clockwise) તરફ જાય.
+૨. સાચી દિશા (Facing Outside Rule):
+   - શરતમાં સ્પષ્ટ કહ્યું છે: "બાજુઓની મધ્યમાં બેસનાર બહાર જુએ છે".
+   - U ઉપરની મધ્યમાં છે અને મુખ બહાર (ઉત્તર તરફ ↑) છે.
+   - જ્યારે તમે ઉત્તર તરફ (સ્ક્રીનની બહાર) મોઢું રાખીને બેસો:
+     * તમારો જમણો હાથ (RIGHT) પૂર્વ તરફ (સ્ક્રીનની જમણી બાજુ / CLOCKWISE) રહેશે!
+     * તમારો ડાબો હાથ (LEFT) પશ્ચિમ તરફ (સ્ક્રીનની ડાબી બાજુ / COUNTER-CLOCKWISE) રહેશે!
+૩. U ની જમણી બાજુએથી (Clockwise) ગણતરી:
+   - U થી જમણી તરફ (Clockwise) આગળ વધતાં:
+     ૧. V (ઉપરનો જમણો ખૂણો)
+     ૨. W (જમણી બાજુની મધ્ય)
+     ... અને પછી Q આવે છે!
+   - તેથી U અને Q વચ્ચે બરાબર ૨ વ્યક્તિઓ (V અને W) બેસે છે!
+   - સાચો વિકલ્પ: [C] Two!
+
+--------------------------------------------------------------------
+[Question 13.3 - Verified IBPS RRB PO Prelims]:
+(Based on the same 8-Person Square Table Arrangement)
+Question: Four of the following five are alike in a certain way based on the given seating arrangement and thus form a group. Which is the one that does not belong to that group?
+• ગુજરાતી પ્રશ્ન: આપેલી બેઠક વ્યવસ્થાના આધારે નીચેના પાંચમાંથી ચાર ચોક્કસ રીતે એકસમાન છે અને એક જૂથ બનાવે છે. નીચેનામાંથી કયો એક તે જૂથ સાથે સંબંધિત નથી?
+Options:
+[A] P
+[B] V
+[C] W
+[D] S
+[E] Q
+Candidate Answer: [C] W
+Correct Answer: [C] W
+Result: ✅ 100% CORRECT (Flawless Pattern Recognition!)
+
+Step-by-Step English Derivation:
+• Positions and Facing Directions:
+  - P: Top-Left Corner $\to$ Faces INSIDE (Center)
+  - V: Top-Right Corner $\to$ Faces INSIDE (Center)
+  - S: Bottom-Left Corner $\to$ Faces INSIDE (Center)
+  - Q: Bottom-Right Corner $\to$ Faces INSIDE (Center)
+  - W: Right Middle $\to$ Faces OUTSIDE (Away from center)
+• All persons in options [A], [B], [D], [E] sit at corners and face inside. Only W sits at the middle of a side facing outside.
+• Therefore, W does not belong to the group!
+• Correct Choice: [C] W!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• બેઠક સ્થાન અને મુખની દિશા:
+  - P: ઉપર-ડાબો ખૂણો ➔ અંદર (કેન્દ્ર તરફ) મુખ
+  - V: ઉપર-જમણો ખૂણો ➔ અંદર (કેન્દ્ર તરફ) મુખ
+  - S: નીચે-ડાબો ખૂણો ➔ અંદર (કેન્દ્ર તરફ) મુખ
+  - Q: નીચે-જમણો ખૂણો ➔ અંદર (કેન્દ્ર તરફ) મુખ
+  - W: જમણી બાજુની મધ્ય ➔ બહાર (કેન્દ્રથી વિરુદ્ધ) મુખ
+• વિકલ્પો [A], [B], [D], [E] ના તમામ વ્યક્તિઓ ખૂણા પર બેસીને અંદર જુએ છે. માત્ર W બાજુની મધ્યમાં બેસીને બહાર જુએ છે.
+• તેથી W આ જૂથમાં બંધબેસતો નથી!
+• સાચો વિકલ્પ: [C] W!
+
+--------------------------------------------------------------------
+[Question 13.4 - Verified IBPS RRB PO Prelims]:
+(Based on the same 8-Person Square Table Arrangement)
+Question: What is the position of P with respect to T?
+• ગુજરાતી પ્રશ્ન: T ની સાપેક્ષે P નું સ્થાન શું છે?
+Options:
+[A] Immediate left (તરત ડાબે)
+[B] Second to the right (જમણે બીજો)
+[C] Immediate right (તરત જમણે)
+[D] Second to the left (ડાબે બીજો)
+[E] Third to the right (જમણે ત્રીજો)
+Candidate Answer: [D] Second to the left
+Correct Answer: [C] Immediate right
+Result: ❌ TRAP TRIGGERED ('Immediate vs Second Distance Trap' + 'Facing Outside Left/Right Confusion')
+
+Analysis of the Trap & Root Cause:
+1. The Distance Rule (Immediate vs Nth Step):
+   - In the seating layout:
+     * Top-Left Corner = P
+     * Left Middle = T
+     * Bottom-Left Corner = S
+   - Notice: P and T sit directly next to each other! There is ZERO person between them.
+   - Bank Exam Distance Terminology:
+     * 1 step away (0 persons between) = IMMEDIATE (તરત નો પડોશી)
+     * 2 steps away (1 person between) = SECOND (બીજો)
+     * 3 steps away (2 persons between) = THIRD (ત્રીજો)
+   - Common Trap: Counting the reference person T as "1", and P as "2", thus calling it "second".
+   - Correction: The reference person T is always step 0! Moving 1 step to P is IMMEDIATE!
+2. The Direction Rule (Facing Outside on the Left Edge):
+   - T sits at the Left Middle, facing OUTSIDE (facing West $\leftarrow$, away from the center).
+   - Stand at T looking West:
+     * UP / North (towards Top-Left P) is your RIGHT hand!
+     * DOWN / South (towards Bottom-Left S) is your LEFT hand!
+   - Therefore, P is situated to the IMMEDIATE RIGHT of T!
+   - Correct Answer: [C] Immediate right!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને સુધારો:
+૧. અંતરનો નિયમ (તરત / Immediate વિરુદ્ધ બીજો / Second):
+   - ડાબી બાજુની ગોઠવણ જુઓ:
+     * ઉપર-ડાબો ખૂણો = P
+     * ડાબી બાજુની મધ્ય = T
+     * નીચે-ડાબો ખૂણો = S
+   - P અને T એકબીજાની બિલકુલ અડીને (પાડોશમાં) બેઠા છે! તેમની વચ્ચે કોઈ વ્યક્તિ નથી.
+   - બેઠક વ્યવસ્થામાં ગણતરીનો અચૂક નિયમ:
+     * ૧ પગલું દૂર (વચ્ચે ૦ વ્યક્તિ) = IMMEDIATE (તરત પડોશી)
+     * ૨ પગલાં દૂર (વચ્ચે ૧ વ્યક્તિ) = SECOND (બીજો)
+     * ૩ પગલાં દૂર (વચ્ચે ૨ વ્યક્તિ) = THIRD (ત્રીજો)
+   - સામાન્ય પરીક્ષાની ભૂલ: T ને ૧ ગણવો અને P ને ૨ ગણીને "બીજો" કહી દેવો. આ પદ્ધતિ ખોટી છે. જેનાથી ગણતરી થાય (T) તે સ્થાન ૦ ગણાય, એટલે કે P તરત (Immediate) નો પડોશી છે.
+૨. દિશાનો નિયમ (ડાબી બાજુ બહાર મુખ):
+   - T ડાબી બાજુની મધ્યમાં છે અને તેનું મુખ બહાર (પશ્ચિમ $\leftarrow$ તરફ) છે.
+   - તમે T ની જગ્યાએ પશ્ચિમ તરફ મોં રાખીને ઊભા રહો:
+     * ઉપર/ઉત્તર તરફ (P તરફ) તમારો જમણો હાથ (RIGHT) રહેશે!
+     * નીચે/દક્ષિણ તરફ (S તરફ) તમારો ડાબો હાથ (LEFT) રહેશે!
+   - તેથી P એ T ની તરત જમણી બાજુએ (Immediate right) છે!
+   - સાચો વિકલ્પ: [C] Immediate right!
+
+--------------------------------------------------------------------
+[Question 13.5 - Verified IBPS RRB PO Prelims]:
+(Based on the same 8-Person Square Table Arrangement)
+Question: Who among the following sits third to the right of S?
+• ગુજરાતી પ્રશ્ન: નીચેનામાંથી કોણ S ની જમણી બાજુએ ત્રીજા (3rd to the right) સ્થાને બેસે છે?
+Options:
+[A] W
+[B] T
+[C] U
+[D] P
+[E] V
+Candidate Answer: [A] W
+Correct Answer: [A] W
+Result: ✅ 100% CORRECT (Mastered Corner Inside Facing & Step-Counting!)
+
+Step-by-Step English Derivation:
+• S is at the Bottom-Left corner, facing INSIDE (Center).
+• Facing Inside: Counter-Clockwise is RIGHT (moving along bottom edge towards East).
+  - 1st to right of S = R (Bottom Middle)
+  - 2nd to right of S = Q (Bottom-Right Corner)
+  - 3rd to right of S = W (Right Middle)
+• Exactly 2 persons (R and Q) sit between S and W.
+• Therefore, W sits third to the right of S!
+• Correct Choice: [A] W!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• S નીચેના ડાબા ખૂણે (Bottom-Left Corner) બેસે છે અને તેનું મુખ અંદર (કેન્દ્ર તરફ) છે.
+• કેન્દ્ર તરફ મુખ હોય ત્યારે જમણી બાજુ એટલે ઘડિયાળની વિરુદ્ધ દિશા (Counter-Clockwise - નીચેની કિનારી પર પૂર્વ તરફ).
+  - S ની જમણે પહેલો = R (નીચેની મધ્ય)
+  - S ની જમણે બીજો = Q (નીચેનો જમણો ખૂણો)
+  - S ની જમણે ત્રીજો = W (જમણી બાજુની મધ્ય)
+• S અને W વચ્ચે બરાબર ૨ વ્યક્તિઓ (R અને Q) બેસે છે.
+• તેથી W એ S ની જમણી બાજુએ ત્રીજા સ્થાને બેસે છે!
+• સાચો વિકલ્પ: [A] W!
+
+====================================================================
+MODULE 2: CIRCULAR SEATING ARRANGEMENT WITH MIXED FACING (IN & OUT)
+(વર્તુળાકાર બેઠક વ્યવસ્થા - અંદર અને બહાર મિશ્ર મુખ ધરાવતાં ૮ વ્યક્તિઓ)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Page 57)
+====================================================================
+
+[Question 13.6 - Verified IBPS RRB PO Prelims Model]:
+Puzzle Scenario:
+Eight persons — A, B, C, D, E, F, G, and H — sit around a circular table.
+Some of them face towards the center while some face away from the center (outside).
+Constraint: Not more than two adjacent persons face the same direction.
+
+Clues:
+1. B faces the center (inside).
+2. A sits third to the right of B.
+3. A faces the center (inside).
+4. C sits second to the left of A.
+5. Immediate neighbors of C face opposite directions.
+6. D sits opposite to E, and both face the same direction.
+7. F sits second to the right of D.
+8. G sits immediate left of B.
+9. H sits between D and F, and faces the center (inside).
+10. C faces the center (inside).
+
+Question:
+Who among the following sits third to the right of F?
+• ગુજરાતી પ્રશ્ન: નીચેનામાંથી કોણ F ની જમણી બાજુએ ત્રીજા (3rd to the right) સ્થાને બેસે છે?
+Options:
+[A] B
+[B] C
+[C] H
+[D] G
+[E] D
+
+Candidate Response: "didnt know" (Coaching & Step-by-Step Derivation Requested)
+Correct Answer: [B] C
+Mastery Status: 🎓 COMPREHENSIVE BILINGUAL CONCEPTUAL BREAKDOWN PROVIDED
+
+The Final Mastered 8-Person Circular Ring:
+(Clockwise order starting from Bottom / 6 o'clock):
+- Seat 0 (Bottom / 6 o'clock): B [Facing INSIDE]
+- Seat 1 (Bottom-Left): G [Facing OUTSIDE]
+- Seat 2 (Left / 9 o'clock): D [Facing OUTSIDE]
+- Seat 3 (Top-Left): H [Facing INSIDE]
+- Seat 4 (Top / 12 o'clock): F [Facing OUTSIDE]
+- Seat 5 (Top-Right): A [Facing INSIDE]
+- Seat 6 (Right / 3 o'clock): E [Facing OUTSIDE]
+- Seat 7 (Bottom-Right): C [Facing INSIDE]
+
+Summary of Facings:
+• Facing INSIDE (4 persons): B, H, A, C
+• Facing OUTSIDE (4 persons): G, D, F, E
+• Consecutive Check: No three adjacent persons face the same direction! Perfectly valid!
+
+Step-by-Step English Derivation:
+1. Fix B at Bottom (Seat 0), facing INSIDE.
+2. A sits 3rd to right of B: B faces inside $\to$ Right is Counter-Clockwise $\to$ Seat 5 (Top-Right) = A.
+3. A faces inside $\to$ Left is Clockwise $\to$ C sits 2nd to left of A $\to$ Seat 7 (Bottom-Right) = C.
+4. G sits immediate left of B: B faces inside $\to$ Left is Clockwise $\to$ Seat 1 (Bottom-Left) = G.
+5. D sits opposite E: Vacant diametric opposite pair is Seat 2 and Seat 6!
+6. H sits between D and F, and faces inside:
+   - Seat 3 is between Seat 2 and Seat 4.
+   - Therefore, Seat 3 = H, Seat 2 = D, Seat 4 = F, and Seat 6 = E!
+7. Determining Facings:
+   - Immediate neighbors of C (Seat 7) are B (Seat 0 - Inside) and E (Seat 6). Since they face opposite directions, E MUST face OUTSIDE.
+   - D faces same direction as E $\to$ D MUST face OUTSIDE.
+   - F sits 2nd to right of D: D (Seat 2) faces outside $\to$ Right is Clockwise (2 $\to$ 3 $\to$ 4) $\to$ matches F at Seat 4!
+   - Constraint "Not more than 2 adjacent face same direction":
+     * C (Inside) and B (Inside) are already 2 Inside $\to$ G (Seat 1) MUST face OUTSIDE!
+     * H (Inside) and A (Inside) $\to$ if F were Inside, H, F, A would be 3 Inside in a row! Thus, F MUST face OUTSIDE!
+8. Evaluating Question: "Third to the right of F":
+   - F sits at Top (Seat 4) facing OUTSIDE.
+   - Facing Outside: Right is CLOCKWISE!
+   - 1st to right = A (Seat 5)
+   - 2nd to right = E (Seat 6)
+   - 3rd to right = C (Seat 7)
+   - Correct Choice: [B] C!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+૧. શરૂઆત (Anchor): B ને નીચે (સ્થાન ૦) પર મૂકો (મુખ કેન્દ્ર તરફ/અંદર).
+૨. A એ B ની જમણે ત્રીજો છે: B અંદર જોતો હોવાથી જમણી બાજુ એટલે ઘડિયાળની વિરુદ્ધ દિશા (Counter-Clockwise) ➔ સ્થાન ૫ (ઉપર-જમણે) = A.
+૩. A અંદર જુએ છે: A ની ડાબી બાજુ એટલે ઘડિયાળની દિશા (Clockwise) ➔ સ્થાન ૭ (નીચે-જમણે) = C.
+૪. G એ B ની તરત ડાબે છે: B અંદર જુએ છે એટલે ડાબી બાજુ ઘડિયાળની દિશામાં સ્થાન ૧ (નીચે-ડાબે) = G.
+૫. D અને E સામસામે છે: ખાલી રહેલા સામસામેના સ્થાનો માત્ર સ્થાન ૨ (ડાબે) અને સ્થાન ૬ (જમણે) છે.
+૬. H એ D અને F ની વચ્ચે બેસે છે: સ્થાન ૩ એ સ્થાન ૨ અને સ્થાન ૪ ની વચ્ચે છે ➔ સ્થાન ૩ = H, સ્થાન ૨ = D, સ્થાન ૪ = F, અને સ્થાન ૬ = E!
+૭. મુખની દિશા નક્કી કરવી:
+   - C (સ્થાન ૭) ના પડોશી B (અંદર) અને E છે. શરત મુજબ પડોશી વિરુદ્ધ દિશામાં હોવાથી E બહાર જુએ છે.
+   - D અને E એક જ દિશામાં હોવાથી D પણ બહાર જુએ છે.
+   - 'સળંગ બે કરતાં વધુ એક દિશામાં નહીં' નિયમ મુજબ: C(અંદર) અને B(અંદર) પછી G બહાર જ જુએ. H(અંદર) અને A(અંદર) ની વચ્ચે F હોવાથી F બહાર જ જુએ!
+૮. પ્રશ્નનો ઉકેલ: "F ની જમણી બાજુએ ત્રીજો":
+   - F સ્થાન ૪ (ટોચ પર) છે અને બહાર (ઉત્તર તરફ) જુએ છે.
+   - બહાર જોતાં જમણી બાજુ એટલે ઘડિયાળની દિશા (Clockwise):
+     ૧st Right = A (સ્થાન ૫)
+     ૨nd Right = E (સ્થાન ૬)
+     ૩rd Right = C (સ્થાન ૭)
+   - સાચો વિકલ્પ: [B] C!
+
+--------------------------------------------------------------------
+[Question 13.7 - Verified IBPS RRB PO Prelims Model]:
+(Based on the same 8-Person Mixed-Facing Circular Arrangement)
+Question: How many persons in the given arrangement face away from the center (outside)?
+• ગુજરાતી પ્રશ્ન: આપેલી બેઠક વ્યવસ્થામાં કેટલા વ્યક્તિઓ કેન્દ્રથી બહાર (outside) જુએ છે?
+Options:
+[A] Two (બે)
+[B] Three (ત્રણ)
+[C] Four (ચાર)
+[D] Five (પાંચ)
+[E] Six (છ)
+Candidate Answer: [C] Four
+Correct Answer: [C] Four
+Result: ✅ 100% CORRECT (Mastered Facing Distribution in Mixed Ring!)
+
+Step-by-Step English Derivation:
+• Persons facing OUTSIDE (Away from center):
+  1. G (Seat 1 - Bottom-Left)
+  2. D (Seat 2 - Left)
+  3. F (Seat 4 - Top)
+  4. E (Seat 6 - Right)
+  Total facing outside = 4 persons!
+• Persons facing INSIDE (Towards center):
+  1. B (Seat 0 - Bottom)
+  2. H (Seat 3 - Top-Left)
+  3. A (Seat 5 - Top-Right)
+  4. C (Seat 7 - Bottom-Right)
+  Total facing inside = 4 persons!
+• Correct Choice: [C] Four!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• કેન્દ્રથી બહાર (Outside) મુખ ધરાવતાં વ્યક્તિઓ:
+  ૧. G (સ્થાન ૧ - નીચે-ડાબે)
+  ૨. D (સ્થાન ૨ - ડાબે)
+  ૩. F (સ્થાન ૪ - ટોચ પર)
+  ૪. E (સ્થાન ૬ - જમણે)
+  કુલ બહાર જોતાં વ્યક્તિઓ = ૪!
+• કેન્દ્ર તરફ (Inside) મુખ ધરાવતાં વ્યક્તિઓ:
+  ૧. B (સ્થાન ૦ - નીચે)
+  ૨. H (સ્થાન ૩ - ઉપર-ડાબે)
+  ૩. A (સ્થાન ૫ - ઉપર-જમણે)
+  ૪. C (સ્થાન ૭ - નીચે-જમણે)
+  કુલ અંદર જોતાં વ્યક્તિઓ = ૪!
+• સાચો વિકલ્પ: [C] Four!
+
+--------------------------------------------------------------------
+[Question 13.8 - Verified IBPS RRB PO Prelims Model]:
+(Based on the same 8-Person Mixed-Facing Circular Arrangement)
+Question: Who among the following sits immediate left of E?
+• ગુજરાતી પ્રશ્ન: નીચેનામાંથી કોણ E ની તરત ડાબી બાજુએ (immediate left of E) બેસે છે?
+Options:
+[A] C
+[B] A
+[C] B
+[D] F
+[E] H
+Candidate Answer: [B] A
+Correct Answer: [B] A
+Result: ✅ 100% CORRECT (Mastered Outside Facing on the Right Edge!)
+
+Step-by-Step English Derivation:
+• E sits at Seat 6 (Right side / 3 o'clock), facing OUTSIDE (looking East $\rightarrow$).
+• Facing Outside at the right edge:
+  - Moving Counter-Clockwise (Upward / North towards Seat 5) is LEFT!
+  - Moving Clockwise (Downward / South towards Seat 7) is RIGHT!
+• Seat 5 (Upward) is occupied by A.
+• Therefore, A sits to the IMMEDIATE LEFT of E!
+• Correct Choice: [B] A!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• E વર્તુળની જમણી બાજુ (સ્થાન ૬ / 3 o'clock) પર બેસે છે અને તેનું મુખ બહાર (પૂર્વ $\rightarrow$ તરફ) છે.
+• બહાર જોતાં ડાબી બાજુ એટલે ઘડિયાળની વિરુદ્ધ દિશા (Counter-Clockwise - ઉપર/ઉત્તર તરફ).
+• સ્થાન ૫ પર A બેઠો છે.
+• તેથી E ની તરત ડાબી બાજુએ A બેસે છે!
+• સાચો વિકલ્પ: [B] A!
+
+====================================================================
+MODULE 3: TRIANGULAR SEATING ARRANGEMENT (COMPLEX POLYGONS)
+(ત્રિકોણાકાર બેઠક વ્યવસ્થા - ૩ ખૂણાઓ અંદર અને ૩ બાજુઓની મધ્ય બહાર)
+Handbook: IBPS_RRB_PO_Booklet_2_Reasoning_Ability.pdf (Page 56)
+====================================================================
+
+[Question 13.9 - Verified IBPS RRB PO Prelims Model]:
+Puzzle Scenario:
+Six persons — P, Q, R, S, T, and U — sit around a triangular table.
+* Three persons sit at the three corners and face towards the center (inside).
+* Three persons sit at the middle of the three sides and face away from the center (outside).
+
+Clues:
+1. P sits at one of the corners of the table.
+2. Q sits second to the right of P.
+3. R sits at the middle of one of the sides, but is not an immediate neighbor of Q.
+4. S sits immediate right of R.
+5. T sits second to the right of U.
+
+Question:
+Who among the following sits opposite to P (at the middle of the side opposite to P)?
+• ગુજરાતી પ્રશ્ન: નીચેનામાંથી કોણ P ની બરાબર સામે (P ની સામેની બાજુની મધ્યમાં) બેસે છે?
+Options:
+[A] Q
+[B] S
+[C] U
+[D] T
+[E] R
+Candidate Answer: [E] R (Candidate placed R at bottom middle and Q at right side middle in uploaded sketch)
+Correct Answer: [C] U
+Result: ❌ TRAP TRIGGERED ('Corner 2-Step Parity Trap' + 'Top Corner Facing Inside Inversion')
+
+Candidate's Drawing Analysis & Core Misconceptions Clarified:
+1. The Alternate Parity Law (Corner $\to$ Side $\to$ Corner $\to$ Side):
+   - In a 6-person triangular table, positions alternate continuously:
+     Corner $\to$ Side Middle $\to$ Corner $\to$ Side Middle $\to$ Corner $\to$ Side Middle.
+   - If P is at a CORNER:
+     * 1 step away (Immediate) is a SIDE MIDDLE.
+     * 2 steps away (Second) MUST ALWAYS BE ANOTHER CORNER!
+   - In candidate's sketch, Q was placed at a side middle (1 step away from P). That violates "Q sits second to the right of P". Q MUST be at a Corner!
+2. Top Corner Facing Inside Direction:
+   - P sits at the Top Corner, looking INSIDE (downwards $\downarrow$ into center).
+   - Place yourself looking down $\downarrow$:
+     * Your RIGHT hand points to the LEFT side of the paper (Counter-Clockwise)!
+     * Step 1 to right = Left Side Middle
+     * Step 2 to right = Bottom-Left Corner!
+   - Therefore, Q MUST sit at the Bottom-Left Corner!
+3. Placing R, S, T, and U:
+   - R is at a side middle, and cannot be adjacent to Q (Bottom-Left Corner touches Left Side and Bottom Side).
+   - Thus, R MUST be at the Right Side Middle!
+   - S sits immediate right of R: R faces outside $\to$ Clockwise is Right $\to$ S is at Bottom-Right Corner!
+   - T sits 2nd to right of U: U is at Bottom Side Middle (faces outside) $\to$ Clockwise is Right $\to$ T is at Left Side Middle!
+4. The Master Triangular Layout:
+                       [P] (Top Corner - Inside ⬇)
+                      /   \
+  [T] (Left Side - Outside ↖)   [R] (Right Side - Outside ↗)
+                    /       \
+[Q] (Bottom-Left - Inside ↗)---[U]---[S] (Bottom-Right - Inside ↖)
+                      (Bottom Side - Outside ⬇)
+5. Finding who sits opposite to P:
+   - P is at the Top Corner.
+   - Exactly opposite to P is the Bottom Side Middle, which is occupied by U!
+   - Correct Choice: [C] U!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી અને ડ્રોઈંગ સુધારો:
+૧. એકાંતરીય નિયમ (The Alternate Parity Law):
+   - ૬ વ્યક્તિઓના ત્રિકોણમાં સ્થાન વારાફરતી આવે છે: ખૂણો ➔ બાજુ ➔ ખૂણો ➔ બાજુ ➔ ખૂણો ➔ બાજુ.
+   - જો P ખૂણા પર બેઠો હોય:
+     * ૧ પગલું દૂર (તરત પડોશી) = બાજુની મધ્ય.
+     * ૨ પગલાં દૂર (બીજો) = હંમેશા બીજો ખૂણો જ આવે!
+   - ઉમેદવારના સ્કેચમાં Q બાજુની મધ્યમાં મૂકાયો હતો. શરત મુજબ "Q એ P ની જમણે બીજો છે", તેથી Q ખૂણા પર જ આવવો જોઈએ!
+૨. ટોચના ખૂણે અંદર જોતાં દિશા:
+   - P ટોચના ખૂણેથી અંદર (નીચે $\downarrow$ કેન્દ્ર તરફ) જુએ છે.
+   - નીચે જોતાં જમણો હાથ સ્ક્રીનની ડાબી બાજુ (Counter-Clockwise) જાય.
+     * ૧st Right = ડાબી બાજુની મધ્ય.
+     * ૨nd Right = નીચેનો ડાબો ખૂણો (Bottom-Left Corner)!
+   - તેથી Q નીચેના ડાબા ખૂણે જ બેસશે!
+૩. બાકીના સ્થાનો:
+   - R બાજુની મધ્યમાં છે અને Q નો પડોશી નથી. નીચેના ડાબા ખૂણાને ડાબી બાજુ અને નીચેની બાજુ અડે છે, તેથી R જમણી બાજુની મધ્યમાં જ આવશે.
+   - R ની તરત જમણે S આવે ➔ S નીચેના જમણા ખૂણે આવશે.
+   - U નીચેની બાજુની મધ્યમાં અને T ડાબી બાજુની મધ્યમાં આવશે (T એ U ની જમણે બીજો છે).
+૪. P ની સામે કોણ છે?
+   - ટોચના ખૂણા P ની બરાબર સામે નીચેની બાજુની મધ્યમાં U બેઠો છે!
+   - સાચો વિકલ્પ: [C] U!
+
+--------------------------------------------------------------------
+[Question 13.10 - Verified IBPS RRB PO Prelims Model]:
+(Based on the same Triangular Table Arrangement)
+Question: What is the position of T with respect to P?
+• ગુજરાતી પ્રશ્ન: P ની સાપેક્ષે T નું સ્થાન શું છે?
+Options:
+[A] Immediate left (તરત ડાબે)
+[B] Second to the right (જમણે બીજો)
+[C] Immediate right (તરત જમણે)
+[D] Second to the left (ડાબે બીજો)
+[E] Third to the right (જમણે ત્રીજો)
+Candidate Answer: [C] Immediate right
+Correct Answer: [C] Immediate right
+Result: ✅ 100% CORRECT (Mastered Triangular Corner Inside Navigation!)
+
+Step-by-Step English Derivation:
+• P sits at the Top Corner, facing INSIDE (downwards $\downarrow$ into the triangle).
+• Looking downwards $\downarrow$:
+  - Moving to the Left side of the paper (Counter-Clockwise) is your RIGHT hand!
+  - Moving to the Right side of the paper (Clockwise) is your LEFT hand!
+• T is at the Left Side Middle, sitting directly adjacent to P (distance = 1 step).
+• Therefore, T sits to the IMMEDIATE RIGHT of P!
+• Correct Choice: [C] Immediate right!
+
+પદ્ધતિસર ગુજરાતી સમજૂતી:
+• P ઉપરના ખૂણે બેસે છે અને તેનું મુખ અંદર (નીચે $\downarrow$ કેન્દ્ર તરફ) છે.
+• નીચે તરફ જોતાં:
+  - સ્ક્રીનની ડાબી બાજુ (Counter-Clockwise) તમારો જમણો હાથ (RIGHT) રહે છે.
+  - સ્ક્રીનની જમણી બાજુ (Clockwise) તમારો ડાબો હાથ (LEFT) રહે છે.
+• T ડાબી બાજુની મધ્યમાં છે (P ની બિલકુલ અડીને, અંતર = ૧ પગલું).
+• તેથી T એ P ની તરત જમણી બાજુએ (Immediate right) બેસે છે!
+• સાચો વિકલ્પ: [C] Immediate right!
+
+====================================================================
+4. CHAPTER 13 SPEED BLITZ (60-SECOND RAPID FIRE EXAM DRILL)
+--------------------------------------------------------------------
+Blitz Q1 (Square Table Distance Rule):
+In an 8-person square table (4 corners inside, 4 middles outside), how many persons sit between a Corner person and the diagonally opposite Corner person along either side?
+• ગુજરાતી પ્રશ્ન: ૮ વ્યક્તિઓના ચોરસ ટેબલમાં (૪ ખૂણા અંદર, ૪ મધ્ય બહાર), કોઈપણ એક ખૂણાના વ્યક્તિ અને તેની બરાબર સામે ત્રાંસા ખૂણે બેઠેલ વ્યક્તિ વચ્ચે બંને બાજુએથી કેટલા વ્યક્તિઓ બેસે છે?
+Options:
+[A] One (૧)
+[B] Two (૨)
+[C] Three (૩)
+[D] Four (૪)
+[E] Zero (૦)
+
+Blitz Q2 (Circular Mixed-Facing Navigation Law):
+In an 8-person circular table with mixed facing: Person X sits facing OUTSIDE. Person Y sits third to the right of X. In which direction must one count along the circumference from X to reach Y in 3 steps?
+• ગુજરાતી પ્રશ્ન: ૮ વ્યક્તિઓના મિશ્ર મુખ ધરાવતા વર્તુળમાં: વ્યક્તિ X બહાર (Outside) મુખ ધરાવે છે. વ્યક્તિ Y એ X ની જમણી બાજુએ ત્રીજા સ્થાને બેસે છે. તો X થી Y સુધી ૩ પગલાં પહોંચવા માટે વર્તુળ પર કઈ દિશામાં ગણતરી કરવી પડે?
+Options:
+[A] Counter-Clockwise (ઘડિયાળની વિરુદ્ધ દિશા)
+[B] Clockwise (ઘડિયાળની દિશા)
+[C] Opposite direction (સામસામે)
+[D] Towards the center (કેન્દ્ર તરફ)
+[E] Cannot be determined (નક્કી ન થઈ શકે)
+
+Blitz Q3 (Triangular Table Alternate Parity Law):
+Six persons sit around a triangular table (3 at corners facing inside, 3 at middle of sides facing outside). If Person Z sits at one of the corners, what type of seat does the person sitting 'third to the left of Z' occupy?
+• ગુજરાતી પ્રશ્ન: છ વ્યક્તિઓ ત્રિકોણાકાર ટેબલની ફરતે બેસે છે (૩ ખૂણા પર અંદર મુખ, ૩ બાજુઓની મધ્યમાં બહાર મુખ). જો વ્યક્તિ Z કોઈ એક ખૂણા પર બેસે, તો 'Z ની ડાબી બાજુએ ત્રીજા સ્થાને' બેસનાર વ્યક્તિ કયા પ્રકારના સ્થાને બેઠો હશે?
+Options:
+[A] Corner of the table (ટેબલનો કોઈ એક ખૂણો)
+[B] Middle of the side opposite to Z (Z ની બરાબર સામેની બાજુની મધ્ય)
+[C] Same seat as Z (Z ની પોતાની જગ્યા)
+[D] Diagonally adjacent corner (ત્રાંસો ખૂણો)
+[E] Cannot be determined (નક્કી ન થઈ શકે)
+
+--------------------------------------------------------------------
+SPEED BLITZ EVALUATION & CANDIDATE BREAKDOWN:
+• Blitz Q1 (Square Table Distance Rule):
+  Candidate Answer: [C] Three (૩)
+  Result: ✅ 100% CORRECT!
+  English Analysis: In any 8-person symmetric arrangement, diametrically opposite persons have exactly (8 - 2) / 2 = 3 persons between them along either side!
+  ગુજરાતી વિશ્લેષણ: ૮ વ્યક્તિઓના ટેબલમાં કોઈપણ બે સામસામે બેઠેલા વ્યક્તિઓ વચ્ચે બંને બાજુએથી બરાબર (૮ - ૨) / ૨ = ૩ વ્યક્તિઓ જ બેસે છે! જવાબ [C] Three!
+
+• Blitz Q2 (Circular Mixed-Facing Navigation Law):
+  Candidate Answer: [B] Clockwise (ઘડિયાળની દિશા)
+  Result: ✅ 100% CORRECT!
+  English Analysis: When a person faces OUTSIDE (away from center), RIGHT is ALWAYS Clockwise, and LEFT is Counter-Clockwise. Moving to the right of X means walking Clockwise!
+  ગુજરાતી વિશ્લેષણ: જ્યારે વ્યક્તિ કેન્દ્રથી બહાર (Outside) મુખ ધરાવે, ત્યારે જમણી બાજુ (Right) હંમેશા ઘડિયાળની દિશા (Clockwise) માં જ ગણાય છે! જવાબ [B] Clockwise!
+
+• Blitz Q3 (Triangular Table Alternate Parity Law):
+  Candidate Answer: [B] Middle of the side opposite to Z
+  Result: ✅ 100% CORRECT!
+  English Analysis: Positions alternate: Corner (0) -> Side (1) -> Corner (2) -> Side (3). Step 3 lands on a Side Middle directly opposite to Corner Z!
+  ગુજરાતી વિશ્લેષણ: ત્રિકોણમાં સ્થાનો વારાફરતી આવે છે: ખૂણો (૦) ➔ બાજુ (૧) ➔ ખૂણો (૨) ➔ બાજુ (૩). ૩ પગલાં ગણતાં ખૂણા Z ની બરાબર સામેની બાજુની મધ્ય જ આવે! જવાબ [B] Middle of the side opposite to Z!
+
+FINAL SCORE: 3/3 (100% ACCURACY UNDER 60 SECONDS)
+OFFICIAL STATUS: 🏆 100% EXAM READY!
+
+====================================================================
+🔥 CANDIDATE SPECIAL REVISION DOSSIER (પરીક્ષા પહેલા પુનરાવર્તન માટે ખાસ)
+--------------------------------------------------------------------
+આ પ્રકરણ હિતેન્દ્રસિંહ માટે વિશેષ પુનરાવર્તન (Hard / High-Priority Review) તરીકે ચિહ્નિત થયેલ છે.
+પરીક્ષાના દિવસે સવારે રિવિઝન કરવા માટેના ટોચના ૪ નિયમો:
+
+૧. ઘડિયાળનો અચૂક નિયમ (The Universal Clock Rule):
+   - મુખ અંદર (Inside): Right = Counter-Clockwise | Left = Clockwise
+   - મુખ બહાર (Outside): Right = Clockwise | Left = Counter-Clockwise
+   (કોઈપણ ટેબલ હોય — ચોરસ, વર્તુળ કે ત્રિકોણ — આ નિયમ ક્યારેય બદલાતો નથી!)
+
+૨. અંતરની ગણતરી (Step Zero Rule):
+   - જે વ્યક્તિની સાપેક્ષે ગણતરી થાય (દા.ત. "P ની સાપેક્ષે") તે સ્થાન ૦ (Zero) હોય.
+   - ૧ પગલું દૂર (વચ્ચે ૦ વ્યક્તિ) = IMMEDIATE (તરત)
+   - ૨ પગલાં દૂર (વચ્ચે ૧ વ્યક્તિ) = SECOND (બીજો)
+   - ક્યારેય મૂળ વ્યક્તિને ૧ ગણીને પડોશીને ૨ (બીજો) ન કહેવો!
+
+૩. ત્રિકોણનો એકાંતરીય કાયદો (Alternate Parity Law):
+   - ૬ વ્યક્તિઓના ત્રિકોણમાં ખૂણા અને બાજુ વારાફરતી આવે છે.
+   - જો P ખૂણા પર હોય, તો ૨ પગલાં દૂર (બીજો) હંમેશા બીજો ખૂણો જ આવે, ક્યારેય બાજુ ન આવે!
+
+૪. સામસામે બેસવાની સંખ્યા:
+   - ૮ વ્યક્તિઓના ટેબલમાં સામસામે બેઠેલા વચ્ચે ૩ લોકો હોય છે.
+   - ૬ વ્યક્તિઓના ત્રિકોણમાં દરેક ખૂણાની બરાબર સામે એક બાજુની મધ્ય આવે છે.
+====================================================================
