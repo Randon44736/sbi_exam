@@ -368,20 +368,27 @@ $$(23.98)^2 - (19.98)^2 + 45.02\% \text{ of } 399.95 - \sqrt{575.92} = ?$$
 ---
 
 ### ❓ QUESTION 5 ON THIS ARRANGEMENT (ODD-MAN-OUT):
-**Four of the following five are alike in a certain way and so form a group. Which one does not belong to that group?**
+**Four of the following five are alike in a certain way based on their seating positions and so form a group. Which one does not belong to that group?**
 - **Options:** [A] B | [B] E | [C] F | [D] A | [E] C
 - **Candidate Choice:** [C] F ✅ **(100% CORRECT!)**
-- **Reason:** B, E, A, C એ ચારેય **ખૂણા (Corners)** પર બેઠા છે અને **બહાર (OUT)** જુએ છે, જ્યારે **F બાજુની વચ્ચે (Middle of Side)** બેઠો છે અને **અંદર (IN)** જુએ છે!
-- **Result:** કોર્નર વિ. સાઈડ અને અંદર વિ. બહારનું વિભાજન ૧૦૦% સ્પષ્ટ થઈ ગયું!
+- **Reason:** B, E, A, C ચારેય **ખૂણા (Corners)** પર બેઠા છે અને બહાર જુએ છે, જ્યારે **F બાજુની વચ્ચે (Middle of Side)** બેઠો છે અને અંદર જુએ છે!
+- **Score:** $+1.00$ Mark!
 
 ---
 
-## 📈 CHAPTER TRACKER: SQUARE SEATING (PRACTICE PHASE)
+## 📈 CHAPTER TRACKER: SQUARE SEATING (SET 1 COMPLETED)
 - **Total Questions Attempted:** 5
-- **Correct:** 3 (છેલ્લા ૩ સતત ૧૦૦% સાચા!)
-- **Incorrect:** 2
-- **Skipped:** 0
-- **Accuracy:** 60.0%
-- **Net Marks:** $+2.50$ (Mock 1 માં +1.25 હતો, તેમાં સીધો ડબલ સ્કોર થઈ ગયો!)
+- **Correct Answers:** 3 (છેલ્લા ૩ પ્રશ્નો સતત ૧૦૦% સાચા: Q3, Q4, Q5!)
+- **Incorrect Answers:** 2 (શરૂઆતના Q1, Q2 માં નિયમો શીખ્યા)
+- **Net Score:** $+2.50$ Marks
+
+---
+
+## 🧩 CHAPTER 2: FRESH PRACTICE PUZZLE (RETEST WITH REVERSED RULES)
+**નવો નિયમ:**
+- **ખૂણાવાળા ૪ વ્યક્તિ (4 Corners):** ટેબલની **અંદર (INSIDE)** જુએ છે.
+- **બાજુઓવાળા ૪ વ્યક્તિ (4 Sides):** ટેબલની **બહાર (OUTSIDE)** જુએ છે.
+*(સંપૂર્ણ નવી કસોટી - રફ પેપર પર જાતે દોરીને સોલ્વ કરો!)*
+
 
 
