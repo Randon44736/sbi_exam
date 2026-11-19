@@ -155,10 +155,23 @@ $$24.98\% \text{ of } 479.91 + (15.98)^2 \div 7.95 - 19.95 \times 2.05 = ?$$
 
 ---
 
+### Question 4:
+$$19.98\% \text{ of } 250.05 + 12.02 \times 5.03 - \sqrt{440.95} = ?$$
+- **Options:** [A] 79 | [B] 89 | [C] 99 | [D] 105 | [E] 115
+- **Candidate Choice:** [B] 89 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - ટાપુ ૧: $250 \times 20 / 100 = 50$
+  - ટાપુ ૨: $12 \times 5 = 60$
+  - ટાપુ ૩: $\sqrt{441} = 21$ ($21 \times 21 = 441$)
+  - અંતિમ સરવાળો-બાદબાકી: $50 + 60 - 21 = 50 + 39 = \mathbf{89}$ (Option [B])!
+- **Result:** ૩ ટાપુઓનો નિયમ સફળતાપૂર્વક લાગુ થયો! ક્યાંય છેદની ગડબડ ન થઈ.
+
+---
+
 ## 📈 CHAPTER TRACKER: APPROXIMATION
-- **Total Questions Attempted:** 3
-- **Correct:** 1
+- **Total Questions Attempted:** 4
+- **Correct:** 2
 - **Incorrect:** 2
 - **Skipped:** 0
-- **Accuracy:** 33.3%
-- **Net Score:** $+0.50$ marks
+- **Accuracy:** 50.0%
+- **Net Score:** $+1.50$ marks
