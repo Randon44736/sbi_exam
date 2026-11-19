@@ -528,13 +528,25 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
+### Question 4:
+**The number of laptops manufactured by Dell in March is what percentage of the number of laptops manufactured by HP in April?**
+- **Options:** [A] 75% | [B] 80% | [C] 83.33% | [D] 87.5% | [E] 90%
+- **Candidate Choice:** [C] 83.33% ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - Dell (March) = $50$
+  - HP (April) = $60$
+  - $\frac{50}{60} = \frac{5}{6} = \mathbf{83.33\%}$!
+- **Score:** $+1.00$ Mark! "% of" અને "% more than" વચ્ચેનો તફાવત ૧૦૦% સ્પષ્ટ થઈ ગયો.
+
+---
+
 ## 📈 CHAPTER TRACKER: DATA INTERPRETATION
-- **Total Questions Attempted:** 3
-- **Correct:** 3
+- **Total Questions Attempted:** 4
+- **Correct:** 4
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+3.00$
+- **Net Marks:** $+4.00$ (૪ માંથી ૪ સળંગ સાચા!)
 
 
 
