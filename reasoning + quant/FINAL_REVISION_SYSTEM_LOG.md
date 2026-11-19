@@ -367,11 +367,21 @@ $$(23.98)^2 - (19.98)^2 + 45.02\% \text{ of } 399.95 - \sqrt{575.92} = ?$$
 
 ---
 
-## 📈 CHAPTER TRACKER: SQUARE SEATING ARRANGEMENT
-- **Total Questions Attempted:** 4
-- **Correct:** 2
+### ❓ QUESTION 5 ON THIS ARRANGEMENT (ODD-MAN-OUT):
+**Four of the following five are alike in a certain way and so form a group. Which one does not belong to that group?**
+- **Options:** [A] B | [B] E | [C] F | [D] A | [E] C
+- **Candidate Choice:** [C] F ✅ **(100% CORRECT!)**
+- **Reason:** B, E, A, C એ ચારેય **ખૂણા (Corners)** પર બેઠા છે અને **બહાર (OUT)** જુએ છે, જ્યારે **F બાજુની વચ્ચે (Middle of Side)** બેઠો છે અને **અંદર (IN)** જુએ છે!
+- **Result:** કોર્નર વિ. સાઈડ અને અંદર વિ. બહારનું વિભાજન ૧૦૦% સ્પષ્ટ થઈ ગયું!
+
+---
+
+## 📈 CHAPTER TRACKER: SQUARE SEATING (PRACTICE PHASE)
+- **Total Questions Attempted:** 5
+- **Correct:** 3 (છેલ્લા ૩ સતત ૧૦૦% સાચા!)
 - **Incorrect:** 2
 - **Skipped:** 0
-- **Accuracy:** 50.0% (છેલ્લા ૨ પ્રશ્નો સતત ૧૦૦% સાચા!)
+- **Accuracy:** 60.0%
+- **Net Marks:** $+2.50$ (Mock 1 માં +1.25 હતો, તેમાં સીધો ડબલ સ્કોર થઈ ગયો!)
 
 
