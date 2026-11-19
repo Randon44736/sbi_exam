@@ -201,3 +201,16 @@ $$12.49\% \text{ of } 639.92 + 23.98 \times 11.95 - (14.98)^2 = ?$$
   - $80 + 288 = 368$
   - $368 - 225 = \mathbf{143}$ (Option [B])
 - **Score:** $+1.00$ Mark! Perfect execution of $12.5\% = \frac{1}{8}$.
+
+---
+
+### Timed Test Q2:
+$$\sqrt{1023.92} \times 4.98 - 37.52\% \text{ of } 319.95 + 144.05 \div 11.98 = ?$$
+- **Options:** [A] 42 | [B] 52 | [C] 64 | [D] 72 | [E] 84
+- **Candidate Choice:** [B] 52 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - ટાપુ ૧: $\sqrt{1024} \times 5 = 32 \times 5 = 160$
+  - ટાપુ ૨: $37.5\% \text{ of } 320 = \frac{3}{8} \times 320 = 120$
+  - ટાપુ ૩: $144 \div 12 = 12$
+  - અંતિમ સાદુરૂપ: $160 - 120 + 12 = 40 + 12 = \mathbf{52}$ (Option [B])!
+- **Score:** $+1.00$ Mark! Perfect mastery over $\sqrt{1024}$ and $37.5\%$.
