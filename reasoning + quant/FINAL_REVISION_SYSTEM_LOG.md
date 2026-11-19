@@ -517,13 +517,24 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
+### Question 3:
+**What is the average number of laptops manufactured by HP per month across all four months (January to April)?**
+- **Options:** [A] 4,875 | [B] 5,050 | [C] 5,125 | [D] 5,250 | [E] 5,375
+- **Candidate Choice:** [C] 5,125 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - સરવાળો = $(30 + 70) + (45 + 60) = 100 + 105 = 205$
+  - સરેરાશ = $205 \div 4 = 51.25$ hundreds $\implies \mathbf{5,125}$ (Option [C])!
+- **Score:** $+1.00$ Mark! મોક ૧ માં સ્કીપ થયેલો સરેરાશનો દાખલો ઝડપી સરવાળાથી સોલ્વ કર્યો.
+
+---
+
 ## 📈 CHAPTER TRACKER: DATA INTERPRETATION
-- **Total Questions Attempted:** 2
-- **Correct:** 2
+- **Total Questions Attempted:** 3
+- **Correct:** 3
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+2.00$
+- **Net Marks:** $+3.00$
 
 
 
