@@ -722,13 +722,55 @@ $$4, \quad 6, \quad 15, \quad 49, \quad 205, \quad 1011$$
 
 ---
 
-## 📈 CHAPTER TRACKER: QUADRATIC & NUMBER SERIES
-- **Total Questions Attempted:** 4
-- **Correct:** 4
-- **Incorrect:** 0
-- **Skipped:** 0
-- **Accuracy:** 100.0%
-- **Net Marks:** $+4.00$ (૪ માંથી ૪ સળંગ સાચા!)
+### Question 5 (Both Constants Negative CND Trick):
+$$\text{I. } x^2 - 7x - 60 = 0$$
+$$\text{II. } y^2 + 3y - 40 = 0$$
+- **Options:** [A] $x > y$ | [B] $x < y$ | [C] $x \ge y$ | [D] $x \le y$ | [E] CND
+- **Candidate Choice:** [E] CND ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - સમીકરણ I નું છેલ્લું પદ: $-60$ (ઋણ)
+  - સમીકરણ II નું છેલ્લું પદ: $-40$ (ઋણ)
+  - બંને અચળ પદ ઋણ હોવાથી મૂળ હંમેશા વિરોધાભાસી $(+ , -)$ આવે $\implies \mathbf{\text{Option [E] CND!}}$
+- **Score:** $+1.00$ Mark! શૂન્ય પેન પદ્ધતિથી માત્ર ૧ સેકન્ડમાં સાચો જવાબ આપ્યો.
+
+---
+
+## 🏆 CHAPTER 5: FINAL MASTERY PERFORMANCE REPORT (QUADRATIC & NUMBER SERIES)
+
+| Metric | Mock #01 Baseline | Practice Set (5 Qs) | Final Chapter Status |
+| :--- | :---: | :---: | :--- |
+| **Questions Attempted** | 10 (Quad + Series) | 5 / 5 | **5 / 5 Attempted** |
+| **Correct Answers** | 6 | 5 | **5 / 5 CLEAN SWEEP (100%)!** 🎯 |
+| **Incorrect Answers** | 2 | 0 | **Zero Errors!** |
+| **Skipped Questions** | 2 | 0 | **Zero Skips!** |
+| **Accuracy Rate** | 60.0% | **100.0%** | **સંપૂર્ણ માસ્ટરી અને ૧-સેકન્ડ સ્પીડ!** |
+| **Net Score Impact** | **$+5.50$** | **$+5.00$** | **Net $+5.00$ Marks Created!** 🚀 |
+| **Core Tricks Mastered** | ❌ ટ્રેપ્સમાં અટવાયા | 🏆 **Root Sign, Sign Test, Decimal Half, Wrong Number, CND** | **OFFICIALLY COMPLETED & EXAM READY!** |
+
+---
+
+## 🏛️ QUANTITATIVE APTITUDE: GRAND SYLLABUS CONQUERED SCORECARD
+
+```
+═══════════════════════════════════════════════════════════════════════════════════
+        HITENDRASINH SOLANKI — QUANTITATIVE APTITUDE GRAND TOTAL
+═══════════════════════════════════════════════════════════════════════════════════
+ 1. Approximation & Speed Math  : 3 / 3 in Timed Test (100% Accuracy) ── 🏆 CONQUERED
+ 2. Line Graph & Table DI       : 5 / 5 Clean Sweep  (100% Accuracy) ── 🏆 CONQUERED
+ 3. Core Arithmetic Selection   : 5 / 5 Clean Sweep  (100% Accuracy) ── 🏆 CONQUERED
+ 4. Quadratic & Number Series   : 5 / 5 Clean Sweep  (100% Accuracy) ── 🏆 CONQUERED
+ ─────────────────────────────────────────────────────────────────────────────────
+ TOTAL REVISION SPRINT SCORE    : 18 / 18 QUESTIONS CORRECT (100% ACCURACY!)
+ PROJECTED EXAM ROOM SCORE      : 32.00+ / 40.00 in 20 Minutes! (Massive Leap from 17.50)
+═══════════════════════════════════════════════════════════════════════════════════
+```
+
+---
+
+## 🧠 MOVING TO REASONING PRIORITY 2: DESIGNATION PUZZLES (HIERARCHY LADDER)
+- **Mock #01 Baseline:** 2 / 5 (+1.25 Net Marks | 6m 09s)
+- **મુખ્ય ભૂલ:** GM થી Peon/Clerk સુધીની સીનિયોરિટી સીડી ઊંધી ગોઠવાઈ ગઈ હતી.
+
 
 
 
