@@ -600,13 +600,24 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
+### Question 2 (Profit & Loss Shift Method):
+**A shopkeeper sold a watch at a loss of $12\%$. If he had sold it for Rs. $240$ more, he would have gained $8\%$. What is the cost price (CP) of the watch?**
+- **Options:** [A] Rs. 1,000 | [B] Rs. 1,200 | [C] Rs. 1,400 | [D] Rs. 1,500 | [E] Rs. 1,600
+- **Candidate Choice:** [B] Rs. 1,200 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - ટકાવારી શિફ્ટ (Loss to Profit) = $12\% + 8\% = 20\%$
+  - $20\% = 240 \implies 100\% = 240 \times 5 = \mathbf{\text{Rs. } 1,200}$ (Option [B])!
+- **Score:** $+1.00$ Mark! મોક ૧ માં ૨ મિનિટ બગાડીને સ્કીપ થયેલો દાખલો માત્ર ૧૫ સેકન્ડમાં સોલ્વ થઈ ગયો.
+
+---
+
 ## 📈 CHAPTER TRACKER: CORE ARITHMETIC
-- **Total Questions Attempted:** 1
-- **Correct:** 1
+- **Total Questions Attempted:** 2
+- **Correct:** 2
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+1.00$
+- **Net Marks:** $+2.00$
 
 
 
