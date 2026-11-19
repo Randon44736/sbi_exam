@@ -168,10 +168,23 @@ $$19.98\% \text{ of } 250.05 + 12.02 \times 5.03 - \sqrt{440.95} = ?$$
 
 ---
 
-## 📈 CHAPTER TRACKER: APPROXIMATION
-- **Total Questions Attempted:** 4
-- **Correct:** 2
+### Question 5:
+$$16.66\% \text{ of } 539.92 + 180.05 \div 5.98 \times 3.99 - (11.98)^2 = ?$$
+- **Options:** [A] 54 | [B] 66 | [C] 78 | [D] 84 | [E] 96
+- **Candidate Choice:** [B] 66 ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - ટાપુ ૧: $16.66\% = \frac{1}{6} \implies 540 \div 6 = \mathbf{90}$
+  - ટાપુ ૨: $180 \div 6 \times 4 = 30 \times 4 = \mathbf{120}$
+  - ટાપુ ૩: $12^2 = \mathbf{144}$
+  - અંતિમ ગણતરી: $90 + 120 - 144 = 210 - 144 = \mathbf{66}$ (Option [B])!
+- **Result:** મોક ૧ ના Q1 ($16.66\%$) અને Q5 (ભાગાકાર સાંકળ) બંનેની નબળાઈઓ એક જ દાખલામાં સફળતાપૂર્વક દૂર થઈ ગઈ!
+
+---
+
+## 📈 CHAPTER TRACKER: APPROXIMATION (PRACTICE PHASE)
+- **Total Questions Attempted:** 5
+- **Correct:** 3
 - **Incorrect:** 2
 - **Skipped:** 0
-- **Accuracy:** 50.0%
-- **Net Score:** $+1.50$ marks
+- **Accuracy:** 60.0%
+- **Net Score:** $+2.50$ marks (Mock 1 ના $-0.25$ થી સીધો **+2.75 માર્ક્સનો સુધારો!**)
