@@ -540,13 +540,36 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
-## 📈 CHAPTER TRACKER: DATA INTERPRETATION
-- **Total Questions Attempted:** 4
-- **Correct:** 4
-- **Incorrect:** 0
-- **Skipped:** 0
-- **Accuracy:** 100.0%
-- **Net Marks:** $+4.00$ (૪ માંથી ૪ સળંગ સાચા!)
+### Question 5:
+**In May, if the number of laptops manufactured by Dell is $20\%$ more than April, and the number of laptops manufactured by HP is $20\%$ more than February, what is the total number of laptops manufactured by Dell and HP together in May?**
+- **Options:** [A] 13,800 | [B] 14,200 | [C] 14,400 | [D] 14,800 | [E] 15,200
+- **Candidate Choice:** [C] 14,400 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - Dell (May) = $75 + 15 = 90$ hundreds ($9,000$)
+  - HP (May) = $45 + 9 = 54$ hundreds ($5,400$)
+  - સરવાળો = $90 + 54 = 144$ hundreds $\implies \mathbf{14,400}$ (Option [C])!
+- **Score:** $+1.00$ Mark! ફ્યુચર ડેટા વાળો શરતી પ્રશ્ન પણ ૧૦૦% સાચો સોલ્વ કર્યો.
+
+---
+
+## 🏆 CHAPTER 3: FINAL MASTERY PERFORMANCE REPORT (DATA INTERPRETATION)
+
+| Metric | Mock #01 Baseline | Practice Set (5 Qs) | Final Chapter Status |
+| :--- | :---: | :---: | :--- |
+| **Questions Attempted** | 10 (Line + Table) | 5 | **5 / 5 Attempted** |
+| **Correct Answers** | 5 | 5 | **5 / 5 CLEAN SWEEP (100%)!** 🎯 |
+| **Incorrect Answers** | 3 | 0 | **Zero Errors!** |
+| **Skipped Questions** | 2 | 0 | **Zero Skips!** |
+| **Accuracy Rate** | 50.0% | **100.0%** | **Flawless Speed & Accuracy!** |
+| **Net Score Impact** | **$+4.25$** | **$+5.00$** | **Net $+5.00$ Marks Created!** 🚀 |
+| **Chapter Verdict** | ❌ 17 Mins Wasted | 🏆 **100% Speed Mastered** | **OFFICIALLY COMPLETED & EXAM READY!** |
+
+---
+
+## ⚡ NEXT QUANT CHAPTER: CHAPTER 4 — CORE ARITHMETIC STRATEGY & SELECTION
+- **Baseline in Mock 1:** 4 / 10 (4 correct, 2 wrong, 4 skipped | 15m 38s)
+- **Exam Rule:** RRB PO માં ૧૦ એ ૧૦ એરિથમેટિક કરવાના નથી હોતા. સૌથી સરળ ૪-૫ પ્રશ્નો (Ages, Ratio, Profit-Loss, CI Doubling, Trains) ચૂંટીને ૩૫-૪૦ સેકન્ડમાં પૂરા કરવાના હોય છે!
+
 
 
 
