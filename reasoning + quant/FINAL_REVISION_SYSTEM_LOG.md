@@ -622,24 +622,39 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
-### Question 4 (Price & Consumption Ladder):
-**If the price of petrol increases by $33.33\%$, by what percentage must a car owner reduce his consumption of petrol so that his total expenditure on petrol remains unchanged?**
-- **Options:** [A] 20% | [B] 25% | [C] 30% | [D] 33.33% | [E] 16.66%
-- **Candidate Choice:** [B] 25% ✅ **(100% CORRECT!)**
+### Question 5 (Trains & Platform):
+**A train 240 meters long is running at a speed of $72\text{ km/h}$. How much time (in seconds) will it take to completely cross a platform that is 160 meters long?**
+- **Options:** [A] 16 | [B] 18 | [C] 20 | [D] 24 | [E] 25
+- **Candidate Choice:** [C] 20 seconds ✅ **(100% CORRECT!)**
 - **Candidate Working Method:**
-  - ભાવ વધારો = $+33.33\% = +\frac{1}{3}$
-  - વપરાશ ઘટાડો = $-\frac{1}{1+3} = -\frac{1}{4} \implies \frac{1 \times 100}{4} = \mathbf{25\%}$ (Option [B])!
-- **Score:** $+1.00$ Mark! અપૂર્ણાંક સીડી (Fraction Drop Ladder) થી ૩ સેકન્ડમાં જવાબ આવી ગયો.
+  - ઝડપ (m/s) = $72 \times \frac{5}{18} = 4 \times 5 = 20\text{ m/s}$
+  - કુલ અંતર = $240 + 160 = 400\text{ મીટર}$
+  - સમય = $\frac{400}{20} = \mathbf{20 \text{ સેકન્ડ}}$ (Option [C])!
+- **Score:** $+1.00$ Mark! ઝડપ કન્વર્ઝન અને પ્લેટફોર્મ અંતરનો નિયમ પરફેક્ટ લાગુ કર્યો.
 
 ---
 
-## 📈 CHAPTER TRACKER: CORE ARITHMETIC
-- **Total Questions Attempted:** 4
-- **Correct:** 4
-- **Incorrect:** 0
-- **Skipped:** 0
-- **Accuracy:** 100.0%
-- **Net Marks:** $+4.00$ (૪ માંથી ૪ સળંગ સાચા!)
+## 🏆 CHAPTER 4: FINAL MASTERY PERFORMANCE REPORT (CORE ARITHMETIC)
+
+| Metric | Mock #01 Baseline | Practice Set (5 Qs) | Final Chapter Status |
+| :--- | :---: | :---: | :--- |
+| **Questions Attempted** | 6 / 10 | 5 / 5 | **5 / 5 Attempted** |
+| **Correct Answers** | 4 | 5 | **5 / 5 CLEAN SWEEP (100%)!** 🎯 |
+| **Incorrect Answers** | 2 | 0 | **Zero Errors!** |
+| **Skipped Questions** | 4 | 0 | **Zero Skips!** |
+| **Accuracy Rate** | 66.7% | **100.0%** | **સંપૂર્ણ માસ્ટરી અને ફાસ્ટ સિલેક્શન!** |
+| **Net Score Impact** | **$+3.50$** | **$+5.00$** | **Net $+5.00$ Marks Created!** 🚀 |
+| **Selection Strategy** | ❌ લાંબી રીતો વાપરી | 🏆 **૫ હાઈ-યીલ્ડ પેટર્ન લોક** | **OFFICIALLY COMPLETED & EXAM READY!** |
+
+---
+
+## ⚡ FINAL QUANT CHAPTER: CHAPTER 5 — QUADRATIC EQUATIONS & NUMBER SERIES
+- **Mock #01 Baseline:** Quadratic 3/5 | Number Series 3/5 (કુલ ૪.૫૦ માર્ક્સ ગુમાવ્યા).
+- **મુખ્ય ભૂલો:**
+  1. $x^2 = 196$ અને $y = \sqrt{196}$ નો રૂટ સાઈન ટ્રેપ.
+  2. સાઈન ટેબલ (Sign Table) ની ઝડપ.
+  3. પોઈન્ટ વાળી સીરીઝ ($\times 0.5 + 0.5$).
+
 
 
 
