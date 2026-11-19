@@ -672,13 +672,26 @@ $$\text{II. } y = \sqrt{256}$$
 
 ---
 
+### Question 2 (Instant Sign Test):
+$$\text{I. } 5x^2 + 13x + 6 = 0$$
+$$\text{II. } 2y^2 - 11y + 14 = 0$$
+- **Options:** [A] $x > y$ | [B] $x < y$ | [C] $x \ge y$ | [D] $x \le y$ | [E] CND
+- **Candidate Choice:** [B] $x < y$ ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - સમીકરણ I ના ચિહ્નો $(+ , +) \implies$ બંને મૂળ ઋણ $(- , -)$ આવે.
+  - સમીકરણ II ના ચિહ્નો $(- , +) \implies$ બંને મૂળ ધન $(+ , +)$ આવે.
+  - ઋણ હંમેશા ધન કરતાં નાનું હોય $\implies \mathbf{x < y}$ (Option [B])!
+- **Score:** $+1.00$ Mark! કોઈ જ ગણતરી વગર ૩ સેકન્ડમાં સોલ્વ કર્યો.
+
+---
+
 ## 📈 CHAPTER TRACKER: QUADRATIC & NUMBER SERIES
-- **Total Questions Attempted:** 1
-- **Correct:** 1
+- **Total Questions Attempted:** 2
+- **Correct:** 2
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+1.00$
+- **Net Marks:** $+2.00$
 
 
 
