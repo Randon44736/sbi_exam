@@ -489,6 +489,30 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 #### ૩. Line Graph Reading Trap:
 - લાઇન ગ્રાફના પોઈન્ટ્સ વાંચતી વખતે સ્કેલ (દા.ત. દરેક કાપો = 10 કે 20) પહેલા નક્કી કરી લેવો.
 
+---
+
+## 📝 PRACTICE LOG: DATA INTERPRETATION (LINE GRAPH & TABLE)
+
+### Question 1:
+**The total number of laptops manufactured by HP in March is what percentage more than the total number of laptops manufactured by Dell in January?**
+- **Options:** [A] 60% | [B] 65% | [C] 75% | [D] 80% | [E] 85%
+- **Candidate Choice:** [C] 75% ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - તફાવત = $70 - 40 = 30$
+  - છેદ ("than Dell in Jan") = $40$
+  - ટકાવારી = $\frac{30}{40} \times 100 = \frac{3}{4} \times 100 = \mathbf{75\%}$!
+- **Score:** $+1.00$ Mark! મોક ૧ નો "% more than" વાળો બેઝ વેલ્યુ ટ્રેપ માત્ર ૨૦ સેકન્ડમાં સોલ્વ થઈ ગયો!
+
+---
+
+## 📈 CHAPTER TRACKER: DATA INTERPRETATION
+- **Total Questions Attempted:** 1
+- **Correct:** 1
+- **Incorrect:** 0
+- **Skipped:** 0
+- **Accuracy:** 100.0%
+- **Net Marks:** $+1.00$
+
 
 
 
