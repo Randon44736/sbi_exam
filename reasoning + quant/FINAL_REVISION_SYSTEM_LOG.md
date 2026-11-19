@@ -335,10 +335,21 @@ $$(23.98)^2 - (19.98)^2 + 45.02\% \text{ of } 399.95 - \sqrt{575.92} = ?$$
     - **ઉપર (Top Side) ની સામે એકદમ નીચે (Bottom Side) આવે $\implies D \longleftrightarrow H$**
     - **ડાબી બાજુ (Left Side) ની સામે એકદમ જમણી બાજુ (Right Side) આવે $\implies F \longleftrightarrow G$**
     - G એ D ની સામે નથી, G એ જમણી બાજુએ છે (90 ડિગ્રી પર). D ઉપર છે તો તેની સામે નીચે વાળો **H** આવે!
-- **સામસામેની ૪ જોડીઓ (All 4 Opposite Pairs):**
-  1. $D \longleftrightarrow H$ (Sides: Top vs Bottom)
-  2. $F \longleftrightarrow G$ (Sides: Left vs Right)
-  3. $B \longleftrightarrow C$ (Corners: Top-Left vs Bottom-Right)
-  4. $A \longleftrightarrow E$ (Corners: Bottom-Left vs Top-Right)
+### ❓ QUESTION 2 ON THIS ARRANGEMENT:
+**Who sits second to the right of A?** (A ની જમણી બાજુ બીજા સ્થાને કોણ બેઠું છે?)
+- **Options:** [A] H | [B] F | [C] B | [D] E | [E] C
+- **Candidate Choice:** [E] C ❌
+- **Correct Answer:** [C] B ✅
+- **ક્યાં ભૂલ થઈ? (Left vs Right Facing Outside Confusion):**
+  - તમે A થી H અને C તરફ ગયા $\implies$ આ દિશા **ડાબી બાજુ (Left)** છે!
+  - C એ A ની **ડાબી બાજુ બીજા સ્થાને** છે ($A \xrightarrow{\text{Left}} H \xrightarrow{\text{Left}} C$).
+  - પ્રશ્નમાં **જમણી બાજુ (Right)** પૂછ્યું હતું!
+- **સરળ શારીરિક કલ્પના (Your Body Analogy):**
+  - A નીચેના ડાબા ખૂણે બેસીને બહાર ખૂણા તરફ મોઢું રાખીને બેઠો છે.
+  - તેનો **ડાબો હાથ (Left Hand)** નીચેની દિવાલ તરફ (H અને C તરફ) છે.
+  - તેનો **જમણો હાથ (Right Hand)** ડાબી દિવાલ તરફ (F અને B તરફ) ઉપર જાય છે!
+  - તેથી:
+    - A ની જમણી બાજુ ૧લું સ્થાન = **F**
+    - A ની જમણી બાજુ ૨જું સ્થાન = **B (Option [C])**!
 
 
