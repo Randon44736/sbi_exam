@@ -188,3 +188,16 @@ $$16.66\% \text{ of } 539.92 + 180.05 \div 5.98 \times 3.99 - (11.98)^2 = ?$$
 - **Skipped:** 0
 - **Accuracy:** 60.0%
 - **Net Score:** $+2.50$ marks (Mock 1 ના $-0.25$ થી સીધો **+2.75 માર્ક્સનો સુધારો!**)
+
+---
+
+## ⚡ SHORT TIMED MASTERY TEST (3 QUESTIONS)
+
+### Timed Test Q1:
+$$12.49\% \text{ of } 639.92 + 23.98 \times 11.95 - (14.98)^2 = ?$$
+- **Options:** [A] 133 | [B] 143 | [C] 153 | [D] 163 | [E] 175
+- **Candidate Choice:** [B] 143 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - $80 + 288 = 368$
+  - $368 - 225 = \mathbf{143}$ (Option [B])
+- **Score:** $+1.00$ Mark! Perfect execution of $12.5\% = \frac{1}{8}$.
