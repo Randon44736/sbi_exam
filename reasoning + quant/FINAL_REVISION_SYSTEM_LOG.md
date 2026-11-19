@@ -204,13 +204,34 @@ $$12.49\% \text{ of } 639.92 + 23.98 \times 11.95 - (14.98)^2 = ?$$
 
 ---
 
-### Timed Test Q2:
-$$\sqrt{1023.92} \times 4.98 - 37.52\% \text{ of } 319.95 + 144.05 \div 11.98 = ?$$
-- **Options:** [A] 42 | [B] 52 | [C] 64 | [D] 72 | [E] 84
-- **Candidate Choice:** [B] 52 ✅ **(100% CORRECT!)**
+### Timed Test Q3:
+$$(23.98)^2 - (19.98)^2 + 45.02\% \text{ of } 399.95 - \sqrt{575.92} = ?$$
+- **Options:** [A] 312 | [B] 324 | [C] 332 | [D] 348 | [E] 362
+- **Candidate Choice:** [C] 332 ✅ **(100% CORRECT!)**
 - **Candidate Working Method:**
-  - ટાપુ ૧: $\sqrt{1024} \times 5 = 32 \times 5 = 160$
-  - ટાપુ ૨: $37.5\% \text{ of } 320 = \frac{3}{8} \times 320 = 120$
-  - ટાપુ ૩: $144 \div 12 = 12$
-  - અંતિમ સાદુરૂપ: $160 - 120 + 12 = 40 + 12 = \mathbf{52}$ (Option [B])!
-- **Score:** $+1.00$ Mark! Perfect mastery over $\sqrt{1024}$ and $37.5\%$.
+  - ટાપુ ૧: $24^2 - 20^2 = 576 - 400 = 176$
+  - ટાપુ ૨: $45\% \text{ of } 400 = 45 \times 4 = 180$
+  - ટાપુ ૩: $\sqrt{576} = 24$
+  - અંતિમ સાદુરૂપ: $176 + 180 - 24 = 356 - 24 = \mathbf{332}$ (Option [C])!
+- **Score:** $+1.00$ Mark! Perfect execution of 3-Islands and Square Difference.
+
+---
+
+## 🏆 CHAPTER 1: FINAL MASTERY PERFORMANCE REPORT (APPROXIMATION)
+
+| Metric | Mock #01 Baseline | Practice Phase (5 Qs) | Timed Mastery Test (3 Qs) | Final Cumulative Chapter Status |
+| :--- | :---: | :---: | :---: | :--- |
+| **Questions Attempted** | 5 | 5 | 3 | **8 / 8 Attempted** |
+| **Correct Answers** | 1 | 3 | 3 | **6 Correct** (Last 4 consecutive 100% correct!) |
+| **Incorrect Answers** | 2 | 2 | 0 | **Zero Errors in Timed Test!** |
+| **Skipped Questions** | 2 | 0 | 0 | **Zero Skips** |
+| **Accuracy Rate** | 20.0% | 60.0% | **100.0%** | **Flawless Timed Accuracy!** 🎯 |
+| **Net Score Impact** | **$-0.25$** | **$+2.50$** | **$+3.00$** | **Net $+5.50$ Marks Created!** |
+| **Chapter Verdict** | ❌ Critical Fail | 🟡 Learning Hacks | 🏆 **100% CONQUERED** | **OFFICIALLY COMPLETED & EXAM READY!** |
+
+---
+
+## 🧠 CHAPTER 2: REASONING ABILITY — SQUARE SEATING ARRANGEMENT (NEXT PRIORITY)
+- **Baseline in Mock 1:** 2 / 5 (40% Accuracy, Net +1.25)
+- **Primary Failures:** Corner vs Side opposites, Outside facing left/right disorientation.
+
