@@ -100,6 +100,18 @@ $$\frac{1}{7} = 14.28\% \quad \Big| \quad \frac{2}{7} = 28.57\% \quad \Big| \qua
 
 ---
 
+### 5. Emergency Hack 3: BODMAS નો "૩ સ્વતંત્ર ટાપુઓ" (Three Independent Islands Rule)
+પરીક્ષામાં સમીકરણ ગમે તેટલું લાંબું હોય, જ્યાં પણ **વત્તા (+)** કે **ઓછા (-)** દેખાય, ત્યાં સમીકરણને અલગ-અલગ સ્વતંત્ર ભાગોમાં વહેંચી દો:
+
+$$\underbrace{\left[ \text{ટાપુ ૧} \right]}_{\text{ગુણાકાર/ભાગાકાર}} \quad + \quad \underbrace{\left[ \text{ટાપુ ૨} \right]}_{\text{વર્ગ/ભાગાકાર}} \quad - \quad \underbrace{\left[ \text{ટાપુ ૩} \right]}_{\text{ગુણાકાર}}$$
+
+- **સુવર્ણ નિયમ:** 
+  1. દરેક ટાપુનું સાદુરૂપ **અલગથી** એક જ સંખ્યામાં લાવી દો.
+  2. કોઈ એક ટાપુના છેદને આખા સમીકરણના છેદમાં ન મૂકી દેવો!
+  3. છેલ્લે જ ત્રણેય સંખ્યાઓનો સરવાળો/બાદબાકી કરવી.
+
+---
+
 ## 📝 PRACTICE LOG & QUESTIONS
 
 ### Question 1:
@@ -129,10 +141,24 @@ $$83.33\% \text{ of } 719.92 - 37.49\% \text{ of } 399.85 + \sqrt{1295.91} = ?$$
 
 ---
 
+### Question 3:
+$$24.98\% \text{ of } 479.91 + (15.98)^2 \div 7.95 - 19.95 \times 2.05 = ?$$
+- **Options:** [A] 98 | [B] 104 | [C] 112 | [D] 124 | [E] 136
+- **Candidate Calculation Attempt:** $96 + 256 / 32 \to 352 / 32 = 11$ ❌
+- **Correct Answer:** [C] 112 ✅
+- **Solution by 3-Islands Rule:**
+  - **ટાપુ ૧:** $25\% \text{ of } 480 \implies 480 \div 4 = \mathbf{120}$ *(ભૂલથી $480 \div 5 = 96$ ન ગણવું, $25\% = \frac{1}{4}$)*
+  - **ટાપુ ૨:** $16^2 \div 8 = \frac{16 \times 16}{8} = 16 \times 2 = \mathbf{32}$ *(આ આખો ટુકડો ૩૨ છે)*
+  - **ટાપુ ૩:** $20 \times 2 = \mathbf{40}$ *(બાદબાકી વાળું પદ)*
+  - **અંતિમ ગણતરી:** $120 + 32 - 40 = 152 - 40 = \mathbf{112}$!
+- **Error Analysis:** $25\%$ ને $20\%$ ગણીને $\div 5$ કર્યું ($96$), ટાપુ ૨ ના પરિણામ $32$ ને છેદમાં મૂકી દીધું, અને ટાપુ ૩ ($20 \times 2$) લખવાનું જ ભૂલી ગયા.
+
+---
+
 ## 📈 CHAPTER TRACKER: APPROXIMATION
-- **Total Questions Attempted:** 2
+- **Total Questions Attempted:** 3
 - **Correct:** 1
-- **Incorrect:** 1
+- **Incorrect:** 2
 - **Skipped:** 0
-- **Accuracy:** 50.0%
-- **Net Score:** $+0.75$ marks
+- **Accuracy:** 33.3%
+- **Net Score:** $+0.50$ marks
