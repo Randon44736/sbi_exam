@@ -358,12 +358,20 @@ $$(23.98)^2 - (19.98)^2 + 45.02\% \text{ of } 399.95 - \sqrt{575.92} = ?$$
 
 ---
 
+### ❓ QUESTION 4 ON THIS ARRANGEMENT:
+**How many persons sit between B and G when counted from the right of B?**
+- **Options:** [A] One | [B] Two | [C] Three | [D] Four | [E] None
+- **Candidate Choice:** [B] Two (D and E) ✅ **(100% CORRECT!)**
+- **Working Method:** B ખૂણા પર છે $\implies$ બહાર જુએ છે $\implies$ જમણી બાજુ (Right) ઘડિયાળની દિશામાં (Clockwise) થાય $\implies$ B થી G તરફ જતાં વચ્ચે **D અને E** આવે છે $\implies$ ૨ વ્યક્તિ (Option [B])!
+- **Result:** બહાર જોતી વ્યક્તિનો જમણો હાથ (Clockwise) અને વચ્ચેના લોકોની ગણતરી ૧૦૦% સાચી થઈ!
+
+---
+
 ## 📈 CHAPTER TRACKER: SQUARE SEATING ARRANGEMENT
-- **Total Questions Attempted:** 3
-- **Correct:** 1
+- **Total Questions Attempted:** 4
+- **Correct:** 2
 - **Incorrect:** 2
 - **Skipped:** 0
-- **Accuracy:** 33.3%
-- **Status:** Left/Right rules mastered!
+- **Accuracy:** 50.0% (છેલ્લા ૨ પ્રશ્નો સતત ૧૦૦% સાચા!)
 
 
