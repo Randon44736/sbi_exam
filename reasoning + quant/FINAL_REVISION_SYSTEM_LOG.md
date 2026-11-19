@@ -685,13 +685,27 @@ $$\text{II. } 2y^2 - 11y + 14 = 0$$
 
 ---
 
+### Question 3 (Decimal Half-Series Pattern):
+$$6, \quad 3.5, \quad 4.5, \quad 11, \quad 48, \quad ?$$
+- **Options:** [A] 364 | [B] 376 | [C] 384 | [D] 392 | [E] 402
+- **Candidate Choice:** [D] 392 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - $6 \times 0.5 + 0.5 = 3.5$
+  - $3.5 \times 1 + 1 = 4.5$
+  - $4.5 \times 2 + 2 = 11$
+  - $11 \times 4 + 4 = 48$
+  - $48 \times 8 + 8 = 384 + 8 = \mathbf{392}$ (Option [D])!
+- **Score:** $+1.00$ Mark! મોક ૧ માં ૪ મિનિટ ૨૧ સેકન્ડ બગાડીને સ્કીપ થયેલો દાખલો માત્ર ૨૦ સેકન્ડમાં સોલ્વ થઈ ગયો.
+
+---
+
 ## 📈 CHAPTER TRACKER: QUADRATIC & NUMBER SERIES
-- **Total Questions Attempted:** 2
-- **Correct:** 2
+- **Total Questions Attempted:** 3
+- **Correct:** 3
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+2.00$
+- **Net Marks:** $+3.00$
 
 
 
