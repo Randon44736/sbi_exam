@@ -505,13 +505,25 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
+### Question 2:
+**What is the ratio of the total number of laptops manufactured by Dell in February and March together to the total number of laptops manufactured by HP in January and April together?**
+- **Options:** [A] 9 : 11 | [B] 11 : 9 | [C] 10 : 9 | [D] 11 : 8 | [E] 7 : 6
+- **Candidate Choice:** [B] 11 : 9 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - Dell (Feb + Mar) = $60 + 50 = 110$
+  - HP (Jan + Apr) = $30 + 60 = 90$
+  - ગુણોત્તર = $110 : 90 = \mathbf{11 : 9}$ (Option [B])!
+- **Score:** $+1.00$ Mark! 9 : 11 ના ઉલ્ટા રેશિયો વાળા ટ્રેપથી બચીને સાચો જવાબ આપ્યો.
+
+---
+
 ## 📈 CHAPTER TRACKER: DATA INTERPRETATION
-- **Total Questions Attempted:** 1
-- **Correct:** 1
+- **Total Questions Attempted:** 2
+- **Correct:** 2
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+1.00$
+- **Net Marks:** $+2.00$
 
 
 
