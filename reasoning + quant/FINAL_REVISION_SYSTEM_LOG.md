@@ -611,13 +611,24 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
+### Question 3 (Compound Interest Doubling):
+**A sum of money invested at compound interest doubles itself in 5 years. In how many years will it become 16 times of itself at the same rate of compound interest?**
+- **Options:** [A] 15 | [B] 20 | [C] 25 | [D] 30 | [E] 32
+- **Candidate Choice:** [B] 20 years ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - $2^1 \longrightarrow 5$ વર્ષ
+  - $16 = 2^4 \implies \text{સમય} = 4 \times 5 = \mathbf{20 \text{ વર્ષ}}$ (Option [B])!
+- **Score:** $+1.00$ Mark! CI ના ઘાત નિયમથી ૫ સેકન્ડમાં સાચો જવાબ આપ્યો.
+
+---
+
 ## 📈 CHAPTER TRACKER: CORE ARITHMETIC
-- **Total Questions Attempted:** 2
-- **Correct:** 2
+- **Total Questions Attempted:** 3
+- **Correct:** 3
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+2.00$
+- **Net Marks:** $+3.00$ (૩ માંથી ૩ સળંગ ૧૦૦% સાચા!)
 
 
 
