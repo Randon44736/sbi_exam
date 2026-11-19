@@ -572,32 +572,41 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
-## 📝 PRACTICE LOG: CORE ARITHMETIC SELECTION
+## 📝 PRACTICE LOG: CORE ARITHMETIC
 
-### Question 1 (Ages):
+### Question 1 (Ages - Unit Gap Method):
 **The ratio of present ages of Rahul and Amit is $5 : 7$. After 8 years, the ratio of their ages becomes $7 : 9$. What is the present age of Rahul?**
-- **Options:** [A] 15 years | [B] 20 years | [C] 25 years | [D] 28 years | [E] 35 years
-- **Candidate Choice:** [C] 25 ❌
-- **Correct Answer:** [B] 20 years ✅
-- **Candidate Doubt Answered:**
-  - *સવાલ:* જો $4 \text{ units} = 10 \text{ years}$ હોય તો $1 \text{ unit} = 2.5$?
-  - *જવાબ:* હા, બિલકુલ સાચું! $\frac{10}{4} = 2.5$ જ થાય.
-- **ક્યાં ભૂલ થઈ? (Calculation Breakdown):**
-  - યુનિટ ગેપ: $7 - 5 = 2 \text{ units}$
-  - વર્ષનો તફાવત: $8 \text{ years}$
-  - તેથી: $1 \text{ unit} = \frac{8}{2} = \mathbf{4 \text{ years}}$ (૫ નહીં!).
-  - રાહુલની ઉંમર ($5$ એકમ) = $5 \times 4 = \mathbf{20 \text{ years (Option [B])}}$!
-  - તમે કદાચ $1 \text{ unit} = 5$ ગણી લીધું એટલે $5 \times 5 = 25$ લખાઈ ગયું.
+- **Options:** [A] 15 | [B] 20 | [C] 25 | [D] 28 | [E] 35
+- **Candidate Choice:** 20 (typed "c 20") ✅ **(CALCULATION 100% CORRECT!)**
+- **Correct Option:** [B] 20 (Option [C] was 25).
+- **Candidate Working Method:**
+  - યુનિટ ગેપ = $7 - 5 = 2$ એકમ (અને $9 - 7 = 2$ એકમ)
+  - $2 \text{ એકમ} = 8 \text{ વર્ષ} \implies 1 \text{ એકમ} = \mathbf{4 \text{ વર્ષ}}$!
+  - રાહુલની વર્તમાન ઉંમર = $5 \times 4 = \mathbf{20 \text{ વર્ષ}}$ (Option [B])!
+- **Score:** $+1.00$ Mark!
+
+---
+
+### 💡 CANDIDATE'S DOUBT CLEARED: "જો ગેપ સરખો ન વહેંચાય તો?"
+1. **જો 4 Unit = 10 Years હોય:**
+   - હા, બિલકુલ! $1 \text{ Unit} = \frac{10}{4} = \mathbf{2.5 \text{ વર્ષ}}$ થાય.
+   - જો કોઈની ઉંમર $6$ એકમ હોય, તો $6 \times 2.5 = 15$ વર્ષ થાય.
+2. **જો બંને બાજુ ગેપ અલગ-અલગ હોય (Unequal Gap Trick):**
+   - ઉદાહરણ: પહેલા $A:B = 2:3$ (તફાવત ૧), પછી $A:B = 3:5$ (તફાવત ૨).
+   - **જાદુઈ ક્રોસ-ગુણાકાર નિયમ:**
+     - ઉપરના રેશિયોને નીચેના તફાવત (૨) વડે ગુણો: $(2:3) \times 2 = \mathbf{4 : 6}$.
+     - નીચેના રેશિયોને ઉપરના તફાવત (૧) વડે ગુણો: $(3:5) \times 1 = \mathbf{3 : 5}$.
+     - હવે બંને બાજુ સરખો ૧ યુનિટનો ગેપ બની જશે!
 
 ---
 
 ## 📈 CHAPTER TRACKER: CORE ARITHMETIC
 - **Total Questions Attempted:** 1
-- **Correct:** 0
-- **Incorrect:** 1
+- **Correct:** 1
+- **Incorrect:** 0
 - **Skipped:** 0
-- **Accuracy:** 0.0%
-- **Status:** $1 \text{ unit}$ ની સાચી ગણતરી શીખ્યા.
+- **Accuracy:** 100.0%
+- **Net Marks:** $+1.00$
 
 
 
