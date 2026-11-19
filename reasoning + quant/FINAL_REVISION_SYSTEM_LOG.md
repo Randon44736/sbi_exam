@@ -349,7 +349,21 @@ $$(23.98)^2 - (19.98)^2 + 45.02\% \text{ of } 399.95 - \sqrt{575.92} = ?$$
   - તેનો **ડાબો હાથ (Left Hand)** નીચેની દિવાલ તરફ (H અને C તરફ) છે.
   - તેનો **જમણો હાથ (Right Hand)** ડાબી દિવાલ તરફ (F અને B તરફ) ઉપર જાય છે!
   - તેથી:
-    - A ની જમણી બાજુ ૧લું સ્થાન = **F**
-    - A ની જમણી બાજુ ૨જું સ્થાન = **B (Option [C])**!
+### ❓ QUESTION 3 ON THIS ARRANGEMENT:
+**Who sits immediate right of D?** (D ની તરત જમણી બાજુએ કોણ બેઠું છે?)
+- **Options:** [A] E | [B] B | [C] F | [D] G | [E] H
+- **Candidate Choice:** [B] B ✅ **(100% CORRECT!)**
+- **Working Method:** D ઉપર બેસીને ટેબલની અંદર (નીચે) જુએ છે $\implies$ તેનો જમણો હાથ ડાબી તરફ (B તરફ) જાય $\implies$ **B (Option [B])**!
+- **Result:** અંદર જોતી વ્યક્તિનો ડાબો-જમણો હાથ એકદમ પરફેક્ટ રીતે ઓળખાયો!
+
+---
+
+## 📈 CHAPTER TRACKER: SQUARE SEATING ARRANGEMENT
+- **Total Questions Attempted:** 3
+- **Correct:** 1
+- **Incorrect:** 2
+- **Skipped:** 0
+- **Accuracy:** 33.3%
+- **Status:** Left/Right rules mastered!
 
 
