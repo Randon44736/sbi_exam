@@ -448,6 +448,48 @@ $$(23.98)^2 - (19.98)^2 + 45.02\% \text{ of } 399.95 - \sqrt{575.92} = ?$$
 1. **Option A (Reasoning Priority 2): Designation Puzzles** (Seniority Ladder GM to Peon, Hierarchy Ordering — Mock 1: 2/5).
 2. **Option B (Quant Priority 2): Line Graph & Table DI** (Ratio & Percentage difference speed tricks — Mock 1: 5/10).
 
+---
+
+## 📸 CANDIDATE'S HANDWRITTEN DRAWING AUDIT (SQUARE SEATING)
+- **Candidate's Drawing:** P placed at Bottom Side instead of Top Side.
+- **Mentor's Audit & Verdict:**
+  1. **ગોળ કે ચોરસ ટેબલમાં કોઈ ફિક્સ ઉત્તર કે દક્ષિણ હોતું નથી.**
+  2. ઉમેદવારે P ને નીચે મૂક્યો અને મેં P ને ઉપર મૂક્યો. જો તમે કાગળને ૧૮૦ ડિગ્રી ફેરવી દો, તો **બંને ડાયાગ્રામ ૧૦૦% સરખા છે!**
+  3. સિક્વન્સ: $P \to U \to W \to Q \to S \to R \to T \to V \to P$ બંનેમાં એકદમ સમાન છે.
+  4. **માત્ર ૧ સુધારો:** પ્રશ્નમાં લખ્યું હતું કે "ખૂણા અંદર (IN) અને બાજુઓ બહાર (OUT)", જ્યારે તમે ખૂણા પર Out અને બાજુઓ પર In લખ્યું. પણ તમારી બેઠક વ્યવસ્થા (Seating Order) ૧૦૦% સાચી છે!
+
+---
+
+## ⚡ TRACK SWITCH: QUANTITATIVE APTITUDE COMPLETE MASTERY DRIVE
+ઉમેદવારના આદેશ મુજબ, આપણે પહેલા **ક્વોન્ટ (Quant) ના તમામ નબળા ચેપ્ટર્સ** આ જ પદ્ધતિથી પૂરા કરીશું!
+
+---
+
+## 📊 CHAPTER 3: DATA INTERPRETATION (LINE GRAPH & TABLE DI)
+- **Mock #01 Baseline:**
+  - Table DI: 3 / 5 (Accuracy 60%, 8m 14s)
+  - Line Graph DI: 2 / 5 (Accuracy 40%, 8m 46s)
+  - **કુલ નુકસાન:** ૫.૭૫ માર્ક્સ અને ૧૭ મિનિટ બગડી!
+- **મુખ્ય ભૂલો:**
+  1. $A$ is what $\%$ more/less than $B$ માં છેદ (Base Value) ઊંધી લેવાઈ જવી.
+  2. સાદા ગુણોત્તર (Ratio) માટે આખી મોટી સંખ્યાઓનો ગુણાકાર-સરવાળો કરવો.
+  3. એવરેજ (Average) શોધવામાં લાંબી રીતો વાપરવી.
+
+---
+
+### 🚀 DI ના ૩ સુવર્ણ સ્પીડ હેક્સ (GOLDEN SPEED TRICKS)
+
+#### ૧. Percentage More / Less નો સુવર્ણ નિયમ:
+$$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"than" પછી આવતી સંખ્યા (Base Value)}} \times 100$$
+- **Gujarati Rule:** જેના કરતા વધારે કે ઓછું પૂછ્યું હોય ("than" પછીનું નામ), તે હંમેશા **છેદમાં (Denominator)** આવે!
+
+#### ૨. Ratio Shortcut (સીધો ગુણોત્તર):
+- જો ડેટામાં ટકાવારી કે ડિગ્રી આપેલી હોય, તો અસલ સંખ્યા શોધવા ન જવું. સીધો ટકા કે ડિગ્રીનો જ ગુણોત્તર લેવો!
+
+#### ૩. Line Graph Reading Trap:
+- લાઇન ગ્રાફના પોઈન્ટ્સ વાંચતી વખતે સ્કેલ (દા.ત. દરેક કાપો = 10 કે 20) પહેલા નક્કી કરી લેવો.
+
+
 
 
 
