@@ -655,6 +655,31 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
   2. સાઈન ટેબલ (Sign Table) ની ઝડપ.
   3. પોઈન્ટ વાળી સીરીઝ ($\times 0.5 + 0.5$).
 
+---
+
+## 📝 PRACTICE LOG: QUADRATIC EQUATIONS & NUMBER SERIES
+
+### Question 1 (The Root Sign Trap):
+$$\text{I. } x^2 = 256$$
+$$\text{II. } y = \sqrt{256}$$
+- **Options:** [A] $x > y$ | [B] $x < y$ | [C] $x \ge y$ | [D] $x \le y$ | [E] $x = y$ or CND
+- **Candidate Choice:** [D] $x \le y$ ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - $x = +16, -16$
+  - $y = +16$ (only positive)
+  - સરખામણી: $+16 = +16$ અને $-16 < +16 \implies \mathbf{x \le y}$ (Option [D])!
+- **Score:** $+1.00$ Mark! મોક ૧ નો Q14 વાળો રૂટ સાઈન ટ્રેપ પરફેક્ટ સોલ્વ થયો.
+
+---
+
+## 📈 CHAPTER TRACKER: QUADRATIC & NUMBER SERIES
+- **Total Questions Attempted:** 1
+- **Correct:** 1
+- **Incorrect:** 0
+- **Skipped:** 0
+- **Accuracy:** 100.0%
+- **Net Marks:** $+1.00$
+
 
 
 
