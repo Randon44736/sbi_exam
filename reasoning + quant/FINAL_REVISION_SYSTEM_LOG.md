@@ -840,13 +840,25 @@ Designation પઝલમાં કોઈ ડાબો-જમણો હાથ ન
 
 ---
 
+### ❓ QUESTION 2 ON THIS ARRANGEMENT (COUNTING IN LADDER):
+**How many persons are designated between R and P?**
+- **Options:** [A] One | [B] Two | [C] Three | [D] Four | [E] None
+- **Candidate Choice:** [B] Two (V and T) ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - R નંબર ૩ પર છે (DGM).
+  - P નંબર ૬ પર છે (AM).
+  - વચ્ચે નંબર ૪ (V) અને નંબર ૫ (T) આવે છે $\implies$ બરાબર **૨ વ્યક્તિ (Option [B])!**
+- **Score:** $+1.00$ Mark!
+
+---
+
 ## 📈 CHAPTER TRACKER: DESIGNATION PUZZLES
-- **Total Questions Attempted:** 1
-- **Correct:** 1
+- **Total Questions Attempted:** 2
+- **Correct:** 2
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+1.00$
+- **Net Marks:** $+2.00$ (૨ માંથી ૨ સળંગ ૧૦૦% સાચા!)
 
 
 
