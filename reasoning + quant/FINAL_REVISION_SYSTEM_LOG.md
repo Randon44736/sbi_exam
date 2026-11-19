@@ -834,6 +834,19 @@ Designation પઝલમાં કોઈ ડાબો-જમણો હાથ ન
 ### ❓ QUESTION 1 ON THIS ARRANGEMENT:
 **Who among the following is the General Manager (GM) of the bank?**
 - **Options:** [A] Q | [B] U | [C] R | [D] V | [E] T
+- **Candidate Choice:** [B] U ✅ **(100% CORRECT!)**
+- **Working Method:** ૧ થી ૭ ની સીડીમાં GM નંબર ૨ પર છે, અને તેની સામે **U** બેઠો છે $\implies$ **Option [B]!**
+- **Score:** $+1.00$ Mark! મોક ૧ માં Q23 માં ખોટો પડેલો GM વાળો પ્રશ્ન આજે ૧૦૦% સાચો પડી ગયો.
+
+---
+
+## 📈 CHAPTER TRACKER: DESIGNATION PUZZLES
+- **Total Questions Attempted:** 1
+- **Correct:** 1
+- **Incorrect:** 0
+- **Skipped:** 0
+- **Accuracy:** 100.0%
+- **Net Marks:** $+1.00$
 
 
 
