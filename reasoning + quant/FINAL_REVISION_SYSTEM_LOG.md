@@ -622,13 +622,24 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 
 ---
 
+### Question 4 (Price & Consumption Ladder):
+**If the price of petrol increases by $33.33\%$, by what percentage must a car owner reduce his consumption of petrol so that his total expenditure on petrol remains unchanged?**
+- **Options:** [A] 20% | [B] 25% | [C] 30% | [D] 33.33% | [E] 16.66%
+- **Candidate Choice:** [B] 25% ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - ભાવ વધારો = $+33.33\% = +\frac{1}{3}$
+  - વપરાશ ઘટાડો = $-\frac{1}{1+3} = -\frac{1}{4} \implies \frac{1 \times 100}{4} = \mathbf{25\%}$ (Option [B])!
+- **Score:** $+1.00$ Mark! અપૂર્ણાંક સીડી (Fraction Drop Ladder) થી ૩ સેકન્ડમાં જવાબ આવી ગયો.
+
+---
+
 ## 📈 CHAPTER TRACKER: CORE ARITHMETIC
-- **Total Questions Attempted:** 3
-- **Correct:** 3
+- **Total Questions Attempted:** 4
+- **Correct:** 4
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+3.00$ (૩ માંથી ૩ સળંગ ૧૦૦% સાચા!)
+- **Net Marks:** $+4.00$ (૪ માંથી ૪ સળંગ સાચા!)
 
 
 
