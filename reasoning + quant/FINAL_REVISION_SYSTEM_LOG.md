@@ -570,6 +570,35 @@ $$\% \text{ More / Less} = \frac{\text{તફાવત (Difference)}}{\text{"tha
 - **Baseline in Mock 1:** 4 / 10 (4 correct, 2 wrong, 4 skipped | 15m 38s)
 - **Exam Rule:** RRB PO માં ૧૦ એ ૧૦ એરિથમેટિક કરવાના નથી હોતા. સૌથી સરળ ૪-૫ પ્રશ્નો (Ages, Ratio, Profit-Loss, CI Doubling, Trains) ચૂંટીને ૩૫-૪૦ સેકન્ડમાં પૂરા કરવાના હોય છે!
 
+---
+
+## 📝 PRACTICE LOG: CORE ARITHMETIC SELECTION
+
+### Question 1 (Ages):
+**The ratio of present ages of Rahul and Amit is $5 : 7$. After 8 years, the ratio of their ages becomes $7 : 9$. What is the present age of Rahul?**
+- **Options:** [A] 15 years | [B] 20 years | [C] 25 years | [D] 28 years | [E] 35 years
+- **Candidate Choice:** [C] 25 ❌
+- **Correct Answer:** [B] 20 years ✅
+- **Candidate Doubt Answered:**
+  - *સવાલ:* જો $4 \text{ units} = 10 \text{ years}$ હોય તો $1 \text{ unit} = 2.5$?
+  - *જવાબ:* હા, બિલકુલ સાચું! $\frac{10}{4} = 2.5$ જ થાય.
+- **ક્યાં ભૂલ થઈ? (Calculation Breakdown):**
+  - યુનિટ ગેપ: $7 - 5 = 2 \text{ units}$
+  - વર્ષનો તફાવત: $8 \text{ years}$
+  - તેથી: $1 \text{ unit} = \frac{8}{2} = \mathbf{4 \text{ years}}$ (૫ નહીં!).
+  - રાહુલની ઉંમર ($5$ એકમ) = $5 \times 4 = \mathbf{20 \text{ years (Option [B])}}$!
+  - તમે કદાચ $1 \text{ unit} = 5$ ગણી લીધું એટલે $5 \times 5 = 25$ લખાઈ ગયું.
+
+---
+
+## 📈 CHAPTER TRACKER: CORE ARITHMETIC
+- **Total Questions Attempted:** 1
+- **Correct:** 0
+- **Incorrect:** 1
+- **Skipped:** 0
+- **Accuracy:** 0.0%
+- **Status:** $1 \text{ unit}$ ની સાચી ગણતરી શીખ્યા.
+
 
 
 
