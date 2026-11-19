@@ -699,13 +699,36 @@ $$6, \quad 3.5, \quad 4.5, \quad 11, \quad 48, \quad ?$$
 
 ---
 
+### Question 4 (Wrong Number Series):
+$$4, \quad 6, \quad 15, \quad 49, \quad 205, \quad 1011$$
+- **Options:** [A] 6 | [B] 15 | [C] 49 | [D] 205 | [E] 1011
+- **Candidate Choice:** [D] 205 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - $49 \times 4 + 5 = 196 + 5 = \mathbf{201}$ આવવું જોઈએ, પણ સીરીઝમાં $205$ આપ્યું છે!
+  - આગળ ચકાસણી: $201 \times 5 + 6 = 1005 + 6 = 1011$ (સાચું પડે છે).
+  - તેથી ખોટો નંબર = **205 (Option [D])**!
+- **Score:** $+1.00$ Mark!
+
+---
+
+### 💡 CANDIDATE'S QUESTION: "શું Odd/Even થી ડાયરેક્ટ શોધી શકાય?"
+1. **Odd/Even ક્યારે કામ કરે?**
+   - સાદી સરવાળા-બાદબાકી વાળી સીરીઝમાં: જો ગેપ બેકી (Even) હોય, તો Odd નંબર હંમેશા Odd જ રહેવો જોઈએ અને Even હંમેશા Even જ રહેવો જોઈએ. જો વચ્ચે એક નંબર બદલાઈ જાય, તો સીધો જ ખોટો નંબર પકડાઈ જાય!
+2. **તેનાથી પણ સુપર-ફાસ્ટ: "યુનિટ ડીજીટ (Unit Digit) હેક":**
+   - આ દાખલામાં જુઓ: $49 \times 4 + 5$
+   - છેલ્લો અંક: $9 \times 4 = 36$ (છેલ્લે ૬) $\implies 6 + 5 = 11$ (**છેલ્લે ૧ જ આવવો જોઈએ!**)
+   - પણ રકમમાં $205$ છે (છેલ્લે ૫ છે).
+   - આખો ગુણાકાર કર્યા વગર માત્ર છેલ્લા અંકથી ૧ જ સેકન્ડમાં ખબર પડી જાય કે **205 જ ખોટો છે!**
+
+---
+
 ## 📈 CHAPTER TRACKER: QUADRATIC & NUMBER SERIES
-- **Total Questions Attempted:** 3
-- **Correct:** 3
+- **Total Questions Attempted:** 4
+- **Correct:** 4
 - **Incorrect:** 0
 - **Skipped:** 0
 - **Accuracy:** 100.0%
-- **Net Marks:** $+3.00$
+- **Net Marks:** $+4.00$ (૪ માંથી ૪ સળંગ સાચા!)
 
 
 
