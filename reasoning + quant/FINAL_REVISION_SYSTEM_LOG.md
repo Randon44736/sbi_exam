@@ -1199,6 +1199,32 @@ II. All Planets being Stars is a possibility. *(બધા Planet એ Star હો
 - [C] 4:3
 - [D] 5:3
 - [E] 3:1
+- **Candidate Choice:** [A] 3:2 ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - અસલ સંખ્યા શોધ્યા વગર સીધો ડિગ્રી ગુણોત્તર લીધો: $\frac{54^\circ}{36^\circ} = \frac{18 \times 3}{18 \times 2} = \mathbf{3:2}$!
+  - માત્ર ૩ સેકન્ડમાં સોલ્વ થઈ ગયો!
+- **Score:** $+1.00$ Mark! (Zero Negative).
+
+---
+
+### ❓ QUESTION 2: PIE CHART DI (DEGREE DIFFERENCE MULTIPLIER)
+
+**Data (ડેટા એ જ ચાર્ટનો):**  
+કુલ વિદ્યાર્થીઓ = 72,000 ($1^\circ = 200$).  
+- Arts: $72^\circ$  
+- Science: $90^\circ$  
+
+**Question:**  
+**By how much are Arts students less than Science students?**  
+*(Arts ના વિદ્યાર્થીઓ Science ના વિદ્યાર્થીઓ કરતાં કેટલા ઓછા છે?)*
+
+**Options:**
+- [A] 3,200
+- [B] 3,600
+- [C] 4,000
+- [D] 3,400
+- [E] 2,800
+
 
 
 
