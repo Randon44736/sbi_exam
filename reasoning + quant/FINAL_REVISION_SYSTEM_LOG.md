@@ -1565,6 +1565,67 @@ $$120 \div 5 \times 3 + (45 - 9 \times 4) \text{ of } 2 - 18$$
 - [C] 80
 - [D] 54
 - [E] 90
+- **Candidate Choice:** [B] 72 (`72 +18 -18 = 72`) ✅ **(100% PERFECT!)**
+- **Candidate Working Method:**
+  - ટાપુ ૧: $120 \div 5 \times 3 = 24 \times 3 = \mathbf{72}$
+  - ટાપુ ૨: $(45 - 36) \text{ of } 2 = 9 \times 2 = \mathbf{18}$
+  - ટાપુ ૩: $\mathbf{-18}$
+  - ફાઇનલ: $72 + 18 - 18 = \mathbf{72 \implies [B]!}$
+- **Score:** $+1.00$ Mark! BODMAS ૧૦૦% CONQUERED!
+
+---
+
+## 🏆 QUANTITATIVE APTITUDE: COMPLETE PRELIMS SYLLABUS 100% CONQUERED!
+
+| Module | Topic | Retest Score | Accuracy | Speed | Status |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **Module 1** | Pie Chart DI (Degree & Zero-Value) | 2 / 2 | 100.0% | ~5s | 🏆 CONQUERED |
+| **Module 2** | Time & Work (Zero-LCM Shortcut) | 2 / 2 | 100.0% | ~25s | 🏆 CONQUERED |
+| **Module 3** | Boats & Streams (Midpoint & Add/Sub)| 1 / 1 | 100.0% | ~10s | 🏆 CONQUERED |
+| **Module 4** | Partnership (Capital x Time Ratio) | 1 / 1 | 100.0% | ~20s | 🏆 CONQUERED |
+| **Module 5** | Mixtures & Alligation (Cross Alligation)| 1 / 1 | 100.0% | ~15s | 🏆 CONQUERED |
+| **Module 6** | Probability (1-Line Fraction Hack) | 1 / 1 | 100.0% | ~10s | 🏆 CONQUERED |
+| **Module 7** | BODMAS & Exact Simplification | 1 / 1 | 100.0% | ~20s | 🏆 CONQUERED |
+| **TOTAL** | **PHASE 2 QUANTITATIVE APTITUDE** | **9 / 9** | **100.0%** | **FLAWLESS** | 🏆 **ALL QUANT CONQUERED!** |
+
+---
+
+# 🧠 PHASE 2: REASONING ABILITY REMAINING PRELIMS CHAPTERS
+
+---
+
+## ⚡ REASONING MODULE 1: INEQUALITIES (OPEN-GATE KING-SOLDIER-PEON METHOD)
+
+### 🚀 ૩ સુવર્ણ સ્પીડ નિયમો:
+1. **Open-Gate Rule (ખુલ્લો દરવાજો):**
+   - $A > B$: દરવાજો $A$ બાજુથી ખુલ્લો છે $\implies A$ થી $B$ જઈ શકાય.
+   - $B$ બાજુથી દરવાજો બંધ છે $\implies B$ થી $A$ ન જઈ શકાય.
+   - સામા-સામે દરવાજા ($> <$ અથવા $< >$) આવે તો રસ્તો બ્લોક $\implies$ **ખોટું!**
+2. **પ્રાથમિકતા (Hierarchy):**
+   - 👑 **રાજા (King: $>$ અથવા $<$):** જો રસ્તામાં ૧ પણ રાજા દેખાય, તો તારણમાં રાજા જ જીતે!
+   - 🛡️ **સૈનિક (Soldier: $\ge$ અથવા $\le$):** ત્યારે જ સાચું પડે જ્યારે રસ્તાના **દરેક દરવાજે સૈનિક ઊભો હોય**! જો ૧ પણ રાજા આવી જાય, તો સૈનિક હારી જાય (ખોટું પડે).
+   - 🚶 **પ્રજા/સિપાહી ($=$):** હંમેશા દરવાજો ખુલ્લો રાખે છે.
+
+---
+
+### ❓ PRACTICE QUESTION 1: INEQUALITIES
+
+**Statements (વિધાનો):**  
+$$P > Q \ge R = S > T$$
+
+**Conclusions (તારણો):**  
+- **I.** $P > S$  
+- **II.** $Q \ge T$  
+
+---
+
+**Options:**
+- [A] Only conclusion I is true
+- [B] Only conclusion II is true
+- [C] Either conclusion I or II is true
+- [D] Neither conclusion I nor II is true
+- [E] Both conclusions I and II are true
+
 
 
 
