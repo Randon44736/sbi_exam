@@ -1033,10 +1033,50 @@ Eight persons—**A, B, C, D, E, F, G, and H**—live in a 4-storey building.
 
 ---
 
-## 🏛️ REASONING NEXT PRIORITY: CHAPTER 4
-### 🎯 SYLLOGISMS ("ONLY A FEW" & "POSSIBILITY" HACKS)
+## 🏛️ REASONING CHAPTER 4: SYLLOGISMS ("ONLY A FEW" & "POSSIBILITY" HACKS)
 - **Mock #01 Baseline:** 3 / 5 (+2.50 Net Marks | 6m 43s)
-- **લક્ષ્ય:** ૫ માંથી ૫ રોકડા માર્ક્સ માત્ર ૨ મિનિટમાં મેળવવા!
+- **મુખ્ય ભૂલો:** "Only a few" ના બેવડા નિયમ અને Possibility (શક્યતા) માં કન્ફ્યુઝન.
+
+---
+
+### 🚀 SYLLOGISMS ના ૩ સુવર્ણ સ્પીડ નિયમો (GOLDEN RULES)
+
+#### ૧. "Only a few A are B" (ફક્ત થોડાક જ A એ B છે):
+જ્યારે પણ વાક્યમાં **"Only a few"** આવે, ત્યારે તેના એક સાથે **૨ અર્થ** થાય છે:
+1. **Some A are B** (થોડાક A એ B છે $\implies$ ✅ સાચું)
+2. **Some A are NOT B** (કેટલાક A એ B નથી $\implies$ ✅ સાચું)
+
+> ⚠️ **THE MASTER TRAP (સૌથી મોટો ટ્રેપ):**
+> - **"All A being B is a possibility" $\implies$ હંમેશા FALSE (ક્યારેય શક્ય નથી!)** (કારણ કે થોડાક A ક્યારેય B નહિ બને).
+> - **"All B being A is a possibility" $\implies$ હંમેશા TRUE (શક્ય છે!)** (બધા B આરામથી A ની અંદર આવી શકે છે).
+
+---
+
+#### ૨. "Possibility" (શક્યતા) નો નિયમ:
+- **જે વાત ૧૦૦% સાચી (Definite True) હોય:** તેની શક્યતા પૂછે તો તે **ખોટી (False)** ગણાય!  
+  *(દા.ત. સૂર્ય પૂર્વમાં ઊગે છે, હવે કોઈ કહે "સૂર્ય પૂર્વમાં ઊગવાની શક્યતા છે" તો પરીક્ષામાં એ ખોટું ગણાય).*
+- **જે વાત ૧૦૦% અશક્ય (Definite False) હોય:** તેની શક્યતા પણ **ખોટી (False)** ગણાય!
+- **Doubtful (જ્યાં કોઈ સીધો સંબંધ નથી):** ત્યાં શક્યતા (Possibility) હંમેશા **સાચી (True)** પડે!
+
+---
+
+### 📝 PRACTICE QUESTION 1: SYLLOGISMS
+
+**Statements (વિધાનો):**
+1. Only a few Pens are Books. *(ફક્ત થોડીક જ Pen એ Book છે).*
+2. All Books are Scales. *(બધા Book એ Scale છે).*
+
+**Conclusions (તારણો):**
+I. Some Pens are not Books. *(કેટલીક Pen એ Book નથી).*
+II. All Pens being Books is a possibility. *(બધી Pen એ Book હોવાની એક શક્યતા છે).*
+
+**Options:**
+- [A] Only conclusion I follows
+- [B] Only conclusion II follows
+- [C] Either conclusion I or II follows
+- [D] Neither conclusion I nor II follows
+- [E] Both conclusions I and II follow
+
 
 
 
