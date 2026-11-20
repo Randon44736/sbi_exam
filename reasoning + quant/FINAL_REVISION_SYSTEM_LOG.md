@@ -1775,6 +1775,44 @@ In a family of six members—**P, Q, R, S, T, and U**:
 - [C] re
 - [D] ki
 - [E] da
+- **Candidate Choice:** [B] ga (`b`) ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - વાક્ય ૧ ('green tea **hot** cup') અને વાક્ય ૩ ('**hot** coffee sweet aroma') માં માત્ર 'hot' સામાન્ય છે.
+  - બંનેમાં સામાન્ય કોડ માત્ર **'ga'** છે $\implies$ **Option [B]!**
+- **Score:** $+1.00$ Mark! Chinese Coding ૧૦૦% CONQUERED!
+
+---
+
+## 🔢 REASONING MODULE 5: ALPHANUMERIC SERIES (DIRECTION ARITHMETIC HACK)
+
+### 🚀 ૨ સેકન્ડનો દિશા સરવાળા-બાદબાકી નિયમ:
+ક્યારેય પેપર પર બે વાર ગણતરી ન કરો, સીધો નિયમ લગાવો:
+1. **વિરુદ્ધ દિશા (Opposite: Left + Right) $\implies$ સરવાળો (+) કરો:**  
+   - "Right of Left" = $(y + x)$ મો ઘટક **ડાબે છેડેથી**!
+2. **સમાન દિશા (Same: Left - Left અથવા Right - Right) $\implies$ બાદબાકી (-) કરો:**  
+   - "Left of Left" = $(y - x)$ મો ઘટક **ડાબે છેડેથી**!
+3. **ક્યાંથી ગણવું?** હંમેશા **"From" (છેડેથી)** જે છેડો લખ્યો હોય ત્યાંથી જ ગણવું!
+
+---
+
+### ❓ PRACTICE QUESTION 1: ALPHANUMERIC SERIES
+
+**આધાર શ્રેણી (Series):**  
+`W  7  #  B  4  $  K  9  %  M  2  &  R  8  *  P  5  @  T  6`
+
+**Question:**  
+**Which element is 4th to the right of the 9th element from the left end?**  
+*(આ શ્રેણીમાં ડાબે છેડેથી ૯મા ઘટકના જમણે ૪થો ઘટક કયો હશે?)*
+
+---
+
+**Options:**
+- [A] &
+- [B] R
+- [C] 8
+- [D] M
+- [E] *
+
 
 
 
