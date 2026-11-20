@@ -8,8 +8,8 @@
   :root {
     --primary: #1A365D;
     --primary-light: #2B6CB0;
-    --accent-reasoning: #2D3748;
     --accent-quant: #1A365D;
+    --accent-reasoning: #2D3748;
     --green-bg: #F0FFF4;
     --green-border: #38A169;
     --purple-bg: #FAF5FF;
@@ -18,10 +18,9 @@
     --amber-border: #D69E2E;
     --blue-bg: #EBF8FF;
     --blue-border: #3182CE;
-    --card-bg: #FFFFFF;
     --text-main: #1A202C;
     --text-muted: #4A5568;
-    --border-color: #E2E8F0;
+    --border-color: #CBD5E0;
   }
 
   * {
@@ -33,30 +32,30 @@
     color: var(--text-main);
     background: #EDF2F7;
     margin: 0;
-    padding: 20px 10px;
-    font-size: 11px;
-    line-height: 1.45;
+    padding: 16px 8px;
+    font-size: 10.5px;
+    line-height: 1.42;
   }
 
   .main-wrapper {
-    max-width: 1060px;
+    max-width: 1080px;
     margin: 0 auto;
     background: #FFFFFF;
-    padding: 24px;
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
   }
 
-  /* STICKY NAV FOR SCREEN VIEW */
+  /* STICKY TOP NAV FOR SCREEN VIEW */
   .nav-bar {
     position: sticky;
-    top: 10px;
+    top: 8px;
     z-index: 1000;
     background: var(--primary);
     color: #FFFFFF;
-    padding: 8px 16px;
+    padding: 8px 14px;
     border-radius: 6px;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,37 +63,37 @@
   }
   .nav-title {
     font-weight: 800;
-    font-size: 12px;
+    font-size: 11.5px;
     letter-spacing: 0.5px;
   }
   .nav-links {
     display: flex;
-    gap: 12px;
+    gap: 8px;
     align-items: center;
+    flex-wrap: wrap;
   }
   .nav-links a {
     color: #E2E8F0;
     text-decoration: none;
     font-weight: 600;
-    font-size: 10.5px;
-    padding: 3px 6px;
+    font-size: 10px;
+    padding: 2px 5px;
     border-radius: 4px;
     transition: background 0.2s, color 0.2s;
   }
   .nav-links a:hover {
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.18);
     color: #F6E05E;
   }
   .btn-print {
     background: #38A169;
     color: #FFFFFF;
     border: none;
-    padding: 5px 12px;
+    padding: 4px 10px;
     border-radius: 4px;
     font-weight: 700;
-    font-size: 10.5px;
+    font-size: 10px;
     cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   }
   .btn-print:hover {
     background: #2F855A;
@@ -105,73 +104,93 @@
     background: linear-gradient(135deg, #1A365D 0%, #2B6CB0 100%);
     color: #FFFFFF;
     border-radius: 6px;
-    padding: 12px 16px;
-    margin-bottom: 14px;
+    padding: 10px 14px;
+    margin-bottom: 12px;
     text-align: center;
   }
   .header h1 {
-    margin: 0 0 4px 0;
-    font-size: 18px;
+    margin: 0 0 3px 0;
+    font-size: 16px;
     letter-spacing: 0.5px;
     font-weight: 800;
   }
   .header h2 {
-    margin: 0 0 6px 0;
-    font-size: 12px;
+    margin: 0 0 4px 0;
+    font-size: 11.5px;
     color: #E2E8F0;
     font-weight: 600;
   }
   .header .meta {
-    font-size: 10px;
+    font-size: 9.5px;
     color: #CBD5E0;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 16px;
+    gap: 14px;
   }
   .badge {
     background: #38A169;
     color: #FFFFFF;
-    padding: 2px 8px;
+    padding: 1px 7px;
     border-radius: 10px;
     font-weight: 700;
-    font-size: 9.5px;
+    font-size: 9px;
   }
 
-  /* CHAPTER BOX */
-  .chapter-box {
-    border: 1.5px solid #CBD5E0;
-    border-radius: 6px;
-    margin-bottom: 12px;
+  /* SECTION DIVIDER */
+  .section-banner {
+    background: #2D3748;
+    color: #FFFFFF;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 800;
+    margin: 12px 0 8px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .section-banner.quant {
+    background: linear-gradient(90deg, #1A365D 0%, #2B6CB0 100%);
+  }
+  .section-banner.reasoning {
+    background: linear-gradient(90deg, #2D3748 0%, #4A5568 100%);
+  }
+
+  /* CHAPTER / TOPIC BOX */
+  .topic-box {
+    border: 1.2px solid var(--border-color);
+    border-radius: 5px;
+    margin-bottom: 8px;
     overflow: hidden;
     background: #FFFFFF;
   }
-  .chapter-header {
+  .topic-header {
     color: #FFFFFF;
-    padding: 6px 12px;
-    font-size: 12px;
+    padding: 4px 10px;
+    font-size: 11px;
     font-weight: 700;
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-  .chapter-header.quant {
+  .topic-header.quant {
     background: #2B6CB0;
   }
-  .chapter-header.reasoning {
+  .topic-header.reasoning {
     background: #4A5568;
   }
-  .chapter-body {
-    padding: 8px 12px;
+  .topic-body {
+    padding: 6px 10px;
   }
 
   /* RULE CARDS */
   .rule-card {
     background: #F7FAFC;
     border-left: 3.5px solid var(--blue-border);
-    padding: 6px 10px;
-    margin-bottom: 7px;
-    border-radius: 0 5px 5px 0;
+    padding: 5px 8px;
+    margin-bottom: 5px;
+    border-radius: 0 4px 4px 0;
   }
   .rule-card.green {
     border-left-color: var(--green-border);
@@ -187,12 +206,12 @@
   }
   .rule-title {
     font-weight: 700;
-    font-size: 11px;
+    font-size: 10.5px;
     color: #2D3748;
-    margin-bottom: 3px;
+    margin-bottom: 2px;
   }
   .rule-desc {
-    font-size: 10px;
+    font-size: 9.8px;
     color: var(--text-muted);
   }
 
@@ -200,10 +219,10 @@
   .gujarati-tip {
     background: #EDF2F7;
     border: 1px dashed #A0AEC0;
-    padding: 4px 8px;
-    border-radius: 5px;
-    margin: 4px 0;
-    font-size: 10px;
+    padding: 3px 6px;
+    border-radius: 4px;
+    margin: 3px 0;
+    font-size: 9.5px;
     color: #2C5282;
     font-weight: 600;
   }
@@ -213,11 +232,11 @@
     background: #1A202C;
     color: #68D391;
     font-family: Consolas, 'Courier New', monospace;
-    font-size: 9.5px;
-    line-height: 1.25;
-    padding: 7px 10px;
-    border-radius: 5px;
-    margin: 5px 0;
+    font-size: 9.2px;
+    line-height: 1.22;
+    padding: 5px 8px;
+    border-radius: 4px;
+    margin: 4px 0;
     white-space: pre;
     overflow-x: auto;
   }
@@ -225,7 +244,7 @@
   /* GRID 2 COLUMNS */
   .grid-2 {
     display: flex;
-    gap: 10px;
+    gap: 8px;
   }
   .grid-2 > div {
     flex: 1;
@@ -234,11 +253,11 @@
   /* PRACTICE WORKED-OUT SUMS */
   .q-box {
     background: #FFFFFF;
-    border: 1px solid #CBD5E0;
-    border-radius: 5px;
-    padding: 5px 8px;
-    margin-top: 5px;
-    font-size: 9.5px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 4px 7px;
+    margin-top: 4px;
+    font-size: 9.3px;
   }
   .q-title {
     font-weight: 700;
@@ -246,9 +265,9 @@
   }
   .q-solution {
     background: #EBF8FF;
-    border-radius: 4px;
-    padding: 4px 7px;
-    margin-top: 3px;
+    border-radius: 3px;
+    padding: 3px 6px;
+    margin-top: 2px;
     color: #2A4365;
   }
 
@@ -256,13 +275,13 @@
   @media print {
     @page {
       size: A4;
-      margin: 8mm 10mm 8mm 10mm;
+      margin: 6mm 8mm 6mm 8mm;
     }
     body {
       background: #FFFFFF !important;
       padding: 0 !important;
-      font-size: 10px !important;
-      line-height: 1.38 !important;
+      font-size: 9.2px !important;
+      line-height: 1.28 !important;
     }
     .main-wrapper {
       max-width: 100% !important;
@@ -273,35 +292,50 @@
     .nav-bar {
       display: none !important;
     }
-    .chapter-box {
-      margin-bottom: 8px !important;
+    .section-banner {
+      padding: 3px 6px !important;
+      font-size: 9.8px !important;
+      margin: 4px 0 3px 0 !important;
+    }
+    .topic-box {
+      margin-bottom: 3.5px !important;
       border-width: 1px !important;
     }
-    .chapter-header {
-      padding: 4px 10px !important;
-      font-size: 11px !important;
+    .topic-header {
+      padding: 2.5px 6px !important;
+      font-size: 9.3px !important;
     }
-    .chapter-body {
-      padding: 6px 10px !important;
+    .topic-body {
+      padding: 3px 6px !important;
     }
     .rule-card {
-      padding: 4px 8px !important;
-      margin-bottom: 5px !important;
+      padding: 2px 5px !important;
+      margin-bottom: 2.5px !important;
     }
     .ascii-art {
-      padding: 5px 8px !important;
-      font-size: 9px !important;
-      margin: 4px 0 !important;
+      padding: 3px 5px !important;
+      font-size: 8.2px !important;
+      line-height: 1.15 !important;
+      margin: 2px 0 !important;
     }
     .header {
-      padding: 8px 12px !important;
-      margin-bottom: 8px !important;
+      padding: 4px 8px !important;
+      margin-bottom: 4px !important;
     }
     .header h1 {
-      font-size: 15px !important;
+      font-size: 13px !important;
     }
     .header h2 {
-      font-size: 10.5px !important;
+      font-size: 9.5px !important;
+    }
+    .gujarati-tip {
+      padding: 2px 4px !important;
+      margin: 2px 0 !important;
+      font-size: 8.7px !important;
+    }
+    .q-box {
+      padding: 2px 5px !important;
+      margin-top: 2px !important;
     }
   }
 </style>
@@ -312,19 +346,11 @@
 
   <!-- STICKY TOP NAV FOR BROWSER READING -->
   <div class="nav-bar">
-    <div class="nav-title">⚡ IBPS RRB PO 2026 MASTER REVISION PORTAL</div>
+    <div class="nav-title">⚡ IBPS RRB PO 2026 REVISION PORTAL</div>
     <div class="nav-links">
-      <a href="#ch-quant-1">Approx</a>
-      <a href="#ch-reason-1">Square</a>
-      <a href="#ch-quant-2">DI</a>
-      <a href="#ch-quant-3">Arithmetic</a>
-      <a href="#ch-quant-4">Quadratic</a>
-      <a href="#ch-reason-2">Designation</a>
-      <a href="#ch-reason-3">Floor & Flat</a>
-      <a href="#ch-reason-4">Syllogisms</a>
-      <a href="#ch-quant-5">Speed Quant</a>
-      <a href="#ch-reason-5">Speed Reasoning</a>
-      <a href="#grand-finale">🏆 Rules</a>
+      <a href="#sec-quant">⚡ Quant (1-11)</a>
+      <a href="#sec-reasoning">🧠 Reasoning (1-10)</a>
+      <a href="#sec-finale">🏆 Grand Finale & Exam Rules</a>
       <button class="btn-print" onclick="window.print()">🖨️ Print / Save PDF</button>
     </div>
   </div>
@@ -332,74 +358,298 @@
   <!-- HEADER -->
   <div class="header">
     <h1>IBPS RRB PO 2026: MASTER BILINGUAL REVISION DOSSIER</h1>
-    <h2>Hitendrasinh Solanki | 100% Prelims Syllabus Complete Revision • Zero Blank Spaces</h2>
+    <h2>Hitendrasinh Solanki | 100% Prelims Syllabus Complete Revision • 45/45 Solved (100% Flawless)</h2>
     <div class="meta">
       <span><strong>Exam Date:</strong> 21 November 2026</span>
-      <span><strong>Target:</strong> 62–68+ / 80 Marks in 45 Mins</span>
-      <span class="badge">45/45 SOLVED • 100% FLAWLESS ACCURACY</span>
-      <span><strong>Format:</strong> High-Density Dual Mode (Web & Print)</span>
+      <span><strong>Time Allocation:</strong> 45 Mins (23 Min Reasoning + 22 Min Quant)</span>
+      <span><strong>Target Score:</strong> 62–68+ / 80 Marks</span>
+      <span class="badge">100% CONQUERED • ZERO BLANK SPACES</span>
     </div>
   </div>
 
-  <!-- QUANT CHAPTER 1: APPROXIMATION -->
-  <div class="chapter-box" id="ch-quant-1">
-    <div class="chapter-header quant">
-      <span>⚡ QUANT CHAPTER 1: APPROXIMATION & SPEED MATH</span>
-      <span>Score: 6/6 (100% Accuracy)</span>
+  <!-- ========================================== -->
+  <!-- SECTION 1: QUANTITATIVE APTITUDE (1 TO 11) -->
+  <!-- ========================================== -->
+  <div class="section-banner quant" id="sec-quant">
+    <span>🟢 QUANTITATIVE APTITUDE: ALL 11 TOPICS 100% MASTERED</span>
+    <span>Score: 27 / 27 (100% Accuracy)</span>
+  </div>
+
+  <!-- QUANT TOPIC 1 -->
+  <div class="topic-box" id="q1">
+    <div class="topic-header quant">
+      <span>1. ✅ Approximation & Speed Math: 3-Islands BODMAS & Base-5 Root Anchors</span>
+      <span>Score: 6/6 (100%)</span>
     </div>
-    <div class="chapter-body">
-      <div class="rule-card">
-        <div class="rule-title">1. The Fraction Conversion Ladder (મગજમાં ફિક્સ હોવું જ જોઈએ)</div>
-        <div class="rule-desc">
-          1/2 = 50% | 1/4 = 25% | 1/8 = 12.5% | 3/8 = 37.5% | 5/8 = 62.5% | 7/8 = 87.5%<br>
-          1/3 = 33.33% | 2/3 = 66.66% | 1/6 = 16.66% | 1/12 = 8.33% | 1/16 = 6.25%
-        </div>
-        <div class="gujarati-tip">
-          શોર્ટકટ: 37.5% દેખાય એટલે સીધું 3/8 લખવું. 62.5% દેખાય એટલે 5/8 લખવું!
-        </div>
-      </div>
+    <div class="topic-body">
       <div class="grid-2">
+        <div class="rule-card">
+          <div class="rule-title">The Fraction Conversion Ladder (મગજમાં ફિક્સ હોવું જ જોઈએ)</div>
+          <div class="rule-desc">
+            1/2 = 50% | 1/4 = 25% | 1/8 = 12.5% | 3/8 = 37.5% | 5/8 = 62.5% | 7/8 = 87.5%<br>
+            1/3 = 33.33% | 2/3 = 66.66% | 1/6 = 16.66% | 1/12 = 8.33% | 1/16 = 6.25%
+          </div>
+          <div class="gujarati-tip">37.5% દેખાય એટલે સીધું 3/8 લખવું. 62.5% દેખાય એટલે 5/8 લખવું!</div>
+        </div>
         <div class="rule-card green">
-          <div class="rule-title">2. Split Multiplication & Subtraction Hack</div>
+          <div class="rule-title">Split Subtraction & Base-5 Root Anchors</div>
           <div class="rule-desc">
             • <strong>Split Subtraction:</strong> 370 - 28 → 370 - 30 + 2 = 340 + 2 = <strong>342</strong>!<br>
-            • <strong>Percentage Splitting:</strong> 44% of 250 = (40% + 4%) of 250 = 100 + 10 = <strong>110</strong>!
-          </div>
-        </div>
-        <div class="rule-card purple">
-          <div class="rule-title">3. The 3-Islands BODMAS Rule & Base-5 Root Anchors</div>
-          <div class="rule-desc">
-            • <strong>3-Islands:</strong> વત્તા (+) અને ઓછા (-) સમીકરણને અલગ ટાપુમાં વહેંચે છે: 72 + 18 - 18 = <strong>72</strong>.<br>
-            • <strong>Base-5 Anchors:</strong> 55²=3025, 65²=4225. √4120 એ 4225 ની નજીક ⇒ <strong>~64.18</strong>!
+            • <strong>Base-5 Root Anchors:</strong> 55²=3025, 65²=4225, 75²=5625. √4120 એ 4225 ની નજીક ⇒ <strong>~64.18</strong>!
           </div>
         </div>
       </div>
       <div class="q-box">
-        <span class="q-title">🎯 ઉમેદવાર દ્વારા ઉકેલાયેલ લાઈવ પ્રશ્નો (Solved Examples):</span>
+        <span class="q-title">🎯 સોલ્વ કરેલા દાખલા:</span>
         <div class="q-solution">
-          [1] 37.49% of 1440.02 ⇒ (3/8) × 1440 = <strong>540</strong> | [2] √4120.15 ÷ 4.02 ⇒ 64.18 ÷ 4 = <strong>16</strong> | [3] 72 + 18 - 18 ⇒ <strong>72</strong> (3 Islands Zero-Pen!)
+          [1] 37.49% of 1440.02 ⇒ (3/8) × 1440 = <strong>540</strong> | [2] √4120.15 ÷ 4.02 ⇒ 64.18 ÷ 4 = <strong>16</strong> | [3] 44% of 250 ⇒ 100 + 10 = <strong>110</strong>.
         </div>
       </div>
     </div>
   </div>
 
-  <!-- REASONING CHAPTER 1: SQUARE SEATING -->
-  <div class="chapter-box" id="ch-reason-1">
-    <div class="chapter-header reasoning">
-      <span>🧠 REASONING CHAPTER 1: SQUARE TABLE SEATING ARRANGEMENT</span>
-      <span>Score: 6/6 (100% Accuracy)</span>
+  <!-- QUANT TOPIC 2 -->
+  <div class="topic-box" id="q2">
+    <div class="topic-header quant">
+      <span>2. ✅ Line Graph & Table DI: "than" Base Value & Ratio Shortcuts</span>
+      <span>Score: 5/5 (100%)</span>
     </div>
-    <div class="chapter-body">
+    <div class="topic-body">
+      <div class="grid-2">
+        <div class="rule-card">
+          <div class="rule-title">"Than" Base Value Rule (સૌથી મોટી ભૂલનો ઉકેલ)</div>
+          <div class="rule-desc">
+            % More / Less = [તફાવત / ("than" પછીની સંખ્યા)] × 100.<br>
+            જેના કરતાં વધારે/ઓછું પૂછ્યું હોય તે હંમેશા <strong>છેદમાં (Denominator)</strong> આવે!
+          </div>
+        </div>
+        <div class="rule-card green">
+          <div class="rule-title">Total Base Ratio & Fast Scan Strategy</div>
+          <div class="rule-desc">
+            કુલ ઉત્પાદન 4,000 માં ગુણોત્તર 5:3 હોય તો સીધું 4000/8 = 500 ⇒ 5 × 500 = <strong>2500</strong>!<br>
+            <strong>Scan Order:</strong> સરળ રેશિયો/ડિફરન્સ પ્રશ્નો પહેલા કરો, લાંબા "if/then" પ્રશ્નો છેલ્લે!
+          </div>
+        </div>
+      </div>
+      <div class="q-box">
+        <span class="q-title">🎯 સોલ્વ કરેલા દાખલા:</span>
+        <div class="q-solution">
+          [1] A's production (4000, 5:3) = <strong>2500</strong> | [2] % More of C (600) than E (400) ⇒ (200/400) × 100 = <strong>50%</strong>.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 3 -->
+  <div class="topic-box" id="q3">
+    <div class="topic-header quant">
+      <span>3. ✅ Pie Chart DI: 360° Benchmarks & Zero-Value Degree Ratio</span>
+      <span>Score: 2/2 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="grid-2">
+        <div class="rule-card purple">
+          <div class="rule-title">Pie Chart Degree Benchmarks (360° = 100%)</div>
+          <div class="rule-desc">
+            • 180° = 50% | 90° = 25% | 72° = 20% | 54° = 15% | 36° = 10% | 18° = 5%<br>
+            • ડિગ્રીમાંથી સંખ્યા શોધ્યા વગર સીધો ડિગ્રીનો ગુણોત્તર લો: 54° : 36° = <strong>3:2</strong>!
+          </div>
+        </div>
+        <div class="rule-card amber">
+          <div class="rule-title">Degree Difference Multiplier</div>
+          <div class="rule-desc">
+            કુલ વિદ્યાર્થી = 72,000 ⇒ 360° = 72,000 ⇒ 1° = 200.<br>
+            Science (90°) અને Arts (72°) વચ્ચેનો તફાવત = 18° ⇒ 18 × 200 = <strong>3,600</strong>!
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 4 -->
+  <div class="topic-box" id="q4">
+    <div class="topic-header quant">
+      <span>4. ✅ Core Arithmetic: Ages Gap, P&L Shift, CI Doubling Ladder, Trains</span>
+      <span>Score: 5/5 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="grid-2">
+        <div class="rule-card">
+          <div class="rule-title">Ages: Constant Gap & P&L Multiplier</div>
+          <div class="rule-desc">
+            • <strong>Ages:</strong> ઉંમર વચ્ચેનો તફાવત અચળ રહે છે. 4:5 → 5:6 (6 વર્ષમાં +1 યુનિટ). 1 યુનિટ = 6 વર્ષ ⇒ A = 4 × 6 = <strong>24 વર્ષ</strong>.<br>
+            • <strong>P&L:</strong> CP × 1.20 = SP. Successive Discount: D1 + D2 - (D1×D2)/100.
+          </div>
+        </div>
+        <div class="rule-card green">
+          <div class="rule-title">CI Doubling Ladder & Trains Relative Speed</div>
+          <div class="rule-desc">
+            • <strong>CI:</strong> જો રકમ 5 વર્ષમાં બમણી (2¹) થાય, તો 8 ગણી (2³) થતાં 3 × 5 = <strong>15 વર્ષ</strong> લાગે!<br>
+            • <strong>Trains:</strong> 72 km/h × (5/18) = 20 m/s. વિરુદ્ધ દિશામાં (S1 + S2), એક જ દિશામાં (S1 - S2). સમય = (240 + 160)/20 = <strong>20 સેકન્ડ</strong>!
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 5 -->
+  <div class="topic-box" id="q5">
+    <div class="topic-header quant">
+      <span>5. ✅ Quadratic & Series: Root Sign Trap, CND 1-Sec Hack, Decimal Half</span>
+      <span>Score: 5/5 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="grid-2">
+        <div class="rule-card">
+          <div class="rule-title">Root Sign Trap & 1-Sec CND Hack</div>
+          <div class="rule-desc">
+            • <strong>Root Trap:</strong> x² = 196 ⇒ x = +14, -14. પણ y = √196 ⇒ y = +14 ONLY! તેથી <strong>x ≤ y</strong> (Option [E])!<br>
+            • <strong>CND Hack:</strong> જો બંને સમીકરણોમાં છેલ્લી અચળ સંખ્યા ઋણ (-) હોય, સીધો જવાબ <strong>CND / x=y</strong>!
+          </div>
+        </div>
+        <div class="rule-card purple">
+          <div class="rule-title">Sign Master Table & Series Hacks</div>
+          <div class="rule-desc">
+            • <strong>Signs:</strong> ++ ⇒ -- | -+ ⇒ ++ | +- ⇒ -+ | -- ⇒ +-<br>
+            • <strong>Decimal Half:</strong> × 0.5 + 0.5 → × 1 + 1 → × 2 + 2 → × 4 + 4 → × 8 + 8!<br>
+            • <strong>Wrong Number Unit Digit:</strong> 49 × 4 + 5 નો છેલ્લો અંક 1 આવવો જોઈએ, રકમમાં 205 છે ⇒ <strong>205 ખોટો</strong>!
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 6 -->
+  <div class="topic-box" id="q6">
+    <div class="topic-header quant">
+      <span>6. ✅ Time & Work: Universal Zero-LCM Shortcut & Leaving Method</span>
+      <span>Score: 2/2 (100%)</span>
+    </div>
+    <div class="topic-body">
       <div class="rule-card">
-        <div class="rule-title">1. Corners IN & Sides OUT: Left-Right Rotation Protocol</div>
+        <div class="rule-title">The Zero-LCM Leaving Formula</div>
+        <div class="rule-desc">
+          • કુલ કામ = A × B | સ્પીડ અદલાબદલી: A ની સ્પીડ = B, B ની સ્પીડ = A ⇒ ભેગી સ્પીડ = A + B.<br>
+          • <strong>બાકી કામ:</strong> (A × B) - [સાથે કરેલા દિવસ × (A + B)] ⇒ <strong>બાકી દિવસ:</strong> બાકી કામ / B ની સ્પીડ!
+        </div>
+        <div class="gujarati-tip">
+          દા.ત. A = 20 દિવસ, B = 30 દિવસ. બંને 6 દિવસ સાથે કામ કરે છે ⇒ કુલ કામ = 600. 6 દિવસમાં થયેલું કામ = 6 × 50 = 300. બાકી કામ = 300. B એકલો બાકી કામ 300 ÷ 20 = <strong>15 દિવસમાં પૂરું કરશે</strong>!
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 7 -->
+  <div class="topic-box" id="q7">
+    <div class="topic-header quant">
+      <span>7. ✅ Boats & Streams: Number Line Midpoint & Boat Add / River Subtract</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card green">
+        <div class="rule-title">Number Line Midpoint Rule</div>
+        <div class="rule-desc">
+          • <strong>શાંત પાણીમાં હોડી (u - મોટી સંખ્યા):</strong> સરવાળો / 2 ⇒ u = (Downstream + Upstream) / 2 (બરાબર વચ્ચેની સંખ્યા).<br>
+          • <strong>પ્રવાહની ઝડપ (v - નાની સંખ્યા):</strong> બાદબાકી / 2 ⇒ v = (Downstream - Upstream) / 2 (વચ્ચેથી ગેપ).<br>
+          <em>દા.ત. Downstream = 12 km/h, Upstream = 6 km/h ⇒ હોડી u = (12+6)/2 = 9 km/h, પ્રવાહ v = (12-6)/2 = <strong>3 km/h</strong>!</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 8 -->
+  <div class="topic-box" id="q8">
+    <div class="topic-header quant">
+      <span>8. ✅ Partnership: Cross-Cancellation & Divisibility Hack</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card purple">
+        <div class="rule-title">Cross-Cancellation Shortcut</div>
+        <div class="rule-desc">
+          નફાનો ગુણોત્તર = (રોકાણ 1 × સમય 1) : (રોકાણ 2 × સમય 2). શૂન્યો ઉડાડી સીધો ગુણોત્તર લો:<br>
+          A/B = (25 × 12) / (30 × 8) = 300 / 240 = <strong>5 : 4</strong>.<br>
+          કુલ નફો = ₹45,000 (કુલ 5+4 = 9 યુનિટ). 1 યુનિટ = ₹5,000 ⇒ B નો નફો = 4 × 5,000 = <strong>₹20,000</strong>! (B હંમેશા 4 નો ગુણક હોવો જોઈએ).
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 9 -->
+  <div class="topic-box" id="q9">
+    <div class="topic-header quant">
+      <span>9. ✅ Mixtures & Alligation: Cross-Subtraction Ratio Hack</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card amber">
+        <div class="rule-title">Cross-Difference Alligation Method</div>
+        <div class="rule-desc">
+          મોંઘી વસ્તુ (₹72) અને સસ્તી વસ્તુ (₹54) ભેગી કરી સરેરાશ કિંમત (₹60) બનાવવી હોય, તો ક્રોસ બાદબાકી કરો:<br>
+          • ડાબી બાજુ: 72 - 60 = <strong>12</strong> | જમણી બાજુ: 60 - 54 = <strong>6</strong>.<br>
+          • ગુણોત્તર = 12 : 6 = <strong>2 : 1</strong>! (2 કિલો ₹72 વાળી અને 1 કિલો ₹54 વાળી ભેળવવી પડે).
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 10 -->
+  <div class="topic-box" id="q10">
+    <div class="topic-header quant">
+      <span>10. ✅ Probability: 1-Line Decreasing Fraction Multiplication</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card green">
+        <div class="rule-title">Decreasing Fraction Rule (No nCr Formula!)</div>
+        <div class="rule-desc">
+          થેલીમાં 6 લાલ અને 4 લીલા દડા (કુલ 10 દડા) છે. એક પછી એક 2 દડા કાઢતાં બંને લાલ નીકળે તેની સંભાવના:<br>
+          પહેલો લાલ = 6/10, બીજો લાલ = 5/9 ⇒ સીધો ગુણાકાર = (6/10) × (5/9) = (3/5) × (5/9) = <strong>1/3</strong>! (કોઈ nCr વગર સીધો ૧૦ સેકન્ડમાં જવાબ!).
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUANT TOPIC 11 -->
+  <div class="topic-box" id="q11">
+    <div class="topic-header quant">
+      <span>11. ✅ Exact Simplification: VBODMAS 3-Islands Left-to-Right Rule</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card">
+        <div class="rule-title">The 3-Islands Rule</div>
+        <div class="rule-desc">
+          વત્તા (+) અને ઓછા (-) ચિહ્નો સમીકરણને અલગ ટાપુઓમાં વહેંચે છે. દરેક ટાપુને સ્વતંત્ર ગણીને છેલ્લે સરવાળો/બાદબાકી કરો:<br>
+          <em>દા.ત. 72 + 18 - 18 ⇒ (+18 અને -18 કેન્સલ) = <strong>72</strong>! પેન ઉપાડ્યા વગર ઝીરો-પેન વિજય!</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========================================== -->
+  <!-- SECTION 2: REASONING ABILITY (1 TO 10)     -->
+  <!-- ========================================== -->
+  <div class="section-banner reasoning" id="sec-reasoning">
+    <span>🟢 REASONING ABILITY: ALL 10 TOPICS 100% MASTERED</span>
+    <span>Score: 18 / 18 (100% Accuracy)</span>
+  </div>
+
+  <!-- REASONING TOPIC 1 -->
+  <div class="topic-box" id="r1">
+    <div class="topic-header reasoning">
+      <span>1. ✅ Square Seating: Corners IN / Sides OUT 8-Tick Paper Grid</span>
+      <span>Score: 6/6 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card">
+        <div class="rule-title">Left-Right Rotation Rule & 8-Tick Setup</div>
         <div class="rule-desc">
           • <strong>ખૂણાઓ અંદર (IN):</strong> Left = ઘડિયાળની દિશા (Clockwise), Right = ઘડિયાળની વિરુદ્ધ દિશા (Anti-clockwise).<br>
           • <strong>બાજુઓ બહાર (OUT):</strong> Left = ઘડિયાળની વિરુદ્ધ દિશા (Anti-clockwise), Right = ઘડિયાળની દિશા (Clockwise).
         </div>
       </div>
-      <div class="rule-card green">
-        <div class="rule-title">2. Completed 8-Tick Master Seating Arrangement</div>
-        <div class="ascii-art">
+      <div class="ascii-art">
         [ V ] (IN)       [ P ] (OUT)      [ U ] (IN)
        (Top-Left)         (Top Side)     (Top-Right)
                      ┌─────────────┐
@@ -409,131 +659,24 @@
          [ R ] (IN)  └─────────────┘  [ Q ] (IN)
        (Bottom-Left)    [ S ] (OUT)   (Bottom-Right)
                        (Bottom Side)
-        </div>
-        <div class="rule-desc">
-          • <strong>Opposite Pairs (સામસામે):</strong> U ↔ R (Corners), V ↔ Q (Corners), P ↔ S (Sides), T ↔ W (Sides).<br>
-          • <strong>Candidate Hand-Audit:</strong> રફ પેપર પર ચોરસ દોરીને 8 કાપા મૂકી ૧૦૦% સાચો સોલ્વ કર્યો! (Immediate left of U = P, Immediate right of T = R).
-        </div>
+      </div>
+      <div class="rule-desc">
+        • <strong>Opposites:</strong> U ↔ R, V ↔ Q (Corners In) | P ↔ S, T ↔ W (Sides Out).<br>
+        • <strong>Verified:</strong> Immediate left of U = P | Immediate right of T = R | Corner facing center = V, U, R, Q.
       </div>
     </div>
   </div>
 
-  <!-- QUANT CHAPTER 2: DATA INTERPRETATION -->
-  <div class="chapter-box" id="ch-quant-2">
-    <div class="chapter-header quant">
-      <span>⚡ QUANT CHAPTER 2: DATA INTERPRETATION (LINE, TABLE & PIE CHART)</span>
-      <span>Score: 7/7 (100% Accuracy)</span>
+  <!-- REASONING TOPIC 2 -->
+  <div class="topic-box" id="r2">
+    <div class="topic-header reasoning">
+      <span>2. ✅ Designation Puzzles: 1 to 7 Seniority Ladder (Chairman to Clerk)</span>
+      <span>Score: 2/2 (100%)</span>
     </div>
-    <div class="chapter-body">
-      <div class="grid-2">
-        <div class="rule-card">
-          <div class="rule-title">1. "Than" Base Value Rule (સૌથી મોટી ભૂલનો ઉકેલ)</div>
-          <div class="rule-desc">
-            % More / Less = [તફાવત / ("than" પછીની સંખ્યા)] × 100.<br>
-            જેના કરતાં વધારે/ઓછું પૂછ્યું હોય તે હંમેશા <strong>છેદમાં (Denominator)</strong> આવે!
-          </div>
-        </div>
-        <div class="rule-card green">
-          <div class="rule-title">2. Zero-Value Ratio & Difference Shortcut</div>
-          <div class="rule-desc">
-            એક જ ગ્રાફ કે પાઇ ચાર્ટમાં ગુણોત્તર માટે અસલ સંખ્યા ન શોધવી! સીધા ટકા કે ડિગ્રીનો જ ગુણોત્તર લેવો: 54° : 36° = <strong>3:2</strong>!
-          </div>
-        </div>
-      </div>
-      <div class="rule-card purple">
-        <div class="rule-title">3. Pie Chart Degree Benchmarks (360° = 100%)</div>
-        <div class="rule-desc">
-          • 180° = 50% | 90° = 25% | 36° = 10% | 18° = 5% | 72° = 20% | 54° = 15% | 108° = 30%<br>
-          • <strong>Degree Difference Multiplier:</strong> Science (90°) - Arts (72°) = 18°. 1° = 200 ⇒ 18 × 200 = <strong>3,600</strong>!
-        </div>
-      </div>
-      <div class="q-box">
-        <span class="q-title">🎯 ઉમેદવાર દ્વારા ઉકેલાયેલ DI પ્રશ્નો:</span>
-        <div class="q-solution">
-          [1] Total Base Ratio 5:3 ⇒ 4000/8 × 5 = <strong>2500</strong> | [2] Science vs Commerce Degree Diff ⇒ 18° × 200 = <strong>3600</strong> | [3] Percentage More than E ⇒ (600-400)/400 = <strong>50%</strong>.
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- QUANT CHAPTER 3: CORE ARITHMETIC -->
-  <div class="chapter-box" id="ch-quant-3">
-    <div class="chapter-header quant">
-      <span>⚡ QUANT CHAPTER 3: CORE ARITHMETIC SELECTION (PRELIMS SCORING CORE)</span>
-      <span>Score: 5/5 (100% Accuracy)</span>
-    </div>
-    <div class="chapter-body">
+    <div class="topic-body">
       <div class="rule-card">
-        <div class="rule-title">1. Ages: The Constant Unit-Gap Rule</div>
-        <div class="rule-desc">
-          બે વ્યક્તિઓની ઉંમર વચ્ચેનો તફાવત સમય સાથે ક્યારેય બદલાતો નથી. ગુણોત્તર 4:5 → 5:6 (6 વર્ષમાં +1 યુનિટ). 1 યુનિટ = 6 વર્ષ ⇒ A = 4 × 6 = <strong>24 વર્ષ</strong>.
-        </div>
-      </div>
-      <div class="grid-2">
-        <div class="rule-card green">
-          <div class="rule-title">2. Compound Interest: Power Ladder Doubling</div>
-          <div class="rule-desc">
-            જો રકમ T વર્ષમાં બમણી (2¹) થાય, તો 2ⁿ ગણી થતાં n × T વર્ષ લાગે!<br>
-            • 5 વર્ષમાં બમણી (2¹) ⇒ 8 ગણી (2³) થતાં 3 × 5 = <strong>15 વર્ષ</strong>!
-          </div>
-        </div>
-        <div class="rule-card purple">
-          <div class="rule-title">3. Price-Consumption Ladder & Trains</div>
-          <div class="rule-desc">
-            • <strong>Ladder:</strong> ભાવ +1/4 વધે તો વપરાશ -1/5 ઘટે (<strong>20% ઘટાડો</strong>).<br>
-            • <strong>Trains:</strong> 72 km/h × (5/18) = 20 m/s. સમય = (240 + 160) / 20 = <strong>20 સેકન્ડ</strong>!
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- QUANT CHAPTER 4: QUADRATIC & NUMBER SERIES -->
-  <div class="chapter-box" id="ch-quant-4">
-    <div class="chapter-header quant">
-      <span>⚡ QUANT CHAPTER 4: QUADRATIC EQUATIONS & NUMBER SERIES</span>
-      <span>Score: 5/5 (100% Accuracy)</span>
-    </div>
-    <div class="chapter-body">
-      <div class="grid-2">
-        <div class="rule-card">
-          <div class="rule-title">1. The Root Sign Trap</div>
-          <div class="rule-desc">
-            • x² = 196 ⇒ x = +14 અને -14<br>
-            • y = √196 ⇒ y = +14 ONLY!<br>
-            તેથી x ≤ y (Option [E])!
-          </div>
-        </div>
-        <div class="rule-card green">
-          <div class="rule-title">2. Both Constants Negative 1-Sec CND</div>
-          <div class="rule-desc">
-            જો બંને સમીકરણોમાં છેલ્લી અચળ સંખ્યા ઋણ (-) હોય (દા.ત. -18 અને -35), તો અવયવો પાડ્યા વગર સીધો જવાબ <strong>CND / x = y</strong> ટીક કરો!
-          </div>
-        </div>
-      </div>
-      <div class="rule-card purple">
-        <div class="rule-title">3. Sign Test Table & Decimal Half-Series</div>
-        <div class="rule-desc">
-          • <strong>Signs:</strong> ++ ⇒ -- | -+ ⇒ ++ | +- ⇒ -+ | -- ⇒ +-<br>
-          • <strong>Decimal Half Pattern:</strong> × 0.5 + 0.5 → × 1 + 1 → × 2 + 2 → × 4 + 4 → × 8 + 8!<br>
-          • <strong>Wrong Number Unit Digit Hack:</strong> 49 × 4 + 5 નો છેલ્લો અંક 1 આવવો જોઈએ, રકમમાં 205 (5) છે એટલે 205 જ ખોટો છે!
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- REASONING CHAPTER 2: DESIGNATION PUZZLES -->
-  <div class="chapter-box" id="ch-reason-2">
-    <div class="chapter-header reasoning">
-      <span>🧠 REASONING CHAPTER 2: DESIGNATION PUZZLES (SENIORITY LADDER)</span>
-      <span>Score: 2/2 (100% Accuracy)</span>
-    </div>
-    <div class="chapter-body">
-      <div class="rule-card">
-        <div class="rule-title">1. The 1 to 7 Seniority Ladder Method</div>
-        <div class="gujarati-tip">
-          રફ પેપર પર ૧ થી ૭ ઊભા લખો. સૌથી મોટો હોદ્દો ટોચ પર (નંબર ૧) અને સૌથી નાનો તળિયે (નંબર ૭) મૂકો.
-        </div>
+        <div class="rule-title">1 to 7 Ladder Hierarchy Method</div>
+        <div class="gujarati-tip">રફ પેપર પર ૧ થી ૭ ઊભા લખો. સૌથી મોટો હોદ્દો ટોચ પર (૧) અને સૌથી નાનો તળિયે (૭) મૂકો.</div>
         <div class="ascii-art">
    નંબર │ હોદ્દો (Designation) │ વ્યક્તિ (Person)
   ──────┼──────────────────────┼──────────────────
@@ -552,26 +695,23 @@
     </div>
   </div>
 
-  <!-- REASONING CHAPTER 3: FLOOR & FLAT PUZZLES -->
-  <div class="chapter-box" id="ch-reason-3">
-    <div class="chapter-header reasoning">
-      <span>🏢 REASONING CHAPTER 3: FLOOR & FLAT PUZZLES (4x2 GRID SYSTEM)</span>
-      <span>Score: 3/3 (100% Clean Sweep)</span>
+  <!-- REASONING TOPIC 3 -->
+  <div class="topic-box" id="r3">
+    <div class="topic-header reasoning">
+      <span>3. ✅ Floor & Flat Puzzles: 4x2 Grid & Even/Odd Paper Markers</span>
+      <span>Score: 3/3 (100%)</span>
     </div>
-    <div class="chapter-body">
+    <div class="topic-body">
       <div class="rule-card">
-        <div class="rule-title">1. The 4x2 Rough Paper Grid & Spatial Rules</div>
-        <div class="gujarati-tip">
-          પેપર પર ૪ માળ (૧ થી ૪) અને ૨ ફ્લેટ (Flat 1/A = West, Flat 2/B = East) ની ગ્રીડ બનાવો. બેકી માળ (4 અને 2) આગળ '-' નિશાની કરો!
-        </div>
+        <div class="rule-title">4x2 Grid Setup & Directional Rules</div>
         <div class="rule-desc">
-          • <strong>"To the East of X":</strong> X ની સાથે એ જ માળ પર જમણી બાજુ (Same Floor, Flat B).<br>
-          • <strong>"Immediately above in DIFFERENT flats":</strong> એક માળ ઉપર પણ બાજુના ફ્લેટમાં (ક્રોસ/ત્રાંસું).
+          • બેકી માળ (4 અને 2) આગળ '-' નિશાની કરો.<br>
+          • "East of X" = એ જ માળ પર Flat B | "Immediately above in different flat" = એક માળ ઉપર પણ બાજુના ફ્લેટમાં (ક્રોસ).
         </div>
       </div>
       <div class="grid-2">
         <div>
-          <div style="font-weight:700; color:#2B6CB0; font-size:10px;">Set 1 (P, Q, R, S, T, U, V, W):</div>
+          <div style="font-weight:700; color:#2B6CB0; font-size:9.5px;">Set 1 (P, Q, R, S, T, U, V, W):</div>
           <div class="ascii-art">
  માળ │ Flat A (West) │ Flat B (East)
 ─────┼───────────────┼───────────────
@@ -582,7 +722,7 @@
           </div>
         </div>
         <div>
-          <div style="font-weight:700; color:#2B6CB0; font-size:10px;">Set 2 (A, B, C, D, E, F, G, H):</div>
+          <div style="font-weight:700; color:#2B6CB0; font-size:9.5px;">Set 2 (A, B, C, D, E, F, G, H):</div>
           <div class="ascii-art">
  માળ │ Flat 1 (West)│ Flat 2 (East)
 ─────┼───────────────┼───────────────
@@ -593,21 +733,21 @@
           </div>
         </div>
       </div>
-      <div class="rule-desc" style="margin-top:4px;">
-        • Floor 3 Flat 2 = <strong>F</strong> (Candidate Hand-Drawn 100% Correct!) | Above Q in different flat = <strong>R (Floor 3, Flat B)</strong>.
+      <div class="rule-desc" style="margin-top:3px;">
+        • Floor 3 Flat 2 = <strong>F</strong> (Candidate Hand-Drawn Correct!) | Above Q in different flat = <strong>R (Floor 3, Flat B)</strong>.
       </div>
     </div>
   </div>
 
-  <!-- REASONING CHAPTER 4: SYLLOGISMS -->
-  <div class="chapter-box" id="ch-reason-4">
-    <div class="chapter-header reasoning">
-      <span>🎯 REASONING CHAPTER 4: SYLLOGISMS ("ONLY A FEW" & POSSIBILITY)</span>
-      <span>Score: 3/3 (100% Clean Sweep)</span>
+  <!-- REASONING TOPIC 4 -->
+  <div class="topic-box" id="r4">
+    <div class="topic-header reasoning">
+      <span>4. ✅ Syllogisms: "Only a few" Dual Truth & Unified Venn Circles</span>
+      <span>Score: 3/3 (100%)</span>
     </div>
-    <div class="chapter-body">
+    <div class="topic-body">
       <div class="rule-card amber">
-        <div class="rule-title">1. "Only a few A are B" નો સુવર્ણ બેવડો નિયમ</div>
+        <div class="rule-title">"Only a few A are B" નો સુવર્ણ બેવડો નિયમ</div>
         <div class="rule-desc">
           આના હંમેશા ૨ અર્થ થાય: (1) Some A are B (સાચું), અને (2) Some A are NOT B (સાચું).<br>
           • <strong>"All A being B is a possibility" ⇒ હંમેશા FALSE (ક્યારેય શક્ય નથી!)</strong><br>
@@ -615,7 +755,7 @@
         </div>
       </div>
       <div class="rule-card green">
-        <div class="rule-title">2. "Only A are B" & Unified Venn Diagram Method</div>
+        <div class="rule-title">"Only A are B" (Locked Reverse All) Venn Diagram</div>
         <div class="ascii-art">
        ┌───────────────────────────┐
        │           STARS           │
@@ -628,126 +768,159 @@
        └───────────────────────────┘
         </div>
         <div class="rule-desc">
-          • <strong>"Only Stars are Moons":</strong> All Moons are strictly inside Stars (Locked). Moon cannot touch Sun or Planet!<br>
+          • All Moons are strictly inside Stars (Locked). Moon cannot touch Sun or Planet!<br>
           • All Moons being Sun is a possibility = <strong>FALSE</strong> | All Planets being Star is a possibility = <strong>TRUE</strong>!
         </div>
       </div>
     </div>
   </div>
 
-  <!-- QUANT CHAPTER 5: ADVANCED ARITHMETIC SPEED CORE -->
-  <div class="chapter-box" id="ch-quant-5">
-    <div class="chapter-header quant">
-      <span>⚡ QUANT CHAPTER 5: ADVANCED ARITHMETIC SPEED CORE</span>
-      <span>Score: 5/5 (100% Clean Sweep)</span>
+  <!-- REASONING TOPIC 5 -->
+  <div class="topic-box" id="r5">
+    <div class="topic-header reasoning">
+      <span>5. ✅ Inequalities: Open-Gate King vs Soldier Hierarchy</span>
+      <span>Score: 1/1 (100%)</span>
     </div>
-    <div class="chapter-body">
-      <div class="grid-2">
-        <div class="rule-card">
-          <div class="rule-title">1. Time & Work: The Zero-LCM Universal Shortcut</div>
-          <div class="rule-desc">
-            • <strong>કુલ કામ:</strong> સીધો ગુણાકાર A × B.<br>
-            • <strong>સ્પીડ અદલાબદલી:</strong> A ની સ્પીડ = B નો નંબર, B ની સ્પીડ = A નો નંબર ⇒ સાથે સ્પીડ = A + B.<br>
-            • <strong>બાકી કામ:</strong> (A × B) - [દિવસ × (A + B)].<br>
-            • <strong>B ના દિવસ:</strong> બાકી કામ / B ની સ્પીડ!<br>
-            <em>દા.ત. A=20, B=30, 6 દિવસ સાથે ⇒ 600 - (6 × 50) = 300 ÷ 20 = <strong>15 દિવસ</strong>!</em>
-          </div>
-        </div>
-        <div class="rule-card green">
-          <div class="rule-title">2. Boats & Streams: The Number Line Midpoint Rule</div>
-          <div class="rule-desc">
-            • <strong>મોટી વસ્તુ (હોડી u):</strong> સરવાળો / 2 ⇒ u = (D + U) / 2 (બરાબર વચ્ચેની સંખ્યા).<br>
-            • <strong>નાની વસ્તુ (પ્રવાહ v):</strong> બાદબાકી / 2 ⇒ v = (D - U) / 2 (વચ્ચેની સંખ્યાથી બંને બાજુનો ગેપ).<br>
-            <em>દા.ત. D = 12 km/h, U = 6 km/h ⇒ હોડી = (12+6)/2 = 9 km/h, પ્રવાહ = (12-6)/2 = <strong>3 km/h</strong>!</em>
-          </div>
-        </div>
-      </div>
-      <div class="rule-card purple">
-        <div class="rule-title">3. Partnership, Mixtures & Alligation, and Probability</div>
+    <div class="topic-body">
+      <div class="rule-card">
+        <div class="rule-title">King vs Soldier Open-Gate Protocol</div>
         <div class="rule-desc">
-          • <strong>Partnership Cross-Cancellation:</strong> A/B = (25 × 12) / (30 × 8) = <strong>5 : 4</strong>. B નો નફો હંમેશા 4 નો ગુણક હોવો જોઈએ ⇒ <strong>₹20,000</strong>!<br>
-          • <strong>Mixtures & Alligation:</strong> ક્રોસ બાદબાકી: (D - M) : (M - C) = (72 - 60) : (60 - 54) = 12 : 6 = <strong>2 : 1</strong>!<br>
-          • <strong>Probability (2 Balls Drawn):</strong> કોઈ nCr નહિ! સીધો ઘટતો ગુણાકાર: (6/10) × (5/9) = (3/5) × (5/9) = <strong>1/3</strong>!
-        </div>
-      </div>
-      <div class="q-box">
-        <span class="q-title">🎯 ઉમેદવાર દ્વારા ઉકેલાયેલ એડવાન્સ અંકગણિત પ્રશ્નો:</span>
-        <div class="q-solution">
-          [1] A=20, B=30 Work together 6 days ⇒ B finishes in <strong>15 Days</strong> | [2] Stream speed (12-6)/2 = <strong>3 km/h</strong> | [3] Partnership B's share = <strong>₹20,000</strong> | [4] Mixtures ratio = <strong>2:1</strong> | [5] 2 Red balls probability = <strong>1/3</strong>.
+          • <strong>રાજા (> અથવા <):</strong> રસ્તામાં ૧ પણ રાજા દેખાય તો તારણમાં રાજા જ જીતે!<br>
+          • <strong>સૈનિક (≥ અથવા ≤):</strong> દરેક દરવાજે સૈનિક ઊભો હોય તો જ જીતે. ૧ પણ રાજા આવે તો સૈનિક હારી જાય (ખોટો પડે)!<br>
+          <em>દા.ત. P ≥ Q > R = S ≥ T ⇒ P > R (રાજા છે ⇒ સાચું), R ≥ T (બધા દરવાજે સૈનિક છે ⇒ સાચું)!</em>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- REASONING CHAPTER 5: SPEED CORE -->
-  <div class="chapter-box" id="ch-reason-5">
-    <div class="chapter-header reasoning">
-      <span>🧠 REASONING CHAPTER 5: SPEED CORE (INEQUALITIES, DIRECTIONS, BLOOD, CODING & RANKS)</span>
-      <span>Score: 6/6 (100% Clean Sweep)</span>
+  <!-- REASONING TOPIC 6 -->
+  <div class="topic-box" id="r6">
+    <div class="topic-header reasoning">
+      <span>6. ✅ Direction Sense: 5-12-13 Pythagoras Triplet & 8-Compass Points</span>
+      <span>Score: 1/1 (100%)</span>
     </div>
-    <div class="chapter-body">
+    <div class="topic-body">
       <div class="grid-2">
-        <div class="rule-card">
-          <div class="rule-title">1. Inequalities: Open-Gate King vs Soldier</div>
-          <div class="rule-desc">
-            • <strong>રાજા (> અથવા <):</strong> રસ્તામાં ૧ પણ રાજા દેખાય તો તારણમાં રાજા જ જીતે!<br>
-            • <strong>સૈનિક (≥ અથવા ≤):</strong> દરેક દરવાજે સૈનિક ઊભો હોય તો જ જીતે. ૧ પણ રાજા આવે તો સૈનિક હારી જાય (ખોટો પડે)!
-          </div>
-        </div>
         <div class="rule-card green">
-          <div class="rule-title">2. Direction Sense: 5-12-13 Pythagoras Triplet</div>
+          <div class="rule-title">Pythagoras Triplets Shortcut</div>
           <div class="rule-desc">
+            • 3-4-5 | <strong>5-12-13</strong> | 8-15-17 | 7-24-25.<br>
             • 12 m North અને 5 m East ⇒ લઘુત્તમ અંતર = √(12² + 5²) = <strong>13 મીટર</strong>.<br>
-            • દિશા: ઉત્તર અને પૂર્વની વચ્ચે ⇒ <strong>North-East</strong>!
+            • શરૂઆતના બિંદુથી દિશા: ઉત્તર અને પૂર્વની વચ્ચે ⇒ <strong>North-East</strong>!
           </div>
         </div>
-      </div>
-      <div class="grid-2" style="margin-top: 4px;">
-        <div class="rule-card purple">
-          <div class="rule-title">3. Blood Relations & Chinese Coding</div>
-          <div class="rule-desc">
-            • <strong>Blood Relations:</strong> P પત્નીનો પિતા છે, S પતિ છે ⇒ P, S નો <strong>Father-in-law (સસરા)</strong> થાય!<br>
-            • <strong>Chinese Coding:</strong> Target Word 'hot' વાક્ય ૧ અને ૩ માં છે ⇒ સામાન્ય કોડ સીધો <strong>'ga'</strong>!
+        <div class="rule-card">
+          <div class="rule-title">8-Point Compass Points</div>
+          <div class="ascii-art">
+        N (North)
+  NW        |        NE
+    \       |       /
+W ───┼───────┼───────┼─── E
+    /       |       \
+  SW        |        SE
+        S (South)
           </div>
-        </div>
-        <div class="rule-card amber">
-          <div class="rule-title">4. Alphanumeric Series & Order-Ranking</div>
-          <div class="rule-desc">
-            • <strong>Alphanumeric:</strong> વિરુદ્ધ દિશા (Right of Left) ⇒ 9 + 4 = <strong>13th from Left = 'R'</strong>!<br>
-            • <strong>Order & Ranking:</strong> Total = (Left + Right) - 1 = (7 + 7) - 1 = <strong>13</strong>! (એક જ વ્યક્તિ બે વાર ગણાય એટલે ૧ બાદ કરવો જ!).
-          </div>
-        </div>
-      </div>
-      <div class="q-box">
-        <span class="q-title">🎯 ઉમેદવાર દ્વારા ઉકેલાયેલ સ્પીડ રીઝનિંગ પ્રશ્નો:</span>
-        <div class="q-solution">
-          [1] Inequalities: Both I & II follow | [2] Directions: 13m North-East | [3] Blood: Father-in-law | [4] Coding: 'hot' = 'ga' | [5] Series: 13th = 'R' | [6] Ranking: (7+7)-1 = <strong>13</strong>.
         </div>
       </div>
     </div>
   </div>
 
-  <!-- FINAL SUMMARY FOOTER -->
-  <div class="chapter-box" id="grand-finale" style="border: 2px solid #38A169;">
-    <div class="chapter-header" style="background: #38A169;">
-      <span>🏆 GRAND FINALE: HITENDRASINH SOLANKI COMPLETE PRELIMS SYLLABUS 100% CONQUERED!</span>
-      <span>45/45 Solved with 100% Flawless Accuracy • Projected Score: 62–68+ / 80 Marks</span>
+  <!-- REASONING TOPIC 7 -->
+  <div class="topic-box" id="r7">
+    <div class="topic-header reasoning">
+      <span>7. ✅ Blood Relations: 3-Generation Family Tree & Gender Symbols</span>
+      <span>Score: 1/1 (100%)</span>
     </div>
-    <div class="chapter-body" style="background: #F0FFF4;">
-      <div style="display: flex; gap: 12px; margin-bottom: 6px;">
-        <div style="flex: 1; background: #FFFFFF; padding: 6px; border-radius: 5px; border: 1px solid #CBD5E0;">
-          <strong style="color: #2B6CB0;">🟢 Quantitative Aptitude (All 11 Topics Mastered):</strong><br>
-          Approximation • Line, Table & Pie DI • Ages • Profit-Loss • CI Doubling • Trains • Quadratic Equations • Number Series • Time & Work (Zero-LCM) • Boats & Streams (Midpoint) • Partnership • Mixtures • Probability • BODMAS
-        </div>
-        <div style="flex: 1; background: #FFFFFF; padding: 6px; border-radius: 5px; border: 1px solid #CBD5E0;">
-          <strong style="color: #4A5568;">🟢 Reasoning Ability (All 10 Topics Mastered):</strong><br>
-          Square Seating (Corners In) • Designation Ladder (1-7) • Floor & Flat (4x2 Grid) • Syllogisms ("Only a few" & Possibility) • Inequalities (Open Gate) • Direction Sense (Pythagoras) • Blood Relations • Chinese Coding • Alphanumeric • Order & Ranking
+    <div class="topic-body">
+      <div class="rule-card purple">
+        <div class="rule-title">Family Tree Standard Symbols</div>
+        <div class="rule-desc">
+          • પુરુષ = [+], સ્ત્રી = [-], પરિણીત દંપતી = [A ⇔ B], ભાઈ-બહેન = [A -- B], પેઢી = ઊભી લીટી [|].<br>
+          • <em>પ્રશ્ન:</em> P પત્નીનો પિતા છે, S પતિ છે ⇒ P એ S ના શું થાય? ⇒ <strong>Father-in-law (સસરા)</strong>!
         </div>
       </div>
-      <strong>પરીક્ષા ખંડ માટે ૩ સુવર્ણ કાયદા (Candidate Exam Code):</strong><br>
-      1. <strong>20-Second Drop Rule:</strong> જો કોઈ પ્રશ્નની રીત ૨૦ સેકન્ડમાં મગજમાં ન બેસે, તો અહમ પર લીધા વગર તરત સ્કીપ કરો!<br>
-      2. <strong>Zero-Tukka Law:</strong> ક્યારેય અંદાજથી તુક્કો ન મારવો. સ્કીપ = 0.00, તુક્કો = -0.25!<br>
-      3. <strong>Final Click Verification:</strong> ગણતરી સાચી થયા પછી માઉસથી ઓપ્શન [A]–[E] ક્લિક કરતાં પહેલાં ૧ સેકન્ડ શાંતિથી નંબર વેરીફાઈ કરી લેવો!
+    </div>
+  </div>
+
+  <!-- REASONING TOPIC 8 -->
+  <div class="topic-box" id="r8">
+    <div class="topic-header reasoning">
+      <span>8. ✅ Chinese Coding: Target-First Common Word Elimination</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card amber">
+        <div class="rule-title">Target-First Zero-Pen Method</div>
+        <div class="rule-desc">
+          આખા વાક્યોનું કોડિંગ ટેબલ બનાવવું નહિ! સીધું પૂછેલા શબ્દ (Target Word) પર જ નજર કરવી:<br>
+          • "tea is hot" = "pa da ga"<br>
+          • "coffee is cold" = "ma da sa"<br>
+          • "hot milk" = "ga lo"<br>
+          Target Word 'hot' વાક્ય ૧ અને ૩ માં છે ⇒ બંનેમાં સામાન્ય કોડ સીધો <strong>'ga'</strong> છે! (૨ સેકન્ડમાં સોલ્વ).
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- REASONING TOPIC 9 -->
+  <div class="topic-box" id="r9">
+    <div class="topic-header reasoning">
+      <span>9. ✅ Alphanumeric Series: Opposite/Same Add-Subtract Hack</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card">
+        <div class="rule-title">Direction Arithmetic Rule</div>
+        <div class="rule-desc">
+          • <strong>વિરુદ્ધ દિશાઓ (Right of Left / Left of Right):</strong> સરવાળો (+) કરવો.<br>
+          • <strong>સરખી દિશાઓ (Right of Right / Left of Left):</strong> બાદબાકી (-) કરવી.<br>
+          <em>દા.ત. ડાબેથી 9મા તત્વની જમણી બાજુ 4થું તત્વ ⇒ વિરુદ્ધ છે એટલે 9 + 4 = <strong>ડાબેથી 13મું તત્વ = 'R'</strong>!</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- REASONING TOPIC 10 -->
+  <div class="topic-box" id="r10">
+    <div class="topic-header reasoning">
+      <span>10. ✅ Order & Ranking: Total = (L + R) - 1 Rule</span>
+      <span>Score: 1/1 (100%)</span>
+    </div>
+    <div class="topic-body">
+      <div class="rule-card green">
+        <div class="rule-title">Overlapping Single-Person Rank Formula</div>
+        <div class="rule-desc">
+          કુલ વ્યક્તિ = (ડાબેથી ક્રમ + જમણેથી ક્રમ) - 1.<br>
+          ૧ શા માટે બાદ કરવાનો? કારણ કે તે જ વ્યક્તિ ડાબેથી અને જમણેથી બે વાર ગણાઈ જાય છે!<br>
+          <em>દા.ત. રોહન ડાબેથી 7મો અને જમણેથી 7મો છે ⇒ કુલ = (7 + 7) - 1 = 14 - 1 = <strong>13 વ્યક્તિ</strong>!</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========================================== -->
+  <!-- SECTION 3: GRAND FINALE & EXAM RULES       -->
+  <!-- ========================================== -->
+  <div class="topic-box" id="sec-finale" style="border: 2px solid #38A169; margin-top: 10px;">
+    <div class="topic-header" style="background: #38A169;">
+      <span>🏆 GRAND FINALE: HITENDRASINH SOLANKI COMPLETE PRELIMS PROTOCOL</span>
+      <span>Target: 62–68+ / 80 Marks • 45 Mins</span>
+    </div>
+    <div class="topic-body" style="background: #F0FFF4;">
+      <div class="grid-2" style="margin-bottom: 6px;">
+        <div style="background: #FFFFFF; padding: 6px 10px; border-radius: 4px; border: 1px solid #CBD5E0;">
+          <strong style="color: #2B6CB0;">⏱️ સમય અને સ્કોર બજેટ (45 Mins Strategy):</strong><br>
+          • <strong>Reasoning Ability:</strong> 23 મિનિટ → ટાર્ગેટ: 34–37 પ્રશ્નો (100% ચોકસાઈ).<br>
+          • <strong>Quantitative Aptitude:</strong> 22 મિનિટ → ટાર્ગેટ: 28–32 પ્રશ્નો (100% ચોકસાઈ).<br>
+          • <strong>કુલ અંદાજિત સ્કોર:</strong> <strong>62.00–68.00+ / 80 Marks</strong> (Cut-off થી ઘણો ઊંચો!).
+        </div>
+        <div style="background: #FFFFFF; padding: 6px 10px; border-radius: 4px; border: 1px solid #CBD5E0;">
+          <strong style="color: #276749;">🎯 પરીક્ષા ખંડ માટે ૩ સુવર્ણ કાયદા (Exam Hall Laws):</strong><br>
+          1. <strong>20-Second Drop Rule:</strong> ૨૦ સેકન્ડમાં પ્રશ્નનો રસ્તો મગજમાં ન દેખાય તો ઈગો પર લીધા વગર તરત સ્કીપ કરો!<br>
+          2. <strong>Zero-Tukka Law:</strong> ક્યારેય અંદાજથી તુક્કો ન મારવો. સ્કીપ = 0.00, તુક્કો = -0.25!<br>
+          3. <strong>Final Click Verification:</strong> સાચો જવાબ આવ્યા પછી માઉસથી [A]–[E] ક્લિક કરતી વખતે ૧ સેકન્ડ શાંતિથી નંબર કન્ફર્મ કરવો!
+        </div>
+      </div>
     </div>
   </div>
 
