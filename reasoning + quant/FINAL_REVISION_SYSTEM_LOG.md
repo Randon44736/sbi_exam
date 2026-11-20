@@ -1653,6 +1653,47 @@ $$A \ge B = C \ge D > E$$
 - [C] Either conclusion I or II is true
 - [D] Neither conclusion I nor II is true
 - [E] Both conclusions I and II are true
+- **Candidate Choice:** [A] Only conclusion I is true (`a ?`) ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - $A$ થી $D$ ના રસ્તા પર દરેક દરવાજે સૈનિક ($\ge$ કે $=$) છે $\implies A \ge D$ **સાચું!**
+  - $A$ થી $E$ ના રસ્તામાં છેલ્લે રાજા ($>$) આવી ગયો, એટલે સૈનિક ($\ge$) હારી જાય $\implies A \ge E$ **ખોટું!**
+- **Score:** $+1.00$ Mark! Inequalities ૧૦૦% CONQUERED!
+
+---
+
+## 🧭 REASONING MODULE 2: DIRECTION SENSE & PYTHAGORAS TRIPLETS
+
+### 🚀 ૨ સુવર્ણ સ્પીડ નિયમો:
+1. **૮ હોકાયંત્ર દિશાઓ (8 Compass Points):**
+   - ઉપર = **ઉત્તર (North)** | નીચે = **દક્ષિણ (South)**
+   - જમણે = **પૂર્વ (East)** | ડાબે = **પશ્ચિમ (West)**
+   - ત્રાંસી દિશાઓ: North-East (ઉત્તર-પૂર્વ), North-West (ઉત્તર-પશ્ચિમ), South-East (દક્ષિણ-પૂર્વ), South-West (દક્ષિણ-પશ્ચિમ).
+2. **પાયથાગોરસ ત્રિપુટી (Shortest Distance Hack):**
+   - $3 - 4 \implies \mathbf{5}$
+   - $6 - 8 \implies \mathbf{10}$
+   - $5 - 12 \implies \mathbf{13}$
+   - $8 - 15 \implies \mathbf{17}$
+   - ટૂંકું અંતર = $\sqrt{\text{પાયો}^2 + \text{વેધ}^2}$
+
+---
+
+### ❓ PRACTICE QUESTION 1: DIRECTION SENSE
+
+**Problem:**  
+A man starts from point A and walks **12 meters North**. Then he turns **right and walks 5 meters** to reach point B.  
+Find the **shortest distance** between point A and point B, and in which **direction** is point B with respect to point A?  
+*(એક માણસ બિંદુ A થી શરૂ કરી ઉત્તર તરફ 12 મીટર ચાલે છે. પછી તે જમણી બાજુ વળીને 5 મીટર ચાલીને બિંદુ B પર પહોંચે છે. બિંદુ A અને B વચ્ચેનું લઘુત્તમ (ટૂંકું) અંતર કેટલું હશે અને બિંદુ A ની સાપેક્ષે B કઈ દિશામાં હશે?)*
+
+---
+
+**Options:**
+- [A] 13 m, North-East
+- [B] 17 m, North-East
+- [C] 13 m, North-West
+- [D] 15 m, North-East
+- [E] 13 m, South-East
+
+
 
 
 
