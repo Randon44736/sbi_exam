@@ -1076,6 +1076,32 @@ II. All Pens being Books is a possibility. *(બધી Pen એ Book હોવા
 - [C] Either conclusion I or II follows
 - [D] Neither conclusion I nor II follows
 - [E] Both conclusions I and II follow
+- **Candidate Choice:** [A] Only conclusion I follows ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - "Only a few Pens are Books" નો અર્થ જ થાય છે કે "Some Pens are NOT Books" $\implies$ Conclusion I ૧૦૦% સાચું!
+  - "All Pens being Books" ક્યારેય શક્ય નથી, એટલે તેની Possibility ખોટી પડે $\implies$ Conclusion II ખોટું!
+- **Score:** $+1.00$ Mark! (Zero Negative).
+
+---
+
+### 📝 PRACTICE QUESTION 2: SYLLOGISMS (NEGATIVE BOUNDARY + REVERSE POSSIBILITY)
+
+**Statements (વિધાનો):**
+1. Only a few Mobiles are Laptops. *(ફક્ત થોડાક જ Mobile એ Laptop છે).*
+2. All Laptops are Tablets. *(બધા Laptop એ Tablet છે).*
+3. No Tablet is Camera. *(કોઈ Tablet એ Camera નથી).*
+
+**Conclusions (તારણો):**
+I. All Laptops being Mobiles is a possibility. *(બધા Laptop એ Mobile હોવાની એક શક્યતા છે).*
+II. Some Mobiles are not Cameras. *(કેટલાક Mobile એ Camera નથી).*
+
+**Options:**
+- [A] Only conclusion I follows
+- [B] Only conclusion II follows
+- [C] Either conclusion I or II follows
+- [D] Neither conclusion I nor II follows
+- [E] Both conclusions I and II follow
+
 
 
 
