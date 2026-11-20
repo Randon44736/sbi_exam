@@ -1314,6 +1314,22 @@ A can complete a work in **10 days** and B in **15 days**. They work together fo
    - બાકી કામ = $\text{કુલ કામ} - \text{સાથે કામ}$
    - બાકીના દિવસ = $\frac{\text{બાકી કામ}}{\text{જે માણસ બાકી હોય તેની સ્પીડ}}$
 
+---
+
+### ❓ FINAL INDEPENDENT PRACTICE QUESTION (TIME & WORK ZERO-LCM TEST):
+
+**Problem:**  
+A can complete a piece of work in **20 days**, and B can complete the same work in **30 days**. They work together for **6 days**, and then A leaves. In how many days will B complete the remaining work?  
+*(A એક કામ 20 દિવસમાં અને B તે જ કામ 30 દિવસમાં પૂરું કરે છે. બંને સાથે 6 દિવસ કામ કરે છે અને પછી A કામ છોડી દે છે. બાકીનું કામ પૂરું કરતાં B ને કેટલા દિવસ લાગશે?)*
+
+**Options:**
+- [A] 12 days
+- [B] 15 days
+- [C] 18 days
+- [D] 10 days
+- [E] 14 days
+
+
 
 
 
