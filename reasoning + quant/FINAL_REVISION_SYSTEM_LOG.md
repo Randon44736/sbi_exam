@@ -1812,6 +1812,40 @@ In a family of six members—**P, Q, R, S, T, and U**:
 - [C] 8
 - [D] M
 - [E] *
+- **Candidate Choice:** [B] R (`b`) ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - વિરુદ્ધ દિશા (Right of Left) $\implies 9 + 4 = \mathbf{13}$ મો ઘટક ડાબે છેડેથી!
+  - ડાબે છેડેથી ૧૩મો ઘટક ગણતાં સીધો **'R' (Option [B])** મળે છે!
+- **Score:** $+1.00$ Mark! Alphanumeric Series ૧૦૦% CONQUERED!
+
+---
+
+## 📊 REASONING MODULE 6: ORDER & RANKING (હરોળ અને ક્રમ)
+
+### 🚀 ૨ સુવર્ણ સ્પીડ સૂત્રો:
+1. **કુલ સંખ્યા શોધવી (Total in a row):**  
+   $$\text{Total} = (\text{Left} + \text{Right}) - 1$$  
+   *(શા માટે $-1$? કારણ કે તે એક જ માણસ ડાબેથી અને જમણેથી બે વાર ગણાઈ જાય છે!)*
+2. **બીજી બાજુથી ક્રમ શોધવો (Opposite Rank):**  
+   $$\text{Opposite Rank} = (\text{Total} + 1) - \text{આપેલ ક્રમ}$$
+
+---
+
+### ❓ PRACTICE QUESTION 1: ORDER & RANKING
+
+**Problem:**  
+In a row of students, **Rohan ranks 16th from the left end** and **25th from the right end**. How many total students are there in the row?  
+*(વિદ્યાર્થીઓની એક હરોળમાં રોહનનો ક્રમ ડાબે છેડેથી 16મો અને જમણે છેડેથી 25મો છે. તો તે હરોળમાં કુલ કેટલા વિદ્યાર્થીઓ હશે?)*
+
+---
+
+**Options:**
+- [A] 41
+- [B] 40
+- [C] 39
+- [D] 42
+- [E] 38
+
 
 
 
