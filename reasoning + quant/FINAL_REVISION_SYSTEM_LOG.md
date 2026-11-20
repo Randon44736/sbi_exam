@@ -1410,6 +1410,48 @@ A and B start a business. A invests **₹25,000 for 12 months**, and B invests *
 - [C] ₹22,000
 - [D] ₹25,000
 - [E] ₹24,000
+- **Candidate Choice:** [A] ₹18,000 ❌ **(Trap Caught - Diagnosed!)**
+- **Correct Answer:** [B] ₹20,000
+- **Diagnosis:**
+  - $A : B = 5 : 4$. કુલ ભાગ = $5 + 4 = 9$.
+  - 1 ભાગ = $45,000 / 9 = ₹5,000$.
+  - B નો ભાગ = $4 \times 5,000 = \mathbf{₹20,000}$ (ઉમેદવારે કદાચ 40% ગણીને 18,000 ટીક કર્યું, પરંતુ છેદમાં 10 નહિ 9 આવે!).
+
+---
+
+## 🚀 PARTNERSHIP ના ૨ સુપર-ફાસ્ટ શોર્ટકટ્સ (SUPER SHORTCUTS):
+
+### ૧. The Cross-Cancellation Hack (મોટો ગુણાકાર કર્યા વગર છેદ ઉડાડવા):
+$$\frac{A}{B} = \frac{25 \times 12}{30 \times 8}$$
+- 25 અને 30 ને 5 વડે ભાગતાં $\implies 5$ અને $6$.
+- 12 અને 6 ને 6 વડે ભાગતાં $\implies 2$ અને $1$.
+- 2 અને 8 ને 2 વડે ભાગતાં $\implies 1$ અને $4$.
+- $\implies \mathbf{A : B = 5 : 4}$! કોઈ 300 કે 240 નો ગુણાકાર કરવો જ ના પડ્યો!
+
+### ૨. The 1-Second Option Elimination Hack (ગુણક પદ્ધતિ):
+- B નો ગુણોત્તર **૪** આવ્યો $\implies$ B નો જવાબ હંમેશા **૪ વડે ભગાતો હોવો જોઈએ!**
+- 18,000 ને 4 વડે ના ભગાય ($18/4 = 4.5$).
+- 20,000 ને 4 વડે ભગાય ($20/4 = 5$) $\implies$ **સીધો Option [B]!**
+
+---
+
+### ❓ RETEST QUESTION (PARTNERSHIP SHORTCUT TEST):
+
+**Problem:**  
+P and Q start a business.  
+- **P invests ₹15,000 for 8 months.**  
+- **Q invests ₹20,000 for 9 months.**  
+
+If the total profit is **₹42,000**, find **Q's share of profit**.  
+*(P ₹15,000 નું રોકાણ 8 મહિના માટે કરે છે અને Q ₹20,000 નું રોકાણ 9 મહિના માટે કરે છે. જો કુલ નફો ₹42,000 હોય, તો Q નો નફો કેટલો થશે?)*
+
+**Options:**
+- [A] ₹18,000
+- [B] ₹22,000
+- [C] ₹24,000
+- [D] ₹20,000
+- [E] ₹26,000
+
 
 
 
