@@ -957,70 +957,50 @@ Eight persons—**P, Q, R, S, T, U, V, and W**—live in a 4-storey building.
 ### ❓ QUESTION 2 ON THIS ARRANGEMENT (QUALIFYING TEST):
 **Who lives on the floor immediately above Q in a different flat?**
 *(Q ના માળની તરત જ ઉપરના માળે પરંતુ જુદા ફ્લેટ (Different Flat) માં કોણ રહે છે?)*
-- **Options:** [A] S | [B] R | [C] W | [D] P | [E] T
+- **Options:**
+  - [A] S
+  - [B] R
+  - [C] W
+  - [D] P
+  - [E] T
 - **Candidate Choice:** [B] R ✅ **(100% CORRECT!)**
 - **Working Method:**
   - Q નું સ્થાન = Floor 2, Flat A.
-  - "Immediately above floor" = Floor 3.
-  - "Different flat" = Flat B (કારણ કે Q Flat A માં છે).
-  - Floor 3 અને Flat B પર સીધો **R** રહે છે $\implies$ **Option [B]!**
-- **Score:** $+1.00$ Mark!
-- **Verdict:** ઉમેદવારે "Same Flat vs Different Flat" નો અઘરો કન્સેપ્ટ ૧૦૦% સાબિત કરી દીધો! Floor & Flat પઝલ સંપૂર્ણપણે માસ્ટર થઈ ગયું!
+  - Q ની તરત ઉપરનો માળ = Floor 3.
+  - જુદો ફ્લેટ (Different flat) = Flat B.
+  - Floor 3, Flat B પર કોણ છે? $\implies$ **R (Option [B])!**
+- **Score:** $+1.00$ Mark! (Floor & Flat Grid Interpretation ૧૦૦% માસ્ટર થઈ ગયું!)
 
 ---
 
-## 🏆 CHAPTER TRACKER: FLOOR & FLAT PUZZLES
-- **Total Questions Attempted:** 2
-- **Correct:** 2
-- **Incorrect:** 0
-- **Skipped:** 0
-- **Accuracy:** 100.0%
-- **Net Marks:** $+2.00$ (૨ માંથી ૨ સળંગ ૧૦૦% સાચા!)
-- **Status:** 🟢 **FULLY CONQUERED & EXAM QUALIFIED!**
+## 🏢 FLOOR & FLAT PUZZLE 2: FRESH PRACTICE SET (NEW VARIATION)
+**IBPS RRB PO Prelims Level - 8 Persons, 4 Floors, 2 Flats**
+
+Eight persons—**A, B, C, D, E, F, G, and H**—live in a 4-storey building.
+- Ground floor is Floor 1, topmost floor is Floor 4.
+- Each floor has two flats: **Flat 1** and **Flat 2**.
+- **Flat 1 is to the west of Flat 2.**
+
+**શરતો (Clues):**
+1. **G** lives on the topmost floor in **Flat 1**.
+2. Exactly two floors are between **G** and **E**, and both live in the **same flat**.
+3. **B** lives to the east of **E**.
+4. **C** lives immediately above **E** in the **same flat**.
+5. **A** lives on an odd-numbered floor in **Flat 1**.
+6. **H** lives on an even-numbered floor immediately below **F** in the **same flat**.
+7. **D** lives to the east of **G**.
 
 ---
 
-## 🔮 REASONING CHAPTER 4: SYLLOGISMS ("ONLY A FEW" & POSSIBILITY MASTER HACKS)
-- **Mock #01 Baseline:** 3 / 5 (+2.25 Net Marks | 6m 43s)
-- **મુખ્ય ભૂલ:** "Only a few" અને "Possibility" માં કન્ફ્યુઝન.
-
----
-
-### ⚡ "ONLY A FEW" ના ૩ સુવર્ણ નિયમો (GOLDEN RULES)
-
-#### ૧. "Only a few A are B" નો અસલ મતલબ:
-આ ૧ વાક્યની અંદર **૨ ચોક્કસ સત્ય (Definite Facts)** રહેલા છે:
-1. **Some A are B** (થોડા A ચોક્કસ B છે).
-2. **Some A are NOT B** (બાકીના થોડા A ક્યારેય B નથી).
-
-#### ૨. Possibility (શક્યતા) નો અચૂક નિયમ:
-- **"All A being B is a possibility"** $\implies$ **હંમેશા ખોટું (FALSE)!** કારણ કે નિયમ જ કહે છે કે થોડા A ક્યારેય B નથી થઈ શકતા.
-- **"All B being A is a possibility"** $\implies$ **હંમેશા સાચું (TRUE)!** કારણ કે બધા B, A ની અંદર જઈ શકે છે! (B પર કોઈ રોકટોક નથી).
-
-#### ૩. "Some NOT" Trick:
-- જો $A$ અને $B$ વચ્ચે "Only a few" હોય, તો:
-  - "Some A are not B" પૂછે $\implies$ **TRUE (સાચું)**!
-  - "Some B are not A" પૂછે $\implies$ **FALSE / CAN'T SAY (ખોટું)**! (જ્યાં સુધી B થી A માટે સ્પષ્ટ ના પાડી ન હોય).
-
----
-
-### 📝 PRACTICE QUESTION 1: SYLLOGISMS ("ONLY A FEW" SPECIAL)
-
-**Statements:**
-1. Only a few **Pens** are **Pencils**.
-2. All **Pencils** are **Erasers**.
-3. No **Eraser** is a **Sharpener**.
-
-**Conclusions:**
-- **I.** All **Pens** being **Pencils** is a possibility.
-- **II.** Some **Pencils** are not **Sharpeners**.
-
-**Options:**
-- **[A]** Only Conclusion I follows
-- **[B]** Only Conclusion II follows
-- **[C]** Either Conclusion I or II follows
-- **[D]** Neither Conclusion I nor II follows
-- **[E]** Both Conclusions I and II follow
+### ❓ QUESTION ON THIS NEW ARRANGEMENT:
+**Who among the following lives on Floor 3 in Flat 2?**  
+*(માળ ૩ ના Flat 2 માં કોણ રહે છે?)*
+- **Options:**
+  - [A] A
+  - [B] F
+  - [C] D
+  - [D] H
+  - [E] B
 
 
 
