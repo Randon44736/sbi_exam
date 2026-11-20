@@ -1224,6 +1224,41 @@ II. All Planets being Stars is a possibility. *(બધા Planet એ Star હો
 - [C] 4,000
 - [D] 3,400
 - [E] 2,800
+- **Candidate Choice:** [B] 3,600 ✅ **(100% CORRECT!)**
+- **Candidate Working Method:**
+  - $90^\circ - 72^\circ = 18^\circ$
+  - $18 \times 200 = \mathbf{3,600}$!
+  - ઉમેદવારે જાતે જ મોઢે સીધો ડિગ્રી તફાવત લઈ ગુણાકાર કર્યો!
+- **Score:** $+1.00$ Mark! (Pie Chart DI 2/2 Clean Sweep).
+
+---
+
+## ⏱️ QUANT MODULE 2: TIME & WORK (LCM UNIT METHOD)
+
+### 🚀 Time & Work નો સુવર્ણ LCM નિયમ:
+1. **Total Work (કુલ કામ):** આપેલા દિવસોનો **LCM (લ.સા.અ.)** લો (દા.ત. કુલ ૬૦ ચોકલેટ ખાવી છે).
+2. **Efficiency (૧ દિવસનું કામ):** $\text{Efficiency} = \frac{\text{Total Work}}{\text{Days}}$.
+3. **સાથે કામ:** બંનેની Efficiency નો સરવાળો કરો.
+4. **બાકી કામ (Remaining Work):** $\text{કુલ કામ} - \text{થયેલું કામ}$.
+5. **બાકી રહેલા દિવસ:** $\frac{\text{બાકી કામ}}{\text{જે માણસ બાકી હોય તેની Efficiency}}$.
+
+---
+
+### ❓ PRACTICE QUESTION 1: TIME & WORK
+
+**Problem (રકમ):**  
+A can complete a piece of work in 15 days, and B can complete the same work in 20 days. They work together for 6 days, and then A leaves. In how many days will B complete the remaining work?  
+*(A એક કામ 15 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે છે. બંને સાથે 6 દિવસ કામ કરે છે અને પછી A કામ છોડી દે છે. બાકીનું કામ પૂરું કરતાં B ને કેટલા દિવસ લાગશે?)*
+
+---
+
+**Options:**
+- [A] 5 days
+- [B] 6 days
+- [C] 8 days
+- [D] 7 days
+- [E] 9 days
+
 
 
 
