@@ -1165,57 +1165,40 @@ II. All Planets being Stars is a possibility. *(બધા Planet એ Star હો
 
 ---
 
-# 🚀 ROUND 2: PRELIMS FULL-SPECTRUM REVISION (REMAINING HIGH-YIELD CHAPTERS)
-**ઉમેદવારનો આદેશ:** મોક ટેસ્ટમાં જે ચેપ્ટર્સ સારા હતા અને શરૂઆતના રિવિઝનમાં બાકી રાખ્યા હતા, તે તમામ ચેપ્ટર્સનું પણ ઝડપી અને ૧૦૦% સંપૂર્ણ રિવિઝન (Full Coverage)!
+# 🚀 PHASE 2: COMPREHENSIVE PRELIMS SYLLABUS REVISION (QUANT & REASONING)
+**ઉમેદવારનો આદેશ:** Mock માં સારા માર્ક્સ આવ્યા હોય તેવા અને બાકી રહેલા તમામ પ્રિલિમ્સ ચેપ્ટર્સનું ઝડપી રિવિઝન કરી ૧૦૦% સિલેબસ લોક કરવો.
 
 ---
 
-## 📊 QUANT CHAPTER: PIE CHART DI (ડિગ્રી અને ટકાવારી આધારિત પાઈ ચાર્ટ)
-- **પરીક્ષાનું વજન:** ૫ માર્ક્સ (રોકડા માર્ક્સ).
-- **સ્પીડ ટાર્ગેટ:** ૫ પ્રશ્નો માત્ર ૨.૫ મિનિટમાં!
+## 📊 QUANTITATIVE APTITUDE: MODULE 1 — PIE CHART DATA INTERPRETATION
+- **Core Shortcut 1 (360° Benchmarks):**
+  - $360^\circ = 100\%$
+  - $180^\circ = 50\%$ | $90^\circ = 25\%$ | $36^\circ = 10\%$ | $18^\circ = 5\%$ | $72^\circ = 20\%$ | $54^\circ = 15\%$ | $108^\circ = 30\%$
+- **Core Shortcut 2 (Zero-Value Ratio Hack):**
+  - જ્યારે એક જ પાઇ ચાર્ટમાંથી બે સેક્ટરનો ગુણોત્તર (Ratio) પૂછે, ત્યારે ક્યારેય અસલ સંખ્યા ન શોધવી! સીધો **ડિગ્રી (કે ટકા) નો જ ગુણોત્તર** લેવો!
 
 ---
 
-### 🚀 PIE CHART ના ૩ સુવર્ણ સ્પીડ હેક્સ (GOLDEN TIME SAVERS)
+### 📝 PRACTICE QUESTION 1: PIE CHART DI
 
-#### ૧. Central Angle Benchmarks (ડિગ્રી અને ટકા):
-- સંપૂર્ણ વર્તુળ = $360^\circ = 100\%$
-- $90^\circ = \frac{1}{4} = 25\%$ (કાટખૂણો)
-- $180^\circ = \frac{1}{2} = 50\%$ (અડધું)
-- $36^\circ = 10\%$ $\implies 18^\circ = 5\%$
-- $72^\circ = 20\%$ | $108^\circ = 30\%$ | $54^\circ = 15\%$
+**Data (ડેટા):**  
+કુલ વિદ્યાર્થીઓ = 72,000 ($360^\circ = 72,000 \implies 1^\circ = 200$).  
+- Arts: $72^\circ$ (20%)  
+- Science: $90^\circ$ (25%)  
+- Commerce: $108^\circ$ (30%)  
+- Engineering: $54^\circ$ (15%)  
+- Others: $36^\circ$ (10%)  
 
-#### ૨. Ratio Shortcut (સીધો ગુણોત્તર):
-- જ્યારે એક જ પાઈ ચાર્ટના બે ભાગનો ગુણોત્તર (Ratio) પૂછે, ત્યારે **ક્યારેય અસલ સંખ્યા ગણવી નહીં**!
-- સીધો ડિગ્રી અથવા ટકાવારીનો જ ગુણોત્તર લેવો!
+**Question:**  
+**Find the ratio of students enrolled in Engineering to students enrolled in Others.**  
+*(Engineering અને Others માં નોંધાયેલા વિદ્યાર્થીઓનો ગુણોત્તર શોધો).*
 
-#### ૩. Difference Shortcut (તફાવત):
-- અલગ-અલગ ગુણાકાર કરવાને બદલે: પહેલા ડિગ્રીની બાદબાકી કરો, પછી એક જ વાર Multiplier વડે ગુણો!
-- Multiplier = $\frac{\text{કુલ સંખ્યા}}{360^\circ}$
-
----
-
-### 📝 DATA SET: DISTRIBUTION OF 18,000 EMPLOYEES
-
-એક સંસ્થામાં કુલ **18,000 કર્મચારીઓ** 5 વિભાગોમાં વહેંચાયેલા છે:
-- **Operations (OPS):** $108^\circ$ (30%)
-- **IT:** $90^\circ$ (25%)
-- **Marketing (MKT):** $72^\circ$ (20%)
-- **HR:** $54^\circ$ (15%)
-- **Finance (FIN):** $36^\circ$ (10%)
-
----
-
-### ❓ QUESTION 1:
-**What is the ratio of employees in Marketing to employees in HR?**  
-*(માર્કેટિંગ વિભાગ અને HR વિભાગના કર્મચારીઓનો ગુણોત્તર શોધો.)*
-
-- **Options:**
-  - [A] 3 : 4
-  - [B] 4 : 3
-  - [C] 5 : 4
-  - [D] 2 : 3
-  - [E] 5 : 3
+**Options:**
+- [A] 3:2
+- [B] 2:3
+- [C] 4:3
+- [D] 5:3
+- [E] 3:1
 
 
 
