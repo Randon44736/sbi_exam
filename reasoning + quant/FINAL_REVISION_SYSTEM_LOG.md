@@ -1737,6 +1737,45 @@ In a family of six members—**P, Q, R, S, T, and U**:
 - [C] Brother-in-law
 - [D] Father-in-law
 - [E] Grandfather
+- **Candidate Choice:** [D] Father-in-law (`d`) ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - $P$ એ $R$ (પત્ની) નો પિતા છે, અને $S$ એ $R$ નો પતિ છે.
+  - પત્નીના પિતા $\implies \mathbf{Father-in-law\ (સસરા)!}$
+- **Score:** $+1.00$ Mark! Blood Relations ૧૦૦% CONQUERED!
+
+---
+
+## 🔤 REASONING MODULE 4: CHINESE CODING-DECODING (LASER-FOCUS પદ્ધતિ)
+
+### 🚀 ૩ સેકન્ડનો Target-First શોર્ટકટ:
+1. **પેપર પર બધા શબ્દો લખવાનો સમય ન બગાડો!**
+2. સીધો પ્રશ્નમાં પૂછાયેલો **Target Word** જુઓ:
+   - જે ૨ વાક્યોમાં તે શબ્દ આવતો હોય, તે બંને વાક્યોમાં **સામાન્ય (Common) કોડ** શોધી લો!
+   - તે સામાન્ય કોડ જ તમારો ૧૦૦% સાચો જવાબ છે!
+
+---
+
+### ❓ PRACTICE QUESTION 1: CHINESE CODING
+
+**Statements (વિધાનો):**  
+1. 'green tea hot cup' = 'sa re ga ma'  
+2. 'cold tea sweet taste' = 're po lu ki'  
+3. 'hot coffee sweet aroma' = 'ga ki da no'  
+4. 'green coffee best beans' = 'sa da tu vi'  
+
+**Question:**  
+**What is the code for 'hot'?**  
+*( 'hot' શબ્દનો કોડ કયો છે?)*
+
+---
+
+**Options:**
+- [A] sa
+- [B] ga
+- [C] re
+- [D] ki
+- [E] da
+
 
 
 
