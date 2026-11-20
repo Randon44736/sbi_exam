@@ -1532,6 +1532,40 @@ A bag contains **4 Red balls** and **6 Blue balls** (Total = 10 balls). If two b
 - [C] 1/2
 - [D] 3/10
 - [E] 4/15
+- **Candidate Choice:** [A] 1/3 (`a`) ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - પહેલો દડો = $\frac{6}{10}$
+  - બીજો દડો = $\frac{5}{9}$
+  - ગુણાકાર: $\frac{6}{10} \times \frac{5}{9} = \frac{3}{5} \times \frac{5}{9} = \frac{3}{9} = \mathbf{\frac{1}{3} \implies [A]!}$
+- **Score:** $+1.00$ Mark! Probability ૧૦૦% CONQUERED!
+
+---
+
+## ⚡ QUANT MODULE 7: BODMAS & FAST SIMPLIFICATION RULES
+
+### 🚀 VBODMAS ના ૩ સુવર્ણ સ્પીડ નિયમો:
+1. **"3-Islands Rule" (૩ ટાપુ પદ્ધતિ):** વત્તા ($+$) અને ઓછા ($-$) સમગ્ર સમીકરણને સ્વતંત્ર ટાપુઓમાં વહેંચી નાખે છે. દરેક ટાપુને અલગ ગણી છેલ્લે સરવાળો/બાદબાકી કરો.
+2. **"of" નો નિયમ:** કૌંસ પછી તરત જ "of" (ગુણાકાર) પહેલાં થાય.
+3. **ડાબેથી જમણે (Left-to-Right):** $A \div B \times C$ હોય તો પહેલાં $A \div B$ કરો, પછી $\times C$ કરો!
+4. **$-A + B$ નો ટ્રેપ:** $64 - 36 + 12$ માં પહેલાં $36 + 12$ નો સરવાળો ન કરવો! $64 - 36 = 28$, અને $28 + 12 = 40$ થાય!
+
+---
+
+### ❓ PRACTICE QUESTION 1: BODMAS & SIMPLIFICATION
+
+**Problem:**  
+Find the value of:  
+$$120 \div 5 \times 3 + (45 - 9 \times 4) \text{ of } 2 - 18$$
+
+---
+
+**Options:**
+- [A] 64
+- [B] 72
+- [C] 80
+- [D] 54
+- [E] 90
+
 
 
 
