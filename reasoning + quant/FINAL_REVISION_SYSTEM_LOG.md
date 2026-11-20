@@ -1692,6 +1692,52 @@ Find the **shortest distance** between point A and point B, and in which **direc
 - [C] 13 m, North-West
 - [D] 15 m, North-East
 - [E] 13 m, South-East
+- **Candidate Choice:** [A] 13 m, North-East (`a`) ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - 12 મીટર ઉત્તર ($\uparrow$) અને 5 મીટર પૂર્વ ($\rightarrow$).
+  - પાયથાગોરસ ત્રિપુટી: $\sqrt{12^2 + 5^2} = \sqrt{144 + 25} = \sqrt{169} = \mathbf{13\text{ મીટર}}$!
+  - દિશા: ઉત્તર અને પૂર્વની વચ્ચે $\implies \mathbf{North-East}$!
+- **Score:** $+1.00$ Mark! Direction Sense ૧૦૦% CONQUERED!
+
+---
+
+## 🌳 REASONING MODULE 3: BLOOD RELATIONS (ફેમિલી ટ્રી પદ્ધતિ)
+
+### 🚀 ૫ જાદુઈ ફેમિલી ટ્રી સંજ્ઞાઓ (Venn Symbols):
+1. **પુરુષ (Male):** $[+]$ (પ્લસ)
+2. **સ્ત્રી (Female):** $[-]$ (માઈનસ)
+3. **પરિણીત દંપતી (Married Couple):** $[=]$ (બે આડી લીટી, જેમ કે પતિ = પત્ની)
+4. **સગા ભાઈ-બહેન (Siblings):** $[-]$ (એક આડી લીટી, જેમ કે ભાઈ — બહેન)
+5. **પેઢી (Generation Gap):** $[\ | \ ]$ (ઊભી લીટી: પિતા/માતા ઉપર, સંતાન નીચે)
+
+> ⚠️ **THE GOLDEN TRAP:**  
+> પ્રશ્નમાં પૂછ્યું હોય કે *"How is P related to S?"* તો હંમેશા **P શું થાય તે જ લખવું!** (S શું થાય તે નહિ).
+
+---
+
+### ❓ PRACTICE QUESTION 1: BLOOD RELATIONS
+
+**Problem:**  
+In a family of six members—**P, Q, R, S, T, and U**:  
+- **P is the father of Q.** *(P એ Q નો પિતા છે).*  
+- **Q is the sister of R.** *(Q એ R ની બહેન છે).*  
+- **R is married to S.** *(R એ S સાથે પરણેલી છે).*  
+- **S is the son of T.** *(S એ T નો પુત્ર છે).*  
+- **U is the daughter of S.** *(U એ S ની પુત્રી છે).*  
+
+**Question:**  
+**How is P related to S?**  
+*(P એ S નો શું થાય?)*
+
+---
+
+**Options:**
+- [A] Uncle
+- [B] Father
+- [C] Brother-in-law
+- [D] Father-in-law
+- [E] Grandfather
+
 
 
 
