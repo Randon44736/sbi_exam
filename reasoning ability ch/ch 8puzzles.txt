@@ -36,8 +36,22 @@ C. MONTH-DATE SCHEDULING METHODOLOGY (2-3 Months x 2 Dates):
      - 30 દિવસવાળા મહિના: April, June, September, November (AJSN - માત્ર ૪ જ મહિના!).
      - 31 દિવસવાળા મહિના: January, March, May, July, August, October, December (૭ મહિના).
      - 28/29 દિવસ: February.
+   • The 8-Slot Chronological Table Blueprint (8 સ્લોટ્સનું માળખું):
+     - Month x Date પઝલમાં ક્યારેય અંદાજ ન લગાવવો; રફ પેપર પર તરત આ ટેબલ બનાવવું:
+       Slot 1: Month 1, Date 1 (Odd/Even)
+       Slot 2: Month 1, Date 2 (Odd/Even)
+       Slot 3: Month 2, Date 1 (Odd/Even)
+       Slot 4: Month 2, Date 2 (Odd/Even)
+       Slot 5: Month 3, Date 1 (Odd/Even)
+       Slot 6: Month 3, Date 2 (Odd/Even)
+       Slot 7: Month 4, Date 1 (Odd/Even)
+       Slot 8: Month 4, Date 2 (Odd/Even)
    • The Chronological Leap (સમયરેખાનો નિયમ):
-     - "11 એપ્રિલની તરત પહેલાં" = "24 માર્ચ" (કેલેન્ડર મુજબ અગાઉનો સ્લોટ, અગાઉનો મહિનો નહીં!).
+     - "Slot 3 ની તરત પહેલાં" = "Slot 2" (કેલેન્ડર મુજબ અગાઉનો સ્લોટ, અગાઉનો મહિનો નહીં!).
+   • How to Decode "Even/Odd Date & 30/31 Days" Clues (ક્લૂ ડીકોડિંગ):
+     1. "B was born on an even date in a month of 30 days" -> 30 દિવસવાળા મહિના (April, Sep) અને Even તારીખ (18th) -> B = April 18 અથવા Sep 18 (ફક્ત ૨ કેસ!).
+     2. "K persons born between X and Y" -> સ્લોટ્સ વચ્ચેનું અંતર = K.
+     3. "X was born immediately before Y" -> X અને Y પાસપાસેના સ્લોટ્સમાં આવે.
    • Odd-One-Out Grouping Traps (અલગ પડતું જૂથ ઓળખવાની રીત):
      - 95% બેન્કિંગ પ્રશ્નોમાં અલગ પડતું તત્વ કાં તો મહિનાના દિવસો (30 vs 31) અથવા તારીખની એકી-બેકી (Odd vs Even) પરથી પકડાય છે!
 

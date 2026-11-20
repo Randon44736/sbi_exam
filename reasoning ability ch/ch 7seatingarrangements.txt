@@ -29,7 +29,21 @@ B) Linear Row Seating (સીધી હરોળ):
      - South-facing row ઉપર બેસીને નીચે જુએ છે.
      - North-facing row નીચે બેસીને ઉપર જુએ છે.
 
-C) The "Fixing Anchor" Strategy (પઝલ શરૂ કરવાની સુવર્ણ ટેકનિક):
+C) Uncertain Number of Persons in a Row (અનિશ્ચિત સંખ્યા વાળી હરોળ - IBPS RRB PO Special Hack):
+   • Identify: પ્રશ્નની શરૂઆત "A certain number of persons are sitting in a row facing North" થી થાય છે.
+   • The Fear Trap: કુલ સંખ્યા શરૂઆતમાં આપેલી નથી હોતી એટલે વિદ્યાર્થીઓ મૂંઝાઈ જાય છે.
+   • Golden Strategy (ફિક્સ છેડા પકડીને સરવાળો પદ્ધતિ):
+     1. ક્યારેય કુલ સંખ્યાનો અંદાજ લગાવવો નહીં.
+     2. હંમેશા "Extreme End" (જેમ કે 'T sits at the extreme left end') શોધીને તેને Position 1 આપો.
+     3. ડાબેથી જમણે ફક્ત અંતર ઉમેરતા જાવ:
+        - T (1) થી 3 લોકો પછી S -> Position 1 + 4 = 5.
+        - S એ P ના ડાબે 4થા સ્થાને છે -> P એ S ના જમણે 4થા સ્થાને -> Position 5 + 4 = 9.
+        - P એ Q ના ડાબે 3જા સ્થાને છે -> Q એ P ના જમણે 3જા સ્થાને -> Position 9 + 3 = 12.
+        - Q અને R વચ્ચે 5 લોકો છે -> Position 12 + 6 = 18.
+        - R જમણેથી બીજો છે -> છેલ્લો છેડો Position 19 છે! કુલ લોકો = 19!
+   • Middle Element Formula: બે વ્યક્તિઓ X અને Y ની બરાબર વચ્ચેની પોઝિશન = (Pos X + Pos Y) / 2.
+
+D) The "Fixing Anchor" Strategy (પઝલ શરૂ કરવાની સુવર્ણ ટેકનિક):
    1. ક્યારેય નકારાત્મક શરતોથી શરૂઆત ન કરવી (જેમ કે "A એ B ની બાજુમાં નથી").
    2. હંમેશાં પાક્કી દિશાવાળી નિશ્ચિત શરત પકડવી (જેમ કે "G એ B ની ડાબે ૩જા સ્થાને છે").
    3. રફ પેપર પર વધુમાં વધુ ૨ સમાંતર કેસ દોરીને આગળ વધવું.

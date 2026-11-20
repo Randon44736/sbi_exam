@@ -19,12 +19,12 @@
 **Directions (1–5):** Study the following information carefully and answer the questions given below.  
 Eight persons—A, B, C, D, E, F, G, and H—were born in four different months: March, April, July, and September of the same year, on two different dates: 7th and 18th. (March and July have 31 days each; April and September have 30 days each).  
 • B was born on an even-numbered date of a month having 30 days.  
-• Three persons were born between B and D.  
+• Two persons were born between B and D.  
 • D was born in a month having 31 days.  
-• Only two persons were born between D and F.  
-• As many persons were born before A as after G.  
+• Only one person was born between D and F.  
 • C was born immediately before E.  
-• H was born in July.  
+• H was born on an odd-numbered date in July.  
+• A was born before G.  
 
 **Q1.** Who among the following was born on July 7th?  
 [A] C  
@@ -252,6 +252,7 @@ Seven boxes—P, Q, R, S, T, U, and V—are placed one above another in a stack,
 • Box T is placed at an odd-numbered position.  
 • Three boxes are placed between Box T and Box Q.  
 • Box Q is placed above Box T.  
+• Box P is placed above Box Q.  
 • Only one box is placed between Box Q and Box P.  
 • Box R is placed immediately above Box U.  
 • Box S is placed above Box V.  
