@@ -946,6 +946,24 @@ Eight persons—**P, Q, R, S, T, U, V, and W**—live in a 4-storey building.
 ### ❓ QUESTION 1 ON THIS ARRANGEMENT:
 **Who among the following lives on Floor 3 in Flat A?**
 - **Options:** [A] T | [B] S | [C] R | [D] Q | [E] U
+- **Candidate Choice:** [B] S ✅ **(100% CORRECT!)**
+- **Working Method:**
+  - ગ્રીડમાં જોતાં: ત્રીજા માળે (Floor 3) અને Flat A (પશ્ચિમ) માં સીધા **S** બેઠા છે.
+  - એકદમ પરફેક્ટ ડાયાગ્રામ રીડિંગ!
+- **Score:** $+1.00$ Mark! (Negative penalty: 0.00).
+
+---
+
+### ❓ QUESTION 2 ON THIS ARRANGEMENT (QUALIFYING TEST):
+**Who lives on the floor immediately above Q in a different flat?**
+*(Q ના માળની તરત જ ઉપરના માળે પરંતુ જુદા ફ્લેટ (Different Flat) માં કોણ રહે છે?)*
+- **Options:**
+  - [A] S
+  - [B] R
+  - [C] W
+  - [D] P
+  - [E] T
+
 
 
 
