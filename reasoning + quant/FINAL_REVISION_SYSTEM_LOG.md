@@ -1328,6 +1328,47 @@ A can complete a piece of work in **20 days**, and B can complete the same work 
 - [C] 18 days
 - [D] 10 days
 - [E] 14 days
+- **Candidate Choice:** [B] 15 days (`b 15`) ✅ **(100% CORRECT!)**
+- **Candidate Working Method (Zero-LCM Execution):**
+  1. $\text{કુલ કામ} = 20 \times 30 = 600$
+  2. $\text{A ની સ્પીડ} = 30$, $\text{B ની સ્પીડ} = 20 \implies \text{સાથે સ્પીડ} = 50$
+  3. $6 \text{ દિવસમાં કામ} = 6 \times 50 = 300$
+  4. $\text{બાકી કામ} = 600 - 300 = 300$
+  5. $\text{B ના દિવસ} = \frac{300}{20} = \mathbf{15\text{ દિવસ!}}$
+- **Result:** માત્ર ૩૦ સેકન્ડમાં ઉમેદવારે કોઈપણ LCM વગર જાતે જ ૧૦૦% સાચો જવાબ કાઢ્યો!
+- **Score:** $+1.00$ Mark! Time & Work ૧૦૦% CONQUERED!
+
+---
+
+## 🚤 QUANT MODULE 3: BOATS & STREAMS (હોડી અને પ્રવાહના ૨ જ સુવર્ણ સૂત્રો)
+
+### 🚀 ૨ જાદુઈ સૂત્રો (The Master Formulas):
+- **Downstream Speed ($D$ - પ્રવાહની દિશામાં ઝડપ):** $\text{હોડીની ઝડપ} + \text{પ્રવાહની ઝડપ} = u + v$
+- **Upstream Speed ($U$ - પ્રવાહની સામે ઝડપ):** $\text{હોડીની ઝડપ} - \text{પ્રવાહની ઝડપ} = u - v$
+
+> 💡 **THE 1-SECOND EXAM HACKS:**
+> 1. **Speed of Boat in Still Water (શાંત પાણીમાં હોડીની ઝડપ $u$):**
+>    $$u = \frac{D + U}{2} \quad \left(\frac{\text{બંને ઝડપનો સરવાળો}}{2}\right)$$
+> 2. **Speed of Stream / Current (નદીના પ્રવાહની ઝડપ $v$):**
+>    $$v = \frac{D - U}{2} \quad \left(\frac{\text{બંને ઝડપની બાદબાકી}}{2}\right)$$
+
+---
+
+### ❓ PRACTICE QUESTION 1: BOATS & STREAMS
+
+**Problem:**  
+A boat travels **36 km downstream in 3 hours**, and **24 km upstream in 4 hours**. Find the **speed of the stream** (in km/h).  
+*(એક હોડી પ્રવાહની દિશામાં 36 km અંતર 3 કલાકમાં કાપે છે, અને પ્રવાહની વિરુદ્ધ દિશામાં 24 km અંતર 4 કલાકમાં કાપે છે. તો નદીના પ્રવાહની ઝડપ (km/h માં) કેટલી હશે?)*
+
+---
+
+**Options:**
+- [A] 2 km/h
+- [B] 3 km/h
+- [C] 4.5 km/h
+- [D] 6 km/h
+- [E] 9 km/h
+
 
 
 
