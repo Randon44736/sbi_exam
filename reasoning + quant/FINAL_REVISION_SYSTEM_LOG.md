@@ -1163,6 +1163,61 @@ II. All Planets being Stars is a possibility. *(બધા Planet એ Star હો
 | **Speed per Question** | ~1m 20s | ~20 seconds | **4x Faster with Zero Brain Strain!** |
 | **Chapter Verdict** | ❌ Trap Prone | 🏆 **CONQUERED** | **OFFICIALLY COMPLETED & EXAM READY!** |
 
+---
+
+# 🚀 ROUND 2: PRELIMS FULL-SPECTRUM REVISION (REMAINING HIGH-YIELD CHAPTERS)
+**ઉમેદવારનો આદેશ:** મોક ટેસ્ટમાં જે ચેપ્ટર્સ સારા હતા અને શરૂઆતના રિવિઝનમાં બાકી રાખ્યા હતા, તે તમામ ચેપ્ટર્સનું પણ ઝડપી અને ૧૦૦% સંપૂર્ણ રિવિઝન (Full Coverage)!
+
+---
+
+## 📊 QUANT CHAPTER: PIE CHART DI (ડિગ્રી અને ટકાવારી આધારિત પાઈ ચાર્ટ)
+- **પરીક્ષાનું વજન:** ૫ માર્ક્સ (રોકડા માર્ક્સ).
+- **સ્પીડ ટાર્ગેટ:** ૫ પ્રશ્નો માત્ર ૨.૫ મિનિટમાં!
+
+---
+
+### 🚀 PIE CHART ના ૩ સુવર્ણ સ્પીડ હેક્સ (GOLDEN TIME SAVERS)
+
+#### ૧. Central Angle Benchmarks (ડિગ્રી અને ટકા):
+- સંપૂર્ણ વર્તુળ = $360^\circ = 100\%$
+- $90^\circ = \frac{1}{4} = 25\%$ (કાટખૂણો)
+- $180^\circ = \frac{1}{2} = 50\%$ (અડધું)
+- $36^\circ = 10\%$ $\implies 18^\circ = 5\%$
+- $72^\circ = 20\%$ | $108^\circ = 30\%$ | $54^\circ = 15\%$
+
+#### ૨. Ratio Shortcut (સીધો ગુણોત્તર):
+- જ્યારે એક જ પાઈ ચાર્ટના બે ભાગનો ગુણોત્તર (Ratio) પૂછે, ત્યારે **ક્યારેય અસલ સંખ્યા ગણવી નહીં**!
+- સીધો ડિગ્રી અથવા ટકાવારીનો જ ગુણોત્તર લેવો!
+
+#### ૩. Difference Shortcut (તફાવત):
+- અલગ-અલગ ગુણાકાર કરવાને બદલે: પહેલા ડિગ્રીની બાદબાકી કરો, પછી એક જ વાર Multiplier વડે ગુણો!
+- Multiplier = $\frac{\text{કુલ સંખ્યા}}{360^\circ}$
+
+---
+
+### 📝 DATA SET: DISTRIBUTION OF 18,000 EMPLOYEES
+
+એક સંસ્થામાં કુલ **18,000 કર્મચારીઓ** 5 વિભાગોમાં વહેંચાયેલા છે:
+- **Operations (OPS):** $108^\circ$ (30%)
+- **IT:** $90^\circ$ (25%)
+- **Marketing (MKT):** $72^\circ$ (20%)
+- **HR:** $54^\circ$ (15%)
+- **Finance (FIN):** $36^\circ$ (10%)
+
+---
+
+### ❓ QUESTION 1:
+**What is the ratio of employees in Marketing to employees in HR?**  
+*(માર્કેટિંગ વિભાગ અને HR વિભાગના કર્મચારીઓનો ગુણોત્તર શોધો.)*
+
+- **Options:**
+  - [A] 3 : 4
+  - [B] 4 : 3
+  - [C] 5 : 4
+  - [D] 2 : 3
+  - [E] 5 : 3
+
+
 
 
 
