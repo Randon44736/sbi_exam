@@ -1346,11 +1346,17 @@ A can complete a piece of work in **20 days**, and B can complete the same work 
 - **Downstream Speed ($D$ - પ્રવાહની દિશામાં ઝડપ):** $\text{હોડીની ઝડપ} + \text{પ્રવાહની ઝડપ} = u + v$
 - **Upstream Speed ($U$ - પ્રવાહની સામે ઝડપ):** $\text{હોડીની ઝડપ} - \text{પ્રવાહની ઝડપ} = u - v$
 
-> 💡 **THE 1-SECOND EXAM HACKS:**
-> 1. **Speed of Boat in Still Water (શાંત પાણીમાં હોડીની ઝડપ $u$):**
->    $$u = \frac{D + U}{2} \quad \left(\frac{\text{બંને ઝડપનો સરવાળો}}{2}\right)$$
-> 2. **Speed of Stream / Current (નદીના પ્રવાહની ઝડપ $v$):**
->    $$v = \frac{D - U}{2} \quad \left(\frac{\text{બંને ઝડપની બાદબાકી}}{2}\right)$$
+### 🎯 THE "NUMBER LINE MIDPOINT" ZERO-FORMULA TRICK (સૂત્ર વગરની સીધી લાઈન ટ્રીક):
+કોઈપણ દાખલામાં માત્ર આ લાઈન યાદ રાખો:
+```text
+  [ સામેની ઝડપ U ] ─── (+પ્રવાહ) ─── [ હોડી u (બરાબર વચ્ચે) ] ─── (+પ્રવાહ) ─── [ સાથેની ઝડપ D ]
+```
+1. **હોડીની સ્પીડ (મોટી વસ્તુ):** બંને ઝડપની **બરાબર વચ્ચેની સંખ્યા (Average)** હોય $\implies \frac{D + U}{2}$.
+2. **પ્રવાહની સ્પીડ (નાની વસ્તુ):** વચ્ચેની સંખ્યાથી બંને બાજુનો **ગેપ (તફાવત)** હોય $\implies \frac{D - U}{2}$.
+
+- **દા.ત.:** $D = 12$ અને $U = 6$:
+  - ૬ અને ૧૨ ની બરાબર વચ્ચે કોણ આવે? $\implies \mathbf{9}$ (હોડીની ઝડપ).
+  - ૯ થી ૧૨ વચ્ચે કેટલાનો ગેપ છે? $\implies \mathbf{3}$ (પ્રવાહની ઝડપ)!
 
 ---
 
