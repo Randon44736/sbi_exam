@@ -1845,6 +1845,36 @@ In a row of students, **Rohan ranks 16th from the left end** and **25th from the
 - [C] 39
 - [D] 42
 - [E] 38
+- **Candidate Choice:** [A] 41 ❌ **(The "-1 Duplicate Trap" Caught!)**
+- **Correct Answer:** [B] 40
+- **Diagnosis:**
+  - ઉમેદવારે સરવાળો કર્યો: $16 + 25 = 41$.
+  - પરંતુ છેલ્લે **$- 1$** કરવાનું ભૂલી ગયા!
+  - ⚠️ **શા માટે -1 કરવું પડે?** કારણ કે રોહન એક જ વ્યક્તિ ડાબેથી અને જમણેથી **બે વાર ગણાઈ ગયો છે!**
+  - સાચી ગણતરી: $(16 + 25) - 1 = 41 - 1 = \mathbf{40\ (Option [B])!}$
+
+---
+
+### ❓ RETEST QUESTION (The "-1 Rule" પાકો કરવા માટે):
+
+**Problem:**  
+In a row of trees, a particular tree is **7th from the left end** and **7th from the right end**. How many total trees are there in the row?  
+*(ઝાડની એક હરોળમાં એક ખાસ ઝાડ ડાબે છેડેથી 7મું અને જમણે છેડેથી પણ 7મું છે. તો તે હરોળમાં કુલ કેટલા ઝાડ હશે?)*
+
+---
+
+**તમારા સ્ટેપ્સ:**
+$$(7 + 7) - 1 = \text{?}$$
+
+---
+
+**Options:**
+- [A] 14
+- [B] 13
+- [C] 15
+- [D] 12
+- [E] 11
+
 
 
 
