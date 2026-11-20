@@ -1101,6 +1101,41 @@ II. Some Mobiles are not Cameras. *(કેટલાક Mobile એ Camera નથ�
 - [C] Either conclusion I or II follows
 - [D] Neither conclusion I nor II follows
 - [E] Both conclusions I and II follow
+- **Candidate Choice:** [E] Both conclusions I and II follow ✅ **(100% CORRECT!)**
+- **Score:** $+1.00$ Mark!
+
+---
+
+## 📸 CANDIDATE'S HANDWRITTEN VENN DIAGRAM AUDIT:
+- **Candidate Image:** `IMG20261120152715.jpg`
+- **Audit Findings:**
+  1. **જવાબ સાચો છે:** તમારો કન્સેપ્ટ ૧૦૦% સાચો છે એટલે જવાબ [E] એકદમ સાચો પડ્યો!
+  2. **ડાયાગ્રામમાં ૧ મહત્વનો સુધારો:**
+     - તમે M અને L નો બોક્સ અલગ બનાવ્યો, અને નીચે L, T અને Cam અલગ બનાવ્યા.
+     - **પરીક્ષાનો સુવર્ણ નિયમ:** હંમેશા બધા વિધાનોને **એક જ સંયુક્ત વેન ડાયાગ્રામ (Unified Diagram)** માં દોરો.
+     - જ્યારે L એ Tablet ની અંદર હોય, ત્યારે M નો એ ભાગ પણ Tablet ની અંદર આવી જાય. અને Tablet નો Camera સાથે ક્રોસ (❌) છે, એટલે M નો એ ભાગ ક્યારેય Camera નહિ બને!
+     - ચોરસ કરતાં ગોળ વર્તુળ (Circles) દોરવા ઝડપી પડે છે.
+
+---
+
+### 📝 PRACTICE QUESTION 3: SYLLOGISMS (THE "ONLY" TRAP & ALL POSSIBILITY)
+
+**Statements (વિધાનો):**
+1. Only Stars are Moons. *(ફક્ત Star જ Moon છે $\implies$ All Moons are strictly inside Stars and locked).*
+2. Some Stars are Suns. *(કેટલાક Star એ Sun છે).*
+3. No Sun is Planet. *(કોઈ Sun એ Planet નથી).*
+
+**Conclusions (તારણો):**
+I. All Moons being Suns is a possibility. *(બધા Moon એ Sun હોવાની એક શક્યતા છે).*
+II. All Planets being Stars is a possibility. *(બધા Planet એ Star હોવાની એક શક્યતા છે).*
+
+**Options:**
+- [A] Only conclusion I follows
+- [B] Only conclusion II follows
+- [C] Either conclusion I or II follows
+- [D] Neither conclusion I nor II follows
+- [E] Both conclusions I and II follow
+
 
 
 
