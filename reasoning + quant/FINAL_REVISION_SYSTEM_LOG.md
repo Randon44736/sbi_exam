@@ -1250,14 +1250,40 @@ II. All Planets being Stars is a possibility. *(બધા Planet એ Star હો
 A can complete a piece of work in 15 days, and B can complete the same work in 20 days. They work together for 6 days, and then A leaves. In how many days will B complete the remaining work?  
 *(A એક કામ 15 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે છે. બંને સાથે 6 દિવસ કામ કરે છે અને પછી A કામ છોડી દે છે. બાકીનું કામ પૂરું કરતાં B ને કેટલા દિવસ લાગશે?)*
 
----
-
 **Options:**
 - [A] 5 days
 - [B] 6 days
 - [C] 8 days
 - [D] 7 days
 - [E] 9 days
+- **Candidate Choice:** [B] 6 days ✅ **(Option Correct, but Method Alert ⚠️!)**
+- **Candidate Working Method (Alert):**
+  - ઉમેદવારે ગણ્યું: $15 + 20 = 35$, અને $35 / 6 = 5.83 \approx 6$.
+  - ⚠️ **સાવધાન (Critical Trap Diagnosis):** અહીં જવાબ ૬ આવી ગયો તે માત્ર એક સંજોગ (Coincidence) હતો! જો દિવસો બદલાય તો આ રીત સંપૂર્ણપણે ખોટી પડે અને -0.25 કપાય!
+- **Real LCM Unit Method (ચોકલેટ મેથડ):**
+  1. $LCM(15, 20) = \mathbf{60}$ યુનિટ (કુલ ૬૦ ચોકલેટ).
+  2. A ની ક્ષમતા = $60 / 15 = 4$ ચોકલેટ/દિવસ.
+  3. B ની ક્ષમતા = $60 / 20 = 3$ ચોકલેટ/દિવસ.
+  4. બંને સાથે ૧ દિવસમાં = $4 + 3 = 7$ ચોકલેટ ખાય.
+  5. ૬ દિવસમાં સાથે ખાધેલી ચોકલેટ = $6 \times 7 = 42$ ચોકલેટ.
+  6. બાકી વધી = $60 - 42 = \mathbf{18}$ ચોકલેટ.
+  7. A જતો રહ્યો, બાકીની ૧૮ ચોકલેટ B એ ખાવાની છે $\implies \frac{18}{3} = \mathbf{6\text{ દિવસ!}}$
+
+---
+
+### ❓ RETEST QUESTION (LCM ચોકલેટ મેથડ પાકી કરવા માટે):
+
+**Problem:**  
+A can complete a work in **10 days** and B in **15 days**. They work together for **2 days**, and then A leaves. In how many days will B finish the remaining work?  
+*(A એક કામ 10 દિવસમાં અને B 15 દિવસમાં કરે છે. બંને 2 દિવસ સાથે કામ કરે છે અને પછી A છોડી દે છે. બાકીનું કામ B કેટલા દિવસમાં પૂરું કરશે?)*
+
+**Options:**
+- [A] 8 days
+- [B] 10 days
+- [C] 12 days
+- [D] 9 days
+- [E] 11 days
+
 
 
 
