@@ -1374,6 +1374,43 @@ A boat travels **36 km downstream in 3 hours**, and **24 km upstream in 4 hours*
 - [C] 4.5 km/h
 - [D] 6 km/h
 - [E] 9 km/h
+- **Candidate Choice:** [B] 3 km/h ✅ **(100% CORRECT!)**
+- **Candidate Rule Formulation:** "so boat we have to add and for river we have to subtract"
+- **Mentor's Audit:** ઉમેદવારે ૧૦૦% સાચો કન્સેપ્ટ પકડ્યો:
+  - મોટું કોણ? હોડી $\implies$ સરવાળો / ૨ = $(12 + 6)/2 = 9$ km/h.
+  - નાનું કોણ? પ્રવાહ $\implies$ બાદબાકી / ૨ = $(12 - 6)/2 = 3$ km/h.
+- **Score:** $+1.00$ Mark! Boats & Streams ૧૦૦% CONQUERED!
+
+---
+
+## 🤝 QUANT MODULE 4: PARTNERSHIP & PROFIT SHARING (ભાગીદારી અને નફો)
+
+### 🚀 ૧ જ સુવર્ણ સૂત્ર (The Only Formula):
+$$\text{નફાનો ગુણોત્તર (Profit Ratio)} = (\text{રોકાણ}_1 \times \text{મહિના}_1) : (\text{રોકાણ}_2 \times \text{મહિના}_2)$$
+
+> 💡 **3-SECOND SPEED HACK:**
+> 1. બંને રકમના પાછળના **ત્રણ શૂન્ય ('000) શરૂઆતમાં જ ઉડાડી દો**!
+> 2. $\text{રોકાણ} \times \text{મહિના}$ નો ગુણોત્તર (Ratio) કાઢો.
+> 3. ગુણોત્તરના એકમોનો સરવાળો કરી કુલ નફાને ભાગી નાખો (૧ યુનિટની કિંમત).
+> 4. જેનો નફો પૂછ્યો હોય તેને ગુણી નાખો!
+
+---
+
+### ❓ PRACTICE QUESTION 1: PARTNERSHIP
+
+**Problem:**  
+A and B start a business. A invests **₹25,000 for 12 months**, and B invests **₹30,000 for 8 months**. If the total profit at the end of the year is **₹45,000**, find **B's share of profit**.  
+*(A અને B એક વેપાર શરૂ કરે છે. A ₹25,000 નું રોકાણ 12 મહિના માટે કરે છે, અને B ₹30,000 નું રોકાણ 8 મહિના માટે કરે છે. જો વર્ષના અંતે કુલ નફો ₹45,000 થાય, તો B નો નફામાં ભાગ કેટલો થશે?)*
+
+---
+
+**Options:**
+- [A] ₹18,000
+- [B] ₹20,000
+- [C] ₹22,000
+- [D] ₹25,000
+- [E] ₹24,000
+
 
 
 
