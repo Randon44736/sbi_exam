@@ -860,6 +860,61 @@ Designation પઝલમાં કોઈ ડાબો-જમણો હાથ ન
 - **Accuracy:** 100.0%
 - **Net Marks:** $+2.00$ (૨ માંથી ૨ સળંગ ૧૦૦% સાચા!)
 
+---
+
+## 🏢 REASONING CHAPTER 3: FLOOR & FLAT PUZZLES (માળ અને ફ્લેટ આધારિત પઝલ)
+- **Mock #01 Baseline:** 3 / 5 (+2.50 Net Marks | 6m 01s)
+- **મુખ્ય ભૂલો:** પૂર્વ-પશ્ચિમ (East-West) ની દિશા અને વર્ટિકલ ફ્લેટ ટ્રેપ (Same Flat vs Different Flat).
+
+---
+
+### 📐 ૧. રફ પેપર પર Floor & Flat ગ્રીડ દોરવાની રીત
+પેપર પર હંમેશા ૪ માળ (નીચેથી ઉપર: ૧ થી ૪) અને ૨ ફ્લેટ (ડાબે Flat A = West, જમણે Flat B = East) ની ગ્રીડ બનાવો:
+
+```
+ Floor │ Flat A (West) │ Flat B (East)
+───────┼───────────────┼───────────────
+   4   │               │ 
+   3   │               │ 
+   2   │               │ 
+   1   │               │ 
+```
+
+- **દિશા નિયમ:** Flat A એ પશ્ચિમ (West / ડાબી બાજુ) માં છે અને Flat B એ પૂર્વ (East / જમણી બાજુ) માં છે.
+- **"To the East of X":** એટલે X ની સાથે **એ જ માળ (Same Floor)** પર જમણી બાજુ બેસશે!
+- **"Immediately above in the SAME flat":** એકદમ ઉપરની સીટ એ જ કોલમમાં ($\uparrow$).
+- **"Immediately above in DIFFERENT flats":** એક માળ ઉપર પણ બાજુના ફ્લેટમાં (ક્રોસ / ત્રાંસું).
+
+---
+
+### 📝 FLOOR & FLAT PRACTICE PUZZLE (IBPS RRB PO PRELIMS LEVEL)
+
+Eight persons—**P, Q, R, S, T, U, V, and W**—live in a 4-storey building.
+- Ground floor is Floor 1, topmost floor is Floor 4.
+- Each floor has two flats: **Flat A** and **Flat B**.
+- **Flat A is to the west of Flat B.**
+
+**શરતો (Clues):**
+1. **T** lives on an even-numbered floor in **Flat A**.
+2. Only one floor is between **T** and **Q**, and both live in the **same flat**.
+3. **P** lives to the east of **Q**.
+4. **R** lives immediately above **P** in the **same flat**.
+5. **S** lives on an odd-numbered floor immediately below **W** in **different flats**.
+6. **U** lives to the west of **V**.
+
+---
+
+### ❓ QUESTION 1 OF 5:
+**Who among the following lives on Floor 3 in Flat A?**  
+(નીચેનામાંથી કોણ ત્રીજા માળે Flat A માં રહે છે?)
+
+- **[A]** T  
+- **[B]** S  
+- **[C]** R  
+- **[D]** Q  
+- **[E]** U  
+
+
 
 
 
