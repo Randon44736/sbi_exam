@@ -1494,6 +1494,45 @@ In what ratio must pulse A costing **₹54 per kg** be mixed with pulse B costin
 - [C] 3:2
 - [D] 4:3
 - [E] 3:1
+- **Candidate Choice:** [A] 2:1 (`a 2:1`) ✅ **(100% FLAWLESS!)**
+- **Candidate Working Method:**
+  - $b - m = 72 - 60 = 12$
+  - $m - a = 60 - 54 = 6$
+  - $\text{Ratio} = 12 : 6 = 2 : 1 \implies \mathbf{[A]\ 2:1!}$
+  - ઉમેદવારે સંપૂર્ણ ગણતરી જાતે જ ૧૫ સેકન્ડમાં લખીને ૧૦૦% સાચો જવાબ આપ્યો!
+- **Score:** $+1.00$ Mark! Mixtures & Alligation ૧૦૦% CONQUERED!
+
+---
+
+## 🎲 QUANT MODULE 6: PROBABILITY & COMBINATIONS (થેલાના દડા અને સંભાવના)
+
+### 🚀 ૧ દડો કે ૨ દડા પસંદ કરવાનો સીધો શોર્ટકટ (The 1-Line Hack):
+
+#### ૧. જ્યારે ૧ દડો પસંદ કરવાનો હોય:
+$$\text{સંભાવના (Probability)} = \frac{\text{જે રંગ પૂછ્યો હોય તે દડા}}{\text{કુલ દડા}}$$
+- દા.ત. 4 લાલ અને 6 વાદળી (કુલ 10): વાદળી નીકળવાની સંભાવના = $\frac{6}{10} = \frac{3}{5}$.
+
+#### ૨. જ્યારે ૨ દડા પસંદ કરવાના હોય (બંને એક જ રંગના):
+કોઈ $nCr$ સૂત્રની જરૂર નથી, સીધો **ઘટતો ગુણાકાર** કરો:
+$$\text{સંભાવના} = \frac{\text{તે રંગના દડા}}{\text{કુલ દડા}} \times \frac{\text{તે રંગના દડા} - 1}{\text{કુલ દડા} - 1}$$
+
+---
+
+### ❓ PRACTICE QUESTION 1: PROBABILITY
+
+**Problem:**  
+A bag contains **4 Red balls** and **6 Blue balls** (Total = 10 balls). If two balls are drawn at random one after another without replacement, find the probability that **both balls are Blue**.  
+*(એક થેલામાં 4 લાલ અને 6 વાદળી દડા છે (કુલ ૧૦ દડા). જો તેમાંથી યાદચ્છિક રીતે એક પછી એક 2 દડા ખેંચવામાં આવે, તો બંને દડા વાદળી (Blue) હોવાની સંભાવના કેટલી થશે?)*
+
+---
+
+**Options:**
+- [A] 1/3
+- [B] 2/5
+- [C] 1/2
+- [D] 3/10
+- [E] 4/15
+
 
 
 
