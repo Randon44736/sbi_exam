@@ -904,15 +904,49 @@ Eight persons—**P, Q, R, S, T, U, V, and W**—live in a 4-storey building.
 
 ---
 
-### ❓ QUESTION 1 OF 5:
-**Who among the following lives on Floor 3 in Flat A?**  
-(નીચેનામાંથી કોણ ત્રીજા માળે Flat A માં રહે છે?)
+### ✍️ ૨. શરતો (Clues) ને રફ પેપર પર સ્ટેપ-બાય-સ્ટેપ મૂકવાની રીત
 
-- **[A]** T  
-- **[B]** S  
-- **[C]** R  
-- **[D]** Q  
-- **[E]** U  
+1. **શરત ૧ અને ૨:** *"T lives on an even floor in Flat A" અને "Only one floor between T and Q in the same flat."*
+   - બેકી માળ એટલે Floor 2 અથવા Floor 4.
+   - જો T માળ ૪ પર હોય &rarr; તો Q માળ ૨ પર આવે.
+   - જો T માળ ૨ પર હોય &rarr; તો Q માળ ૪ પર આવે.
+
+2. **શરત ૩ અને ૪ (The Master Elimination Key):**
+   - *"P lives to the east of Q" (Q અને P બંને એક જ માળ પર સાથે રહે છે: Q Flat A માં અને P Flat B માં).*
+   - *"R lives immediately above P in the same flat."*
+   - **યાદ રાખો:** જો Q માળ ૪ પર હોત, તો P પણ માળ ૪ પર હોત, પણ માળ ૪ ની ઉપર કોઈ માળ જ નથી જેથી R બેસી શકે!
+   - તેથી Q માળ ૪ પર ન આવી શકે $\implies$ **Q = Floor 2, Flat A** અને **T = Floor 4, Flat A**!
+   - તેનાથી આપોઆપ ફિક્સ થઈ ગયું:
+     - **P = Floor 2, Flat B** (Q ની પૂર્વમાં)
+     - **R = Floor 3, Flat B** (P ની બરાબર ઉપર)
+
+3. **શરત ૫:** *"S lives on an odd floor immediately below W in different flats."*
+   - માળ ૪ પર Flat B ખાલી છે, ત્યાં **W** આવશે.
+   - W (Flat B) ની બરાબર નીચે જુદા ફ્લેટ (Flat A) માં ત્રીજા માળે **S** આવશે $\implies$ **S = Floor 3, Flat A**!
+
+4. **શરત ૬:** *"U lives to the west of V."*
+   - પહેલા માળે બંને ખાના ખાલી છે:
+   - $\implies$ **U = Floor 1, Flat A** અને **V = Floor 1, Flat B**!
+
+---
+
+### 🏆 તૈયાર થયેલી ફાઇનલ ગોઠવણી (COMPLETED FLOOR & FLAT GRID):
+
+```
+ Floor │ Flat A (West - પશ્ચિમ) │ Flat B (East - પૂર્વ)
+───────┼────────────────────────┼───────────────────────
+   4   │           T            │           W
+   3   │           S            │           R
+   2   │           Q            │           P
+   1   │           U            │           V
+```
+
+---
+
+### ❓ QUESTION 1 ON THIS ARRANGEMENT:
+**Who among the following lives on Floor 3 in Flat A?**
+- **Options:** [A] T | [B] S | [C] R | [D] Q | [E] U
+
 
 
 
